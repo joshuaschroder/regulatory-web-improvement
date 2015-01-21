@@ -1,7 +1,9 @@
 <?php
-	$title= "Open Records - Food Service Establishments" ;
+
+    $title= "Open Records - Food Service Establishments" ;
 	include '../includes/header.html';
 	include '../includes/menus/foodest_menu.html';
+
 ?>
 
 <h2>The Public Information Act</h2>
