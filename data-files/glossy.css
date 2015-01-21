@@ -1,0 +1,62 @@
+		.glossymenu {
+			font-family: Trebuchet MS, Trebuchet, Tahoma, sans-serif;
+			color:#39598A;
+			font-size: 1.1em;
+			margin: 2px 0; /*Ektron:- Changed as per DSHS(11/4/09)*/
+			padding: 0;
+			border-bottom-width: 0;
+			width: 100%;
+			
+		}
+		.glossymenu a.menuitem {
+			background: #FFFFFF;
+			font-family: Trebuchet MS, Trebuchet, Tahoma, sans-serif;
+			color:#39598A;
+			display: block;
+			position: relative;  /*To help in the anchoring of the ".statusicon" icon image*/
+			/*padding: 2px 0;*/
+			padding: 2px 11px 0 0;
+			text-decoration: none;
+			border-bottom: 1px solid #EFEFEF;
+		}
+		
+		/*.glossymenu a.menuitem:visited, .glossymenu .menuitem:active {
+			color: white;
+		}*/
+		.glossymenu a.menuitem .statusicon { /*CSS for icon image that gets dynamically added to headers*/
+			position: absolute;
+			top: 5px;
+			right: 1px; /*Ektron:- Changed as per DSHS (11/4/09)*/
+			border: none;
+			
+		}
+		.glossymenu a.menuitem:hover {
+			background: white;
+			text-decoration:underline;
+		}
+		.glossymenu div.submenu {  /*DIV that contains each sub menu*/
+			background: white;
+			
+		}
+		.glossymenu div.submenu ul { /*UL of each sub menu*/
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		.glossymenu div.submenu ul li {
+			border-bottom: 1px solid #FFFFFF;
+			padding: 2px 2px;
+			background-color: #F5F5F5;
+		}
+		.glossymenu div.submenu ul li a {
+			font-family: Trebuchet MS, Trebuchet, Tahoma, sans-serif;
+			color:#39598A;
+			padding: 2px 0 0 2px;
+			text-decoration: none;
+			display: block;
+		}
+		.glossymenu div.submenu ul li a:hover {
+			/*background: #FFFFFF;
+			color:#39598A;*/
+			text-decoration:underline;
+		}

@@ -1,0 +1,212 @@
+﻿body 
+{
+	background:white;
+	font-size:12pt;
+}
+/** Header **/
+.container .span-24,
+.container .headerLinks
+{
+	display:none;
+}
+
+/** Footer **/
+#footer
+{
+	display :none;
+}
+
+/** BreadCrumbs**/
+/*.container .span-15,*/
+ul.breadcrumb 
+{
+	display:none;
+}
+
+/** Print **/
+.printoption
+{
+	display:none;
+}
+/** Top Navigation**/
+#globalNav
+{
+	display:none;
+}
+
+/** Left Navigation **/
+#primaryNav
+{
+	display:none;
+}
+.glossymenu
+{
+	display:none;
+}
+
+/** Right Column **/
+.container .span-8 
+{
+	/*width:0px;
+	display:none;*/
+	font-size:12px;
+}
+
+/** a tags **/
+a:link, a:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+	
+/** Health Topics Search **/
+.lbSearch,
+.txtSearch
+{
+	display:none;
+}
+
+/** Blogs Page, Forums Page, Display page, Groups page **/
+.container .Blogs_column_left 
+{
+	display:none;
+}
+div.blogSidebar 
+{
+	width:220px;
+	font-size: 12pt;
+}
+.container div.blogEntries
+{
+	width:400px;
+	font-size: 12pt;
+}
+.container .Blogs_column_center 
+{
+	width: auto; 
+	margin: 0 5%;
+	padding: 0; 
+	border: 0;
+	float: none !important;
+	color: black; 
+	background: transparent;
+
+}
+
+/** Content page **/
+.container .ContentPage_column_left
+{
+	display:none;
+}
+
+.container .ContentPage_column_right
+{
+	display:none;
+}
+
+.container .ContentPage_column_center
+{
+	width:auto;
+}
+
+/** Home page **/
+
+/**For A-Z index Search **/
+#search
+{
+	display:none;
+}
+/** Rotator Tabs **/
+.primaryMessaging 
+{
+	width:500px;
+	font-size: 12pt;
+}
+.container .span-20 .last, /* second and last column on Display page */
+.container .span-20 .rightMargin .content 
+{
+	width:950px;
+	font-size: 12pt;
+}
+/*table.content .ekContent
+{
+	font-size: 12pt;
+}*/
+.container .span-15 /* The Second column */
+{
+	width:800px;
+	font-size: 12pt;
+}
+.container .span-12 /*Middle column on Home page */
+{
+	width:570px;
+	font-size: 12pt;
+}
+
+
+.container .span-5 /* the first column */
+{
+	width:0px;
+	display:none;
+}
+/** Social bar**/
+.socialBar
+{
+	display:none;
+}
+/**Right Column **/
+.container .rightMargin.page
+{
+	display:none;
+}
+
+/** social bar **/
+.socialBarHome
+{
+	display:none;
+}
+.videoLinks .paginationstyle 
+{
+	display:none;
+}
+.primaryMessaging 
+{
+	position:absolute;
+}
+/* Hide MissionVision */
+.MissionVision
+{
+	display:none;
+}
+/*Hide contactus details*/
+.contactUs
+{
+	display:none;
+}
+/* Health Topics List*/
+.healthtopicslist,
+.calendarevents .mv_allmonth,
+#page_content_single_column,
+table.content .message p,
+table.content td,
+.ektronUser,
+.content,
+div.WidgetContainer
+{
+	 font-size:12pt;
+}
+
+
+
+/********************modified by Chakshu********************/
+
+/*****LitCat search results page*****/
+.login_master{display:none;}
+
+div#basicTerms{display:none;}
+
+div.Results .searchResultsHeader{display:none;}
+div.ektronProductSearch ul.searchNavigation{display:none;}
+.ektronProductSearch div.searchWrapper {border:0px !important;}
+.ektronProductSearch .searchresulttable .productsearchResult_imagecolumn, .ektronProductSearch .searchresulttable .productsearchResult_detailscolumn, .ektronProductSearch .searchresulttable td {border:0px !important;}

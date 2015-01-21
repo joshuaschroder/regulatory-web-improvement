@@ -1,0 +1,6 @@
+AddType application/x-httpd-php .shtm .shtml .html .htm .aspx
+
+#AuthType Basic
+#AuthName "Protected Area"
+#AuthUserFile /home/codio/.htpasswd
+#Require valid-user

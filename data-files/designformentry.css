@@ -1,0 +1,44 @@
+/* Copyright 2005-2007, Ektron, Inc. */
+
+/* design_list_* format choices field */
+ol.design_list_vertical {
+	list-style-type:none;
+	margin:2px;
+	padding-left:1px;
+	padding-right:3px;
+	visible:false;
+}
+ol.design_list_vertical li {
+	display:list-item;
+	visible:false;
+}
+ol.design_list_horizontal {
+	margin:2px;
+	padding-left:1px;
+	padding-right:3px;
+	visible:false;
+}
+ol.design_list_horizontal li {
+	display:inline;
+	visible:false;
+}
+select, textarea {
+	vertical-align:top;
+}
+span.design_validation_passed
+{
+	margin:2px;
+}
+span.design_validation_failed
+{
+	margin:0;
+	border: 2px dashed red;
+}
+span.design_validation_passed select
+{
+	background: #ffffff;
+}
+span.design_validation_failed select
+{
+	background: #ffeeee;
+}

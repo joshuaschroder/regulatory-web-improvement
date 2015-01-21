@@ -1,0 +1,657 @@
+div.EktronPersonalizationWrapper
+{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	z-index:9999;
+}
+
+div.EktronPersonalizationWrapper a {outline: none;}
+div.EktronPersonalizationWrapper a:focus {-moz-outline-style: none;}
+
+div.EktronPersonalizationWrapper .topmenu
+{
+	background-image:url(../images/ScorpiusTopMenu.gif);
+	background-color:#71a9d4;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#005695;
+	font-weight: bold;
+	font-size:12px;
+	align: absmiddle;
+	padding:10px 0px 4px 20px;
+	margin:0px 0px 0px 0px;
+}
+div.EktronPersonalizationWrapper .topmenuitem
+{
+	margin: 0px 1em 0 0;
+	padding: 0px 1em;
+	float:left;
+	border: solid 1px transparent;
+}
+
+div.EktronPersonalizationWrapper .topmenu .menuHover
+{
+	background-color: #5c8eb3;
+	color: #fff;
+	border-top: solid 1px #87b6d9;
+	border-left: solid 1px #87b6d9;
+	border-right: solid 1px #87b6d9;
+}
+
+div.EktronPersonalizationWrapper .topmenuitem ul
+{
+	z-index:99999;
+	position:absolute;
+}
+
+div.EktronPersonalizationWrapper .topmenutext_right
+{
+	margin:0px 10px 0px 10px;
+	float:right;
+	font-weight:normal;
+}
+div.EktronPersonalizationWrapper .topmenuitem_right
+{
+	margin:0px 25px 0px 7px;
+	float:right;
+}
+div.EktronPersonalizationWrapper .MenuToggle
+{
+	position:absolute;
+	left:100%;
+	top:0px;
+	width:12px;
+	height:30px;
+}
+
+div.EktronPersonalizationWrapper .MenuOpened
+{
+	position:absolute;
+	right:0px;
+	left:auto;
+}
+div.EktronPersonalizationWrapper .MenuToggle img
+{
+	border-width:0px;
+}
+
+div.EktronPersonalizationWrapper .topmenuitem_right:hover
+{
+	color:#fff;
+}
+
+/******************************** Menu Icons ************************************/
+ul.dropdown li a.valid, ul.dropdown li a.invalid
+{
+	display: inline-block;
+	padding-left: 24px;
+	background-repeat: no-repeat;
+} 
+#PBNew a {background-image: url('../images/icon_add.png');}
+#PBNew a.invalid {background-image: url('../images/icon_add_off.png');}
+#PBCopy a {background-image: url('../images/icon_saveas.png');}
+#PBCopy a.invalid {background-image: url('../images/icon_saveas_off.png');}
+#PBEdit a {background-image: url('../images/document_published.png');}
+#PBEdit a.invalid {background-image: url('../images/document_published_off.png');}
+#PBSave a, #PBSave a.invalid {background-image: url('../images/icon_save.png');}
+#PBCheckin a {background-image: url('../images/document_checkin.png');}
+#PBCheckin a.invalid {background-image: url('../images/document_checkin_off.png');}
+#PBPublish a {background-image: url('../images/document_published.png');}
+#PBPublish a.invalid {background-image: url('../images/document_published_off.png');}
+#PBCancel a {background-image: url('../images/icon_remove.png');}
+#PBCancel a.invalid {background-image: url('../images/icon_remove_off.png');}
+#PBProperties a, #PBPreview a {background-image: url('../images/document_published.png');}
+#PBProperties a.invalid, #PBPreview a.invalid {background-image: url('../images/document_published_off.png');}
+#PBWorkarea a {background-image: url('../images/toolbox.png');}
+
+
+div.EktronPersonalizationWrapper .searchbox_alignright
+{
+	margin:-5px 10px 0px 10px;
+	width:210px;
+	float:right;
+	background-image:url(../images/Searchboxbackground.png);
+	background-repeat:no-repeat;
+	background-position: 0px 0px;
+}
+div.EktronPersonalizationWrapper .searchbutton
+{
+	background:none;
+	border:none;
+	background-image:url(../images/SearchboxButton.png);
+	background-position:0px 2px;
+	background-repeat: no-repeat;
+	width:23px;
+	height:18px;
+	font-size:2px;
+	margin:0px 12px 0px 0px;
+}
+div.EktronPersonalizationWrapper .topmenuinputbox
+{
+	background:none;
+	border:none;
+	height:20px;
+	width:168px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	position: relative;
+	top: .25em;
+	left: .25em;
+}
+
+div.EktronPersonalizationWrapper .clear
+{
+	clear:both;
+	height:0px;
+}
+
+div.EktronPersonalizationWrapper div#widgetlistWrapper
+{
+	overflow:hidden;
+	border-top: solid 1px #5c8eb3;
+	border-bottom: solid 1px #5c8eb3;
+	border-left: solid 1px #87b6d9;
+	border-right: solid 1px #87b6d9;
+}
+	
+div.EktronPersonalizationWrapper a.scrollRight, div.EktronPersonalizationWrapper a.scrollLeft
+{
+	text-decoration:none;
+	font-size:xx-small;
+	margin-top:0px;
+	margin-left: -24px;
+	display: block;
+	float:left;
+	width:24px;
+	height:102px;
+	z-index:10;
+	background-repeat: no-repeat;
+	background-position: 4px 43px;
+	background-color: #5c8eb3;
+}
+
+div.EktronPersonalizationWrapper a.scrollRight
+{
+	background-image:url('../images/icon_arrow_back_off.png');
+}
+
+div.EktronPersonalizationWrapper a.scrollRight:hover
+{
+	background-image:url('../images/icon_arrow_back_on.png');
+}
+
+div.EktronPersonalizationWrapper a.scrollLeft
+{
+	position:absolute;
+	right:1px;
+	top: 31px;
+	margin-left: 0;
+	background-image:url('../images/icon_arrow_forward_off.png');
+}
+
+div.EktronPersonalizationWrapper a.scrollLeft:hover
+{
+	background-image:url('../images/icon_arrow_forward_on.png');
+}
+
+div.EktronPersonalizationWrapper .controldashboard
+{
+	height:100px;
+	/*background-image:url(../images/Control_Dashboard_Background.gif);*/
+	background-color: #d3e2f4;
+	border:1px solid #5c8eb3;
+	display:none;
+	overflow:hidden;
+	margin: 0 auto;
+	padding: 0px 24px;
+}
+div.EktronPersonalizationWrapper .controldashboardbottom
+{
+	/*background-image:url(../images/dashboardbottom.png);
+	background-repeat:repeat-x;
+	background-position: top left;
+	*/
+	background-color: #bed5eb;
+	z-index:10000;
+	height:5px;
+}
+div.EktronPersonalizationWrapper .pullchain
+{	
+	margin-top:-5px; 
+	text-align:center;
+	background-image:url(../images/pullchainbackground.png);
+	background-repeat:repeat-x;
+	background-position: 0px 0px;
+}
+div.EktronPersonalizationWrapper .pullchain img
+{	
+	border:solid 0px #fff;
+}
+div.EktronPersonalizationWrapper ul.dropdown
+{
+	display:none;
+	list-style:none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color:#fff;
+	background:#5c8eb3;
+	font-size:11px;
+	width:150px;
+	border-left: 1px solid #87b6d9;
+	border-right: 1px solid #87b6d9;
+	border-bottom: 1px solid #87b6d9;
+	margin:0px;
+	padding: .25em 0 0 0;
+}
+
+div.EktronPersonalizationWrapper ul.dropdownProps
+{
+	display:none;
+	list-style:none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color:#fff;
+	background:#5d8fb4;
+	font-size:11px;
+	width:300px;
+	border-left: 1px solid #87b6d9;
+	border-right: 1px solid #87b6d9;
+	border-bottom: 1px solid #87b6d9;
+	margin:0px;
+	padding: .25em 0 0 0;
+}
+
+div.EktronPersonalizationWrapper li.dropdown
+{
+	padding: 3px 4px 3px 8px;
+	/*border-bottom: 1px solid #87b6d9;*/
+}
+div.EktronPersonalizationWrapper ul.dropdown li.dropdown:hover
+{
+	background-image: url('../images/menuitem_hover_background.png');
+}
+div.EktronPersonalizationWrapper li.dropdown2
+{
+	padding: 3px 4px 3px 30px;
+	/*border-bottom:1px solid #2e2e2e;*/
+}
+div.EktronPersonalizationWrapper ul.dropdown li.dropdown2:hover
+{
+	background-image: url('../images/menuitem_hover_background.png');
+
+}
+div.EktronPersonalizationWrapper ul.dropdown a
+{
+	text-decoration: none;
+	font-size:12px;
+	color:#fff;
+	font-family:Arial, Helvetica, Sans-Serif;
+	display: block;
+}
+
+div.EktronPersonalizationWrapper ul.dropdown a.invalid
+{
+	text-decoration: none;
+	font-size:12px;
+	color:#87aecd;
+	font-family:Arial, Helvetica, Sans-Serif;
+}
+
+div.EktronPersonalizationWrapper li.dropdown:hover a.invalid, div.EktronPersonalizationWrapper li.dropdown2:hover a.invalid
+{
+	color: #878787;
+}
+
+div.EktronPersonalizationWrapper ul.dropdown img
+{
+	border-width: 0px;
+}
+
+div.EktronPersonalizationWrapper table#PBPropsTable span.label
+{
+	margin-right: 2em;
+}
+
+div.EktronPersonalizationWrapper ul.ektronPersonalizationWidgetList
+{
+	padding:0px;
+	list-style-type:none;	
+	margin: 0px;
+	height: 100px;
+}
+
+div.EktronPersonalizationWrapper ul.ektronPersonalizationWidgetList li, .ektronPBWidgetTokenDrag
+{
+	float:left;
+	background-image: url('../images/widget_background.png');
+	cursor: move;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin: 10px 5px;
+	overflow: hidden;
+	padding: 0;
+	width: 80px;
+	height: 80px;
+	text-align: center;
+}
+
+div.EktronPersonalizationWrapper ul.ektronPersonalizationWidgetList li img, .ektronPBWidgetTokenDrag img
+{
+	height: 48px;
+	margin: 5px auto;
+	width: 48px;
+}
+
+div.EktronPersonalizationWrapper ul.ektronPersonalizationWidgetList li span, .ektronPBWidgetTokenDrag span
+{
+	color: #5c8eb3;
+	display:block;
+	font-size:0.7em;
+	overflow:hidden;
+	text-align:center;
+	width:80px;
+	font-family:Arial,Helvetica,sans-serif;
+	letter-spacing: 1px; 
+}
+
+div.EktronPersonalizationWrapper ul.ektronPersonalizationWidgetList li.hover span, .ektronPBWidgetTokenDrag span
+{
+	color: #ff7900;
+}
+
+/******************************** Drop Zone ************************************/
+
+a.PBAddColumn
+{
+	display: inline-block; padding: .5em 1em .5em 2.25em; border: 1px solid silver; color: #8F8F8F; background-color: #eee; background-repeat: no-repeat; background-image: url('../images/add-column.png'); background-position: .5em .25em; font-size: 1em; margin: 0 0 .75em .75em;  line-height:100%; cursor: pointer; text-decoration: none;
+}
+
+a.PBAddColumn:hover {background-color:#E6EFC2; border:1px solid #C6D880; color:#529214;}
+
+body > div.setSize 
+{
+	font-family: Arial, Verdana, Sans-Serif;
+	font-size: 12px; 
+	display: none;
+	position: absolute;
+	background-color: #fff;
+	border: solid 1px #c9d3db;
+	width: 24.5em; 
+	padding: .2em .5em;
+	z-index: 9999;
+}
+
+body > div.setSize a
+{
+	font-size: .9em;
+}
+
+body > div.setSize .newwidth
+{
+	width: 5em;
+	margin-right: .25em
+}
+
+div.dropzone div.PBColumn ul.column
+{
+	min-height: 50px;
+	height: auto !important;
+	height: 10px;
+	
+	min-width: 50px;
+	width: auto !important;
+	width: 50px;
+	
+	border-left:1px solid #c9d3db; 
+	border-right:1px solid #c9d3db; 
+	border-bottom:1px solid #c9d3db; 
+	margin:0;
+	padding:0;
+	list-style-type: none;
+}
+
+div.PBColumn
+{
+	float:left;
+	margin: 0;
+	margin-bottom:0.75em;
+}
+
+/* For IE6's broken box model and 3px float problem */
+div.PBColumn
+{
+	*margin-right: -3px;
+}
+/* For IE7's percent width rounding problems */
+html>body div.PBColumn
+{
+	*margin-right: -1px;
+}
+
+div.dropzone ul.column div.widget
+{
+
+      *width: 99%;
+}
+
+div.dropzone div.PBColumn ul.highlight
+{
+	border: dashed 3px orange;
+}
+
+div.PBColumn ul.column li.header
+{
+	margin: 0;
+	padding: 0;
+	height: 19px;
+	overflow:hidden;
+}
+
+div.PBColumn ul.column li.header a
+{
+	text-decoration: none;
+}
+
+div.PBColumn ul.column li.header > span
+{
+	text-align:right;
+	display:block;
+	height: 19px;
+	background: #5c8eb3;
+}
+
+div.PBColumn li.header img
+{
+	border-width:0;
+}
+
+div.PBColumn ul.column > li
+{
+	margin: 0 0.75em 0.75em 0.75em;
+	padding-top: 0.75em;
+}
+
+div.PBUnsizable ul.column > li
+{
+	margin: 0;
+	padding-top: 0.75em;
+}
+
+div.PBColumn ul.column > li.DropArea
+{
+	background-image:url(../images/dropzonepattern.png);
+	border:2px solid #f7a11a;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:20px;
+}
+
+div.PBColumn ul.column > li.DropArea > span
+{
+	display: block;
+	margin:5px auto;
+	padding: 0 1em;
+	color: #ff7900;
+}
+
+div.PBColumn div.widget > div
+{
+	border-left: solid 3px #6f6f6f; 
+	border-right: solid 3px #6f6f6f; 
+	border-bottom: solid 3px #6f6f6f; 
+}
+
+div.PBColumn div.widget div.header
+{
+	background-color:#6f6f6f;
+	text-align:right;
+	cursor:move;
+	height:20px;
+}
+
+div.PBColumn div.widget div.header span
+{
+	float:left;
+	color: #CCC;
+	font-family:Arial,Helvetica,sans-serif;
+	margin-top: .25em;
+	position:absolute;
+	right:60px;
+	left:0px;
+	overflow:hidden;
+	text-align:left;
+	line-height:20px;
+	font-size: 12px;
+}
+
+div.PBColumn div.widget div.header img
+{
+	border-width:0px;
+	cursor:default;
+}
+
+div.PBColumn div.widget div.content
+{
+	margin:10px;
+}
+
+div.PBUnsizable div.widget div.content
+{
+	margin: 5px 0px 3px 0px;
+}
+
+div.PBColumn div.widget div.header div.buttons
+{
+	overflow:hidden;
+	position:relative;
+}
+
+div.PBColumn div.widget div.header div.buttons a
+{
+	line-height:20px;
+	padding-top: .25em;
+	text-decoration: none;
+}
+
+li.ui-sortable-helper
+{
+	list-style-type:none;
+}
+
+div.PBColumn div.ui-resizable-handle
+{
+	height:auto !important;
+	top:23px !important;
+}
+
+
+div.PBColumn img.PB-UI-icon
+{
+	width: 12px;
+	height: 12px;
+	vertical-align: middle;
+}
+
+/********************************* Viewing Mode *******************************/
+
+
+div.dropzone div.PBViewing ul.column
+{
+	border: solid 0px;
+	margin:0;
+	padding:0;
+	list-style-type: none;
+}
+
+div.PBViewing
+{
+	float:left;
+	margin:0;
+}
+/* For IE6's broken box model and 3px float problem */
+div.PBViewing
+{
+	*margin-right: -3px;
+}
+/* For IE7's percent width rounding problems */
+html>body div.PBViewing
+{
+	*margin-right: -1px;
+}
+
+div.PBViewing ul.column > li
+{
+	margin: 0;
+	padding-top:0;
+}
+
+div.PBViewing div.widget div.header
+{
+	display:none;
+}
+
+div.PBViewing div.widget div.content
+{
+	margin:0;
+}
+
+
+/********************************* Error Mode *******************************/
+
+div.PBDropzoneError
+{
+	width:100%;
+	height:2em;
+	line-height:2em;
+	display:block;
+	text-align:center;
+	background-color:#EF8424;
+	color:#fff;
+	border: solid 1px #7C7C7C;
+}
+
+/********************************* BlockUI *********************************/
+
+div.PBBlockUI
+{
+	width: 66px;
+	height: 66px;
+	background: transparent;
+	margin: -33px 0 0 -33px;
+	background-image: url('../images/loading.gif');
+	display: none;
+}
+
+/********************************* Clear Fix *******************************/
+
+.PBClear:after 
+{
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    font-size: 0;
+}

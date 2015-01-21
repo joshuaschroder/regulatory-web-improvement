@@ -1,0 +1,279 @@
+/* ----------------------------------------------------------------------------------------------------------------*/
+/* ---------->>> global settings needed for thickbox <<<-----------------------------------------------------------*/
+/* ----------------------------------------------------------------------------------------------------------------*/
+#Ekt_AjaxContent{padding: 0; margin: 0;}
+
+/* ----------------------------------------------------------------------------------------------------------------*/
+/* ---------->>> thickbox specific link and font settings <<<------------------------------------------------------*/
+/* ----------------------------------------------------------------------------------------------------------------*/
+#EkTB_secondLine {
+	font: 10px Arial, Helvetica, sans-serif;
+	color:#666666;
+}
+
+#EkTB_window a:link {color: #666666;}
+#EkTB_window a:visited {color: #666666;}
+#EkTB_window a:hover {color: #000;}
+#EkTB_window a:active {color: #666666;}
+#EkTB_window a:focus{color: #666666;}
+
+/* ----------------------------------------------------------------------------------------------------------------*/
+/* ---------->>> thickbox settings <<<-----------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------------------------------------------------*/
+#EkTB_overlay {
+	position: fixed;
+	z-index:100000;
+	top: 0px;
+	left: 0px;
+	height:100%;
+	width:100%;
+}
+
+.EkTB_overlayBG {
+	background-color:#000;
+	filter:alpha(opacity=75);
+	-moz-opacity: 0.75;
+	opacity: 0.75;
+}
+
+* html #EkTB_overlay { /* ie6 hack */
+     position: absolute;
+     height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+}
+
+#EkTB_window {
+	position: fixed;
+	background: #ffffff;
+	z-index: 100002;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #333;
+	display:none;
+	border: 4px solid #525252;
+	text-align:left;
+	top:50%;
+	left:50%;
+}
+
+* html #EkTB_window { /* ie6 hack */
+position: absolute;
+margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');
+}
+
+#EkTB_window img#EkTB_Image {
+	display:block;
+	margin: 15px 0 0 15px;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #666;
+	border-left: 1px solid #666;
+}
+
+#EkTB_caption{
+	height:25px;
+	padding:7px 30px 10px 25px;
+	float:left;
+}
+
+#EkTB_closeWindow{
+	height:25px;
+	padding:11px 25px 10px 0;
+	float:right;
+}
+
+
+#EkTB_closeAjaxWindow a 
+{
+	padding:7px 11px 8px 3px;
+	margin-bottom:1px;
+	text-align:right;
+	float:right;
+	position:absolute;
+	right:0.25em;
+	top:0.25em;
+	background-image:url(../images/application/close_red_sm.JPG);
+	display:block;
+	background-repeat:no-repeat;
+	
+}
+
+#EkTB_ajaxWindowTitle{
+	float:left;
+	padding:7px 0 5px 10px;
+	margin-bottom:1px;
+}
+
+#EkTB_title{
+	background-color:#e8e8e8;
+	height:27px;
+}
+
+#EkTB_ajaxContent{
+	clear:both;
+	padding:2px 15px 15px 15px;
+	overflow:auto;
+	text-align:left;
+	line-height:1.4em;
+}
+
+#EkTB_ajaxContent.EkTB_modal{
+	padding:0px;
+}
+
+#EkTB_ajaxContent p{
+	padding:5px 0px 5px 0px;
+}
+
+#EkTB_load{
+	position: fixed;
+	display:none;
+	height:13px;
+	width:208px;
+	z-index:100003;
+	top: 50%;
+	left: 50%;
+	margin: -6px 0 0 -104px; /* -height/2 0 0 -width/2 */
+}
+
+* html #EkTB_load { /* ie6 hack */
+position: absolute;
+margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');
+}
+
+#EkTB_HideSelect{
+	z-index:99000;
+	position:fixed;
+	top: 0;
+	left: 0;
+	background-color:#fff;
+	border:none;
+	filter:alpha(opacity=0);
+	-moz-opacity: 0;
+	opacity: 0;
+	height:100%;
+	width:100%;
+}
+
+* html #EkTB_HideSelect { /* ie6 hack */
+     position: absolute;
+     height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+}
+
+#EkTB_iframeContent{
+	clear:both;
+	border:none;
+	margin-bottom:-1px;
+	margin-top:1px;
+	_margin-bottom:1px;
+}
+.EkTB_dialog_header
+{	
+	background-color:#6699CC;
+	font-family:Verdana;
+	font-weight:bold;
+	font-variant:small-caps;
+	padding:3px;
+	border-bottom:solid 1px black;	
+	text-align: right;
+	margin-bottom:5px;
+}
+.EkTB_dialog_header span
+{	
+	float: left;
+	text-align: left;
+	display: block;
+}
+
+.EkTB_dialog
+{
+
+}
+.EkTB_dialog th
+{	
+	padding-right: 10px !important;
+}
+
+.EkWksChoice
+{
+	text-align:center;
+}
+.EkWksName
+{
+	
+}
+.EkWksShareFolders th
+{
+	padding-left: 5px !important;
+}
+
+.EkTB_Button
+{	
+	border: solid 1px black !important;
+}
+
+.EkTB_Button:hover {
+    border: 1px solid #f00 !important;
+    background: #6699CC !important;
+}
+
+.EkTB_dialog label {
+    /*display: block !important;*/
+    /*float: left !important;*/
+    margin: 2px 4px 2px 4px !important;
+}
+
+div.Ekt_AccordianMain { width: auto; }
+div.Ekt_AccordianMain,div.Ekt_AccordianItem { margin: 0; }
+div.Ekt_Accordian { background: #6699CC; font-size: 18px; padding: 5px; margin: 2px; }
+div.Ekt_Accordian a { color: #FFF; }
+div.Ekt_AccordianItem a { color: #000; }
+div.Ekt_AccordianItem { border:solid 1px black; margin:2px;}
+div.Ekt_AccordianItem ul { list-style: none; padding: 5px; }
+
+#EkTB_container-image {padding:0;margin:12px;border:1px solid silver;position: relative;} 
+
+#EkTB_container-image div.ekt_captionWrapper 
+{
+	position: absolute;
+	top: 0em;
+	left: 0em;
+	width: 100%;
+}
+
+#EkTB_container-image div.ekt_captionWrapper div.ekt_captionInnerWrapper {
+	padding: .25em;
+	margin: .25em;
+}
+
+#EkTB_container-image div.ekt_caption {
+	background-color: #fff;
+	border: 1px solid #999;
+	filter: alpha(opacity=75);
+	-moz-opacity: 0.75;
+	opacity: 0.75;
+	width: 100%;
+	margin: 0em;
+	padding: 0em;
+}
+
+#EkTB_container-image div.ekt_caption div.ekt_caption_text {
+	padding: .5em;
+	color: #333;
+}
+
+#EkTB_container-image a {
+	display: block;
+	float: right;
+	padding: .4em .5em;
+	margin: .35em;
+	color: #fff;
+	background-color: #333;
+	font-size: .87em;
+	text-decoration: none;
+	line-height: 1em;
+}
+
+#EkTB_container-image a:hover {color: #fff; background-color: #666;}
+
+#EkTB_container-foot {padding:0;margin:0;}
+
+.EkTB_overlayMacFFBGHack {background: url(../images/application/macFFBgHack.gif) repeat;}

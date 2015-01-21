@@ -1,0 +1,42 @@
+/* Styles here are available to editors in the DSHS CMS Workarea. 
+   This CSS is included in main.master and applies to every page on the site.  
+   Some other rules that apply to these styles are in dshs.css but they are excluded from this file so that they don't complicate the list of available styles 
+*/
+
+/* zebra table with even rows highlighted. ZebraTables.ascx has javascript that applies the style to the even rows */
+table.zebra
+{
+	border-collapse: collapse;
+}
+/* Table with Thin Gray Border inside and out */
+table.border
+{
+	border-collapse: collapse;
+}
+/* combinations of zebra, border and zebra with border */
+table.zebraBorder
+{
+	border-collapse: collapse;
+}
+
+/* a table that is used for layout not tabular data and should not show a caption */
+table.layout
+{
+	vertical-align: top;
+}
+/* Layout Table with Border */
+table.layoutBorder
+{
+	vertical-align: top;
+	border: 1px solid silver;
+}
+/* used in IE6 only to prevent large tables or images from clipping */
+/*.overflow
+{
+}*/
+
+/* left margin of 0.5em */
+.leftMarginIndent
+{
+	margin-left: 0.5em;
+}
