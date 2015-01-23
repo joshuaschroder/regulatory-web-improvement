@@ -7,7 +7,7 @@
 <hr/>
 <p>
 	<strong>Download these FAQs</strong><br/>
-	<a title="E23-13199 FAQs - Technical (Adobe Acrobat format, 166 KB)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589971981">Technical FAQs for Food Establishments (E23-13199)</a> <span class="small">(PDF, 166KB)</span>
+	<a title="E23-13199 FAQs - Technical (Adobe Acrobat format, 166 KB)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589971981">Technical FAQs for Food Establishments (E23-13199)</a> <span class="small">(PDF, 166KB)</span>
 </p>
 
 <hr />

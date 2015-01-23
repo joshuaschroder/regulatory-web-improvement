@@ -4,11 +4,13 @@
 	include '../../includes/menus/foodest_menu.html'; 
 ?>
 
-<p>Select the link below to view or download FAQs - cottage food production operations</p>
-<ul>
-	<li><a title="FAQs - cottage food production operations" href="http://www.dshs.state.tx.us/foodestablishments/pdf/CottageFoodFAQs11_-2013.pdf">FAQs - Cottage Food Production Operations</a> <span class="small">(PDF, 40KB)</span></li>
-</ul>
+<hr/>
+<p>
+	<strong>Download these FAQs</strong><br/>
+	<a title="E23-13199 FAQs - Technical (Adobe Acrobat format, 166 KB)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589982388">FAQs - Cottage Food Production Operations</a> <span class="small">(PDF, 40KB)</span>
+</p>
 <hr />
+
 <ul>
 	<li><a title="What is a cottage food production operation?" href="#1">What is a cottage food production operation?</a></li> 
 	<li><a title="Is a cottage food production operation a food service establishment? " href="#2">Is a cottage food production operation a food service establishment?</a></li>
