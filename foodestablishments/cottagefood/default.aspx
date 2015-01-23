@@ -4,7 +4,7 @@
     include '../../includes/menus/foodest_menu.html'; 
 ?>
 
-<p>During the 83rd Legislature, Regular Session 2013, the Texas Legislature enacted <a title="House Bill 970" href="http://www.capitol.state.tx.us/BillLookup/History.aspx?LegSess=83R&Bill=HB970">House Bill 970</a> that amends the <a title="Health and Safety Code (HSC), Chapter 437" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.437.htm">Health and Safety Code (HSC), Chapter 437</a>, by amending provisions for cottage food production operations. This law is effective September 1, 2013. </p>
+<p>During the 83rd Legislature, Regular Session 2013, the Texas Legislature enacted <a title="House Bill 970" href="http://www.legis.state.tx.us/tlodocs/83R/billtext/html/HB00970F.htm">House Bill 970</a> that amends the <a title="Health and Safety Code (HSC), Chapter 437" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.437.htm">Health and Safety Code (HSC), Chapter 437</a>, by amending provisions for cottage food production operations. This law is effective September 1, 2013. </p>
 
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about important changes to the cottage food production rules. This feature will serve as a tool to increase communication regarding new information added to the website.</p>

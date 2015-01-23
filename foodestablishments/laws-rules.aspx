@@ -7,8 +7,8 @@
 <h2>Texas Laws</h2>
 
 <ul>
-	<li><a href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.437.htm">Texas Health and Safety Code, Chapter 437 - Regulation of Food Service Establishments, Retail Food Stores, Mobile Food Units, and Roadside Food Vendors</a></li>
-	<li><a href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.438.htm">Texas Health and Safety Code, Chapter 438 - Public Health Measures Relating To Food</a></li>
+	<li><a title="Texas Health and Safety Code, Chapter 437 - Regulation of Food Service Establishments, Retail Food Stores, Mobile Food Units, and Roadside Food Vendors" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.437.htm">Texas Health and Safety Code, Chapter 437 - Regulation of Food Service Establishments, Retail Food Stores, Mobile Food Units, and Roadside Food Vendors</a></li>
+	<li><a title="Texas Health and Safety Code, Chapter 438 - Public Health Measures Relating To Food" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.438.htm">Texas Health and Safety Code, Chapter 438 - Public Health Measures Relating To Food</a></li>
 </ul>
 <hr/>
 
@@ -25,7 +25,8 @@
 
 <h2>Resources</h2>
 <ul>
-	<li><a title="2006 TFER Summary of Changes" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18690">2006 TFER Summary of Changes</a> <span class="small">(PDF, 142KB)</span></li>
+    <li><a title="HB 970 - Relating To Regulation Of Cottage Food Products And Cottage Food Production Operations" href="http://www.legis.state.tx.us/tlodocs/83R/billtext/html/HB00970F.htm">HB 970 - Relating To Regulation Of Cottage Food Products And Cottage Food Production Operations</a></li>    
+	<li><a title="2006 TFER Summary of Changes" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18690">2006 Food Establishment Rules Summary of Changes</a> <span class="small">(PDF, 142KB)</span></li>
 	<li><a title="Regulatory Clarifications for Food Establishment Rules" href="/foodestablishments/clarifications.aspx">Regulatory Clarifications for Food Establishment Rules</a></li>
 </ul>
 <hr/>
@@ -34,5 +35,3 @@
 
 
 <?php include '../includes/footer.html' ?>
-
-

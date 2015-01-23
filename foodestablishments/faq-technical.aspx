@@ -23,7 +23,7 @@
 </ul>
 <hr/>
 
-<h2 id="definitions">§229.162 Definitions</h2>
+<h2><a href="#" name="definitions" title="definitions" class="bookmark"></a>§229.162 Definitions</h2>
 
 <p>
 	<strong>Are all surfaces of reach-in working coolers considered food contact surfaces? </strong>§229.162 (38)
@@ -61,7 +61,7 @@
 <br /></strong>A check is an individual egg that has a broken shell or crack in the shell, but with its shell membranes intact and its contents do not leak. A dirty egg is an individual egg that has an unbroken shell with adhering dirt or foreign material, prominent stains, or moderate stains covering more than 1/32 of the shell surface if localized, or 1/16 of the shell surface is scattered. (3/27/07)</p>
 
 <hr/>
-<h2 id="management">§229.163 Management and Personnel</h2>
+<h2><a href="#" name="management" title="management" class="bookmark"></a>§229.163 Management and Personnel</h2>
 <p>
 	<strong>If a public health authority is notified by a clinic or physician that a food service worker has been diagnosed with Norovirus, hepatitis A virus, <em>Salmonella typhi</em>, <em>Shigella</em>, or shiga toxin-producing <em>Escherichia coli</em>, can the health authority reveal the person's identity to the food establishment owner or manager? What are the HIPPA restrictions, if any?</strong> §229.163(d)(2)(B)
 	<br />A public health authority can reveal the identity of a food service worker that has been diagnosed with Norovirus, hepatitis A virus, <em>Salmonella typhi</em>, <em>Shigella</em>, shiga toxin-producing <em>Escherichia coli</em> to the owner  or manager, so that the employee can be excluded from the food establishment. Department of State Health Services (DSHS) Food Establishments Group is not a HIPAA covered entity (45 CFR 160.103), so we can use and disclose the information to the employer, as authorized by our laws. Public health authorities are acting within the scope of their authority as regulatory and investigative agencies, and there are exceptions that authorize covered entities, such as a clinic or physician, to disclose Protected Health Information to DSHS or other health authorities for these reasons (45 CFR section 164.512). (2/13/04)(Revised 3/26/07)
@@ -74,7 +74,7 @@
 <p><strong>Is a twist top bottle of water or soda considered in violation of the closed beverage container requirement? </strong>§229.163(n)(2).
 <br />A food employee that is drinking from a twist top bottle would be in violation of Section 229.163(n)(2). The intent of the provision is to reduce the risk of a food employee’s hands by contact with an area where the individual’s mouth has touched.  According to the Food and Drug Administration, a bottle with a twist top does not meet the requirement. A container with a pop-up cap is considered to be a closed beverage container and meet the requirement because a person does not need to use their hands to open or close the bottle. (06/17/08)</p>
 <hr/>
-<h2 id="food">§229.164  Food</h2>
+<h2><a href="#" name="food" title="food" class="bookmark"></a>§229.164  Food</h2>
 <p>
 	<strong>Should expired dry foods, such as macaroni, cake mixes, etc., be marked as a violation of Item #10?</strong> §229.164(a)
 <br />The expiration dates on packaged dry foods are voluntarily provided by the manufacturers. Code dates are useful for rotating product to prevent insect infestations. Often quality characteristics such as changes in flavor, color, or consistency are the basis for code dating rather than safety concerns. Item #10 should not be marked for exceeding a voluntary expiration date unless the product is deemed unsafe, adulterated, or otherwise unfit for consumption. (4/11/03)</p>
@@ -211,7 +211,7 @@
 	<br />Retail food establishments that prepare meat and poultry products can sell products they prepare at a retail level only. These products can only be sold directly to the end point consumer. Mobile food establishments that purchase food products containing two percent (2%) or more cooked meat or poultry, or three percent (3%) or more raw meat or poultry will be held to the same requirements as a restaurant. Restaurants and other retail food establishments are required to buy and sell only meat and poultry products that have first been inspected and passed by the United States Department of Agriculture (USDA), the Texas Department of State Health Services (DSHS), Meat Safety (MSA) Unit, or an approved foreign country. Meat and poultry products purchased by the operator of a mobile food establishment must bear complete labeling including the USDA or MSA marks of inspection. Pre-assembled, closed-faced sandwiches are an exception to this rule, as these meat products are exempt from USDA or MSA inspection and are not required to bear the mark of inspection. If a retail establishment wants to make and sell closed-faced sandwiches, however, the retail establishment must use inspected meat components in those sandwiches. 
 <br /><br/>Mobile food establishments that are <strong>owned and operated</strong> by a licensed retail food establishment (restaurant) are viewed as part of the restaurant and operating as an “extension” of the restaurant’s retail food establishment license. Mobile food establishments <strong>owned and operated</strong> by a licensed commissary may also distribute these products on a retail level. (11/1/12)</p>
 <hr/>
-<h2 id="equipment">§229.165 Equipment, Utensils, and Linens </h2>
+<h2><a href="#" name="equipment" title="equipment" class="bookmark"></a>§229.165 Equipment, Utensils, and Linens </h2>
 <p>
 	<strong>Can a cedar wood plank be used as a cooking surface?</strong> §229.165(b)
 	<br />Yes, if the following criteria are met:
@@ -248,7 +248,7 @@
 <p><strong>What is an “irreversible registering temperature indicator”?</strong> §229.165(r)(2)
 <br />An "irreversible registering temperature indicator" is a temperature measuring device that shows or indicates the maximum or minimum (depending on whether the instrument is designed for hot or cold temperatures) temperature measured.  Examples of irreversible registering temperature indicators include hot and cold holding thermometers, hot and cold registering thermometers, and temperature indicating papers and tapes. A dish machine's internal thermometer may not be an irreversible registering thermometer; consult the manufacturer's instruction manual.  If it is not an irreversible registering thermometer, one would have to be provided. (6/10/08)</p>
 <hr/>
-<h2 id="water">§229.166 Water, Plumbing, and Waste</h2>
+<h2><a href="#" name="water" title="water" class="bookmark"></a>§229.166 Water, Plumbing, and Waste</h2>
 <p>
 	<strong>What is the required temperature for hot water at the handwash sink?</strong> §229.166(f)(2)(A)
 	<br />The minimum temperature for hot water at the handwashing facility (sink) is 100 degree Fahrenheit. (5/10/01)(Revised 3/26/07)
@@ -271,7 +271,7 @@
 </p>
 
 <hr/>
-<h2 id="physical">§229.167 Physical Facilities</h2>
+<h2><a href="#" name="physical" title="physical" class="bookmark"></a>§229.167 Physical Facilities</h2>
 <p>
 	<strong>Is one fly on the preparation table a violation?</strong> §229.167(p)(11)
 	<br />No, the investigator must evaluate whether there is a loss of control regarding the presence of insects. (5/10/01)
@@ -282,7 +282,7 @@
 <br />The investigator must evaluate whether insects are being controlled. Typically this requires evaluating whether the firm is routinely monitoring for pest activity and properly using traps or chemical control, if necessary. If live insects appear to be out of control, then Item #18 should be marked as a violation. If the pest control appears adequate and there is simply a failure to remove dead insects from the floor, it would be a non-critical violation. If dead insects are located on a food-contact surface, Item #25 should be marked as a violation. (4/11/03)</p>
 
 <hr/>
-<h2 id="poisonous">§229.168 Poisonous or Toxic Materials</h2>
+<h2><a href="#" name="poisonous" title="poisonous" class="bookmark"></a>§229.168 Poisonous or Toxic Materials</h2>
 <p>
 	<strong>What are the names of some approved sanitizer/detergents? §229.168(d)(1)(A)
 	<br /></strong>DSHS doe not currently maintain such a list.  A list of approved sanitizer can be found in 21 CFR178.1010 and also can be found on the Environmental Protection Agencies website: <a title="www.epa.gov" href="http://www.epa.gov/">www.epa.gov</a>.  Sanitizers are regulated as pesticides. (3/27/07)

@@ -17,7 +17,7 @@
 </ul>
 <hr/>
 
-<h2 id="retail">Retail Food Establishments and Food Stores</h2>
+<h2><a href="#" name="retail" title="retail" class="bookmark"></a>Retail Food Establishments and Food Stores</h2>
 <p>A <strong>retail food establishment</strong> is any place where food is prepared and intended for individual portion service. This includes the site at which individual portions are provided for consumption on or off the premises and regardless of whether there is a charge for the food.</p>
 <p>Bed &amp; breakfasts with more than 7 rooms, restaurants, bars, cafes, snack bars, hospitals that serve food to the general public, correctional facilities (jails) that contract with professional food management corporations for food preparation, and privately-owned correctional facilities are all considered to be retail food establishments.</p>
 <p>A <strong>retail food store</strong> is a food establishment or section of an establishment where food and food products are offered to the consumer and intended for off-premise consumption. This includes delicatessens that offer prepared food in bulk quantities only, grocery stores, markets, etc.</p>
@@ -52,7 +52,7 @@
 </table>
 <hr/>
 
-<h2 id="mobile">Mobile Food Units</h2>
+<h2><a href="#" name="mobile" title="mobile" class="bookmark"></a>Mobile Food Units</h2>
 <p>Mobile food units are defined as a vehicle-mounted mobile food establishment, designed to be readily moveable.</p>
 <p>An initial inspection must be performed after payment and prior to permit issuance.</p>
 
@@ -64,7 +64,7 @@
 <p>Fees for initial applications, renewals, and change of ownership are $258 per unit.</p>
 <hr/>
 
-<h2 id="roadside">Roadside Food Vendors</h2>
+<h2><a href="#" name="roadside" title="roadside" class="bookmark"></a>Roadside Food Vendors</h2>
 <p>
 	A roadside food vendor is a person who operates a mobile retail food store from a temporary location adjacent to a public roadway or highway. Food shall not be prepared or processed by a roadside food vendor. A roadside food vendor is classified as a mobile food establishment.<br/>
 	(Potentially hazardous foods shall not be prepared or processed by roadside food vendors.)
@@ -78,7 +78,7 @@
 <p>The fee for an initial application, renewal, or change of ownership is $258.</p>
 <hr/>
 
-<h2 id="school">School Food Establishments</h2>
+<h2><a href="#" name="school" title="school" class="bookmark"></a>School Food Establishments</h2>
 <p>A school food establishment is operated on a for-profit basis by a private contractor.</p>
 
 <h3>Licensing</h3>
@@ -88,7 +88,7 @@
 <p>The fee for an initial application, renewal, or change of ownership is $258.</p>
 <hr/>
 
-<h2 id="temp">Temporary Retail Food Establishments</h2>
+<h2><a href="#" name="temp" title="temp" class="bookmark"></a>Temporary Retail Food Establishments</h2>
 <p>A temporary food establishment is a food establishment that operates for a period of no more than 14 consecutive days in conjunction with a single event or celebration.</p>
 <p>The single event permit is valid for one individual food booth or unit at one specific event, and is valid for 14 consecutive days from the initial effective date. The multiple event permit is valid for one individual food booth or unit at multiple events for 2 years from the initial effective date, provided that each event does not exceed 14 consecutive days.</p>
 
@@ -101,7 +101,7 @@
 <p>Single event permits are $52, and the fee for a multiple event permit is $200.</p>
 
 <hr/>
-<h2 id="no-permit">Businesses Not Requiring Permits</h2>
+<h2><a href="#" name="no-permit" title="no-permit" class="bookmark"></a>Businesses Not Requiring Permits</h2>
 <ul>
 	<li>Day care facilities</li>
 	<li>Establishments that offers only pre-packaged foods that are not potentially hazardous</li>
@@ -113,7 +113,7 @@
 </ul>
 <hr/>
 
-<h2 id="exempt">Exemptions from Permitting</h2>
+<h2><a href="#" name="exempt" title="exempt" class="bookmark"></a>Exemptions from Permitting</h2>
 <p>Organizations may apply for an exemption from permitting if they are:</p>
 <ul>
 	<li>Licensed by the Texas Department of State Health Services as a food manufacturer AND paying a higher fee; or</li>

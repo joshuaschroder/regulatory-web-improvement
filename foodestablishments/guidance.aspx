@@ -11,7 +11,7 @@
 <li><a title="Emergency Guidance Documents" href="#emergency" data-ektron-url="#emergency">Emergency Guidance Documents</a></li>
 </ul>
 <hr />
-<h2 id="reg">Regulatory Clarifications</h2>
+<h2><a href="#" name="reg" title="reg" class="bookmark"></a>Regulatory Clarifications</h2>
 <p data-ektron-preserve="true">These Regulatory Clarifications preempt any previous clarification/guidance/policy letters on this subject and remain in effect until superceded in writing by the Food Establishments Group. Attributed use or reproduction of this information is freely granted.</p>
 <ul>
 <li><a title="PSRFSGRC - NO. 2: Mobile Shrimp Vendors" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992755" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992755">PSRFSGRC - NO. 2: Mobile Shrimp Vendors</a> <br /><span class="small">(Pub# E23-13188, PDF 162KB)</span></li>
@@ -29,7 +29,7 @@
 <li><a title="FEGRC - No. 15: Requirements for Service (Mop) Sinks " href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589959854" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589959854">FEGRC - No. 15: Requirements for Service (Mop) Sinks </a> <br /><span class="small">(PDF 112KB)</span></li>
 </ul>
 <hr />
-<h2 id="Guide">Guidance Documents</h2>
+<h2><a href="#" name="Guide" title="Guide" class="bookmark"></a>Guidance Documents</h2>
 <ul>
 <li><a title="Cooling of Cooked Potentially Hazardous Foods" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=54958" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=54958">Cooling of Cooked Potentially Hazardous Foods</a> <br /><span class="small">(Pub #F23-13356, PDF 76KB)</span></li>
 <li><a title="General Marking Instructions" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18729" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18729">Food Establishment Inspection Sheet 2006 - General Marking Instructions</a> <br /><span class="small">(Pub # - E23-13283, PDF 76KB) </span></li>
@@ -46,7 +46,7 @@
 <li><a title="Food Employee Reporting Sign -  Spanish" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=52055" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=52055"> Food Employee Reporting Sign -  Spanish </a> <br /><span class="small">(PDF 120KB)</span></li>
 </ul>
 <hr />
-<h2 id="emergency">Emergency Guidance Documents</h2>
+<h2><a href="#" name="emergency" title="emergency" class="bookmark"></a>Emergency Guidance Documents</h2>
 <ul>
 <li><a title="Reopening a Retail Food Establishment After an Emergency" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18749" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18749">Reopening a Retail Food Establishment After an Emergency</a> <br /><span class="small">(PDF 46KB)</span></li>
 <li><a title="Guidance for Retail Food Establishments Under a Boil Order" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18697" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18697">Guidance for Retail Food Establishments Under a Boil Order</a> <br /><span class="small">(PDF 44KB)</span></li>
