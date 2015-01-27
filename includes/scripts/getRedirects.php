@@ -9,11 +9,11 @@
 </head>
 <body>
     
-    <p>This script takes a list of redirects</p>
+    <p>This script takes a list of URLs for PDF documents and outputs the dynamic redirects and file sizes.</p>
     <table>
         <tr>
-            <th>URL</th>
-            <th>Redirect</th>
+            <th>Dynamic URL</th>            
+            <th>Friendly URL</th>
             <th>Size</th>
         </tr>
 
@@ -74,7 +74,7 @@ foreach($urls as $url) {
         }   
     }   
     $ret = round(remote_filesize($url)/1000) . " KB";
-    echo "<td><a href=\"$url\">$url</a></td><td></td><td>$ret</td>";
+    echo "<td></td><td><a href=\"$url\">$url</a></td><td>$ret</td>";
     echo "</tr>";
     
 }
