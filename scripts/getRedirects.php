@@ -3,6 +3,7 @@
 <head>
     <title></title>
     <style>
+        body {font-family:Arial; font-size:12px;}
         td {padding:10px;}
         tbody tr:nth-child(odd) {background-color: #ddd;}
     </style>
