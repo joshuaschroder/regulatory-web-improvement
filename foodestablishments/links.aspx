@@ -6,7 +6,6 @@
 
 <p><a title="Center for Food Safety &amp;amp; Applied Nutrition (CFSAN) " href="http://www.fda.gov/aboutfda/centersoffices/officeoffoods/cfsan/default.htm">Center for Food Safety &amp; Applied Nutrition (CFSAN) </a></p>
 <p><a title="Centers for Disease Control and Prevention" href="http://www.cdc.gov/">Centers for Disease Control and Prevention</a></p>
-<p><a title="Centers for Disease Control and Prevention" href="http://www.cdc.gov/">Centers for Disease Control and Prevention</a></p>
 <p><a title="Conference for Food Protection" href="http://www.foodprotect.org/">Conference for Food Protection</a></p>
 <p><a title="FDA Food Code " href="http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/FoodCode/default.htm">FDA Food Code </a></p>
 <p><a title="FDA Report on the Occurrence of Foodborne Illness Risk Factors in Selected Institutional Foodservice, Restaurant" href="http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/FoodborneIllnessRiskFactorReduction/ucm224321.htm">FDA Report on the Occurrence of Foodborne Illness Risk Factors in Selected Institutional Foodservice, Restaurant</a></p>

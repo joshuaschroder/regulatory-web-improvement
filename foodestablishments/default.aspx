@@ -18,6 +18,11 @@
 </ul>
 <p>See the <a title="licensing requirements" href="/foodestablishments/licensing.aspx">licensing requirements</a> page for descriptions of each establishment type, as well as an overview of licensing options and associated fees.</p>
 
+<h2>Email Updates</h2>
+<p>Sign up to receive email updates about important changes to the Food Establishment Program. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
+<p><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXX"><img title="Sign up for e-mail updates" border="0" alt="Sign up for e-mail updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif" /></a></p>
+<br/>
+
 <h2>Program Contact Information</h2>
 <p>
 	<strong>Phone: </strong>(512) 834-6753<br/>

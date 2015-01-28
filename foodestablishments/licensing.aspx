@@ -95,7 +95,7 @@
 <h3>Licensing</h3>
 <p><em>Applications must be received by the Department at least 30 days prior to the event.</em></p>
 <p>Single event permits may be obtained using the <a title="online licensing system" href="https://vo.ras.dshs.state.tx.us/">online licensing system</a> or by completing and returning the <a title="Temporary Food Establishment Permit Application" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&amp;ItemID=8589982036">Temporary Food Establishment Single Event Permit Application</a> <span class="small">(PDF, 86KB)</span>.</p>
-<p>Multiple event permits applications must be submitted using the <a title="Temporary Food Establishment Multiple Event Permit Application" href="">Temporary Food Establishment Multiple Event Permit Application</a> <span class="small">(PDF, 85KB)</span>.</p>
+<p>Multiple event permits applications must be submitted using the <a title="Temporary Food Establishment Multiple Event Permit Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589982035">Temporary Food Establishment Multiple Event Permit Application</a> <span class="small">(PDF, 85KB)</span>.</p>
 
 <h3>Fees</h3>
 <p>Single event permits are $52, and the fee for a multiple event permit is $200.</p>
@@ -103,14 +103,15 @@
 <hr/>
 <h2><a href="#" name="no-permit" title="no-permit" class="bookmark"></a>Businesses Not Requiring Permits</h2>
 <ul>
-	<li>Day care facilities</li>
+	<li>Day care facilities *</li>
 	<li>Establishments that offers only pre-packaged foods that are not potentially hazardous</li>
 	<li>Produce stands that only offers whole, uncut fresh fruits and vegetables</li>
 	<li>Food processing plants</li>
 	<li>A Bed and Breakfast limited facility</li>
 	<li>A private home that receives catered or home-delivered food</li>	
-	<li>A <a title="cottage food production operations" href="/foodestablishments/cottage-foods.aspx">kitchen in a private home</a> is not considered a food establishment <strong><em>if</em></strong> only food that is not potentially hazardous is prepared for sale or service at a function such as a religious or charitable organization's bake sale (if allowed by law)</li>
+	<li>A <a title="cottage food production operations" href="/foodestablishments/cottagefood/">kitchen in a private home</a> is not considered a food establishment <strong><em>if</em></strong> only food that is not potentially hazardous is prepared for sale or service at a function such as a religious or charitable organization's bake sale (if allowed by law)</li>
 </ul>
+<p><em>* As of  April 1, 2010 Texas Department of State Health Services is no longer licensing day care facilities as food establishments. For further information please call 512-834-6626. </em></p>
 <hr/>
 
 <h2><a href="#" name="exempt" title="exempt" class="bookmark"></a>Exemptions from Permitting</h2>
