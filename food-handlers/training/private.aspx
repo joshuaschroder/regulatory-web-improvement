@@ -1,7 +1,7 @@
 <?php
 	$title= "Accredited Private Food Handler Training Programs" ;
-	include '../includes/header.html';
-	include '../includes/menus/no_menu.html'; 
+	include '../../includes/header.html';
+	include '../../includes/menus/no_menu.html'; 
 ?>
 
 <hr/>
@@ -165,4 +165,4 @@ This list is provided for Food Handler Program <em>license verification only.</e
 		</tr>
 	</tbody>	
 </table>
-<?php include '../includes/footer.html' ?>	
+<?php include '../../includes/footer.html' ?>	
