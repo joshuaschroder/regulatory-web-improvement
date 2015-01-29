@@ -8,7 +8,9 @@
 <hr/>
 
 <h2>Obtaining a Food Manager Certification</h2>
-<p>The food manager certification is obtained by passing a DSHS approved certified food manager examination. The food manager certification examination may be taken at any licensed program or test site. You will find the listing of accredited training programs, licensed test sites, and internet testing on our CFM website.</p>
+
+<p>The food manager certification is obtained by passing a Department of State Health Services (DSHS) approved certified food manager certification examination. The food  examination may be taken at any licensed training program, test site, online exam, or national exam provider. Certification is valid for five years.</p>
+
 <p>County health departments, public health districts, and city health departments must accept certificates issued for passing any DSHS approved examination as meeting the training and testing requirements of the Texas Health and Safety Code, Chapter 438.</p>
 <p>A fee may be charged by a local health jurisdiction for a certificate issued to a certified food manager that has obtained an official certificate. This was authorized under Texas Health and Safety Code §438.046.</p>
 
