@@ -1,11 +1,11 @@
 <?php
-	$title= "Enforcement Actions - Food Service Establishments" ;
+	$title= "Enforcement Actions - Certified Food Manager Programs" ;
 	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+    include '../includes/menus/foodman_menu.html'; 
 ?>
 
 <table class="zebraBorder" summary="Listed in alphabetical order by DBA ">
-		<caption>Food Establishments Group 07/14-07/14 Disciplinary Actions</caption>
+		<caption>Certified Food Manager Programs 07/14-07/14 Disciplinary Actions</caption>
 		<thead>
 			<tr>
 				<th id="table_heading_0">Name</th>
@@ -17,50 +17,6 @@
 			</tr>
 		</thead>
 	<tbody>
-	<tr>
-		<td headers="table_heading_0">
-			Sai Om Inc., <br/>
-			DBA  Best Western
-		</td>
-		<td headers="table_heading_1">
-			1005727
-		</td>
-		<td headers="table_heading_2">
-			Rockdale, TX
-		</td>
-		<td headers="table_heading_3">
-			25 TAC 229.165(g)(2)(A)
-		</td>
-		<td headers="table_heading_4">
-			Admin. Penalty of $2,500.00 <br/>
-			Respondent shall pay $250.00
-		</td>
-		<td headers="table_heading_5">
-			03/31/2014
-		</td>
-	</tr>
-	<tr>
-		<td headers="table_heading_0">
-			Kathleen Billig<br/>
-			DBA  Dime Box Meat Market
-		</td>
-		<td headers="table_heading_1">
-			0054511
-		</td>
-		<td headers="table_heading_2">
-			Dime Box, TX
-		</td>
-		<td headers="table_heading_3">
-			25 TAC 229.164(p)(1)(B)&amp;(2)
-		</td>
-		<td headers="table_heading_4">
-			Admin. Penalty of $875.00, <br/>
-			Respondent agrees to pay $400.00
-		</td>
-		<td headers="table_heading_5">
-			09/13/2013
-		</td>
-	</tr>
 	<tr>
 		<td headers="table_heading_0">
 			Yolanda Mendez <br/>
@@ -81,29 +37,6 @@
 		</td>
 		<td headers="table_heading_5">
 			05/07/2014
-		</td>
-	</tr>
-	<tr>
-		<td headers="table_heading_0">
-			Shamsher Gill,<br/>
-			DBA  Gill Shop N Go
-		</td>
-		<td headers="table_heading_1">
-			0023314
-		</td>
-		<td headers="table_heading_2">
-			Rockdale, TX
-		</td>
-		<td headers="table_heading_3">
-			25 TAC 229.166(g)(3)<br/>
-			25 TAC 229.166I(2)
-		</td>
-		<td headers="table_heading_4">
-			Admin. Penalty of $875.00 <br/>
-			Respondent shall pay $100.00,
-		</td>
-		<td headers="table_heading_5">
-			06/24/2014
 		</td>
 	</tr>
 	<tr>
