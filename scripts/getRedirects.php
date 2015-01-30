@@ -23,7 +23,6 @@
 
 $urls = file('input.txt', FILE_IGNORE_NEW_LINES);
 
-
 function remote_filesize($url) {
 
     
