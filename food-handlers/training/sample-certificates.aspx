@@ -1,7 +1,7 @@
 <?php
 $title= "Sample Certificates - Food Handler Certification" ;
-include '../includes/header.html';
-include '../includes/menus/foodhand_menu.html'; 
+include '../../includes/header.html';
+include '../../includes/menus/foodhand_menu.html'; 
 ?>
 
 <h2>Accredited Food Handler Training Programs "Sample Certificates"</h2>
@@ -116,4 +116,4 @@ include '../includes/menus/foodhand_menu.html';
 <p><a title="Zepol Dietary Consults" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987732">Zepol Dietary Consults</a> Effective April 1, 2014 <span class="small">(PDF 401KB)</span> </p>
 <p><a title="Zepol Dietary Consults" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589934912">Zepol Dietary Consults</a> Prior to April 1, 2014   <span class="small">(PDF, 106KB)</span></p>
 
-<?php include '../includes/footer.html' ?>
+<?php include '../../includes/footer.html' ?>

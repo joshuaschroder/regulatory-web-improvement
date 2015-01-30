@@ -1,5 +1,5 @@
 <?php
-	$title= "Model Orders and Ordinances - Food Service Establishments" ;
+	$title= "Model Orders and Ordinances - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>

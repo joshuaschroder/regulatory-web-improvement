@@ -74,7 +74,7 @@
 <hr/>
 
 <h2>Additional Resources</h2>
-<p><a href="/policy/openrecords.shtm" target="_blank">The Texas Department of State Health Services, Internal Open Records Policy </a></p>
+<p><a href="http://www.dshs.state.tx.us/policy/openrecords.shtm" target="_blank">The Texas Department of State Health Services, Internal Open Records Policy </a></p>
 <p><a href="http://www.oag.state.tx.us/opinopen/opengovt.shtml" target="_blank">The Office of Attorney General of Texas </a></p>
 
 

@@ -1,5 +1,5 @@
 <?php
-	$title= "Licensing Information - Food Service Establishments" ;
+	$title= "Licensing Information - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>

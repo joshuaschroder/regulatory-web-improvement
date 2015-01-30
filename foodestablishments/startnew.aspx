@@ -50,11 +50,11 @@
 	</li>
 </ul>
 
-<p>DSHS permit applicants must acknowledge that they have “read and understood Chapter 	437 of the Health &amp; Safety Code, the applicable provisions of 25 TAC, Chapter 229 (The Texas Food Establishment Rules)(TFER), and agree to abide by them”.</p>
+<p>DSHS permit applicants must acknowledge that they have “read and understood Chapter 437 of the Health &amp; Safety Code, the applicable provisions of 25 TAC, Chapter 229 (The Texas Food Establishment Rules)(TFER), and agree to abide by them”.</p>
 <hr/>
 
 <h2><a href="#" name="food-manager" title="food-manager" class="bookmark"></a>Obtaining a Certified Food Manager's Certificate</h2>
-<p>All food service establishments, under the jurisdiction of the DSHS, with some exemptions, shall employ a Certified Food Manager. Additional information is available at http:/www.dshs.state.tx.us/foodestablishments/cfm.shtm.</p> 
+<p>All food service establishments, under the jurisdiction of the DSHS, with some exemptions, shall employ a Certified Food Manager. Additional information on obtaining a food manger certificate is available on the <a title="Food Manager Program website" href="/food-managers/certification.aspx">Requirements for Individuals Seeking Food Manager Certification</a> page.</p> 
 <p>Exemptions include:</p>
 <ul>
 	<li> Non-profit organizations</li>
@@ -112,7 +112,7 @@
 <hr/>
 
 <h2><a href="#" name="rules" title="rules" class="bookmark"></a>Texas Food Establishment Rules (TFER)</h2>
-<p>Refer to the TFER on the <a title="Laws and Rules page" href="/foodestablishments/laws-rules.aspx">Laws and Rules page</a> for detailed information regarding these and other requirements. </p>
+<p>Refer to the TFER on the <a title="Food Establishment Laws and Rules page" href="/foodestablishments/laws-rules.aspx">Food Establishment Laws and Rules page</a> for detailed information regarding these and other requirements. </p>
 <p>You can also contact the Food Establishments Group at (512) 834-6753 for additional guidance.</p>
 <hr/>
 

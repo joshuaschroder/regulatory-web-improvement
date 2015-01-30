@@ -1,6 +1,6 @@
 
 <?php
-	$title= "Inspection Officer Standardization - Food Service Establishments" ;
+	$title= "Inspection Officer Standardization - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>

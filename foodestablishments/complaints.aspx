@@ -1,5 +1,5 @@
 <?php
-	$title= "How to File a Complaint - Food Service Establishments" ;
+	$title= "How to File a Complaint - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>

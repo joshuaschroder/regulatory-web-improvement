@@ -1,5 +1,5 @@
 <?php
-	$title= "Draft and Proposed Rules - Food Service Establishments" ;
+	$title= "Draft and Proposed Rules - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>

@@ -1,5 +1,5 @@
 <?php
-	$title= "Enforcement Actions - Food Service Establishments" ;
+	$title= "Enforcement Actions - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>

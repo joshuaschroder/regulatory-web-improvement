@@ -1,5 +1,5 @@
 <?php
-	$title= "Statutes and Laws - Food Service Establishments" ;
+	$title= "Statutes and Laws - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>
@@ -25,9 +25,11 @@
 
 <h2>Resources</h2>
 <ul>
-    <li><a title="HB 970 - Relating To Regulation Of Cottage Food Products And Cottage Food Production Operations" href="http://www.legis.state.tx.us/tlodocs/83R/billtext/html/HB00970F.htm">HB 970 - Relating To Regulation Of Cottage Food Products And Cottage Food Production Operations</a></li>    
-	<li><a title="2006 TFER Summary of Changes" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18690">2006 Food Establishment Rules Summary of Changes</a> <span class="small">(PDF, 142KB)</span></li>
+    
+	<li><a title="Food Establishment Rules - Summary of Changes (2006)" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18690">Food Establishment Rules - Summary of Changes (2006)</a> <span class="small">(PDF, 142KB)</span></li>
 	<li><a title="Regulatory Clarifications for Food Establishment Rules" href="/foodestablishments/clarifications.aspx">Regulatory Clarifications for Food Establishment Rules</a></li>
+    <li><a title="FAQs on Texas Food Establishment Rules" href="/foodestablishments/faq-technical.aspx">FAQs on Texas Food Establishment Rules</a></li>    
+    <li><a title="HB 970 - Relating To Regulation Of Cottage Food Products And Cottage Food Production Operations" href="http://www.legis.state.tx.us/tlodocs/83R/billtext/html/HB00970F.htm">HB 970 - Relating To Regulation Of Cottage Food Products And Cottage Food Production Operations</a></li>    
 </ul>
 <hr/>
 

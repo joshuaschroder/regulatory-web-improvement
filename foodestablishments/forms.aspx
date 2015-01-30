@@ -1,5 +1,5 @@
 <?php
-	$title= "Applications and Forms - Food Service Establishments" ;
+	$title= "Applications and Forms - Retail Food Service Establishments" ;
 	include '../includes/header.html';
     include '../includes/menus/foodest_menu.html'; 
 ?>
