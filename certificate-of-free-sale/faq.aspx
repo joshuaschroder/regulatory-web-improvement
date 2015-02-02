@@ -1,5 +1,5 @@
 <?php 
-    $title= "Freqently Asked Questions - Certificates of Free Sale" ; 
+    $title= "Freqently Asked Questions - Certificates of Free Sale and Certificates of Origin" ; 
     include '../includes/header.html'; 
     include '../includes/menus/cfs_menu.html'; 
 ?>
@@ -8,7 +8,7 @@
 <p>No later than 15 business days of receipt of a completed application, the department shall issue a certificate, deny a certificate, schedule an inspection, and/or request supplemental information. Time frames are suspended any time applicant is requested to submit additional information. </p>
 <p>Manufacturers, distributors and wholesalers of cosmetics only are not required to license with DSHS; however, they are required to have a current compliant inspection. If your company requires an inspection and/or product label review, it can take up to 30 business days to process an application.</p>
 <p>If you need a license, please contact the Regulatory Licensing Unit at 512 834-6626. </p>
-<p>If you need a certificate application follow this link to <a title="Certificate of Freesale and/or Certificate of Origin" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=35261#Free">Certificate of Freesale and/or Certificate of Origin</a>. There is not an option to apply online.</p>
+<p>If you need a certificate application follow this link to <a title="Certificate of Freesale and/or Certificate of Origin" href="/certificate-of-free-sale/forms.aspx">Certificate of Freesale and/or Certificate of Origin</a>. There is not an option to apply online.</p>
 <p><strong>2. Can I send my application by an overnight courier service such as Federal Express to the physical address instead of the P.O. Box address listed on the application to speed up the process?</strong></p>
 <p>Sending an application to the physical address of DSHS will actually delay receipt of your application. You can send your application to the physical address of the DSHS Main Campus at 1100 W. 49th Street, Austin, Texas 78756; however, applications received at the Main Campus location must be processed through several channels before they are sent to the staff person who actually processes them. Applications are processed in the Regulatory Licensing Unit, which is located off-site from the Main Campus, and does not accept monies for fees or any type of regular mail. Therefore, the fastest way for your application to reach the Regulatory Licensing Unit is to send it to the P.O. Box address, since this address has been established at the Comptroller of Public Accounts office and is specifically for receipt of applications for Certificates of Free Sale and/or Certificates of Origin. You can send an application to the P.O. Box address via Express Mail (which is overnight delivery) at any U.S. Post Office. Overnight courier services do not deliver to a P.O. Box.</p>
 <p><strong>3. Is there any other option other than mailing my application to speed up the process? Can I fax my application?</strong></p>
@@ -23,8 +23,9 @@
 <p>On Page 2 of the Application Form, there is a Fee Schedule to help you calculate your fees based on the number products you want to list and the number of certificates you are requesting. The first original of each Certificate of Free Sale and/or Certificate of Origin has a fee based on the amount of products you wish to list. You only pay for the number of products once. Each additional identical certificate is about 10% of the base fee. </p>
 <p>For example, if your first original lists 110 products, the cost of the original certificate would be $60.00 and each additional identical certificate would cost $6.00. </p>
 <p>Another example is if you are requesting one original Certificate of Free Sale and one original Certificate of Origin with one product on each certificate, and you needed one additional original of each certificate, you would calculate your fees as follows:</p>
-<p><u>   2  </u>  original certificates x $50.00 (this is the first Certificate of Free Sale, and the first Certificate of Origin with 1 product listed on each) = $100.00<br /><u>   2  </u>  additional certificates x $5.00 per certificate (your certificates have 1 product listed) = $10.00<br />TOTAL = $110.00</p>
-<p>$  100.00<br /><u>+    10.00<br /></u>$  110.00</p>
+<p>Two (2) original certificates x $50.00 (this is the first Certificate of Free Sale, and the first Certificate of Origin with 1 product listed on each) = $100.00</p>
+<p>Two (2) additional certificates x $5.00 per certificate (your certificates have 1 product listed) = $10.00<br />TOTAL = $110.00</p>
+<p>$100.00 + 10.00 = $110.00</p>
 <p><em>Please see below for the entire fee schedule:</em></p>
 <p>$50 for 1 - 50 products per original certificate; $5 for each additional identical certificate</p>
 <p>$60 for 51 - 200 products per original certificate; $6 for each additional identical certificate </p>
@@ -32,7 +33,7 @@
 <p>$100 for 501 - 1000 products per original certificate; $10 for each additional identical certificate </p>
 <p>$150 for 1001+ products per original certificate; $15 for each additional identical certificate</p>
 <p><strong>8. Can I mix food and non-food products on one certificate?</strong></p>
-<p>We cannot list food and non-food products on one certificate. Food products are approved by the <a title="Foods Group" href="http://www.dshs.state.tx.us/foods">Foods Group</a> of DSHS, and the non-food products (i.e., drugs, cosmetics, and medical devices) are approved by the <a title="Drugs and Medical Devices Group" href="http://www.dshs.state.tx.us/dmd">Drugs and Medical Devices Group</a> of DSHS. You must submit a separate application for the food and non-food products with separate product lists for each food and non-food product. </p>
+<p>We cannot list food and non-food products on one certificate. Food products are approved by the <a title="Foods Group" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=35291">Foods Group</a> of DSHS, and the non-food products (i.e., drugs, cosmetics, and medical devices) are approved by the <a title="Drugs and Medical Devices Group" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=3848">Drugs and Medical Devices Group</a> of DSHS. You must submit a separate application for the food and non-food products with separate product lists for each food and non-food product. </p>
 <p><strong>9. How long does it take to get an inspection scheduled?</strong></p>
 <p>Once an application is received by Regulatory Licensing Unit, DSHS has 30 business days from the date the application is received to schedule and complete an inspection. The inspections are scheduled by the appropriate group of DSHS that will be conducting the inspection. Once the inspection has been completed and the company is in compliance with applicable laws, rules, and regulations, the appropriate group notifies the appropriate staff in the Regulatory Licensing Unit and the application is processed.</p>
 <p><strong>10. How are certificates sent to the requestor after they are prepared?</strong></p>

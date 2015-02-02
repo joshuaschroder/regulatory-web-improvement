@@ -1,5 +1,5 @@
 <?php 
-    $title= "Certificates of Free Sale" ; 
+    $title= "Certificates of Free Sale and Certificates of Origin" ; 
     include '../includes/header.html'; 
     include '../includes/menus/cfs_menu.html'; 
 ?>

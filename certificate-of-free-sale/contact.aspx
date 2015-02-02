@@ -1,5 +1,5 @@
 <?php
-	$title= "Contact Us - Certificates of Free Sale" ;
+	$title= "Contact Us - Certificates of Free Sale and Certificates of Origin" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/cfs_menu.html'; 
 ?>
