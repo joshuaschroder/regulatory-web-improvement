@@ -4,7 +4,9 @@
     include '../includes/menus/cfs_menu.html'; 
 ?>
 
-<p>This page needs additional copy explaining what a certificate of free sale is, and who it is for.</p>
+<p>A certificate of free sale is a state issued document, which certifies that foods, drugs, cosmetics, or medical devices may be freely exported outside of the State of Texas.</p>
+
+<p>Food manufacturers/distributors, medical device manufacturers/distributors, frozen dessert manufacturers/distributors, milk processors/distributors and wholesale distributors of drugs must be currently licensed with the Texas Department of State Health Services (DSHS). Certificates will be issued only for products that are regulated or inspected by DSHS. </p>
 
 <h2 id="contact">Contact Information</h2>
 
