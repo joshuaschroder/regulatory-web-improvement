@@ -1,10 +1,14 @@
 <?php
 	$title= "Contact Us - Certificates of Free Sale" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/foodhand_menu.html'; 
+    include '/home/codio/workspace/includes/menus/cfs_menu.html'; 
 ?>
 
-<p><em>Please mail application forms to the address at the top of each individual application.</em></p>
+<p>
+	<strong>Telephone:</strong>  (512) 834-6626<br/>
+	<strong>Fax: </strong>(512) 834-6618<br/>
+	<strong>Email:</strong> <a title="foodslicensinggroup@dshs.state.tx.us" href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+</p>
 
 <p>
 	<strong>Send Correspondence Only To</strong>:<br/>
@@ -13,5 +17,8 @@
 	P. O. Box 149347<br/>
 	Austin, Texas 78714-9347
 </p>
+
+<p><em>Please mail application forms to the address at the top of each individual application.</em></p>
+
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

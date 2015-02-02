@@ -1,0 +1,465 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head><title>Food and Drug Licensing Group: Certificate of Free Sale Instructions</title>
+<meta name="keywords" content="texas,license,rules,law" />
+<meta name="Description" content="The mission of the Licensure group is to protect the public&#39; s health and safety by effectively and efficiently supporting Food, Drug and Medical Devices in their regulatory activities. This support is accomplished through the timely issuance of licenses, permits and certificates; and the collection of the appropriate fees. The group works closely with the other program areas within the Division for Regulatory Services to achieve compliance through education and using a fair process, which balances the licensees&#39; due process rights with our regulatory mandates. The group strives to provide prompt, courteous service to all of its internal and external customers" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="Author" content="Texas Department of State Health Services" /><script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
+<script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script>
+<script id="EktronModalJS" type="text/javascript" src="/WorkArea/java/plugins/modal/ektron.modal.js"></script>
+<script id="EktronUICoreJS" type="text/javascript" src="/WorkArea/java/plugins/ui/ektron.ui.core.js"></script>
+<script id="EktronUIAccordianJS" type="text/javascript" src="/WorkArea/java/plugins/ui/ektron.ui.accordian.js"></script>
+
+
+    <!--These style sheets apply to IE7 and IE8 Compatibility mode -->
+    <!--[if lt IE 8]><link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+    <link href="/css/blueprint/print.css" rel="stylesheet" type="text/css" media="print" /><link href="/css/dshsPrint.css" rel="stylesheet" type="text/css" media="print" />
+    <!-- import several css files in one to avoid IE limit on @ of css files -->
+    <link rel="stylesheet" href="/css/DSHS.css" type="text/css" />
+    <!--[if lt IE 8]><link rel="stylesheet" href="/css/DSHSie.css" type="text/css" media="screen, projection" /><![endif]-->
+    <!--[if lt IE 7.0000]>
+      <link rel="stylesheet" href="/css/DSHSIE6.css" type="text/css" />
+    <![endif]-->
+    <link href="/css/editorStyles.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="/js/master-min.js"></script>
+
+    <!-- superfish jQuery extension -->
+    <script type="text/javascript">
+        // initialize plugins
+		$ektron().ready(function(){
+			$ektron('ul#mainNav').superfish();
+						
+            $ektron(".sort_color_off").click(function(){        
+                $ektron("#srchloading").show();
+            });            
+		});
+    </script>
+
+    <script src="/urchin.js" type="text/javascript"></script>
+    <script type="text/javascript">
+          urchinTracker();
+    </script>
+
+    
+
+    <link href="/css/glossy.css" type="text/css" rel="stylesheet" />
+    <script src="/js/ddaccordion.js" type="text/javascript">
+      /***********************************************
+      * Accordion Content script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+      * Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+      * This notice must stay intact for legal use
+      ***********************************************/
+    </script>
+    <script src="/js/locNav.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/WorkArea/java/thickbox.js" id="EktronThickBoxJS"></script>
+   <link rel="stylesheet" type="text/css" href="/WorkArea/csslib/box.css" id="EktronThickBoxCss" />
+
+
+<link id="EktronModalCss" href="/WorkArea/java/plugins/modal/ektron.modal.css" type="text/css" rel="stylesheet" />
+
+<link id="EktronFormBlockCSS" href="/WorkArea/csslib/designformentry.css" type="text/css" rel="stylesheet" />
+
+<link id="EktronPageHostCss" href="/WorkArea/PageBuilder/PageControls/Themes/TrueBlue/CSS/PageHost.css" type="text/css" rel="stylesheet" />
+<title>
+	Untitled Page
+</title></head>
+<body id="bodymain">
+    <form name="aspnetForm" method="post" action="../Layouts/ContentPage.aspx?PageID=35825&amp;id=35254" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTk0NjUwOTcxD2QWAmYPZBYCAgEPZBYEAgkPZBYCZg9kFgICAQ9kFgJmDxYCHgdWaXNpYmxlZ2QCEQ9kFggCAQ8PFgIfAGhkFigCAg8WAh8AZ2QCBA8WAh4EVGV4dAWABQ0KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCI+DQogICAgICAgIGZ1bmN0aW9uIHNlc3Npb25LZWVwQWxpdmUoKSB7DQogICAgICAgICAgICB2YXIgd1JlcXVlc3QgPSBuZXcgU3lzLk5ldC5XZWJSZXF1ZXN0KCk7DQogICAgICAgICAgICB3UmVxdWVzdC5zZXRfdXJsKCIvV29ya0FyZWEvUGFnZUJ1aWxkZXIvU2Vzc2lvbktlZXBBbGl2ZS5hc3B4Iik7DQogICAgICAgICAgICB3UmVxdWVzdC5zZXRfaHR0cFZlcmIoIlBPU1QiKTsNCiAgICAgICAgICAgIHdSZXF1ZXN0LmFkZF9jb21wbGV0ZWQoc2Vzc2lvbktlZXBBbGl2ZV9DYWxsYmFjayk7DQogICAgICAgICAgICB3UmVxdWVzdC5zZXRfYm9keSgiTWVzc2FnZT1rZWVwYWxpdmUiKTsNCiAgICAgICAgICAgIHdSZXF1ZXN0LmdldF9oZWFkZXJzKClbIkNvbnRlbnQtTGVuZ3RoIl0gPSAwOw0KICAgICAgICAgICAgd1JlcXVlc3QuaW52b2tlKCk7DQogICAgICAgIH0NCg0KICAgICAgICBmdW5jdGlvbiBzZXNzaW9uS2VlcEFsaXZlX0NhbGxiYWNrKGV4ZWN1dG9yLCBldmVudEFyZ3Mpe30NCiAgICAgICAgd2luZG93LnNldEludGVydmFsKCAic2Vzc2lvbktlZXBBbGl2ZSgpOyIsIDkwMDAwMCk7DQogICAgPC9zY3JpcHQ+DQpkAgYPFgIfAQUERmlsZWQCCA8PFgweDU9uQ2xpZW50Q2xpY2sFDXJldHVybiBmYWxzZTsfAQUITmV3IFBhZ2UeB1Rvb2xUaXAFCE5ldyBQYWdlHghDc3NDbGFzcwUHaW52YWxpZB4HRW5hYmxlZGgeBF8hU0ICAmRkAgoPDxYMHwIFDXJldHVybiBmYWxzZTsfAQURQ29weSAvIFNhdmUgQXMuLi4fAwURQ29weSAvIFNhdmUgQXMuLi4fBAUHaW52YWxpZB8FaB8GAgJkZAIMDw8WBB8BBQRFZGl0HwMFBEVkaXRkZAIODw8WCh8BBQRTYXZlHwMFBFNhdmUfBAUHaW52YWxpZB8FaB8GAgJkZAIQDw8WBB8BBQdDaGVja2luHwMFB0NoZWNraW5kZAISDw8WBB8BBQdQdWJsaXNoHwMFB1B1Ymxpc2hkZAIUDw8WCh8BBQZDYW5jZWwfAwUGQ2FuY2VsHwQFB2ludmFsaWQfBWgfBgICZGQCFg8PFgofAwUQUHVibGlzaGVkIExheW91dB8BBRBQdWJsaXNoZWQgTGF5b3V0HwQFB2ludmFsaWQfBWgfBgICZGQCGA8PFgQfAQUKUHJvcGVydGllcx8DBQpQcm9wZXJ0aWVzZGQCGg8PFgofAwUOUHJldmlldyBMYXlvdXQfAQUOUHJldmlldyBMYXlvdXQfBAUHaW52YWxpZB8FaB8GAgJkZAIcDw8WCh8DBQhXb3JrYXJlYR8BBQhXb3JrYXJlYR8EBQdpbnZhbGlkHwVoHwYCAhYCHgdvbmNsaWNrBX93aW5kb3cub3BlbignL1dvcmtBcmVhL3dvcmthcmVhLmFzcHg/TGFuZ1R5cGU9MTAzMycsICdBZG1pbjQwMCcsICd3aWR0aD05MDAsaGVpZ2h0PTU4MCxzY3JvbGxhYmxlPTEscmVzaXphYmxlPTEnKTtyZXR1cm4gZmFsc2U7ZAIgDxYCHgNzcmMFVy9Xb3JrQXJlYS9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9tZW51aGFuZGxlZF9wdXRiYWNrX2hvdmVyLnBuZ2QCIg8PFgYfAQUGTG9nb3V0HwIFggF3aW5kb3cub3BlbignL1dvcmtBcmVhL2xvZ2luLmFzcHg/YWN0aW9uPWxvZ291dCcsICdMb2dpbicsICd0b29sYmFyPTAsbG9jYXRpb249MCxzY3JvbGxiYXJzPTAsd2lkdGg9MjUwLGhlaWdodD0xOTAnKTtyZXR1cm4gZmFsc2U7HwMFBkxvZ291dGRkAiQPFgIeBXZhbHVlZGQCJg8PFgIfAQUTRmlsdGVyIENvbnRyb2wgTGlzdGRkAioPFgIfCAVNL1dvcmtBcmVhL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL2Rhc2hib2FyZGJvdHRvbS5wbmdkAiwPFgIfCAVHL1dvcmtBcmVhL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL3B1bGxjaGFpbi5wbmdkAgUPZBYCAgIPZBYCZg9kFgQCAQ8PFgYfAQUKQWRkIENvbHVtbh8DBQpBZGQgQ29sdW1uHwBoZGQCAw8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgICAQ8WBB4FY2xhc3MFCVBCVmlld2luZx4Fc3R5bGUFC3dpZHRoOjEwMCU7FgICAQ8WAh4IY29sdW1uaWQFATEWBAIBDxYCHwBoFgQCAQ8WBB4FdGl0bGUFBlJlc2l6ZR8AaBYCAgEPFgQfCAVHL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9lZGl0X29mZi5wbmceA2FsdAUGUmVzaXplZAIDDxYEHw4FBkRlbGV0ZR8AaBYCAgEPFgQfCAVJL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9pY29uX2Nsb3NlLnBuZx8PBQZEZWxldGVkAgMPFgIfCgICFgRmD2QWAgIBD2QWAmYPZBYCAgMPZBYCZg9kFgQCAQ8WAh8AaBYKAgEPFgIfAQUrTG9jYWwgTmF2aWdhdGlvbiAtIFB1Ymxpc2ggdG8gdmlldyB0aGUgbWVudWQCAw8WAh8OBQRIZWxwFgICAQ8WBB8PBQRIZWxwHwgFSC9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvaWNvbl9oZWxwLnBuZ2QCBQ8WAh8OBQZFeHBhbmQWAgIBDxYEHw8FBkV4cGFuZB8IBUovV29ya0FyZWEvL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL2ljb25fZXhwYW5kLnBuZ2QCBw8PFgYfBAUEZWRpdB8DBQRFZGl0HwYCAmQWAmYPFgQfDwUERWRpdB8IBUcvV29ya0FyZWEvL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL2VkaXRfb2ZmLnBuZ2QCCQ8PFgIfAwUGRGVsZXRlZBYCZg8WBB8PBQZEZWxldGUfCAVJL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9pY29uX2Nsb3NlLnBuZ2QCAw9kFgJmD2QWAgIBD2QWAgIBD2QWAgIBDxBkZBYAZAIBD2QWAgIBD2QWAmYPZBYCAgMPZBYCZg9kFgQCAQ8WAh8AaBYKAgEPFgIfAQUbZmRsaWNlbnNlIGxlZnQgbWVudSBjb250ZW50ZAIDDxYCHw4FBEhlbHAWAgIBDxYEHw8FBEhlbHAfCAVIL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9pY29uX2hlbHAucG5nZAIFDxYCHw4FBkV4cGFuZBYCAgEPFgQfDwUGRXhwYW5kHwgFSi9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvaWNvbl9leHBhbmQucG5nZAIHDw8WBh8EBQRlZGl0HwMFBEVkaXQfBgICZBYCZg8WBB8PBQRFZGl0HwgFRy9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvZWRpdF9vZmYucG5nZAIJDw8WAh8DBQZEZWxldGVkFgJmDxYEHw8FBkRlbGV0ZR8IBUkvV29ya0FyZWEvL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL2ljb25fY2xvc2UucG5nZAIDD2QWAmYPZBYCZg9kFgJmD2QWAgIBDw8WCB4FVGl0bGUFG2ZkbGljZW5zZSBsZWZ0IG1lbnUgY29udGVudB4TQ2F0YWxvZ0ljb25JbWFnZVVybAUuL1dvcmtBcmVhL2ltYWdlcy9hcHBsaWNhdGlvbi9pY29uX2RvY3VtZW50LmdpZh4RVGl0bGVJY29uSW1hZ2VVcmxlHwBnZGQCBw8WAh8LBQdzcGFuLTE1FggCAQ9kFgJmD2QWAgIDDxYCHglpbm5lcmh0bWwFd0luc3RydWN0aW9ucyBmb3IgQXBwbHlpbmcgZm9yIGEgQ2VydGlmaWNhdGUgb2YgRnJlZSBTYWxlIGFuZC1vciBhIENlcnRpZmljYXRlIG9mIE9yaWdpbiAtIEZvb2QgYW5kIERydWcgTGljZW5zaW5nIEdyb3VwZAIFD2QWAmYPZBYEAgEPFgIfAGhkAgMPFgIfAGhkAgcPDxYCHwBnZGQCCQ9kFgICAg9kFgJmD2QWBAIBDw8WBh8BBQpBZGQgQ29sdW1uHwMFCkFkZCBDb2x1bW4fAGhkZAIDDxYCHwoCARYCZg9kFgICAQ8WBB8LBQlQQlZpZXdpbmcfDAULd2lkdGg6MTAwJTsWAgIBDxYCHw0FATIWBAIBDxYCHwBoFgQCAQ8WBB8OBQZSZXNpemUfAGgWAgIBDxYEHwgFRy9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvZWRpdF9vZmYucG5nHw8FBlJlc2l6ZWQCAw8WBB8OBQZEZWxldGUfAGgWAgIBDxYEHwgFSS9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvaWNvbl9jbG9zZS5wbmcfDwUGRGVsZXRlZAIDDxYCHwoCARYCZg9kFgICAQ9kFgJmD2QWAgIDD2QWAmYPZBYEAgEPFgIfAGgWCgIBDxYCHwEFFUNvbnRlbnQgQmxvY2sgQ29udHJvbGQCAw8WAh8OBQRIZWxwFgICAQ8WBB8PBQRIZWxwHwgFSC9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvaWNvbl9oZWxwLnBuZ2QCBQ8WAh8OBQZFeHBhbmQWAgIBDxYEHw8FBkV4cGFuZB8IBUovV29ya0FyZWEvL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL2ljb25fZXhwYW5kLnBuZ2QCBw8PFgYfBAUEZWRpdB8DBQRFZGl0HwYCAmQWAmYPFgQfDwUERWRpdB8IBUcvV29ya0FyZWEvL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL2VkaXRfb2ZmLnBuZ2QCCQ8PFgIfAwUGRGVsZXRlZBYCZg8WBB8PBQZEZWxldGUfCAVJL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9pY29uX2Nsb3NlLnBuZ2QCAw9kFgJmD2QWAmYPZBYCZg9kFgICAQ8PFgIfAGdkZAILD2QWAgICD2QWAmYPZBYEAgEPDxYGHwEFCkFkZCBDb2x1bW4fAwUKQWRkIENvbHVtbh8AaGRkAgMPFgIfCgIBFgJmD2QWAgIBDxYEHwsFCVBCVmlld2luZx8MBQt3aWR0aDoxMDAlOxYCAgEPFgIfDQUBMxYEAgEPFgIfAGgWBAIBDxYEHw4FBlJlc2l6ZR8AaBYCAgEPFgQfCAVHL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9lZGl0X29mZi5wbmcfDwUGUmVzaXplZAIDDxYEHw4FBkRlbGV0ZR8AaBYCAgEPFgQfCAVJL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9pY29uX2Nsb3NlLnBuZx8PBQZEZWxldGVkAgMPFgIfCgIBFgJmD2QWAgIBD2QWAmYPZBYCAgMPZBYCZg9kFgQCAQ8WAh8AaBYKAgEPFgIfAQUYU3VwcGxpbWVudGFyeSBOYXZpZ2F0aW9uZAIDDxYCHw4FBEhlbHAWAgIBDxYEHw8FBEhlbHAfCAVIL1dvcmtBcmVhLy9QYWdlQnVpbGRlci9QYWdlQ29udHJvbHMvVGhlbWVzL1RydWVCbHVlL2ltYWdlcy9pY29uX2hlbHAucG5nZAIFDxYCHw4FBkV4cGFuZBYCAgEPFgQfDwUGRXhwYW5kHwgFSi9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvaWNvbl9leHBhbmQucG5nZAIHDw8WBh8EBQRlZGl0HwMFBEVkaXQfBgICZBYCZg8WBB8PBQRFZGl0HwgFRy9Xb3JrQXJlYS8vUGFnZUJ1aWxkZXIvUGFnZUNvbnRyb2xzL1RoZW1lcy9UcnVlQmx1ZS9pbWFnZXMvZWRpdF9vZmYucG5nZAIJDw8WAh8DBQZEZWxldGVkFgJmDxYEHw8FBkRlbGV0ZR8IBUkvV29ya0FyZWEvL1BhZ2VCdWlsZGVyL1BhZ2VDb250cm9scy9UaGVtZXMvVHJ1ZUJsdWUvaW1hZ2VzL2ljb25fY2xvc2UucG5nZAIDD2QWAmYPZBYCZg9kFgICAQ9kFgICAQ8QZGQWAGQYBgVwY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSREcm9wWm9uZTMkY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAwJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBRNjdGwwMCRVeEhlYWRlckxpbmtzDw9kZmQFcGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkRHJvcFpvbmUxJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMSRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAVwY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSREcm9wWm9uZTEkY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAwJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBRBjdGwwMCRVeE5vU2NyaXB0Dw9kZmQFcGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkRHJvcFpvbmUyJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMCRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZEMrLb1IJjnn/6TCKPoK2/fba78F" />
+
+
+<script src="/ScriptResource.axd?d=ijfeJymaJoW90F8PwNpS_5Ng1EnA9IZVQ6Rju-QYJv4l0B-R2D4PnPIHxvTtM1H1lwSzEnUEo4KuO5W_g5EVcoBHfjikf6OqpFCvC8KJJ_5nFcbZXfaoTq2Tx43-O_Jn1m-Wvh_umYuFPtEM_kuxSh0MqhI1&amp;t=ffffffff978af21d" type="text/javascript"></script>
+<script src="/WorkArea/java/webkitFix.js" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKD2+jCCQKXzZzmDwL5guHfCAL516HSAgLwkLnKCQKrwLDHARJ/PXrWzOobG02YjDNTqXOwz9vh" />
+    
+            <noscript>
+                Note: Javascript is disabled or is not supported by your browser. All 
+            content is viewable but it will not display as intended.
+            </noscript>
+        
+    <a id="ctl00_jshack" href="javascript:__doPostBack('ctl00$jshack','')" style="display: none;"></a>
+    
+    <div id="header">
+        <div id="headerTop">
+        </div>
+        <div class="container">
+            <div class="span-6">
+                <div id="logo">
+                    <a href="/" accesskey="1">
+                        <img src="/images/DSHS-Logo.png" alt="Texas Department of State Health Services" />
+                    </a>
+                   
+                </div>
+            </div>
+            <a class="skiplink" href="#globalmenu" accesskey="5">Skip to global menu 5</a>
+            <a class="skiplink" href="#startpage" accesskey="2">Skip to local menu 2</a>
+	    <a class="skiplink" href="#startcontent" accesskey="3">Skip to content 3</a>
+            <a class="skiplink" href="#footermenu" accesskey="6">Skip to footer 6</a>
+            <div class="span-12">
+                <div id="search">
+                    <div id="ctl00_srchBox">
+	
+                        <div class="searchBoxes">
+                            <input name="ctl00$txtSearchText" type="text" id="ctl00_txtSearchText" accesskey="4" class="searchBox" title="Search" />
+                            <input type="button" name="ctl00$UxSearch" value="" onclick="javascript:__doPostBack('ctl00$UxSearch','')" id="ctl00_UxSearch" class="searchButton" />
+                            <div class="advLink">
+                                <a id="ctl00_txtAdvanced" class="searchButton" href="javascript:__doPostBack('ctl00$txtAdvanced','')">Advanced</a></div>
+                        </div>
+                    
+</div>
+                    <div class="span-11">
+                        
+<ul class="alphabet">
+    <li>Topics:</li>
+    <li><a href="/HealthTopics.aspx?alp=A">A</a></li>
+    <li><a href="/HealthTopics.aspx?alp=B">B</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=C">C</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=D">D</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=E">E</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=F">F</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=G">G</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=H">H</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=I">I</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=J">J</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=K">K</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=L">L</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=M">M</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=N">N</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=O">O</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=P">P</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=Q">Q</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=R">R</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=S">S</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=T">T</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=U">U</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=V">V</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=W">W</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=X">X</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=Y">Y</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=Z">Z</a> </li>
+    <li><a href="/HealthTopics.aspx?alp=all">All</a> </li>
+</ul>
+
+                    </div>
+                </div>
+            </div>
+            <div class="span-7 last">
+                <div class="headerLinks pull-1">
+                    
+                             <span id="ctl00_MobileLogic1_UxMobileLink"><a href="/Mobile/Mobile.aspx">Mobile</a> | </span> 
+                            <a id="ctl00_UxSpanish" href="javascript:__doPostBack('ctl00$UxSpanish','')">Inicio en español</a>
+                            | Text Size:
+                        
+                    
+<span id="resize">
+<a id="increase" class="textLg" href="#" title="Font Larger">Font Larger</a>
+<a id="decrease" class="textSm" href="#" title="Font Smaller">Font Smaller</a>
+</span>
+<br />
+                    <span id="ctl00_uxLoginMenu_lblWelcomeMessage"></span>
+<span id="ctl00_uxLoginMenu_logoutBar"></span>
+
+<span id="ctl00_uxLoginMenu_accountlinkbar"></span>
+
+
+                </div>
+            </div>
+            <div class="span-25 last">
+                <a name="globalmenu" id="globalmenu"></a>
+                <div id="globalNav"><ul id="mainNav"><li><a href="/default.shtm" target="_self">Home</a></li><li><a href="/about-dshs.shtm">About Us</a><ul><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35783">Organization Chart</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35239">Visitor Information</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=364">Volunteer with DSHS</a></li><li><a href="/sitemap.aspx">Site Map</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=111">Commissioner</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=141">Legislative Information</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=115">DSHS Council</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=8589961474">Advisory Committees Lists</a></li><li><a href="/library.shtm">Library Resources</a></li><li><a href="/policy/compact.shtm#customerservice">Customer Service</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36223">Contractor Resources</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=1812">Contracts and Budgets</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=8589946077">Data and Reports</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36343">More...</a></li><li class="menuCornerTabbed"><div class="menuCorners"></div></li></ul></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35190">News</a><ul><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=820">Press Office</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=34370">News Releases</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=827">News Updates</a></li><li class="menuCornerTabbed"><div class="menuCorners"></div></li></ul></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36166">I am a...</a><ul><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36184">Health Professional</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36220">Public Citizen</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36246">Parent</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36247">Licensee</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36223">DSHS Contractor</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=8589973761">CMPS User</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36249">Student</a></li><li><a href="/search-jobs.aspx">DSHS Job Applicant</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35190">News Media Representative</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36253">Government Official</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36166">More...</a></li><li class="menuCornerTabbed"><div class="menuCorners"></div></li></ul></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35962">I want to...</a><ul><li><a href="/prepare-for-an-emergency.aspx">Prepare for an Emergency</a></li><li><a href="/plc/">Obtain/Renew a Professional License</a></li><li><a href="/emstraumasystems/default.shtm">Find Information About EMS</a></li><li><a href="/vs/reqproc/birth_death_general.shtm">Get a Birth or Death Certificate</a></li><li><a href="/immunize/">Get information about immunizations</a></li><li><a href="/wichd">Learn about WIC</a></li><li><a href="/mhservices-search/">Find a Mental Health Facility</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=1913">Learn about funding opportunities</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=53979">Learn about doing business with DSHS</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=8589973761">Access CMPS</a></li><li><a href="/search-jobs.aspx">Search jobs</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=51007#customerservice">Contact Customer Service</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=36165">More...</a></li><li class="menuCornerTabbed"><div class="menuCorners"></div></li></ul></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=51778">Resources</a><ul><li><a href="/calendar.aspx?cid=13">Calendar of Events</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=1958">Open Meetings</a></li><li><a href="/idcu/investigation/conditions/">Disease Reporting</a></li><li><a href="http://webds.dshs.state.tx.us/mamd/litcat/default.asp" target="_self">Forms and Literature Catalog</a></li><li><a href="/library.shtm">Library Resources</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=1913">Funding Information Center</a></li><li><a href="/library/dshsauthors.shtm">Research Articles by DSHS Staff</a></li><li class="menuCornerTabbed"><div class="menuCorners"></div></li></ul></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=51779">Find Services</a><ul><li><a href="/mhservices-search/">Mental Health Services Search</a></li><li><a href="/sa-search/">Substance Abuse Services Search</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=56682">DSHS Laboratory</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35209">Health Service Regions</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35214">Local Health Departments</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35184">Other Health Sites</a></li><li class="menuCornerTabbed"><div class="menuCorners"></div></li></ul></li></ul></div>
+            </div>
+        </div>
+    </div>
+    <div id="body">
+        <div class="container">
+            <a name="startpage" id="startpage"></a>
+            
+    <a class="skiplink" href="#startcontent" accesskey="3">Skip to content 3</a>
+    
+    <div class="span-5">
+        <div class="leftMargin">
+            <div class="glossymenu"><a class="menuitem" href="/fdlicense/" target="_self">Food and Drug Licensing Group Home</a><a class="menuitem submenuheader" href="#" target="_self">Additional Documents Required</a><div class="submenu"><ul><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=8589968348" target="_self">Salvage</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=8589969400" target="_self">Rx Attachments A &amp; B</a></li></ul></div><a class="menuitem submenuheader" href="#" target="_self">Frequently Asked Questions</a><div class="submenu"><ul><li><a href="/fdlicense/faqs.shtm" target="_self">General Information</a></li><li><a href="/fdlicense/cfsfaq.shtm" target="_self">Certificates of Free Sale and/or Certificates of Origin</a></li><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=35260" target="_self">Online - New or Renewing Licenses</a></li></ul></div><a class="menuitem" href="/fdlicense/apps.shtm" target="_self">License Applications</a><a class="menuitem" href="/fdlicense/inpersoninstructions.shtm" target="_self">Instructions for Filing License Applications</a><a class="menuitem" href="/fdlicense/cfsinstructions.shtm" target="_self">Instructions for Filing for a Certificate of Free Sale and/or of Origin</a><a class="menuitem submenuheader" href="#" target="_self">Reference Center</a><div class="submenu"><ul><li><a href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=18513" target="_self">DSHS Regulatory Philosophy (pdf 21KB)</a></li><li><a href="http://www.fda.gov/" target="_self">U.S. Food and Drug Administration</a></li></ul></div><a class="menuitem" href="http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/Excise-Tax-on-Indoor-Tanning-Services-Frequently-Asked-Questions" target="_self">IRS link to information related to the Affordable Care Act - 10% excise tax for Indoor Tanning</a></div>
+      
+        
+
+<div id="ctl00_ContentPlaceHolder1_DropZone1_updatepanel">
+	
+        
+        <div class="dropzone PBClear">
+            
+                    <div id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_column" class="column" columnid="1">
+                            
+                            
+                                    <li class="PBItem">
+                                        <div id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_dropcontainer" class="widget">
+    <span id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+	<script type="text/javascript">
+	$ektron().ready(function(){				
+		 $ektron('#navigation').accordion({
+			    active: false,
+			    header: '.head',
+			    navigation: true,
+			    event: 'mouseover',
+			    fillSpace: true,
+			    animated: 'slide'
+		    });
+		    $ektron('.navigation1').accordion({
+			    active: false,
+			    header: '.head',
+			    navigation: true,
+			    event: 'mouseover',
+			    fillSpace: true,
+			    animated: 'slide'
+		    });
+	});	
+	</script>
+	
+    <style type="text/css">
+	#navigation ul
+        {
+	      height: auto !important;	      
+        }
+	</style>
+
+        
+    
+
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        <div id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_dropcontainer" class="widget">
+    <span id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        <div class="editorStyles">
+            <div id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_CB">
+			<div class="EktronAjaxLoading" align="left"><img src="/WorkArea/images/application/loading_big.gif" alt="Loading..." /></div><div><hr />
+</div><p class="margin">The Food and Drug Licensing Group is within the Division for Regulatory Services. <br />P. O. Box 149347<br />Austin, TX 78714-9347 <br />(512) 834-6770</p>
+<p> </p>
+<hr />
+<p>  <img title="texasonlinesm" alt="texasonlinesm" src="/uploadedImages/Content/Regulatory/avc/images/texasonlinesm.gif" border="0" /><a href="http://www.state.tx.us/category.jsp?categoryId=9.1" target="_blank"><strong><font color="#000000">Link to Texas.gov</font></strong></a></p>
+<p>Government at Your Fingertips </p>
+<p><a href="/fdlicense/tolnew_amended_faq.shtm"><u><font face="Verdana" color="#000000" size="2">FAQs for a New License or to Renew a Current License Thru Texas.gov</font></u></a>  </p>
+<hr />
+<p>Contact the <a href="mailto:WebAdmin.BFDS@dshs.state.tx.us">Web Director</a> </p>
+<hr />
+<p>External links to other sites are intended to be informational and do not have the endorsement of the Texas Department of State Health Services. These sites may not be accessible to people with disabilities. </p>
+<hr />
+		</div>
+            
+        </div>
+        
+<script type="text/javascript">
+    $ektron('table.zebra tr:nth-child(even)')
+        .add('table.zebraBorder tr:nth-child(even)')
+        .addClass('zebraEven');
+ </script>
+    
+        <span id="ctl00_ContentPlaceHolder1_DropZone1_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+        </div>
+          </div>
+     <div id="ctl00_ContentPlaceHolder1_ContentPageColumnCenter" class="span-15">
+        <ul id="ctl00_ContentPlaceHolder1_UxBreadCrumb_uxBreadcrumb" class="breadcrumb"><li><a href="/">Home</a><span> &gt; </span></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=35256">Food and Drug Licensing Group Home</a><span> &gt; </span></li>
+    
+   <li id="ctl00_ContentPlaceHolder1_UxBreadCrumb_uxLastli" class="selected">Instructions for Applying for a Certificate of Free Sale and-or a Certificate of Origin - Food and Drug Licensing Group</li>
+</ul>
+
+    
+        <div id="ctl00_ContentPlaceHolder1_SectionTitleUpdater">
+	
+                   
+        <a name="startcontent" id="startcontent"></a>
+                
+        
+</div>
+        <div id="ctl00_ContentPlaceHolder1_pnlContent">
+	
+        <!--PAGEWATCH-->
+        <h1 class="contentTitle">
+            Instructions for Applying for a Certificate of Free Sale and-or a Certificate of Origin - Food and Drug Licensing Group
+        </h1>
+        <div class="content editorStyles">
+            <div id="ctl00_ContentPlaceHolder1_uxContent">
+		<div class="EktronAjaxLoading" align="left"><img src="/WorkArea/images/application/loading_big.gif" alt="Loading..." /></div><strong></strong><h1><hr />
+</h1>
+<h3>To receive a Certificate of Free Sale and/or a Certificate of Origin </h3>
+<p>Food manufacturers/distributors, medical device manufacturers/distributors, frozen dessert manufacturers/distributors, milk processors/distributors and wholesale distributors of drugs must be currently licensed with the Texas Department of State Health Services (DSHS). Certificates will be issued only for products that are regulated or inspected by DSHS. All establishments shall have a current compliant inspection as follows:</p>
+<p>(1) For manufacturers, of food, drug, medical device products, within 12 months from the date of the application. </p>
+<p>(2) For manufacturers, distributors, or wholesalers of cosmetic products, within 24 months from the date of the application. </p>
+<p>(3) For distributors or wholesalers of foods, drugs, or medical devices, within 24 months from the date of the application. </p>
+<p>(4) For producers, processors, and distributors of milk or dairy, frozen dessert, and molluscan shellfish products, within three (3) months from the date of the application.</p>
+<p>If an inspection has not been done within the above timeframes, additional time will be required.</p>
+<p>Return the completed application and nonrefundable fee to TEXAS DEPARTMENT OF STATE HEALTH SERVICES, P.O. BOX 12008, AUSTIN, TEXAS, 78711. Make check or money order payable to TEXAS DEPARTMENT OF STATE HEALTH SERVICES. </p>
+<p><b></b></p>
+<h4><hr />
+</h4>
+<h3>Fees for Certificates of Free Sale and/or Certificates of Origin are as follows:</h3>
+<p>(1) <strong><em>Original certificate.</em></strong> All applicants for certificates shall pay a nonrefundable fee based on the number of products to be listed on the certificate. Certificates shall not be reproduced or transferred from one person to another or from one establishment to another. </p>
+<p>(2) <strong><em>Additional certificates</em>.</strong> Each additional identical original certificate is about 10% of the base fee. </p>
+<p>(3)<strong> <em>The fee schedule.</em></strong></p>
+<p>$50 for 1 - 50 products per original certificate; $5 for each additional identical certificate</p>
+<p>$60 for 51 - 200 products per original certificate; $6 for each additional identical certificate </p>
+<p>$75 for 201 - 500 products per original certificate; $8 for each additional identical certificate </p>
+<p>$100 for 501 - 1000 products per original certificate; $10 for each additional identical certificate </p>
+<p>(4) <strong><em>Cosmetic products.</em></strong> For cosmetic establishments not required to be licensed by DSHS, and who do not have a current compliant inspection, a nonrefundable fee based on the number of products to be listed on the certificate and $400.00 for inspection conducted by DSHS staff will be required.</p>
+<p>(5) <strong><em>Supplemental information review.</em></strong> For a supplemental information review, a separate invoice shall be mailed or sent via facsimile to the applicant. A nonrefundable fee of $72.00 per hour of review time will be charged. This fee must be paid prior to the certificate being issued. Failure to pay the review fee will result in denial of the certificate.</p>
+<p><b><hr />
+</b></p>
+<h3>Products for manufacturers must be manufactured in the State of Texas.</h3>
+<p>Requests containing more than ten product items may be submitted on diskette or CD-ROM, in Word or Excel, along with the application.</p>
+<p>If you have questions or desire additional information, please contact the Regulatory Licensing Unit Office at (512) 834-6626.</p>
+<p>FOR INFORMATION ON EXPORTING MEAT AND/OR POULTRY PRODUCTS PLEASE CONTACT: <br />RICK HARRIES, DIRECTOR EXPORT PROGRAMS STAFF (USDA) TELEPHONE: 202.720.0082 FAX 202.720.7990</p>
+<table height="305" cellspacing="2" cellpadding="2" width="47%" align="right" border="0">
+<tbody>
+</tbody>
+</table>
+<!-- InstanceEndEditable --><div align="center"></div>
+	</div>
+        </div>
+        
+<script type="text/javascript">
+    $ektron('table.zebra tr:nth-child(even)')
+        .add('table.zebraBorder tr:nth-child(even)')
+        .addClass('zebraEven');
+ </script>
+        <!--/PAGEWATCH-->
+        
+</div>
+        
+
+<div id="ctl00_ContentPlaceHolder1_DropZone2_updatepanel">
+	
+        
+        <div class="dropzone PBClear">
+            
+                    <div id="ctl00_ContentPlaceHolder1_DropZone2_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ContentPlaceHolder1_DropZone2_columnDisplay_ctl00_column" class="column" columnid="2">
+                            
+                            
+                                    <li class="PBItem">
+                                        <div id="ctl00_ContentPlaceHolder1_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_dropcontainer" class="widget">
+    <span id="ctl00_ContentPlaceHolder1_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ContentPlaceHolder1_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        <div class="editorStyles">
+            <div id="ctl00_ContentPlaceHolder1_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_CB">
+			<div class="EktronAjaxLoading" align="left"><img src="/WorkArea/images/application/loading_big.gif" alt="Loading..." /></div>
+		</div>
+            
+        </div>
+        
+<script type="text/javascript">
+    $ektron('table.zebra tr:nth-child(even)')
+        .add('table.zebraBorder tr:nth-child(even)')
+        .addClass('zebraEven');
+ </script>
+    
+        <span id="ctl00_ContentPlaceHolder1_DropZone2_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+        
+        <span id="ctl00_ContentPlaceHolder1_UxLastUpdatedDate_UxLastUpdated" class="lastUpdated">Last updated </span><span class="lastUpdatedDate"> January 12, 2011</span>
+        
+    </div>
+        <div class="span-5 last">
+            <div class="rightMargin page">
+                <div class="suppNav"><ul><li><a href="/fdlicense/apps.shtm">Applications and Forms</a></li><li><a href="/fdlicense/contacts.shtm">Contact Us</a></li><li><a href="/fdlicense/links.shtm">Links</a></li><li><a href="/fdlicense/openrecs.shtm">Open Records - Food and Drug Licensing Group</a></li><li><a href="https://rlucustomer.questionpro.com/">Survey Request</a></li></ul></div>
+                
+
+<div id="ctl00_ContentPlaceHolder1_DropZone3_updatepanel">
+	
+        
+        <div class="dropzone PBClear">
+            
+                    <div id="ctl00_ContentPlaceHolder1_DropZone3_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ContentPlaceHolder1_DropZone3_columnDisplay_ctl00_column" class="column" columnid="3">
+                            
+                            
+                                    <li class="PBItem">
+                                        <div id="ctl00_ContentPlaceHolder1_DropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_dropcontainer" class="widget">
+    <span id="ctl00_ContentPlaceHolder1_DropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ContentPlaceHolder1_DropZone3_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+            </div>
+        </div>
+
+        </div>
+    </div>
+    <div id="footer">
+        <div id="footerShadow">
+            <div class="container">
+                <div id="footerContent">
+                    <a name="footermenu" id="footermenu"></a>
+                     <a href="/contact.shtm">Contact Us</a> | <a href="/visitor/default.shtm">Visitor Information</a> | <a href="/sitemap.aspx">Site Map</a> | <a href="/searchresults.aspx">Search</a> | <a href="/HealthTopics.aspx">Topics A-Z</a> | <a href="/policy/compact.shtm">Compact with Texans</a> | <a href="/viewing.shtm">File Viewing Information</a><p><a href="/policy.shtm">Internet Policy</a> | <a href="http://www.hhs.state.tx.us/">HHS Agencies</a> | <a href="http://governor.state.tx.us/homeland">Homeland Security</a> | <a href="http://www2.tsl.state.tx.us/trail/">Statewide Search</a> | <a href="http://www.texas.gov">Texas.gov</a> | <a href="/privacypractices.aspx">Privacy Practices</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="/Archived-Content/"><!-- Link is only for TRAIL spider --></a>
+    </form>
+</body>
+</html>
