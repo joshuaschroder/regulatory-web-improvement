@@ -26,9 +26,9 @@
 <p><strong>What are the minimum requirements to open a retail food establishment?</strong></p>
 <p>DSHS has regulatory jurisdiction and enforces the TFER in those areas of the state that do not have a city ordinance or county order that addresses the regulation of retail food establishments. While we strive for uniformity between DSHS and the local health departments, please be aware that local agencies have the prerogative to be more stringent and also that their requirements may be somewhat different from those of DSHS. Since they are the permitting and inspectional agencies responsible for their respective jurisdictions, you should contact them directly. For those establishments under DSHS jurisdiction, there are three documents posted on this website that specify most of the minimum requirements for fixed retail food establishments (restaurants and grocery stores), mobile food establishments, and temporary food establishments:</p>
 <ul>
-	<li><a href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18743">Starting a New Retail Food Establishment</a> <span class="small">(PDF, 66KB)</span></li>
-	<li><a href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18736">Mobile Food Establishment Checklist</a> <span class="small">(PDF, 71KB)</span></li>
-	<li><a href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18762">Temporary Food Establishment Permit and Compliance Requirements</a> <span class="small">(PDF, 71KB)</span></li>
+	<li><a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18743">Starting a New Retail Food Establishment</a> <span class="small">(PDF, 66KB)</span></li>
+	<li><a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18736">Mobile Food Establishment Checklist</a> <span class="small">(PDF, 71KB)</span></li>
+	<li><a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18762">Temporary Food Establishment Permit and Compliance Requirements</a> <span class="small">(PDF, 71KB)</span></li>
 </ul>
 <hr />
 <p><strong>What is a Potentially Hazardous Food (PHF)?</strong></p>

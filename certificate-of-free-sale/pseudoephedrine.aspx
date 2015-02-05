@@ -4,7 +4,7 @@
     include '../includes/menus/cfs_menu.html'; 
 ?>
 
-<p>On November 8, 2011, the Drugs and Medical Devices Group notified firms that hold Certificates of Authority (COA) of changes in the law as a result of implementation of House Bill 1137, 82nd Texas Legislature, pertaining to over-the-counter sales of ephedrine, pseudoephedrine, and norpseudoephedrine (PSE). These changes include establishment of a real-time tracking system to prevent illegal sales of PSE products as well as new limits on the quantity of PSE products sold. For more details refer to <a title="Letter to Certificate of Authority Holders" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589964153">Letter to Certificate of Authority Holders</a> <span class="small">(PDF, 80KB)</span>.</p>
+<p>On November 8, 2011, the Drugs and Medical Devices Group notified firms that hold Certificates of Authority (COA) of changes in the law as a result of implementation of House Bill 1137, 82nd Texas Legislature, pertaining to over-the-counter sales of ephedrine, pseudoephedrine, and norpseudoephedrine (PSE). These changes include establishment of a real-time tracking system to prevent illegal sales of PSE products as well as new limits on the quantity of PSE products sold. For more details refer to <a title="Letter to Certificate of Authority Holders" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964153">Letter to Certificate of Authority Holders</a> <span class="small">(PDF, 80KB)</span>.</p>
 <hr/>
 
 <h2>Important Notice for Retailers of Pseudoephedrine and Ephedrine Containing Over-The-Counter Drugs</h2>

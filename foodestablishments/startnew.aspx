@@ -86,12 +86,12 @@
 </ul>
 
 <h3><a href="#" name="mobile" title="mobile" class="bookmark"></a>Mobile Food Units:</h3>
-<p>Minimum requirements can be reviewed at <a title="25 TAC 229.169" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=169">25 TAC 229.169</a> and on the <a title="Mobile Food Establishment Checklist - PDF" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=8589953611">Mobile Food Establishment Checklist</a> <span class="small">(PDF, 41KB)</span>.</p>
-<p>Please also see the <a title="Checklist for Roadside Food Vendors" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=8589957885">Checklist for Roadside Food Vendors</a> <span class="small">(PDF, 45KB)</span>.</p>
+<p>Minimum requirements can be reviewed at <a title="25 TAC 229.169" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=169">25 TAC 229.169</a> and on the <a title="Mobile Food Establishment Checklist - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953611">Mobile Food Establishment Checklist</a> <span class="small">(PDF, 41KB)</span>.</p>
+<p>Please also see the <a title="Checklist for Roadside Food Vendors" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589957885">Checklist for Roadside Food Vendors</a> <span class="small">(PDF, 45KB)</span>.</p>
 <p><strong><em>NOTE:</em></strong> Mobile food unit operators typically prepare or handle unpackaged foods. Roadside vendors are limited to handling pre-packaged foods only.</p>
 
 <h3><a href="#" name="temporary" title="temporary" class="bookmark"></a>Temporary Food Establishments:</h3>
-<p>Minimum requirements can be reviewed at <a title="25 TAC 229.170" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=170">25 TAC 229.170</a> and on the <a title="Temporary Food Establishment Fact Sheet" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18762">Temporary Food Establishment Fact Sheet</a> <span class="small">(PDF, 71KB)</span>.</p>
+<p>Minimum requirements can be reviewed at <a title="25 TAC 229.170" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=170">25 TAC 229.170</a> and on the <a title="Temporary Food Establishment Fact Sheet" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18762">Temporary Food Establishment Fact Sheet</a> <span class="small">(PDF, 71KB)</span>.</p>
 
 
 <h3><a href="#" name="surfaces" title="surfaces" class="bookmark"></a>Food Contact Surfaces of Equipment:</h3>

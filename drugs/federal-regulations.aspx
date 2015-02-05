@@ -1,5 +1,5 @@
 <?php 
-    $title= "Laws and Rules - Federal Regulations Adopted by Reference" ; 
+    $title= "Federal Regulations Adopted by Reference - Drug Manufacturers and Distributors" ; 
     include '../includes/header.html'; 
     include '../includes/menus/drugs_menu.html'; 
 ?>

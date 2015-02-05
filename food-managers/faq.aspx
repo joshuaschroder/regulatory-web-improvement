@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/foodman_menu.html'; 
 ?>
 <hr/>
-<p><strong>Download this Document: </strong><br/> <a title="Frequently Asked Questions Certified Food Manager Program and Local Health Jurisdictions" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=8589993700">Frequently Asked Questions Certified Food Manager Program and Local Health Jurisdictions</a>  <span class="small">(PDF, 128KB)</span></p>
+<p><strong>Download this Document: </strong><br/> <a title="Frequently Asked Questions Certified Food Manager Program and Local Health Jurisdictions" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993700">Frequently Asked Questions Certified Food Manager Program and Local Health Jurisdictions</a>  <span class="small">(PDF, 128KB)</span></p>
 <hr/>
 
 <p><strong>1. My food establishment is permitted by the Department of State Health Services; must I obtain food manager certification?</strong></p>

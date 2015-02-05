@@ -4,8 +4,6 @@
     include '../includes/menus/drugs_menu.html'; 
 ?>
 
-li*5
-
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
@@ -30,7 +28,7 @@ li*5
 
 <h2><a title="nonprescription" class="bookmark" name="nonprescription"></a>Drugs (Nonprescription)</h2>
 <h3><a title="nonprescription-distributors" class="bookmark" name="nonprescription-distributors"></a>Texas Administrative Code: Licensing of Wholesale Distributors of Nonprescription Drugs -- including Good Manufacturing Practices</h3>
-<p><a title="25 Texas Administrative Code (TAC), &sect;&sect; 229.241 - 229.252" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=17195">25 Texas Administrative Code (TAC), &sect;&sect;229.241 &ndash; 229.252</a> <span class="small">(PDF, 140KB)</span></p>
+<p><a title="25 Texas Administrative Code (TAC), &sect;&sect; 229.241 - 229.252" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17195">25 Texas Administrative Code (TAC), &sect;&sect;229.241 &ndash; 229.252</a> <span class="small">(PDF, 140KB)</span></p>
 
 <p><strong>Section:</strong></p>
 <ul>
@@ -55,7 +53,7 @@ li*5
 </ul>
 
 <h3><a title="federal-nonprescription" class="bookmark" name="federal-nonprescription"></a>Federal Laws and Regulations Adopted by Reference</h3>
-<p>For a complete list of regulations adopted by reference, please see the <a title="federal laws page" href="/drugs/federal-regulations.aspx">federal laws page</a>.</p>
+<p>For a complete list of regulations adopted by reference, please see the <a title="federal laws page" href="/drugs/federal-regulations.aspx">federal regulations page</a>.</p>
 <hr/>
 
 <h2><a title="prescription" class="bookmark" name="prescription"></a>Drugs (Prescription)</h2>
@@ -96,7 +94,7 @@ li*5
 </ul>
 
 <h3><a title="federal-prescription" class="bookmark" name="federal-prescription"></a>Federal Laws and Regulations Adopted by Reference</h3>
-<p>For a complete list of regulations adopted by reference, please see the <a title="federal laws page" href="/drugs/federal-regulations.aspx#prescription">federal laws page</a>.</p>
+<p>For a complete list of regulations adopted by reference, please see the <a title="federal laws page" href="/drugs/federal-regulations.aspx#prescription">federal regulations page</a>.</p>
 <hr/>
 
 

@@ -9,7 +9,7 @@
 
 <ul>
 	<li><a title="Retail Food Establishment or Food Store Permit Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981100">Retail Food Establishment or Food Store Permit Application</a> <span class="small">(PDF, 113KB)</span></li>	
-	<li><a title="Food Establishment Inspection Application" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589969816">Food Establishment Inspection Application</a> <span class="small">(PDF, 37KB)</span></li>	
+	<li><a title="Food Establishment Inspection Application" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969816">Food Establishment Inspection Application</a> <span class="small">(PDF, 37KB)</span></li>	
 	<li><a title="Minor Amendment Change (Name, Address) for Retail Food Operation, Food Establishment, or Food Store" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981101">Minor Amendment Change (Name, Address) for Retail Food Operation, Food Establishment, Food Store</a> <span class="small">(PDF, 113KB)</span></li>
 </ul>
 <hr/>
@@ -37,7 +37,7 @@
 
 <ul>
 	<li><a title="School Food Operation Permit Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589941517">School Food Operation Permit Application</a> <span class="small">(PDF, 115KB)</span></li>
-	<li><a title="School Food Establishment Inspection Application" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=18569">School Food Establishment Inspection Application</a> <span class="small">(PDF, 38KB)</span></li>
+	<li><a title="School Food Establishment Inspection Application" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18569">School Food Establishment Inspection Application</a> <span class="small">(PDF, 38KB)</span></li>
 	<li><a title="Minor Amendment Change (Name, Address) for School Establishments" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981102">Minor Amendment Change (Name, Address) for School Establishments</a> <span class="small">(PDF, 114KB)</span></li>	
 </ul>
 <hr/>

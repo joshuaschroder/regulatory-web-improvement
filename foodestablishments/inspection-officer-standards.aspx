@@ -11,9 +11,9 @@
 
 <h2>Forms and Manuals</h2>
 <ul>
-	<li><a title="DSHS Certification Nomination Form" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18744">DSHS Certification Nomination Form</a> <span class="small">(PDF, 15KB)</span></li>
-	<li><a title="TFER Standardization and Certification Field Exercise Manual" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18770">TFER Standardization and Certification Field Exercise Manual</a> <span class="small">(PDF, 482KB)</span></li>
-    <li><a title="TFER Standardization and Certification Procedures Manual" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=18691">TFER Standardization and Certification Procedures Manual</a> <span class="small">(PDF, 413KB)</span></li>
+	<li><a title="DSHS Certification Nomination Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18744">DSHS Certification Nomination Form</a> <span class="small">(PDF, 15KB)</span></li>
+	<li><a title="TFER Standardization and Certification Field Exercise Manual" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18770">TFER Standardization and Certification Field Exercise Manual</a> <span class="small">(PDF, 482KB)</span></li>
+    <li><a title="TFER Standardization and Certification Procedures Manual" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18691">TFER Standardization and Certification Procedures Manual</a> <span class="small">(PDF, 413KB)</span></li>
 </ul>
 
 <?php include '../includes/footer.html' ?>

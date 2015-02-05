@@ -5,7 +5,7 @@
 ?>
 
 <hr/>
-<strong>Download this document:</strong> <a title="Certified Food Manager Classroom Training Programs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589987657">Certified Food Manager Test Sites</a> <span class="small">(PDF, 33KB)</span>
+<strong>Download this document:</strong> <a title="Certified Food Manager Classroom Training Programs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987657">Certified Food Manager Test Sites</a> <span class="small">(PDF, 33KB)</span>
 <hr/>
 
 <p>Many Licensed Programs offer training throughout the state.

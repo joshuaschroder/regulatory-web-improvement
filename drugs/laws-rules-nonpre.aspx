@@ -6,7 +6,7 @@
 
 <hr/>
 <h2><a title="nonprescription-distributors" class="bookmark" name="nonprescription-distributors"></a>25 Texas Administrative Code (TAC): Licensing of Wholesale Distributors of Nonprescription Drugs -- including Good Manufacturing Practices</h2>
-<p><a title="25 Texas Administrative Code (TAC), &sect;&sect; 229.241 - 229.252" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=17195">25 Texas Administrative Code (TAC), &sect;&sect;229.241 &ndash; 229.252</a> <span class="small">(PDF, 140KB)</span></p>
+<p><a title="25 Texas Administrative Code (TAC), &sect;&sect; 229.241 - 229.252" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17195">25 Texas Administrative Code (TAC), &sect;&sect;229.241 &ndash; 229.252</a> <span class="small">(PDF, 140KB)</span></p>
 
 <p><strong>Section:</strong></p>
 <ul>

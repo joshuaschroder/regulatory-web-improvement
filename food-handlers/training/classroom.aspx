@@ -4,7 +4,7 @@
 	include '../../includes/menus/no_menu.html'; 
 ?>
 <hr/>
-<p><strong><em>Download this Document:</em></strong> <a title="Accredited Food Handler Classroom Training Programs - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589992781">Accredited Food Handler Classroom Training Programs</a> <span class="small">(PDF, 40KB)</span>
+<p><strong><em>Download this Document:</em></strong> <a title="Accredited Food Handler Classroom Training Programs - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992781">Accredited Food Handler Classroom Training Programs</a> <span class="small">(PDF, 40KB)</span>
 </p>	
 <hr/>
 

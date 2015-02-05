@@ -5,7 +5,7 @@
 ?>
 
 <hr/>
-<strong>Download this document:</strong> <a title="Certified Food Manager Test Sites" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589987658">Certified Food Manager Test Sites</a> <span class="small">(PDF, 33KB)</span>
+<strong>Download this document:</strong> <a title="Certified Food Manager Test Sites" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987658">Certified Food Manager Test Sites</a> <span class="small">(PDF, 33KB)</span>
 <hr/>
 
 <p>Many licensed test sites offer the test throughout the state. Test schedules and locations can be obtained by contacting the licensed test site. Test site phone numbers and websites are listed below.</p>
