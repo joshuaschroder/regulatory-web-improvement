@@ -54,7 +54,7 @@
 			<li><p>Also, review the June 7, 2012, <a title="Rule Interpretation Regarding Co-Location Of Facilities and/or Other Programs/Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589970347">Rule Interpretation Regarding Co-Location Of Facilities and/or Other Programs/Services</a> <span class="small">(PDF, 48KB)</span> for additional submission requirements outlined in that document</p></li>
 		</ul>
 	</li>
-	<li><p>Acceptance of responsibility for knowledge and compliance with <a title="Standard of Care Rules (25 TAC &#167;448.103)" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=448&rl=103">Standard of Care Rules (25 TAC &#167;448.103)</a></p>
+	<li><p>Acceptance of responsibility for knowledge and compliance with <a title="Standard of Care Rules (25 TAC &#167;448.103)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=448&rl=103">Standard of Care Rules (25 TAC &#167;448.103)</a></p>
 		<ul>
 			<li><p>Applicants are required to comply with Standard of Care rules in 25 TAC, Chapter 448, and are encouraged to attend a pre-licensure conference to discuss those rules governing operation of a substance abuse treatment facility.</p> </li>
 			<li><p>When the application is otherwise complete and the application fee has been paid in full, the applicant will be notified by letter of available dates and locations for a pre-licensure conference.</p></li> 
@@ -62,12 +62,12 @@
 			<li><p>Pre-licensure conferences will be held each month alternately at Austin and Houston.</p></li>
 		</ul>
 	</li>
-	<li><p>The applicant, or a representative for the applicant, may attend a pre-licensure conference for orientation to the Standard of Care rules in <a title="25 TAC Chapter 448" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=448">25 TAC Chapter 448</a>.</p>
+	<li><p>The applicant, or a representative for the applicant, may attend a pre-licensure conference for orientation to the Standard of Care rules in <a title="25 TAC Chapter 448" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=448">25 TAC Chapter 448</a>.</p>
 		<ul>
 			<li><p>Upon completion of the pre-licensure conference and regardless of the scope of that conference, the applicant accepts responsibility for full knowledge and compliance by the applicant and its personnel with the Standard of Care rules in 25 TAC Chapter 448, including revisions, and other applicable law.</p></li>
 		</ul>
 	</li>
-	<li><p>The applicant, or a representative for the applicant, may also decline attendance at a pre-licensure conference for orientation to the Standard of Care rules in <a title="25 TAC Chapter 448" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=448">25 TAC Chapter 448</a>. </p>
+	<li><p>The applicant, or a representative for the applicant, may also decline attendance at a pre-licensure conference for orientation to the Standard of Care rules in <a title="25 TAC Chapter 448" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=448">25 TAC Chapter 448</a>. </p>
 		<ul>
 			<li><p><strong>However</strong>, the applicant must affirm that its principal(s) have thoroughly reviewed the Standard of Care rules at 25 TAC Chapter 448, and accept responsibility for full knowledge and compliance by the applicant and its personnel with all applicable laws, including the Standard of Care rules in 25 TAC Chapter 448, including revisions.</p></li>
 		</ul>

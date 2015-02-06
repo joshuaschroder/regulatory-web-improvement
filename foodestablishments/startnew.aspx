@@ -34,7 +34,7 @@
 
 <hr/>
 <h2><a href="#" name="permit" title="permit" class="bookmark"></a>Permitting</h2>
-<p>Unless specifically exempted, a retail food establishment located in any area regulated by Texas Department of State Health Services (DSHS) must have a valid permit before operating. Permit exemptions may be reviewed at <a title="25 TAC 229.371(6)(B)" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=371">25 TAC 229.371(6)(B)</a> and <a title="25TAC 229.372(b) and (c)" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=372">25TAC 229.372(b) and (c)</a>.</p>
+<p>Unless specifically exempted, a retail food establishment located in any area regulated by Texas Department of State Health Services (DSHS) must have a valid permit before operating. Permit exemptions may be reviewed at <a title="25 TAC 229.371(6)(B)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=371">25 TAC 229.371(6)(B)</a> and <a title="25TAC 229.372(b) and (c)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=372">25TAC 229.372(b) and (c)</a>.</p>
 
 <p>DSHS regulates retail food establishments in all areas of the State that are not permitted and inspected by local health agencies. To determine the permitting and inspecting agency, contact your city or county government offices. If you need additional assistance, contact us at (512) 834-6753.</p>
 
@@ -86,16 +86,16 @@
 </ul>
 
 <h3><a href="#" name="mobile" title="mobile" class="bookmark"></a>Mobile Food Units:</h3>
-<p>Minimum requirements can be reviewed at <a title="25 TAC 229.169" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=169">25 TAC 229.169</a> and on the <a title="Mobile Food Establishment Checklist - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953611">Mobile Food Establishment Checklist</a> <span class="small">(PDF, 41KB)</span>.</p>
+<p>Minimum requirements can be reviewed at <a title="25 TAC 229.169" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=169">25 TAC 229.169</a> and on the <a title="Mobile Food Establishment Checklist - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953611">Mobile Food Establishment Checklist</a> <span class="small">(PDF, 41KB)</span>.</p>
 <p>Please also see the <a title="Checklist for Roadside Food Vendors" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589957885">Checklist for Roadside Food Vendors</a> <span class="small">(PDF, 45KB)</span>.</p>
 <p><strong><em>NOTE:</em></strong> Mobile food unit operators typically prepare or handle unpackaged foods. Roadside vendors are limited to handling pre-packaged foods only.</p>
 
 <h3><a href="#" name="temporary" title="temporary" class="bookmark"></a>Temporary Food Establishments:</h3>
-<p>Minimum requirements can be reviewed at <a title="25 TAC 229.170" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=170">25 TAC 229.170</a> and on the <a title="Temporary Food Establishment Fact Sheet" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18762">Temporary Food Establishment Fact Sheet</a> <span class="small">(PDF, 71KB)</span>.</p>
+<p>Minimum requirements can be reviewed at <a title="25 TAC 229.170" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=170">25 TAC 229.170</a> and on the <a title="Temporary Food Establishment Fact Sheet" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18762">Temporary Food Establishment Fact Sheet</a> <span class="small">(PDF, 71KB)</span>.</p>
 
 
 <h3><a href="#" name="surfaces" title="surfaces" class="bookmark"></a>Food Contact Surfaces of Equipment:</h3>
-<p>Minimum requirements can be reviewed at <a title="25 TAC 229.165" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=165">25 TAC 229.165</a> or the TFER, Section 229.165(a)(1).</p>
+<p>Minimum requirements can be reviewed at <a title="25 TAC 229.165" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=165">25 TAC 229.165</a> or the TFER, Section 229.165(a)(1).</p>
 <hr/>
 
 <h2><a href="#" name="water" title="water" class="bookmark"></a>Approved Water Source/Water Wells</h2>
@@ -108,7 +108,7 @@
 <hr/>
 
 <h2><a href="#" name="restrictions" title="restrictions" class="bookmark"></a>Restrictions on Commercial Food Preparation in a Home</h2>
-<p>The <a title="Texas Food Establishment Rules (TFER), Section 229.167(d)(10)" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=167">Texas Food Establishment Rules (TFER), Section 229.167(d)(10)</a> states: A private home, a room used as living or sleeping quarters, or an area directly opening into a room used as living or sleeping quarters may not be used for conducting food establishment operations.</p>
+<p>The <a title="Texas Food Establishment Rules (TFER), Section 229.167(d)(10)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=167">Texas Food Establishment Rules (TFER), Section 229.167(d)(10)</a> states: A private home, a room used as living or sleeping quarters, or an area directly opening into a room used as living or sleeping quarters may not be used for conducting food establishment operations.</p>
 <hr/>
 
 <h2><a href="#" name="rules" title="rules" class="bookmark"></a>Texas Food Establishment Rules (TFER)</h2>

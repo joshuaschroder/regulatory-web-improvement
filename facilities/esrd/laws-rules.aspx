@@ -14,7 +14,7 @@
 
 <h2 id="rules">Rules &amp; Regulations</h2>
 <ul>
-	<li><a title="End Stage Renal Disease State Regulations - 25 TAC &#167; 117 - HTML" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=117">End Stage Renal Disease State Regulations - 25 TAC &#167; 117</a> <span class="small">(HTML)</span></li>
+	<li><a title="End Stage Renal Disease State Regulations - 25 TAC &#167; 117 - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=117">End Stage Renal Disease State Regulations - 25 TAC &#167; 117</a> <span class="small">(HTML)</span></li>
 	<li><a title="End Stage Renal Disease State Regulations - 25 TAC &#167; 117 - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=55032">End Stage Renal Disease State Regulations - 25 TAC &#167; 117</a> <span class="small">(PDF, 277KB)</span></li>
 	<li><a title="ESRD Additional Staffing Guidelines Chart" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589951130">ESRD Additional Staffing Guidelines Chart</a> <span class="small">(PDF, 44KB)</span></li>
 	<li><a title="Federal Regulations - Conditions For Coverage Of Suppliers Of End-Stage Renal Disease (ESRD) Services" href="http://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title42/42cfr405_main_02.tpl">Federal Regulations - Conditions For Coverage Of Suppliers Of End-Stage Renal Disease (ESRD) Services</a>

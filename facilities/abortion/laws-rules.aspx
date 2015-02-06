@@ -12,7 +12,7 @@
 
 <h2>Rules and Regulations</h2>
 <ul>
-    <li><a title="Abortion Facility Reporting and Licensing - HTML" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=139">Abortion Facility Reporting and Licensing - HTML</a> <span class="small">(HTML)</span></li>
+    <li><a title="Abortion Facility Reporting and Licensing - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=139">Abortion Facility Reporting and Licensing - HTML</a> <span class="small">(HTML)</span></li>
     <li><a title="Abortion Facility Reporting and Licensing - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51080">Abortion Facility Reporting and Licensing - PDF</a> <span class="small">(PDF, 198KB)</span></li>    
 </ul>    
 

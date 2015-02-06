@@ -15,7 +15,7 @@
 
 <h2>Rules and Regulations</h2>
 <ul>
-	<li><a title="25 TAC 131 - Freestanding Emergency Medical Care Facilities - HTML" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=131">25 TAC 131 - Freestanding Emergency Medical Care Facilities</a> <span class="small">(HTML)</span></li>
+	<li><a title="25 TAC 131 - Freestanding Emergency Medical Care Facilities - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=131">25 TAC 131 - Freestanding Emergency Medical Care Facilities</a> <span class="small">(HTML)</span></li>
 	<li><a title="25 TAC 131 - Freestanding Emergency Medical Care Facilities - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=55033">25 TAC 131 - Freestanding Emergency Medical Care Facilities</a> <span class="small">(PDF, 705KB)</span></li>
 </ul>	
 

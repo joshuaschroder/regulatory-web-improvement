@@ -8,7 +8,7 @@
 <hr/>
 
 <h2>Important Notice for Retailers of Pseudoephedrine and Ephedrine Containing Over-The-Counter Drugs</h2>
-<p>The Texas Department of State Health Services (DSHS) adopted <a title="25 Texas Administrative Code (TAC), §§230.11-230.16" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=230&sch=B&rl=Y">25 Texas Administrative Code (TAC), §§230.11 &ndash; 230.16</a>, concerning <em>"Limitations on Sales of Products Containing Ephedrine, Pseudoephedrine, and Norpseudoephedrine"</em> - June 19, 2006. </p>
+<p>The Texas Department of State Health Services (DSHS) adopted <a title="25 Texas Administrative Code (TAC), §§230.11-230.16" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=230&sch=B&rl=Y">25 Texas Administrative Code (TAC), §§230.11 &ndash; 230.16</a>, concerning <em>"Limitations on Sales of Products Containing Ephedrine, Pseudoephedrine, and Norpseudoephedrine"</em> - June 19, 2006. </p>
 <p>These sections are necessary to comply with <a title="Chapter 486" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.486.htm">Health and Safety Code (HSC), Chapter 486</a>, relating to the over-the-counter sales of ephedrine, pseudoephedrine, and norpseudoephedrine. </p>
 <p>Under Chapter 486, any business establishment (other than a pharmacy licensed by the Board of Pharmacy) that wishes to engage in over-the-counter sales of products containing any quantity of ephedrine, pseudoephedrine, or norpseudoephedrine must have a <a title="Certificate of Authority (COA)" href="/certificate-of-free-sale/forms.aspx">Certificate of Authority (COA)</a> from DSHS.</p>
 <p>In order to obtain a COA, a business must: </p>

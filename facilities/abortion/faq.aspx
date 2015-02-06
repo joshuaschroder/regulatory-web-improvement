@@ -64,7 +64,7 @@
 </dl>
 <p><a href="#TopOfQues">Back to Top</a></p>
 <hr/>
-<h2 id="tac139"><a title="Abortion Facility Reporting And Licensing" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=139">Patient Identification and Proof of Age</a></h2>
+<h2 id="tac139"><a title="Abortion Facility Reporting And Licensing" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=139">Patient Identification and Proof of Age</a></h2>
 <p>Sec 139.41(a)(8)(A)&amp;(B) Policies to ensure all women who present to obtain an abortion provide identification that includes the woman's date of birth.<br />"The facility will keep a copy of the identification presented or the affidavit in its files." </p>
 <dl>
 	<dt>16. If the facility does not keep these copies in each woman's clinical record, but keeps them in a central location,  can this information be discovered through legal means?<br/><br/></dt>
@@ -76,7 +76,7 @@
 </dl>
 <p><a href="#TopOfQues">Back to Top</a></p>
 <hr/>
-<h2 id="tac139.43"><a title="Personnel Policies" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=139&rl=43">Training of Abortion Facility Personnel</a></h2>
+<h2 id="tac139.43"><a title="Personnel Policies" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=139&rl=43">Training of Abortion Facility Personnel</a></h2>
 <dl>
 	<dt>19. What is the timeframe for facility personnel to complete a training program developed jointly by the Department of State Health Services and the Department of Protective and Regulatory Services?  When will this training be available? <br/><br/></dt>
 	<dd>ANSWER:  The program is available on the Department of State Health Services (DSHS) Web site.  DSHS will allow a reasonable time period for facilities to ensure all personnel have completed the training.<br/><br/></dd>
@@ -87,7 +87,7 @@
 </dl>
 <p><a href="#TopOfQues">Back to Top</a></p>
 <hr/>
-<h2 id="tac139.5"><a title="TAC Section 139.50" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=T&app=5&p_dir=P&p_rloc=141040&p_tloc=&p_ploc=1&pg=4&p_tac=141040&ti=25&pt=1&ch=139&rl=51">Disclosure Requirements</a></h2>
+<h2 id="tac139.5"><a title="TAC Section 139.50" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=5&p_dir=P&p_rloc=141040&p_tloc=&p_ploc=1&pg=4&p_tac=141040&ti=25&pt=1&ch=139&rl=51">Disclosure Requirements</a></h2>
 <dl>
 	<dt>22. What constitutes an "initial consultation"?<br/><br/></dt>
 	<dd>ANSWER: Providing the woman with information regarding informed consent information in accordance with HSC Chapter 171. <br/><br/></dd>
@@ -105,7 +105,7 @@
 </dl>
 <p><a href="#TopOfQues">Back to Top</a></p>
 <hr/>
-<h2 id="tac139.52"><a title="Patient Education/Information Services" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=139&rl=52">Patient Education / Information Services</a></h2>
+<h2 id="tac139.52"><a title="Patient Education/Information Services" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=139&rl=52">Patient Education / Information Services</a></h2>
 	<p>"(4) ensure, when medically appropriate, the patient is advised of the physician's obligation to take all reasonable steps to maintain the life and health of a child that is born alive."</p>
 <dl>
 	<dt>26. When is it medically appropriate?<br/><br/></dt>

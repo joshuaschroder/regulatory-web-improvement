@@ -16,7 +16,7 @@
 
 <h3>Texas Rules &amp; Regulations</h3>
 <ul>	
-	<li><a title="General Hospital Licensing State Regulations - HTML" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=133">General Hospital Licensing State Regulations</a> <span class="small">(HTML)</span></li>
+	<li><a title="General Hospital Licensing State Regulations - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=133">General Hospital Licensing State Regulations</a> <span class="small">(HTML)</span></li>
 	<li><a title="General Hospital Licensing State Regulations - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589972119">General Hospital Licensing State Regulations</a> <span class="small">(PDF, 1MB)</span></li>
 </ul>
 <hr/>
@@ -31,7 +31,7 @@
 
 <h3>Texas Rules &amp; Regulations</h3>
 <ul>
-	<li><a title="Private Psychiatric Hospitals and CSUs State Regulations - HTML" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=134">Private Psychiatric Hospitals and CSUs State Regulations</a> <span class="small">(HTML)</span></li>
+	<li><a title="Private Psychiatric Hospitals and CSUs State Regulations - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=134">Private Psychiatric Hospitals and CSUs State Regulations</a> <span class="small">(HTML)</span></li>
 	<li><a title="Private Psychiatric Hospitals and CSUs State Regulations - PDF" href="http://www.dshs.state.tx.us/hfp/pdf/PrivatePsychiatricHosp/PPHCSUrulesChapter134/">Private Psychiatric Hospitals and CSUs State Regulations</a> <span class="small">(PDF, 364KB)</span></li>
 </ul>
 <hr/>

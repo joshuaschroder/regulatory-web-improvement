@@ -15,10 +15,10 @@
 <h2>Rules &amp; Regulations</h2>
 
 <ul>
-	<li><a title="25 TAC, Chapter 229 (K) - Texas Food Establishments Rules (TFER)  Publication #1-1" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=K&rl=Y">25 TAC, Chapter 229 (K) - Texas Food Establishments Rules (TFER)  Publication #1-1</a> <span class="small">(HTML)</span></li>
+	<li><a title="25 TAC, Chapter 229 (K) - Texas Food Establishments Rules (TFER)  Publication #1-1" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=K&rl=Y">25 TAC, Chapter 229 (K) - Texas Food Establishments Rules (TFER)  Publication #1-1</a> <span class="small">(HTML)</span></li>
 	<li><a title="25 TAC, Chapter 229 (K) - Texas Food Establishments Rules (TFER)  Publication #1-1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18767">25 TAC, Chapter 229 (K) - Texas Food Establishments Rules (TFER)  Publication #1-1</a> <span class="small">(PDF, 566KB)</span></li>
-	<li><a title="25 TAC, Chapter 229 (U) - Permitting Retail Food Establishments" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=U&rl=Y">25 TAC, Chapter 229 (U) - Permitting Retail Food Establishments</a></li>
-	<li><a title="25 TAC, Chapter 229 (Z) - Inspection Fees for Retail Food Establishments" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=Z&rl=Y">25 TAC, Chapter 229 (Z) - Inspection Fees for Retail Food Establishments</a> <span class="small">(HTML)</span></li>
+	<li><a title="25 TAC, Chapter 229 (U) - Permitting Retail Food Establishments" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=U&rl=Y">25 TAC, Chapter 229 (U) - Permitting Retail Food Establishments</a></li>
+	<li><a title="25 TAC, Chapter 229 (Z) - Inspection Fees for Retail Food Establishments" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=Z&rl=Y">25 TAC, Chapter 229 (Z) - Inspection Fees for Retail Food Establishments</a> <span class="small">(HTML)</span></li>
 	<li><a title="25 TAC, Chapter 229 (Z) - Inspection Fees for Retail Food Establishments" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18696">25 TAC, Chapter 229 (Z) - Inspection Fees for Retail Food Establishments</a> <span class="small">(PDF, 32KB)</span></li>
 </ul>
 <hr/>

@@ -37,14 +37,14 @@
 <hr/>
 
 <h2 id="laws">Applicable Laws</h2>
-<p>Please refer to <a href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=1&sch=L&rl=Y" title="Title 25: Texas Administrative Code (TAC)">Title 25: Texas Administrative Code (TAC)</a>:</p>
+<p>Please refer to <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=1&sch=L&rl=Y" title="Title 25: Texas Administrative Code (TAC)">Title 25: Texas Administrative Code (TAC)</a>:</p>
 <ul>
-	<li>Chapter 117 – <a href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=117" title="End Stage Renal Disease Facilities">End Stage Renal Disease Facilities</a></li>
-	<li>Chapter 125 – <a href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=125" title="Special Care Facilities">Special Care Facilities</a></li>
-	<li>Chapter 131 – <a href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=131" title="Freestanding Emergency Medical Care Facilities">Freestanding Emergency Medical Care Facilities</a></li>
-	<li>Chapter 133 – <a href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=133" title="Hospital Licensing">Hospital Licensing</a></li>
-	<li>Chapter 134 – <a href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=134" title="Psychiatric Hospitals and Crisis Stabilization Units">Psychiatric Hospitals and Crisis Stabilization Units</a></li>
-	<li>Chapter 135 – <a href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=135" title="Ambulatory Surgical Centers">Ambulatory Surgical Centers</a></li>
+	<li>Chapter 117 – <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=117" title="End Stage Renal Disease Facilities">End Stage Renal Disease Facilities</a></li>
+	<li>Chapter 125 – <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=125" title="Special Care Facilities">Special Care Facilities</a></li>
+	<li>Chapter 131 – <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=131" title="Freestanding Emergency Medical Care Facilities">Freestanding Emergency Medical Care Facilities</a></li>
+	<li>Chapter 133 – <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=133" title="Hospital Licensing">Hospital Licensing</a></li>
+	<li>Chapter 134 – <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=134" title="Psychiatric Hospitals and Crisis Stabilization Units">Psychiatric Hospitals and Crisis Stabilization Units</a></li>
+	<li>Chapter 135 – <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=135" title="Ambulatory Surgical Centers">Ambulatory Surgical Centers</a></li>
 </ul>
 <hr/>
 

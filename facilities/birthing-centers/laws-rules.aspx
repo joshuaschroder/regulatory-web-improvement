@@ -14,7 +14,7 @@
 <h2 id="rules">Rules &amp; Regulations</h2>
 
 <ul>
-	<li><a title="Texas Administrative Code, Chapter 137 - HTML" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=137">Texas Administrative Code, Chapter 137</a> <span class="small">(HTML)</span></li>
+	<li><a title="Texas Administrative Code, Chapter 137 - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=137">Texas Administrative Code, Chapter 137</a> <span class="small">(HTML)</span></li>
 	<li><a title="Texas Administrative Code, Chapter 137 - PDF" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18896">Texas Administrative Code, Chapter 137</a> <span class="small">(PDF, 272KB)</span></li>
 </ul>
 

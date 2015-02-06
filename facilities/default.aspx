@@ -219,7 +219,7 @@
 	<hr/>
 	<ul>
 		<li><a title="Table of reporting periods" href="http://www.dshs.state.tx.us/chs/vstat/BirthingCenters.shtm">Table of Reporting Periods</a></li>
-		<li><a title="Texas Administrative Code" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.viewtac">Texas Administrative Code</a></li>
+		<li><a title="Texas Administrative Code" href="http://texreg.sos.state.tx.us/public/readtac$ext.viewtac">Texas Administrative Code</a></li>
 		<li><a title="Texas Medical Disclosure Panel " href="/facilities/medical-disclosure/">Texas Medical Disclosure Panel</a></li>
 		<li><a title="Texas Register" href="http://www.sos.state.tx.us/texreg/index.shtml">Texas Register</a></li>
 		<li><a title="Texas Statutes" href="http://www.statutes.legis.state.tx.us/">Texas Statutes</a></li>

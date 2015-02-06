@@ -43,7 +43,7 @@
 
 <h3>Rules and Regulations</h3>
 <ul>
-	<li><a title="Special Care Facilities State Regulations,	25 TAC &#167;125 - HTML" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=125&rl=Y">Special Care Facilities State Regulations, 25 TAC &#167;125</a> <span class="small">(HTML)</span></li>	
+	<li><a title="Special Care Facilities State Regulations,	25 TAC &#167;125 - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=125&rl=Y">Special Care Facilities State Regulations, 25 TAC &#167;125</a> <span class="small">(HTML)</span></li>	
 	<li><a title="Special Care Facilities State Regulations,	25 TAC &#167;125 - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589950516">Special Care Facilities State Regulations, 25 TAC &#167;125</a> <span class="small">(PDF, 371KB)</span></li>	
 </ul>
 <hr/>

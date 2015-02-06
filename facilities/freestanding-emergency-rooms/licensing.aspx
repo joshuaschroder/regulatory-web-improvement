@@ -16,7 +16,7 @@
 	<li>A license fee of $14,820.00 shall be submitted. <em>License fees are not refundable</em>.</li>
 	<li>Patient Transfer Documents:
 		<ul>
-			<li>A copy of the facility’s Patient Transfer Policy that is in accordance with <a title="25 TAC &#167;131.66 - Patient Transfer Policy" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=131&rl=66">&#167;131.66 Patient Transfer Policy</a>, and signed by the Chairman and Secretary of the Governing Body shall be submitted.</li>
+			<li>A copy of the facility’s Patient Transfer Policy that is in accordance with <a title="25 TAC &#167;131.66 - Patient Transfer Policy" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=131&rl=66">&#167;131.66 Patient Transfer Policy</a>, and signed by the Chairman and Secretary of the Governing Body shall be submitted.</li>
 			<li>A copy of the facility’s Memorandum of Transfer form that is in accordance with &#167;131.66(b)(9) shall be submitted.</li>
 			<li>A copy of the facility’s Patient Transfer Agreement with a General Hospital that is in accordance with §131.67 Patient Transfer Agreements shall be submitted.</li>
 			<li>Please submit transfer documents to Lisa Peers, RN, BSN, Nurse Consultant, at <a title="lisa.peers@dshs.state.tx.us" href="mailto:lisa.peers@dshs.state.tx.us">lisa.peers@dshs.state.tx.us</a> or fax to (512) 834-4514 for approval. Ms. Peers may also be contacted by telephone at (512) 834-6600, extension 2615.</li>
@@ -33,7 +33,7 @@
 	<li>A license fee of $14,820.00 shall be submitted. <em>License fees are not refundable</em>.</li>
 	<li>Patient Transfer Documents:
 		<ul>
-			<li>A copy of the facility’s Patient Transfer Policy that is in accordance with <a title="25 TAC &#167;131.66 - Patient Transfer Policy" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=131&rl=66">&#167;131.66 Patient Transfer Policy</a>, and signed by the Chairman and Secretary of the Governing Body shall be submitted.</li>
+			<li>A copy of the facility’s Patient Transfer Policy that is in accordance with <a title="25 TAC &#167;131.66 - Patient Transfer Policy" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=131&rl=66">&#167;131.66 Patient Transfer Policy</a>, and signed by the Chairman and Secretary of the Governing Body shall be submitted.</li>
 			<li>A copy of the facility’s Memorandum of Transfer form that is in accordance with &#167;131.66(b)(9) shall be submitted.</li>
 			<li>A copy of the facility’s Patient Transfer Agreement with a General Hospital that is in accordance with §131.67 Patient Transfer Agreements shall be submitted.</li>
 			<li>Please submit transfer documents to Lisa Peers, RN, BSN, Nurse Consultant, at <a title="lisa.peers@dshs.state.tx.us" href="mailto:lisa.peers@dshs.state.tx.us">lisa.peers@dshs.state.tx.us</a> or fax to (512) 834-4514 for approval. Ms. Peers may also be contacted by telephone at (512) 834-6600, extension 2615.</li>
@@ -50,7 +50,7 @@
 	<li>A license fee of $14,820.00 shall be submitted. <em>License fees are not refundable</em>.</li>
 	<li>Patient Transfer Documents:
 		<ul>
-			<li>A copy of the facility’s Patient Transfer Policy that is in accordance with <a title="25 TAC &#167;131.66 - Patient Transfer Policy" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=131&rl=66">&#167;131.66 Patient Transfer Policy</a>, and signed by the Chairman and Secretary of the Governing Body shall be submitted.</li>
+			<li>A copy of the facility’s Patient Transfer Policy that is in accordance with <a title="25 TAC &#167;131.66 - Patient Transfer Policy" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=131&rl=66">&#167;131.66 Patient Transfer Policy</a>, and signed by the Chairman and Secretary of the Governing Body shall be submitted.</li>
 			<li>A copy of the facility’s Memorandum of Transfer form that is in accordance with &#167;131.66(b)(9) shall be submitted.</li>
 			<li>A copy of the facility’s Patient Transfer Agreement with a General Hospital that is in accordance with §131.67 Patient Transfer Agreements shall be submitted.</li>
 			<li>Please submit transfer documents to Lisa Peers, RN, BSN, Nurse Consultant, at <a title="lisa.peers@dshs.state.tx.us" href="mailto:lisa.peers@dshs.state.tx.us">lisa.peers@dshs.state.tx.us</a> or fax to (512) 834-4514 for approval. Ms. Peers may also be contacted by telephone at (512) 834-6600, extension 2615.</li>

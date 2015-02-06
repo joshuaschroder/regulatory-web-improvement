@@ -15,8 +15,8 @@
 
 <h2>Rules and Regulations</h2>
 <ul>
-	<li><a title="Minimum Standards for Narcotic Treatment Programs - Texas Administrative Code" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=J&rl=Y">Minimum Standards for Narcotic Treatment Programs - Texas Administrative Code</a></li>
-	<li><a title="Assessment of Administrative Penalties - Texas Administrative Code" href="http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">Assessment of Administrative Penalties - Texas Administrative Code</a></li>
+	<li><a title="Minimum Standards for Narcotic Treatment Programs - Texas Administrative Code" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=J&rl=Y">Minimum Standards for Narcotic Treatment Programs - Texas Administrative Code</a></li>
+	<li><a title="Assessment of Administrative Penalties - Texas Administrative Code" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">Assessment of Administrative Penalties - Texas Administrative Code</a></li>
 	<li><a title="Guidance Regarding Co-location of Facilities and/or Other Programs/Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589970347">Guidance Regarding Co-location of Facilities and/or Other Programs/Services</a> <span class="small">(PDF, 48KB)</span></li>
 	<li><a title="Certification of Opioid Treatment Programs - Code of Federal Regulations" href="http://www.access.gpo.gov/nara/cfr/waisidx_02/42cfr8_02.html">Certification of Opioid Treatment Programs - Code of Federal Regulations</a></li>
 	<li><a title="Adopted Narcotic Treatment Program Rules Memo - PDF" href="http://www.dshs.state.tx.us/hfp/PDF/NTP01-02Regmemo.pdf">Adopted Narcotic Treatment Program Rules Memo</a> <span class="small">(PDF, 35KB)</span></li>
