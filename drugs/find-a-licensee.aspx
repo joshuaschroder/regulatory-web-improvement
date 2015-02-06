@@ -1,27 +1,28 @@
 <?php 
-    $title= "Find a Licensee - Drug Manufacturers and Distributors" ; 
+    $title= "Public License Search - Drug Manufacturers and Distributors" ; 
     include '../includes/header.html'; 
     include '../includes/menus/drugs_menu.html'; 
 ?>
 
-
-<hr />
-<h2>Search the Online Licensing System</h2>
-<p>When you select the link below, you will be taken to the Division for Regulatory Services - Online License Services public license search page where you may verify a license.</p>
-<p><strong>NOTE:</strong> When the online licensing page loads, <strong><em>please select the link "Public License Search" </em></strong>on the left side, which will direct you to the search page.&#160; <strong>You do not need to register</strong>, or enter a "User ID", or enter a password to use the Public License Search tool.&#160;</p>
-<h4><a title="Public License Search" href="https://vo.ras.dshs.state.tx.us/">Public License Search</a></h4>
-
 <p>An online search is now available for the following license types: </p>
 <ul>
-	<li>Bloodborne Pathogens</li>
-	<li>Body Piercing Studio</li>
-	<li>Devices</li>
 	<li>Multiple Products</li>
 	<li>Nonprescription Drugs</li>
 	<li>Prescription Drugs</li>
 	<li>Pseudoephedrine </li>
-	<li>Tanning Facility</li>
-	<li>Tattoo Studio</li>
 </ul>
-<hr />
+
+<p><a title="Begin Your Public License Search Here" href="https://vo.ras.dshs.state.tx.us">Begin Your Public License Search Here</a></p>
+<p><em>The Public License Search provided by the Division for Regulatory Services - Online License Services contains the most current licensing information.&nbsp;</em></p>
+<p><strong>You don't have to log in to use the search tool.</strong><br>From the online license services homepage, click <a title="License Search" href="https://vo.ras.dshs.state.tx.us/datamart/selSearchTypeTXRAS.do?from=loginPage">License Search</a>.</p>
+<p>You can search for a licensee by any one of the following ways: </p>
+<ul>
+	<li>Search by <em><strong>Owner</strong></em><strong><em> Name</em></strong> </li>
+	<li>Search by <em><strong>Owner Name for a Specified License Type</strong></em><strong></strong> </li>
+	<li>Search by <em><strong>License Number</strong></em> (7 Digit State License Number) </li>
+	<li>Search by <em><strong>City </strong></em>for a Specified License Type </li>
+	<li>Search by <em><strong>County</strong></em> for a Specified License Type </li>
+</ul>
+<p>From your search results screen, you can then choose to view the <em><strong>DBA Name, Physical Location, Rank and Expire Dates</strong></em> of a licensee by clicking on the <strong>Owner Name</strong>.</p>
+
 <?php include '../includes/footer.html' ?>

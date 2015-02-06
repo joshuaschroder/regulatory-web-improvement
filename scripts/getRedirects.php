@@ -65,15 +65,17 @@ foreach($urls as $url) {
         if( substr($header, 0, 10) == "Location: " ) { 
             $target = substr($header, 10);
             $target = "http://www.dshs.state.tx.us" . $target;
-            $target = rtrim($target, "pdf");
-            $target = rtrim($target, "doc");
-            $target = $target . "pdf";
-            $ret = round(remote_filesize($target)/1000) . " KB";
+            //$target = rtrim($target, "pdf");
+            //$target = rtrim($target, "doc");
+            //$target = $target . "pdf";
+            //$ret = round(remote_filesize($target)/1000) . " KB";
+            $ret = "--";
             echo "<td><a href=\"$url\">$url</a></td> <td><a href=\"$target\">$target</td><td>$ret</td>";
             continue 2;
         }   
     }   
-    $ret = round(remote_filesize($url)/1000) . " KB";
+    //$ret = round(remote_filesize($url)/1000) . " KB";
+    $ret = "--";
     echo "<td></td><td><a href=\"$url\">$url</a></td><td>$ret</td>";
     echo "</tr>";
     
