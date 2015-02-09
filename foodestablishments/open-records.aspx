@@ -41,7 +41,7 @@
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
 <p><em><strong>Please be advised that there may be a charge for the information you are requesting.</strong></em></p>
-<p><em><strong>Other mailing addresses are available on the <a title="Contact Us" href="/foodestablishments/contact.shtm">Contact page</a>.</strong></em></p>
+<p><em><strong>Other mailing addresses are available on the <a title="Contact Us" href="/foodestablishments/contact.aspx">Contact page</a>.</strong></em></p>
 <hr/>
 
 <h2>Rights of Requestors</h2>
@@ -74,8 +74,8 @@
 <hr/>
 
 <h2>Additional Resources</h2>
-<p><a href="http://www.dshs.state.tx.us/policy/openrecords.shtm" target="_blank">The Texas Department of State Health Services, Internal Open Records Policy </a></p>
-<p><a href="http://www.oag.state.tx.us/opinopen/opengovt.shtml" target="_blank">The Office of Attorney General of Texas </a></p>
+<p><a href="http://www.dshs.state.tx.us/policy/openrecords.shtm">The Texas Department of State Health Services, Internal Open Records Policy </a></p>
+<p><a href="https://www.texasattorneygeneral.gov/og/open-government">The Office of Attorney General of Texas </a></p>
 
 
 <?php include '../includes/footer.html' ?>

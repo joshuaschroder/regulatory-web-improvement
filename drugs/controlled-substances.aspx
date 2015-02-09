@@ -4,11 +4,7 @@
     include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>
 
-<p>PURSUANT TO THE TEXAS CONTROLLED SUBSTANCES ACT, HEALTH AND SAFETY CODE, CHAPTER 481, THESE SCHEDULES SUPERCEDE PREVIOUS SCHEDULES AND CONTAIN THE MOST CURRENT VERSION OF THE SCHEDULES OF ALL CONTROLLED SUBSTANCES FROM THE PREVIOUS SCHEDULES AND MODIFICATIONS.</p>
-
-<p>This annual publication of the Texas Schedules of Controlled Substances was signed by David L. Lakey, Commissioner of Health, and will take effect 21 days following publication of this notice in the Texas Register.</p>
-
-<p>Changes to the schedules are designated by an asterisk (*). Additional information can be obtained by contacting the Department of State Health Services, Drugs and Medical Devices Group, P.O. Box 149347, Austin, Texas 78714-9347. The telephone number is (512) 834-6755.</p>
+<p>Additional information can be obtained by contacting the Department of State Health Services, Drugs and Medical Devices Group, P.O. Box 149347, Austin, Texas 78714-9347. The telephone number is (512) 834-6755.</p>
 
 <hr/>
 <h2>2014 Controlled Substance Schedule</h2>
@@ -48,7 +44,7 @@
 	</li>
 </ul>
 <hr/>
-<h2>Archives of Previous Years Controlled Substance Schedules</h2>
+<h2>Archives of Previous Years' Controlled Substance Schedules</h2>
 <p>Archives of prior schedules and changes may be found on the <a title="controlled substance archive page" href="/drugs/controlled-substance-archives.aspx">controlled substance archive page</a>.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

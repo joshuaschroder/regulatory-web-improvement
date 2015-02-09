@@ -4,7 +4,28 @@
     include '../includes/menus/drugs_menu.html'; 
 ?>
 <hr/>
-<h2>Drug Distributors</h2>
+<h2><a name="manufacturers"></a>Drug Manufacturers</h2>
+
+<ul>
+	<li>
+		<a title="Drug Manufacturer – Nonprescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969261">Nonprescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)</a> 
+		<br/><span class="small">(PDF, 151KB)</span> <span class="small">Document Number EF23-13006</span>
+	</li>
+	<li>
+		<a title="Drug Manufacturer – Nonprescription Drugs License Application - Minor Amendment Change (Name, Address)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969262">Nonprescription Drugs License Application - Minor Amendment Change (Name, Address)</a> <span class="small">(PDF, 151KB)</span>
+		<br/><span class="small">Document Number EF23-13007</span>
+	</li>
+	<li>
+		<a title="Drug Manufacturer – Prescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969248">Prescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)</a> <span class="small">(PDF, 253KB)</span>
+		<br/><span class="small">Document Number EF23-13008</span>
+	</li>
+	<li>
+		<a title="Drug Manufacturer – Prescription Drugs License Application - Minor Amendment Change (Name, Address)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969249">Prescription Drugs License Application - Minor Amendment Change (Name, Address)</a> <span class="small">(PDF, 235KB)</span>
+		<br/><span class="small">Document Number EF23-13009</span>
+	</li>
+</ul>
+<hr/>
+<h2><a name="distributors"></a>Drug Distributors</h2>
 
 <ul>
 	<li>
@@ -25,7 +46,7 @@
 	</li>
 </ul>
 
-<h3>Out of State Drug Distributors</h3>
+<h3><a name="out-of-state"></a>Out of State Drug Distributors</h3>
 <ul>
 	<li>
 		<a title="Out-of-State Drug Distributor – Nonprescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969258">Nonprescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)</a> 
@@ -45,30 +66,9 @@
 	</li>	
 </ul>
 
-<hr/>
-<h2>Drug Manufacturers</h2>
-
-<ul>
-	<li>
-		<a title="Drug Manufacturer – Nonprescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969261">Nonprescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)</a> 
-		<br/><span class="small">(PDF, 151KB)</span> <span class="small">Document Number EF23-13006</span>
-	</li>
-	<li>
-		<a title="Drug Manufacturer – Nonprescription Drugs License Application - Minor Amendment Change (Name, Address)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969262">Nonprescription Drugs License Application - Minor Amendment Change (Name, Address)</a> <span class="small">(PDF, 151KB)</span>
-		<br/><span class="small">Document Number EF23-13007</span>
-	</li>
-	<li>
-		<a title="Drug Manufacturer – Prescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969248">Prescription Drugs License Application - Initial, Renewal or Change of Ownership (including legal entity)</a> <span class="small">(PDF, 253KB)</span>
-		<br/><span class="small">Document Number EF23-13008</span>
-	</li>
-	<li>
-		<a title="Drug Manufacturer – Prescription Drugs License Application - Minor Amendment Change (Name, Address)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969249">Prescription Drugs License Application - Minor Amendment Change (Name, Address)</a> <span class="small">(PDF, 235KB)</span>
-		<br/><span class="small">Document Number EF23-13009</span>
-	</li>
-</ul>
 
 <hr/>
-<h2>Multiple Products</h2>
+<h2><a name="multiple-products"></a>Multiple Products</h2>
 
 <h3>Nonprescription Drugs-Food-Devices</h3>
 <ul>
@@ -95,7 +95,7 @@
 </ul>
 
 <hr/>
-<h2>Compressed Gasses</h2>
+<h2><a name="compressed-gasses"></a>Compressed Gasses</h2>
 
 <ul>
 	<li><a title="Batch Record for Medical Liquid Oxygen (Home Units FIlled Curbside)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17191">Batch Record for Medical Liquid Oxygen (Home Units FIlled Curbside)</a> <span class="small">(PDF, 48KB)</span></li>

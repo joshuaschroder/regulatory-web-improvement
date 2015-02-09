@@ -4,6 +4,7 @@
     include '../includes/menus/drugs_menu.html'; 
 ?>
 
+<hr/>
 <h2>Toll-Free Complaint and Inquiry Line (Voice Mail Only)</h2>
 <p>To report complaints or for inquiries, leave your name, phone number, and complaint or question on this voicemail-operated help line and your call will be returned by a staff member from the appropriate program area.</p>
 <p><strong>1-888-839-6676</strong></p>

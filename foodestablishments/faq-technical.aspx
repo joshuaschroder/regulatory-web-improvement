@@ -266,7 +266,7 @@
 
 <p>
 	<strong>Is an indirect ice machine drain that extends into a wastewater pipe a critical violation? </strong>§229.166(j)(2)
-	<br />No, reference FDA plumbing and cross connection guide. The guide can be found on the following website: <a title="http://www.fda.gov/Food/FoodSafety/RetailFoodProtection/ComplianceEnforcement/ucm107388.htm" href="http://www.fda.gov/Food/FoodSafety/RetailFoodProtection/ComplianceEnforcement/ucm107388.htm">http://www.fda.gov/Food/FoodSafety/RetailFoodProtection/ComplianceEnforcement/ucm107388.htm</a>
+	<br />No, reference the <a title="FDA plumbing and cross connection guide" href="http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/FoodCode/ucm186352.htm">FDA plumbing and cross connection guide.</a>
 	<br />(5/10/01)(Revised 6/8/11)
 </p>
 
