@@ -30,5 +30,6 @@
 <hr/>
 <h2><a name="cosmetics"></a>Cosmetic Products</h2>
 <p>Cosmetic manufacturers and wholesale distributors are not required to license with DSHS, nor are they required to register with the U.S. Food and Drug Administration. However, we ensure that cosmetics are properly labeled and do not contain harmful additives. We also ensure that the manufacturers and distributors of cosmetics do not make unsubstantiated or fraudulent claims about their products.</p>
+<p>For more information about cosmetic products, please see the <a title="Cosmetics Rules page" href="/drugs/rules-cosmetics.aspx">Cosmetics Rules page</a>.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
