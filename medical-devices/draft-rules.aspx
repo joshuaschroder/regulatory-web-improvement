@@ -1,7 +1,7 @@
 <?php
 	$title= "Draft and Proposed Rules - Medical Device Manufacturers and Distributors" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
+    include '/home/codio/workspace/includes/menus/mdev_menu.html'; 
 ?>
 
 <h2>Licensing of Device Distributors and Manufacturers </h2>

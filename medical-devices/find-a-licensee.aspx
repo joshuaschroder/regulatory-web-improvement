@@ -1,16 +1,9 @@
 <?php 
     $title= "Public License Search - Drug Manufacturers and Distributors" ; 
     include '../includes/header.html'; 
-    include '../includes/menus/drugs_menu.html'; 
+    include '../includes/menus/mdev_menu.html'; 
 ?>
 
-<p>An online search is now available for the following license types: </p>
-<ul>
-	<li>Multiple Products</li>
-	<li>Nonprescription Drugs</li>
-	<li>Prescription Drugs</li>
-	<li>Pseudoephedrine </li>
-</ul>
 
 <p><a title="Begin Your Public License Search Here" href="https://vo.ras.dshs.state.tx.us">Begin Your Public License Search Here</a></p>
 <p><em>The Public License Search provided by the Division for Regulatory Services - Online License Services contains the most current licensing information.&nbsp;</em></p>
