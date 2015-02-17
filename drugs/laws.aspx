@@ -14,5 +14,9 @@
 	<li><a title="Chapter 486, Over-the-Counter Sales of Ephedrine, Pseudoephedrine, and Norpseudoephedrine" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.486.htm">Chapter 486</a> - Over-the-Counter Sales of Ephedrine, Pseudoephedrine, and Norpseudoephedrine</li>
 	<li><a title="Chapter 826, Rabies Control Act of 1981" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.826.htm">Chapter 826</a> - Rabies Control Act of 1981</li>
 </ul>
+
+<hr/>
+<h2>Federal Laws and Regulations Adopted by Reference</h2>
+<p>For a complete list of regulations adopted by reference, please see the <a title="federal regulations page" href="/drugs/federal-regulations.aspx">federal regulations page</a>.</p>
 <hr/>
 <?php include '/home/codio/workspace/includes/footer.html' ?>

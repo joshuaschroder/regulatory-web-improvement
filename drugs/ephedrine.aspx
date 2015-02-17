@@ -1,5 +1,5 @@
 <?php
-	$title= "Dietary Supplements Containing Epehdrine and Herbal Products - Drug Manufacturers and Distributors" ;
+	$title= "Dietary Supplements Containing Epehdrine &amp; Herbal Products - Drug Manufacturers and Distributors" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>

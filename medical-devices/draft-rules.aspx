@@ -4,6 +4,7 @@
     include '/home/codio/workspace/includes/menus/mdev_menu.html'; 
 ?>
 
+<hr/>
 <h2>Licensing of Device Distributors and Manufacturers </h2>
 
 <p>
@@ -32,6 +33,6 @@
 </p>
 
 <p>Comments will be accepted for 30 days following publication of the proposed rules in the Texas Register</p>
-
+<hr/>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
