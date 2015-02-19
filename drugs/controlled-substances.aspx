@@ -30,14 +30,14 @@
 	</li>
 	<li>
 		<p>
-			<a title="39 TexReg 4031" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985115">Amendment Placing Perampanel into Schedule III as well as Placing Four Synthetics Cannabinoids (ex. AB-FUBINACA) and Ten Synthetic Cathinones (ex. MEC, butylone) into Schedule I Temporarily Listed Substances</a> <span class="small">(PDF, 112KB)</span><br/>
+			<a title="39 TexReg 4031" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985115">Amendment Placing Perampanel into Schedule III as well as Placing Four Synthetics Cannabinoids (ex. AB-FUBINACA) and Ten Synthetic Cathinones (ex. MEC, butylone) into Schedule I Temporary</a> <span class="small">(PDF, 112KB)</span><br/>
 			Effective June 13, 2014 <br/>
 			These amendments were published in the May 23, 2014 issue of the Texas Register.
 		</p>	
 	</li>
 	<li>
 		<p>
-			<a title="39 TexReg 796-797" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986159">Amendment Placing 25I-NBOMe, 25B-NBOMe and 25C-NBOMe into Schedule I Temporarily Listed Substances</a> <span class="small">(PDF, 120KB)</span><br/>
+			<a title="39 TexReg 796-797" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986159">Amendment Placing 25I-NBOMe, 25B-NBOMe &amp; 25C-NBOMe into Schedule I Temporary</a> <span class="small">(PDF, 120KB)</span><br/>
 			Effective February 28th, 2014 <br/>
 			This amendment was published in the February 7, 2014 issue of the Texas Register.
 		</p>	

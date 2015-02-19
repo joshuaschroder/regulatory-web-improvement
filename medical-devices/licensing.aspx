@@ -6,12 +6,16 @@
 
 <hr/>
 <h2>Online Licensing Options</h2>
-<p>Medical device manufacturers and distributors may use the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing System</a> to apply for new (initial) licenses or to renew existing licenses.</p> 
+
+<p>Medical device manufacturers and distributors may use the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing System</a> to apply for new (initial) licenses or to renew existing licenses. A additional fee may be charged for online licenses.</p> 
+
+<p>Licenses may be renewed online during the eligibility period beginning 60 days prior to the license expiration date and ending on the license expiration date.</p>
+
 <p>At this time, we are unable to process applications online for minor amendment changes to a license, such as name or address changes. Multiple product licenses may not be obtained or renewed using the online licensing system.</p>
 
 <hr/>
 <h2>Device Manufacturers</h2>
-<p>Medical device manufacturers may <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">license online</a>, or by completing and returning a <a title="license application form" href="/medical-devices/forms.aspx">license application form</a>. For assistance in completing applications, call (512) 834-6727.</p>
+<p>Medical device manufacturers may <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">apply for a license online</a>, or by completing and returning a <a title="license application form" href="/medical-devices/forms.aspx">license application form</a>. For assistance in completing applications, call (512) 834-6727.</p>
 <p>“Manufacturer” means a person who manufactures, fabricates, assembles, or processes a finished device. The term includes a person who repackages or relabels a finished device. The term does not include a person who only distributes a finished device. “Finished Device” means a device, or any accessory to a device, which is suitable for use, whether or not packaged or labeled for commercial distribution.</p>
 
 <h3>Fee Schedule For Device Manufacturers</h3>

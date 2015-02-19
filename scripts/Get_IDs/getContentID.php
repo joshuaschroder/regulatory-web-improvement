@@ -21,10 +21,10 @@
 	<?php
 
 	// Load the Array to Query
-	include 'content-ID.php';
+	include 'haystack.php';
 
 	// Load the file of search terms
-	$urls = file('input-ID.txt', FILE_IGNORE_NEW_LINES);
+	$urls = file('needle.txt', FILE_IGNORE_NEW_LINES);
 
 
 	//Start the loop

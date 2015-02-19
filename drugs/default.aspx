@@ -16,9 +16,9 @@
 
 <h2 id="contact">Contact Information</h2>
 <p>
-	<strong>Phone: </strong>(512) 834-6755<br/>
-	<strong>Fax:</strong> (512) 834-6759<br/>
-	<strong>Email:</strong> <em>Need Email Contact</em>
+	<strong>Phone: </strong>(512) 834-6727<br/>
+	<strong>Fax:</strong> (512) 834-6741<br/>
+	<strong>Email:</strong> <a title="Drugs-FoodSafety@dshs.state.tx.us" href="mailto:Drugs-FoodSafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a>
 </p>
 
 <p>Mailing addresses may be found on the <a title="contact page" href="/drugs/contact.aspx">contact page</a>.</p>
