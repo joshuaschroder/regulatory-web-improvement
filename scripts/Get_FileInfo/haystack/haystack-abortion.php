@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_abortion = array(
 	"8589935555"	=>	"http://www.dshs.state.tx.us/facilities/pdf/Abortion/abor-Affidavit-Frm-Spanish-update-7-06.pdf",
 	"8589935556"	=>	"http://www.dshs.state.tx.us/facilities/pdf/Abortion/AborAffidavitFrmSpanish.pdf",

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_psychiatriccrisisunits = array(
 	"8589951093"	=>	"http://www.dshs.state.tx.us/facilities/pdf/PsychiatricCrisisUnits/CrisisStabilizationUnitRenewalApp.pdf",
 	"8589935378"	=>	"http://www.dshs.state.tx.us/facilities/pdf/PsychiatricCrisisUnits/CrisisStabUnitApp.pdf",

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_ems_trauma = array(
 	"17274"	=>	"http://www.dshs.state.tx.us/emstraumasystems/Trauma/pdf/03-27-08_TaxExemptionDenialFromComptrollersOffice.pdf",
 	"17281"	=>	"http://www.dshs.state.tx.us/emstraumasystems/Trauma/pdf/09-Final-Disbursement-Summary-May-2009---Web.pdf",

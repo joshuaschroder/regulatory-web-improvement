@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_dmd_find = array(
 		"17180"	=>	"http://www.dshs.state.tx.us/dmd/pdf/find/BodyPiercingFirms.pdf",
 		"54933"	=>	"http://www.dshs.state.tx.us/dmd/pdf/find/MedicalDeviceFirms.pdf",

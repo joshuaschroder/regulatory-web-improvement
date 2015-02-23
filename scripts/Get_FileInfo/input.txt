@@ -1,3 +1,14 @@
-http://www.dshs.state.tx.us/seafood/MapsPDF/ADV-32-Hills-Lake-Map.pdf
-http://www.dshs.state.tx.us/seafood/PDF2/Active/32-ADV-32_signed.pdf
-http://www.dshs.state.tx.us/seafood/PDF2/HillsLake_PanolaCtyRC.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-1_signed_BrazosR.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-15_signed_BrazosR.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/PossessionBansSigned/ActiveBans/AL-10_signed_ComoL-FosdicL.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/AL-15_signed_Como.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Risk-Characterization/ComoLakeRC2005.pdf
+http://www.dshs.state.tx.us/seafood/MapsPDF/LakeComoAL-15Map-2007.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/PossessionBansSigned/ActiveBans/AL-1_signed_LavacaB.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/PossessionBansSigned/ActiveBans/AL-13_signed_LavacaB.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-4_signed_MCR_BBR_WEL.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-27-signed_MCR_BBR_WEL.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-2_signed_NechesR.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-13_signed_NechesR.pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-0not-numbered_PR-(Town-Lake).pdf
+http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-17_signed_TownL.pdf

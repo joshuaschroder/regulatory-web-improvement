@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_substanceabusefacilities = array(
 	"51075"	=>	"http://www.dshs.state.tx.us/facilities/pdf/SubstanceAbuseFacilities/cancellation092809.pdf",
 	"8589990682"	=>	"http://www.dshs.state.tx.us/facilities/pdf/SubstanceAbuseFacilities/Ch448-SHDraftAug2014.pdf",

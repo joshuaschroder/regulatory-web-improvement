@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_code = array(
 		"8589972020"	=>	"http://www.dshs.state.tx.us/code/pdf/CEO---Application---2012.pdf",
 		"8589972021"	=>	"http://www.dshs.state.tx.us/code/pdf/CEO---Solicitation-Letter---2012.pdf",

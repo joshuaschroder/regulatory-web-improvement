@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_elp_licenses = array(
 		"8589968558"	=>	"http://www.dshs.state.tx.us/elp/pdf/licenses/LeadAbatementProjectDesigner.pdf",
 		"8589968562"	=>	"http://www.dshs.state.tx.us/elp/pdf/licenses/LeadAbatementSupervisor.pdf",

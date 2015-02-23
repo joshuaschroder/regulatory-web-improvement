@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_ems_conference = array(
 		"8589986160"	=>	"http://www.dshs.state.tx.us/emstraumasystems/conference/pdf/AwardsNominationForm.pdf",
 		"54449"	=>	"http://www.dshs.state.tx.us/emstraumasystems/conference/pdf/BJ-CoorCourse-EvaDoc-Rev.pdf",

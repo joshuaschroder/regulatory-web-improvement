@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2_active = array(
 	"20194"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/Active/31-ADV-31_signed.pdf",
 	"20195"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/Active/32-ADV-32_signed.pdf",

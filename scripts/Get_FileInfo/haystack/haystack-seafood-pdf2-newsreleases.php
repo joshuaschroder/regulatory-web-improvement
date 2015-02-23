@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2_newsreleases = array(
 	"51567"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/NewsReleases/ADV-38_LakeIsabell_NR.pdf",
 	"51566"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/NewsReleases/ADV-39_NR.pdf",

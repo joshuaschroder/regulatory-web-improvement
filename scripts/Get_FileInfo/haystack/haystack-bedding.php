@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_bedding = array(
 		"16683"	=>	"http://www.dshs.state.tx.us/bedding/pdf/BeddingHSC.pdf",
 		"16684"	=>	"http://www.dshs.state.tx.us/bedding/pdf/beddingitems.pdf",

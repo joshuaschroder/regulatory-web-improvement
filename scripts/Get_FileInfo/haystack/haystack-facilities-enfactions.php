@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_facilities_enfactions = array(
 	"8589963253"	=>	"http://www.dshs.state.tx.us/facilities/pdf/EnfActions/Abortion_enforce.pdf",
 	"8589989391"	=>	"http://www.dshs.state.tx.us/facilities/pdf/EnfActions/ASC_enforce.pdf",

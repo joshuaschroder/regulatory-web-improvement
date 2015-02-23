@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_mapspdf_advisorymaps = array(
 	"20174"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/AdvisoryMaps/ADV-30CanyonLakeMap.pdf",
 	"20175"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/AdvisoryMaps/ADV-36MadisonvilleLakeMap.pdf",

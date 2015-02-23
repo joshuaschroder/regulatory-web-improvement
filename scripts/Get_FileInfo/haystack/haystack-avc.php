@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_avc = array(
 		"16669"	=>	"http://www.dshs.state.tx.us/avc/pdf/avcapplication.pdf",
 		"16670"	=>	"http://www.dshs.state.tx.us/avc/pdf/AVCchapter485.pdf",

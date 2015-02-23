@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_dyslexia = array(
 		"8589967909"	=>	"http://www.dshs.state.tx.us/PATH/Agenda-Feb072011.pdf",
 		"8589978601"	=>	"http://www.dshs.state.tx.us/PATH/Change_Address_Form_613.pdf",

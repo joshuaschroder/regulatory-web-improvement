@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_dmd_draftrules = array(
 		"52053"	=>	"http://www.dshs.state.tx.us/PATH/229_301-307PreambleCertificatesFreeSaleProp.pdf",
 		"54888"	=>	"http://www.dshs.state.tx.us/PATH/DonationUnusedDrugsPreamble-final.pdf",

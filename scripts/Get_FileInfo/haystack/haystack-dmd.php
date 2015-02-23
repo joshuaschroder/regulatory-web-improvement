@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_dmd = array(
 		"8589966573"	=>	"http://www.dshs.state.tx.us/dmd/pdf/030712-Ezogabine-to-Schedule-V-amendment.pdf",
 		"8589994059"	=>	"http://www.dshs.state.tx.us/dmd/pdf/11-23-2014-Dev-Dist-and-Manuf-Rules.pdf",

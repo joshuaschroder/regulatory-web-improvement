@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_dietitian = array(
 		"8589979945"	=>	"http://www.dshs.state.tx.us/dietitian/pdf/2011_rule-_over.pdf",
 		"8589991971"	=>	"http://www.dshs.state.tx.us/dietitian/pdf/agenda-Sept-2014.pdf",

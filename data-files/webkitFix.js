@@ -1,4 +1,4 @@
-﻿Sys.Browser.WebKit = {}; //Safari 3 is considered WebKit
+Sys.Browser.WebKit = {}; //Safari 3 is considered WebKit
 if( navigator.userAgent.indexOf( 'WebKit/' ) > -1 )
 {
   Sys.Browser.agent = Sys.Browser.WebKit;

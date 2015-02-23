@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_asc = array(
 	"54387"	=>	"http://www.dshs.state.tx.us/facilities/pdf/AmbulatorySurgical/AmbulatorySurgicalCntFactSheet.pdf",
 	"8589989889"	=>	"http://www.dshs.state.tx.us/facilities/pdf/AmbulatorySurgical/AnnualOccurenceReport2013.pdf",

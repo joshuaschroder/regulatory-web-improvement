@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_ems_magazine = array(
 	"17418"	=>	"http://www.dshs.state.tx.us/emstraumasystems/Magazine/PDF/Abuse.pdf",
 	"8589968574"	=>	"http://www.dshs.state.tx.us/emstraumasystems/Magazine/PDF/DrugShortages.pdf",

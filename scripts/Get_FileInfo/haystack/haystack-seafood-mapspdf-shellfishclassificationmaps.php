@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_mapspdf_shellfishclassificationmaps = array(
 	"8589935636"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ShellfishClassificationMaps/CCNueces_2010.pdf",
 	"8589963563"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ShellfishClassificationMaps/CCNueces_2011.pdf",

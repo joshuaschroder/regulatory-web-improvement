@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_dmd_tanning = array(
 		"54939"	=>	"http://www.dshs.state.tx.us/PATH/2010-14398-WORK(checked).pdf",
 		"8589994648"	=>	"http://www.dshs.state.tx.us/PATH/229341_229357_Tanning-Rules.pdf",

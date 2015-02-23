@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_genspechospital = array(
 	"8589971732"	=>	"http://www.dshs.state.tx.us/facilities/pdf/GenSpecHospital/ConditionsParticipDraftRules.pdf",
 	"8589964066"	=>	"http://www.dshs.state.tx.us/facilities/pdf/GenSpecHospital/DatabaseWorkSheetLicHosp.pdf",

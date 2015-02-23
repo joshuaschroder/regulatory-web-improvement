@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_counselor = array(
 		"8589967490"	=>	"http://www.dshs.state.tx.us/counselor/pdf/2012boardRules.pdf",
 		"8589967489"	=>	"http://www.dshs.state.tx.us/counselor/pdf/2012coverandiindex.pdf",

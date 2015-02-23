@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_freestanding = array(
 	"55033"	=>	"http://www.dshs.state.tx.us/facilities/pdf/Freestanding/Chapter_131_FEC_Rules.pdf",
 	"8589957190"	=>	"http://www.dshs.state.tx.us/facilities/pdf/Freestanding/FEC-2YearLicenseNotice.pdf",

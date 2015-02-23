@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2_faqs = array(
 	"8589985027"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/FAQs/ADV-51-QA-2014.pdf",
 	"8589985028"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/FAQs/ADV-51-QA-2014.pdf",

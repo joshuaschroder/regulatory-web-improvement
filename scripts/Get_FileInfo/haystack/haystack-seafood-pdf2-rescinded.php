@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2_rescinded = array(
 	"20282"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-0not-20numbered_PR-20(Town-20Lake).pdf",
 	"20283"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/Rescinded/ADV-1_signed_BrazosR.pdf",

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2_possessionbanmaps = array(
 	"20270"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/PossessionBanMaps/DonnaIrrigationSystem.pdf",
 	"20271"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/PossessionBanMaps/EchoLake.pdf",

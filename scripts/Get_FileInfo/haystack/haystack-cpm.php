@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_cpm = array(
 		"8589961823"	=>	"http://www.dshs.state.tx.us/cpm/pdf/CPMForm.pdf",
 		"8589988183"	=>	"http://www.dshs.state.tx.us/cpm/pdf/CPMTrainingChecklist.pdf",

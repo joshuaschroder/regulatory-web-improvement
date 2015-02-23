@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2 = array(
 	"20191"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/2003CrabmeatRules.pdf",
 	"20192"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/2003MolluscanShellfishRules.pdf",

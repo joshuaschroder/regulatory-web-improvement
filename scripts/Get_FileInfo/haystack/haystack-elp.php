@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_elp = array(
 		"8589990804"	=>	"http://www.dshs.state.tx.us/elp/pdf/2014-15_ExamCalendar.pdf",
 		"61763"	=>	"http://www.dshs.state.tx.us/elp/pdf/AnabolicSteroidAmendment_signed.pdf",

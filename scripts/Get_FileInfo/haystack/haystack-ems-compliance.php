@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_ems_compliance = array(
 		"17291"	=>	"http://www.dshs.state.tx.us/emstraumasystems/compliance/pdf/12adoptjuly01.pdf",
 		"58287"	=>	"http://www.dshs.state.tx.us/emstraumasystems/compliance/pdf/157-14-16-Concepts-Readopt-Rev081610.pdf",

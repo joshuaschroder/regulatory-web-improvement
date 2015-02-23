@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_ems_ruleslaws = array(
 	"8589995378"	=>	"http://www.dshs.state.tx.us/emstraumasystems/RulesLaws/pdf/EMSAcceptableCPRDocPolicy-2015C.pdf",
 	"8589995320"	=>	"http://www.dshs.state.tx.us/emstraumasystems/RulesLaws/pdf/EMSContEduPolicy-2015A.pdf",

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_ems_ems = array(
 	"17289"	=>	"http://www.dshs.state.tx.us/emstraumasystems/EMS/pdf/11adopt.pdf",
 	"17290"	=>	"http://www.dshs.state.tx.us/emstraumasystems/EMS/pdf/12adopt.pdf",

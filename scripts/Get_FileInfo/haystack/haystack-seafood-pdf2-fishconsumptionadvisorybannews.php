@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2_fishconsumptionadvisorybannews = array(
 	"20230"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/FishConsumptionAdvisoryBaNNews/ADV-11_PR_CaddoL.pdf",
 	"20231"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/FishConsumptionAdvisoryBaNNews/ADV-12_PR_TBR_SRR_BAS_CDL_BCC.pdf",

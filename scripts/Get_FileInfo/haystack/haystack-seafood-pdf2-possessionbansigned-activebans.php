@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_seafood_pdf2_possessionbansigned_activebans = array(
 	"20274"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/PossessionBansSigned/ActiveBans/AL-1_signed_LavacaB.pdf",
 	"20275"	=>	"http://www.dshs.state.tx.us/seafood/PDF2/PossessionBansSigned/ActiveBans/AL-10_signed_ComoL-FosdicL.pdf",

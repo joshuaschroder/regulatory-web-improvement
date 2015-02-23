@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_hospwaiverrequests = array(
 	"8589935374"	=>	"http://www.dshs.state.tx.us/facilities/pdf/HospWaiverRequests/EDHospitalWaiverProcess.pdf",
 	"8589935375"	=>	"http://www.dshs.state.tx.us/facilities/pdf/HospWaiverRequests/EDWaiverRequestsApproved.pdf",

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_ems_dnr = array(
 		"8589946120"	=>	"http://www.dshs.state.tx.us/emstraumasystems/DNR/pdf/DNR_Form.pdf",
 		"17585"	=>	"http://www.dshs.state.tx.us/emstraumasystems/DNR/pdf/dnrback.pdf",

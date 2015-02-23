@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$array_at = array(
 		"8589995441"	=>	"http://www.dshs.state.tx.us/at/pdf/AEPM_Instructor_Recert_LetterForm_2015.pdf",
 		"8589960514"	=>	"http://www.dshs.state.tx.us/at/pdf/ag_12122011.pdf",
