@@ -1,6 +1,5 @@
-<?php 
-
-$IDList = array(
+<?php
+$array_ahera = array(
 	"8589978845"	=>	"http://www.dshs.state.tx.us/ahera/pdf/100quest.pdf",
 	"8589979623"	=>	"http://www.dshs.state.tx.us/ahera/pdf/abcsfinal.pdf",
 	"8589978844"	=>	"http://www.dshs.state.tx.us/ahera/pdf/AHERABrochure.pdf",

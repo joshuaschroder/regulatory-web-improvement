@@ -21,10 +21,10 @@
 	<?php
 
 	// Load the Array to Query
-	include 'haystack.php';
+	include '/home/codio/workspace/scripts/Get_IDs/haystack.php';
 
 	// Load the file of search terms
-	$urls = file('needle.txt', FILE_IGNORE_NEW_LINES);
+	$urls = file('/home/codio/workspace/scripts/Get_IDs/needle.txt', FILE_IGNORE_NEW_LINES);
 
 
 	//Start the loop

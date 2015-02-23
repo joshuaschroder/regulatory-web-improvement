@@ -24,18 +24,18 @@
 </ol>
 <p>Providing this information will make it easier for us to quickly respond to your request. Be as specific as possible about the information you are seeking. Mail your request to: </p>
 <p>
-	Records Coordinator, Jim Fraley <br/>
+	Sophia Stifflemire <br/>
 	Milk Group- Open Records MC 1987<br/>
 	Texas Department of State Health Services<br/>
 	P. O. Box 149347<br/>
-	Austin, Texas 78714-9347<br/>
-	Phone: 512-834-6758 ext. 2577 <br/>
-	Fax: 512-834-6756
+	Austin, Texas 78714-9347<br/><br/>
+	<strong>Phone:</strong> 512-834-6770 ext. 2194 <br/>
+	<strong>Fax:</strong> 512-834-6756 <br/>
+	<strong>E-mail:</strong> <a title="Sofia.Stifflemire@dshs.state.tx.us" href="mailto:Sofia.Stifflemire@dshs.state.tx.us">Sophia Stifflemire</a>
 </p>
 
-<p>E-mail: <a href="mailto:jim.fraley@dshs.state.tx.us">Jim Fraley</a></p>
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
-<p><em><strong>Please be advised that there may be a charge <br/>for the information you are requesting.</strong></em></p>
+<p><em><strong>Please be advised that there may be a charge for the information you are requesting.</strong></em></p>
 <hr/>
 
 <h2>Rights of Requestors</h2>
@@ -69,8 +69,8 @@
 
 <h2>Additional Links and Resources</h2>
 <ul>
-	<li><a href="/policy/openrecords.shtm" target="_blank">The Texas Department of State Health Services, Internal Open Records Policy </a></li>
-	<li><a href="http://www.oag.state.tx.us/opinopen/opengovt.shtml" target="_blank">The Office of Attorney General of Texas </a></li>
+	<li><a title="The Texas Department of State Health Services, Internal Open Records Policy " href="http://www.dshs.state.tx.us/policy/openrecords.shtm">The Texas Department of State Health Services, Internal Open Records Policy </a></li>
+	<li><a title="The Office of Attorney General of Texas " href="http://www.oag.state.tx.us/opinopen/opengovt.shtml">The Office of Attorney General of Texas </a></li>
 </ul>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

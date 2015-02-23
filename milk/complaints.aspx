@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/milk_menu.html'; 
 ?>
 
-<p>You may file a complaint to <a title="Dan.McCreary@dshs.state.tx.us" href="mailto:Dan.McCreary@dshs.state.tx.us">Dan McCreary</a></p>
+<p>You may file a complaint to <a title="Jim.Fraley@dshs.state.tx.us" href="mailto:Jim.Fraley@dshs.state.tx.us">Jim Fraley</a></p>
 
 <p><strong>OR</strong></p>
 

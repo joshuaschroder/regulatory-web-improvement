@@ -1,0 +1,32 @@
+<?php
+	$array_seafood_mapspdf = array(
+	"51822"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ADV-14_signed_Gulf.pdf.pdf",
+	"20170"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ADV-31-20Clear-20Lake_Panola-20County-20Map.pdf",
+	"20171"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ADV-32-20Hills-20Lake-20Map.pdf",
+	"20172"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ADV-33FosdicLakeMap.pdf",
+	"20173"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ADV-34ArroyoColoradoMap.pdf",
+	"8589970378"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/ADV-47-NWGOM-Map.pdf",
+	"8589992097"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/CCNueces_2014R.pdf",
+	"8589992098"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/CopAraMes_RedfishSupp_2014R.pdf",
+	"8589982283"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/EastMatagorda_2013.pdf",
+	"8589992095"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/EastMatagorda_2014R.pdf",
+	"8589982284"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/Freeport_2013.pdf",
+	"8589992096"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/Freeport_2014R.pdf",
+	"8589982286"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/Galveston_2013.pdf",
+	"8589992092"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/Galveston_2014R.pdf",
+	"20189"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/HSC-20UGB-20Blue-20Crab-20Advisory-20Map-2008.pdf",
+	"20190"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/LakeComoAL-15Map-202007.pdf",
+	"8589982288"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/Lavaca_2013.pdf",
+	"8589992091"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/Lavaca_2014R.pdf",
+	"8589992090"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/LowerLagunaMadre_2014R.pdf",
+	"8589982282"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/MataTresPalCarBays_2013.pdf",
+	"8589992093"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/MataTresPalCarBays_2014R.pdf",
+	"8589982287"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/SABINE_2013.pdf",
+	"8589992094"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/Sabine_2014R.pdf",
+	"8589992088"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/SanAntonio_2014R.pdf",
+	"8589992087"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/SouthBay_2014R.pdf",
+	"8589982285"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/West-Galveston_2013.pdf",
+	"8589994088"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/West-Galveston_2014R1.pdf",
+	"8589992089"	=>	"http://www.dshs.state.tx.us/seafood/MapsPDF/West-Galveston_2014R4.pdf"
+	);
+?>

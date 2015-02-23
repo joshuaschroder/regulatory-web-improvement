@@ -13,47 +13,47 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0">Bulk Milk Transport Tankers</td>
-			<td headers="table_heading_1">643</td>
+			<td headers="table_heading_1">720</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Certified Hauler/Sampler/Receiver </td>
-			<td headers="table_heading_1">1589</td>
+			<td headers="table_heading_1">1312</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Frozen Dessert Plants (In-State)</td>
-			<td headers="table_heading_1">58</td>
+			<td headers="table_heading_1">63</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Frozen Dessert Plants (Out-of-State) **</td>
-			<td headers="table_heading_1">41</td>
+			<td headers="table_heading_1">40</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Milk for Manufacturing Purposes</td>
-			<td headers="table_heading_1">48</td>
+			<td headers="table_heading_1">55</td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0">Pasteurization Plants (In-State)</td>
-			<td headers="table_heading_1">39</td>
+			<td headers="table_heading_1">35</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Pasteurization Plants (Out-of-State) **</td>
-			<td headers="table_heading_1">74</td>
+			<td headers="table_heading_1">75</td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0">Producer Dairy Farms</td>
-			<td headers="table_heading_1">463</td>
+			<td headers="table_heading_1">466</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Retail Raw Milk</td>
-			<td headers="table_heading_1">46</td>
+			<td headers="table_heading_1">47</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Single Service Container Manufacturing Plant </td>
-			<td headers="table_heading_1">28</td>
+			<td headers="table_heading_1">30</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Transfer/Receiving Stations</td>
-			<td headers="table_heading_1">24</td>
+			<td headers="table_heading_1">23</td>
 		</tr>		
 	</tbody>
 </table>

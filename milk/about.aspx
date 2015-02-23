@@ -8,7 +8,7 @@
 <hr/>
 
 <h2>Sanitarians</h2>
-<p>Milk Group sanitarians work to ensure that appropriate statutes and regulations are applied uniformly to the milk industry so that Texas consumers receive a safe and wholesome milk supply. All dairy farms and milk processing plants are required to possess permits that must be approved after inspections indicate that requirements have been met. The sanitarians also routinely inspect facilities and collect product samples that are tested for quality and safety. They also approve locations and plans for new or modified construction; review plans for new dairy and processing facilities and new or modified equipment installations. The Milk Group also issues warning notifications for violations and suspends permits when conditions are found that present health hazards for the consumer.</p>
+<p>Milk Group sanitarians work to ensure that appropriate statutes and regulations are applied uniformly to the milk industry so that Texas consumers receive a safe and wholesome milk supply. All dairy farms and milk processing plants are required to possess permits that must be approved after inspections indicate that requirements have been met. The sanitarians also routinely inspect facilities and collect product samples that are tested for quality and safety. They also approve locations and plans for new or modified construction; review plans for new dairy and processing facilities and new or modified equipment installations. The Milk Group also issues warning notifications for violations and monitors analyses from State Certified laboratories across Texas when conditions are found that present health hazards for the consumer.</p>
 <hr/>
 
 <h2>Milk Sampling </h2>

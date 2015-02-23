@@ -24,16 +24,9 @@
 
 <h3>Federal Regulations Adopted by Reference</h3>
 <ul>
-	<li><a title="2011 Grade A Pasteurized Milk Ordinance" href="http://www.fda.gov/downloads/Food/GuidanceRegulation/UCM291757.pdf">2011 Grade A Pasteurized Milk Ordinance</a> <span class="small">(PDF, 5.4MB)</span></li>
+	<li><a title="2013 Grade A Pasteurized Milk Ordinance" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589995967">2013 Grade A Pasteurized Milk Ordinance</a> <span class="small">(PDF, 5.7MB)</span></li>
 	<li><a title="Code of Federal Regulations Title 21, Part 131 - Milk and Cream" href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=131">21 Code of Federal Regulations, Part 131 - Milk and Cream</a></li>
 </ul>
 
-
-<h3>FDA Guidance and Clarification</h3>
-<ul>
-	<li><a title="Milk Guidance Documents &amp; Regulatory Information" href="http://www.fda.gov/food/guidanceregulation/guidancedocumentsregulatoryinformation/milk/default.htm">Milk Guidance Documents &amp; Regulatory Information</a></li>
-	<li><a title="Raw Milk &amp; Pasteurized Milk" href="http://www.fda.gov/Food/ucm293042.htm">Raw Milk &amp; Pasteurized Milk</a></li>
-	<li><a title="Questions &amp; Answers: Raw Milk" href="http://www.fda.gov/Food/FoodborneIllnessContaminants/BuyStoreServeSafeFood/ucm122062.htm">Questions &amp; Answers: Raw Milk</a></li>
-</ul>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
