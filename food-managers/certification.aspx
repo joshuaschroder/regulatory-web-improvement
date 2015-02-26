@@ -4,6 +4,10 @@
     include '/home/codio/workspace/includes/menus/foodman_menu.html'; 
 ?>
 
+<hr/>
+<p><em>Do not submit an application or money to DSHS for an <a title="individual Food Managers Certificate" href="#certificate">individual Food Managers Certificate</a>.<br/> Application Fees are Non-Refundable.</em></p>
+<hr/>
+
 <p>The state (DSHS) stopped administering the Certified Food Manger (CFM) exam on January 7th 2010. Individuals testing after that date would have taken the CFM exam through one of the online or national exam providers and DSHS does not keep these records. Please contact testing providers directly for information regarding their certificates.</p>
 
 <p>Examinations offered through training programs and test sites are accredited through American National Standards Institute – Conference for Food Protection (ANSI-CFP). Certified Food Manager Certificates issued through these providers receive national reciprocity.</p>
@@ -23,11 +27,7 @@
 		</ul>
 	</li>
 	<li><a title="Re-Certification Programs" href="#re-certification">Re-Certification Programs</a></li>
-	<li><a title="Food Manager Certificates" href="#certificates">Food Manager Certificates</a>
-		<ul>
-			<li><a title="Lost Certificates" href="#lost">Lost Certificates</a></li>
-		</ul>
-	</li>
+	<li><a title="Issued Food Manager Certificates" href="#certificates">Issued Food Manager Certificates</a></li>
 </ul>
 <hr>
 
@@ -105,9 +105,5 @@
 	<li>The <strong>official National Certified Food Manager Certificate</strong> issued by each licensed national program varies in size and issuance process. Candidates should check with the examination provider for specific information.</li>
 	<li>The <strong>official Online Certified Food Manager Certificate</strong> issued by each licensed online provider vary in size and issuance process. Candidates should check with the examination provider for specific information.</li>
 </ul>
-
-<h3><a name="lost"></a>Lost Certificates</h3>
-<p>Candidates who have taken one of the DSHS approved national or online examinations must contact the examination provider for instructions on how to obtain a replacement certificate.</p>
-<p>DSHS does NOT renew or replace any Food Manager Certificates.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

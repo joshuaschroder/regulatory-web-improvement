@@ -10,7 +10,7 @@
 <p>Sign up to receive email updates about important changes to the Seafood and Aquatic Life Program. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a><br/><br/></p>
 
-<h2>Contact Information</h2>
+<h2><a class="bookmark" title="contact" name="contact"></a>Contact Information</h2>
 <p>
 	<strong>Phone:</strong> (512) 834-6757<br/>
 	<strong>Fax:</strong> (512) 834-6762

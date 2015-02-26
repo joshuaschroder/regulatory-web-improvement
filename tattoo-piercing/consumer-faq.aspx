@@ -1,0 +1,36 @@
+<?php
+	$title= "Frequently Asked Questions about Getting a Tattoo or Body Piercing" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/tattoo_menu.html'; 
+?>
+
+<p><strong>What is a tattoo?</strong></p>
+<p>A tattoo is the practice of producing an indelible mark or figure on the human body by scarring or inserting a pigment under the skin by using needles, scalpels, or other related devices. The term includes the application of permanent cosmetics (permanent makeup).</p>
+
+<p><strong>What is a body piercing?</strong></p>
+<p>A body piercing is the creation of an opening in an individual's body, other than in an individual’s earlobe, to insert jewelry or another decoration.</p>
+
+<p><strong>Are certain individuals prohibited from receiving tattoos or body piercings?</strong></p>
+<p>Yes. Individuals under 18 years of age are prohibited from receiving a tattoo unless the tattoo will cover an existing tattoo that contains obscene, gang-related, drug-related or other offensive language or symbols that a parent or legal guardian determines to be in the best interest of the individual to cover. Individuals under 18 years of age are prohibited from receiving a body piercing unless prior consent is granted by the person’s parent or legal guardian. In addition, the parent or legal guardian of an individual under 18 years of age must be physically present at the time of the procedure and show evidence that they are in fact the parent or legal guardian of the individual receiving the tattoo or body piercing. Finally, an individual may not receive a tattoo or body piercing if they are under the influence of alcohol or drugs.</p>
+
+<p><strong>Are there any risks I need to be aware of before I get a tattoo or body piercing?</strong></p>
+<p>Yes. There are some risks and dangers associated with receiving a tattoo or body piercing that the studio must inform you of both verbally and in writing prior to the procedures. Risks and dangers associated with receiving a tattoo include the possibility of discomfort or pain, the permanence of the markings, the risk of infection and the possibility of allergic reaction to the pigments or other tattooing materials. Risks and dangers associated with receiving a body piercing include the possibility of discomfort or pain, the risk of infection, the possibility of scarring and nerve damage, the possibility of bleeding and swelling and the increased risk to adolescents during certain stages of development.</p>
+
+<p><strong>Do tattoo and body piercing studios need to have a license?</strong></p>
+<p>Yes. A tattoo or body piercing studio must have a current license issued by the Texas Department of State Health Services (DSHS) in order to operate the studio. Licenses must be displayed in a prominent place in the studio and are site-specific. All tattoo and body piercing studio licenses issued by DSHS contain the name and physical location of the studio and the expiration date of the license.</p>
+
+<p><strong>Are there minimum standards that tattoo and body piercing studios must follow?</strong></p>
+<p>Yes. Tattoo and body piercing studios must adhere to certain requirements as a condition of their license to operate in Texas. For instance, physical facilities must be in permanent, non-dwelling buildings or portions of buildings permissible under local zoning codes. Studios shall be adequately lighted and maintained in a sanitary condition. Work surfaces shall be cleaned and sanitized with a germicidal solution and walls, ceilings and floors shall be kept in good repair and constructed of smooth, non-porous surfaces. Consumption of alcoholic beverages is prohibited in the studio and the use of tobacco products is prohibited in the work areas. A studio must be equipped with hand-washing facilities for its personnel and employees must properly wash their hands with an antibacterial soap prior to performing a tattoo or body piercing procedure and after any interruption in the procedure. Employees must wear clean outer garments and single-use gloves during the procedure. Prior to the procedure, the employee is required to properly cleanse the area of your skin where the tattoo or body piercing is to be applied with a germicidal soap or antiseptic mouthwash.</p>
+
+<p><strong>Do studios sanitize their work areas and sterilize the equipment they use?</strong></p>
+<p>Yes. Tattoo and body piercing studios must follow standard precautions for infection control and prevention in order to prevent the spread of disease. These precautions include proper hand-washing, gloving, use of personal protective equipment, injury prevention, and proper handling and disposal of needles or other sharp instruments and contaminated articles.</p>
+<p>Tattoo or body piercing equipment used by studios must be properly sterilized by either steam sterilization (autoclave) or by dry heat sterilization. Rather than sterilize the equipment themselves, some studios prefer to purchase equipment that is already pre-sterilized by the manufacturer. If you have questions concerning infections, infection prevention or sterilization practices ask for more details, or contact your local health department for information.</p>
+
+<p><strong>How do I take care of my new tattoo or body piercing?</strong></p>
+<p>Tattoo and body piercing studios are required to provide you with verbal and written instructions for proper care of your tattoo or body piercing. For at least two weeks following your tattoo procedure, you should minimize your exposure to the sun and refrain from swimming. In addition, you should properly cleanse the tattooed area, apply antibiotic ointment or cream, and use sterile bandage(s) or other sterile dressing(s) when necessary. Following your body piercing procedure, you should properly cleanse the pierced area by using antibacterial or antimicrobial soap for the external skin or an antiseptic or carbamide peroxide mouthwash for the oral cavity. In addition, you should minimize your exposure to contaminants for at least the first six weeks and use sterile bandage(s) or other sterile dressing(s) when necessary. You should consult a health care practitioner at the first sign of infection or an allergic reaction, and to report any diagnosed infection, allergic reaction, or adverse reaction resulting from the tattoo or body piercing procedure to the studio and to the Texas Department of State Health Services at 1-888-839-6676.</p>
+
+<p><strong>If I have questions or concerns about a tattoo or body piercing studio, who should I contact?</strong></p>
+<p>If you have any questions or concerns about a tattoo or body piercing studio, or if you wish to file a complaint or report an infection related to a tattoo or body piercing procedure, please contact the Drugs and Medical Devices Group at (512) 834-6755. Correspondence may be addressed to: The Texas Department of State Health Services, Drugs and Medical Devices Group - MC 1987, P.O. Box 149347, Austin, TX, 78714-9347.</p>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>
