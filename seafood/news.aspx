@@ -50,7 +50,7 @@
 <ul>
 	<li>July 8, 2008 – <a title="DSHS Issues Fish Consumption Advisory for Galveston Bay" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51569">DSHS Issues Fish Consumption Advisory for Galveston Bay</a> <span class="small">(PDF, 46KB)</span></li>
 	<li>February 5, 2008 – <a title="Flower Garden Fish Advisories Issued" href="http://www.dshs.state.tx.us/news/releases/20080205.shtm">Flower Garden Fish Advisories Issued</a></li>
-	<li>January 15, 2008 – <a title="Fish Ban Lifed for Fosdic Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20220">Fish Ban Lifed for Fosdic Lake</a> <span class="small">(PDF, 29KB)</span></li>
+	<li>January 15, 2008 – <a title="Fish Ban Lifted for Fosdic Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20220">Fish Ban Lifted for Fosdic Lake</a> <span class="small">(PDF, 29KB)</span></li>
 </ul>
 <hr/>
 

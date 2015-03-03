@@ -24,6 +24,7 @@
 <ul>
 	<li><a title="Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13008)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969248">Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13008)</a> <span class="small">(PDF, 253KB)</span></li>
 	<li><a title="Minor Amendment Change - Name, Address (EF23-13009)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969249">Minor Amendment Change - Name, Address (EF23-13009)</a> <span class="small">(PDF, 235KB)</span></li>
+	<li><a title="Additional Documentation Required With Renewal" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&amp;ItemID=8589969400">Prescription Drugs - Additional Documentation Required With Renewal</a> <span class="small">(PDF, 175KB)</span></li>
 </ul>
 
 <hr/>
@@ -43,6 +44,7 @@
 <ul>
 	<li><a title="Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13004)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969252">Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13004)</a> <span class="small">(PDF, 252KB)</span></li>
 	<li><a title="Minor Amendment Change - Name, Address (EF23-13005)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969253">Minor Amendment Change - Name, Address (EF23-13005)</a> <span class="small">(PDF, 251KB)</span></li>
+	<li><a title="Additional Documentation Required With Renewal" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&amp;ItemID=8589969400">Prescription Drugs - Additional Documentation Required With Renewal</a> <span class="small">(PDF, 175KB)</span></li>
 </ul>
 
 <blockquote>
@@ -59,6 +61,7 @@
 <ul>
 	<li><a title="Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13016)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969250">Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13016)</a> <span class="small">(PDF, 244KB)</span></li>	
 	<li><a title="Minor Amendment Change - Name, Address (EF23-12999)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969251">Minor Amendment Change - Name, Address (EF23-12999)</a> <span class="small">(PDF, 243KB)</span></li>
+	<li><a title="Additional Documentation Required With Renewal" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&amp;ItemID=8589969400">Prescription Drugs - Additional Documentation Required With Renewal</a> <span class="small">(PDF, 175KB)</span></li>
 </ul>
 
 

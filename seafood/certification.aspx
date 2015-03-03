@@ -8,8 +8,8 @@
 <p>A <a title="Texas Crabmeat License" href="/seafood/forms.aspx">Texas Crabmeat License</a> is required by any individual, partnership, corporation, association, or other legal entity who cooks, backs, picks, packs and/or pasteurizes Crabmeat in the State of Texas.</p>
 
 <ul>
-	<li><a title="Out of Country Crabmeat" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20268">Out of Country Crabmeat</a> <span class="small">(PDF, 71KB)</span></li>
-	<li><a title="Accepted Firms for Out of Country Crabmeat Listing" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978186">Accepted Firms for Out of Country Crabmeat Listing</a> <span class="small">(PDF, 60KB)</span></li>
+	<li><a title="Imported Crab Meat Requirements" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20268">Imported Crab Meat Requirements</a> <span class="small">(PDF, 71KB)</span></li>
+	<li><a title="Approved Firms for Imported Crab Meat" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978186">Approved Firms for Imported Crab Meat</a> <span class="small">(PDF, 60KB)</span></li>
 </ul>
 <hr/>
 

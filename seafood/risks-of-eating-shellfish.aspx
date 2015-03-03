@@ -1,9 +1,12 @@
 <?php
-	$title= "Buying or Selling Molluscan Shellfish in Texas - Seafood and Aquatic Life" ;
+	$title= "Risks of Eating Shellfish - Seafood and Aquatic Life" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/seafood_menu.html'; 
 ?>
 
+<p>Molluscan shellfish defined as oysters, clams, and mussels pose risks that are different from fish and crabs. Because molluscan shellfish are filter feeders and often eaten raw, a program has been developed to protect consumers. Molluscan shellfish harvest areas are classified on <a title="shellfish harvest maps" href="/seafood/shellfish-harvest-maps.aspx">shellfish harvest maps</a>. These maps indicate areas that are approved, conditionally approved, restricted, or prohibited for harvest. Approved and conditionally approved harvest areas open or close based on rainfall, river flow, bacteriological results, presence of biotoxins (e.g. red tide), or illness investigations linked to a harvest area. The opening or closing of approved and conditionally approved harvest areas is directed by DSHS through issuance of a marine order. Restricted and prohibited areas are classified as such based on levels of fecal pollution, human pathogens, or contaminants. DSHS issues a marine order to classify areas as restricted or prohibited. Before harvesting molluscan shellfish individuals should have a current shellfish classification map and determine the status of the approved and conditionally approved harvest areas. You may go to our <a title="classification map page" href="/seafood/shellfish-harvest-maps.aspx">classification map page</a> to see the most current maps or call 512-834-6757. DSHS maintains a 24-hour toll-free phone number (1-800-685-0361) to determine status of approved and conditionally approved harvest areas.</p>
+
+<h2>Buying Shellfish</h2>
 <p>Purchase and use ONLY raw oysters, clams, mussels, or whole or roe-on scallops as shellstock (in-the-shell) or shucked shellfish (removed from the shell) that originates from certified interstate shellfish shippers.</p>
 
 <p>DO NOT purchase molluscan shellfish from recreational or commercially licensed shellstock harvesters or any other source not listed in the <a title="Interstate Certified Shellfish Shippers List" href="http://www.fda.gov/Food/FoodSafety/Product-SpecificInformation/Seafood/FederalStatePrograms/InterstateShellfishShippersList/default.htm">Interstate Certified Shellfish Shippers List</a>, published by the U.S. Food and Drug Administration;</p>

@@ -1,23 +1,12 @@
 <?php
-	$title= "Red Tide Information - Seafood and Aquatic Life" ;
+	$title= "Harmful Algal Blooms - Seafood and Aquatic Life" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/seafood_menu.html'; 
 ?>
 <hr/>
-<p>For the most current information call 1-800-685-0361 for the status of shellfish harvesting areas.</p>
-<hr/>
-
-<h2>Ciguatera Advisory Issued for Fish Taken Near Flower Gardens</h2>
-<p>The U.S. Food and Drug Administration in conjunction with the Texas Department of State Health Services is advising recreational fishermen and other consumers not to eat the fish from the Flower Garden Coral reef system located in Federal waters off the northern coast of Texas. The ciguatera toxin is produced by algae that grow on some coral. The Flower Garden is a coral reef system. The toxin accumulates in fish tissue along the natural food chain as smaller fish eat the algae and larger fish eat smaller fish. <strong>Cooking does not affect the toxin.</strong></p>
-<p>The fish species covered in this advisory are marbled, gag, scamp and yellowfin grouper; blackfin and dog snapper; and hogfish caught within 10 miles of the Flower Garden. Also included are yellow, horse-eye and black jack; king mackerel; amberjack; and barracuda from within 50 miles of the sanctuary.</p>
-<p>Follow-up information: <a title="FDA Advises Seafood Processors About Ciguatera Fish Poisoning in the Northern Gulf of Mexico" href="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2008/ucm116851.htm">FDA Advises Seafood Processors About Ciguatera Fish Poisoning in the Northern Gulf of Mexico</a>.</p>
-<hr/>
-
-<h3>Texas Dinophysis Bloom</h3>
-<ul>
-	<li><a title="Texas Dinophysis Bloom, March 2008 Slide Presentation - PowerPoint" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20169">Texas Dinophysis Bloom, March 2008 Slide Presentation</a> <span class="small">(PPT, 6.3MB)</span></li>
-	<li><a title="Texas Dinophysis Bloom, March 2008 Slide Presentation - PDF" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20262">Texas Dinophysis Bloom, March 2008 Slide Presentation</a> <span class="small">(PDF, 9MB)</span></li>
-</ul>
+<p>
+	For the most current information call 1-800-685-0361 (in-state only) for the status of shellfish harvesting areas.
+</p>
 <hr/>
 
 <h2>Harmful Algal Blooms and Public Health</h2>
@@ -50,8 +39,21 @@
 <p><em>Prepared by Richard A. Beauchamp, M.D., TDSHS Bureau of Epidemiology; Kirk Wiles , TDSHS Seafood and Aquatic Life Group; and Kate Hendricks, M.D., M.P.H. &amp; T.M., TDSHS Infectious Disease Epidemiology &amp; Surveillance Division </em></p>
 <hr/>
 
+<h2>Ciguatera Advisory Issued for Fish Taken Near Flower Gardens</h2>
+<p>The U.S. Food and Drug Administration in conjunction with the Texas Department of State Health Services is advising recreational fishermen and other consumers not to eat the fish from the Flower Garden Coral reef system located in Federal waters off the northern coast of Texas. The ciguatera toxin is produced by algae that grow on some coral. The Flower Garden is a coral reef system. The toxin accumulates in fish tissue along the natural food chain as smaller fish eat the algae and larger fish eat smaller fish. <strong>Cooking does not affect the toxin.</strong></p>
+<p>The fish species covered in this advisory are marbled, gag, scamp and yellowfin grouper; blackfin and dog snapper; and hogfish caught within 10 miles of the Flower Garden. Also included are yellow, horse-eye and black jack; king mackerel; amberjack; and barracuda from within 50 miles of the sanctuary.</p>
+<p>Follow-up information: <a title="FDA Advises Seafood Processors About Ciguatera Fish Poisoning in the Northern Gulf of Mexico" href="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2008/ucm116851.htm">FDA Advises Seafood Processors About Ciguatera Fish Poisoning in the Northern Gulf of Mexico</a>.</p>
+<hr/>
+
+<h3>Texas Dinophysis Bloom</h3>
+<ul>
+	<li><a title="Texas Dinophysis Bloom, March 2008 Slide Presentation - PowerPoint" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20169">Texas Dinophysis Bloom, March 2008 Slide Presentation</a> <span class="small">(PPT, 6.3MB)</span></li>
+	<li><a title="Texas Dinophysis Bloom, March 2008 Slide Presentation - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20262">Texas Dinophysis Bloom, March 2008 Slide Presentation</a> <span class="small">(PDF, 9MB)</span></li>
+</ul>
+<hr/>
+
 <h2>Links and External Resources</h2>
-<p>See the <a title="Links page" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=4645">Links page</a> for other sites with helpful information. </p>
+<p>See the <a title="Links page" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=4645">Links page</a> for other sites with helpful information. </p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

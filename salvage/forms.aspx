@@ -14,4 +14,15 @@
 	<li><a title="Minor Amendment Change - Name, Address (EF23-12983)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969302">Minor Amendment Change - Name, Address (EF23-12983)</a> <span class="small">(PDF, 150KB)</span></li>
 </ul>
 
+<h2>Additional Documentation</h2>
+<p>Additional documentation will be required to complete the salvage application if:</p>
+<ol>
+	<li>The licensee is considered a charitable organization as described in the Internal Revenue Code 501 (c) (3), please submit all required documents proof of 501 (c) exemption.</li>
+	<li>If you are salvaging non-prescription drugs, you must submit a list of licenses held in other states.</li>
+	<li>If applying online, you will need to submit the <strong>"APPLICATION SUMMARY" </strong>(which will be sent to your e-mail address) so additional documentation may be placed with your online application.</li>
+</ol>
+<ul>
+	<li><a title="Additional Documentation Required For Salvage of Prescription Drugs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968349">Additional Documentation Required For Salvage of Prescription Drugs</a> <span class="small">(PDF, 191KB)</span></li>
+</ul>
+
 <?php include '/home/codio/workspace/includes/footer.html' ?>
