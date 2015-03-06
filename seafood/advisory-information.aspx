@@ -4,19 +4,20 @@
 	include '/home/codio/workspace/includes/menus/seafood_menu.html'; 
 ?>
 
-<p>To inform the public of possible contamination of fish and shellfish caught by recreational fishermen in the state, the Texas Department of State Health Services (DSHS) issues <a title="news releases" href="/seafood/news.aspx">news releases</a> regarding fish consumption advisories and fish consumption bans. Eating fish from an area with a consumption advisory is not illegal, but people should not eat more fish than the amount listed in the advisory. In instances where a serious or imminent threat to public health exists, DSHS may prohibit the taking of fish and shellfish from an area. Taking fish from a closed area where a fish consumption ban is in effect is a violation of state law, enforced by the Texas Parks and Wildlife Department.</p>
-
+<p>To inform the public of unsafe contaminant levels in fish and shellfish harvested from public waters of Texas, the Texas Department of State Health Services (DSHS) issues consumption advisories or possession bans.</p>
+<h2>Consumption Advisory</h2>
+<p>A consumption advisory issued by the DSHS may recommend limited or no consumption of fish or aquatic life from a body of water because tests found contaminants at unsafe levels. Eating more fish or aquatic life than recommended by a consumption advisory may pose potential human health risks. Harvesting fish or aquatic life from a body of water with a consumption advisory is not illegal as long as Texas Parks and Wildlife harvest regulations are followed.</p>
+<h2>Possession Ban</h2>
+<p>A possession ban prohibits the taking of fish or aquatic life from a body of water where tissue testing indicates the likelihood of a serious or imminent threat to public health. Taking fish or aquatic life from a closed or prohibited area is a violation of state law enforceable by the Texas Parks and Wildlife Department.</p>
+<h2>Rescinded Consumption Advisory or Possession Ban</h2>
+<p>A rescinded consumption advisory or possession ban is a cancelled consumption advisory or possession ban.</p>
 <ul>
-	<li><a href="/seafood/advisories-bans.aspx">Water Bodies with Advisories, Bans, and FAQs by Region</a></li>
-	<li><a href="/seafood/no-advisories.aspx">Water Bodies without Consumption Advisories</a></li>
+<li><a href="/seafood/advisories-bans.aspx">Water Bodies with Advisories, Bans, and FAQs by Region</a></li>
+<li><a href="/seafood/no-advisories.aspx">Water Bodies without Consumption Advisories</a></li>
 </ul>
-
 <h2>Testing of Water Bodies</h2>
-<p>Fish and shellfish in several Texas water bodies contain contaminants at levels that, if consumed, may pose a threat to human health. The Texas Department of State Health Services (DSHS) tests fish and shellfish tissues from Texas public water bodies for contaminants and informs the public of contamination in fish and shellfish by issuing marine orders, possession bans (closures), and consumption advisories. However, DSHS does not routinely test fish and shellfish tissues in every Texas public water body for contaminants, nor has DSHS tested fish and shellfish tissues from every public water body in Texas. DSHS tests fish and shellfish tissues from Texas public water bodies as resources allow.</p>
-
-<p><strong>Also See:</strong><br/> <a title="Seafood and Aquatic Life Group Survey Team - Standard Operating Procedures and Quality Control/Assurance Manual" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20328">Seafood &amp; Aquatic Life Group Survey Team - Standard Operating Procedures &amp; Quality Control/Assurance Manual</a> <span class="small">(PDF, 1.2MB)</span></p>
-
-<h2>Consumption Advisories and Possession Bans</h2>
-<p>A possession ban prohibits the taking of fish or crabs from a water body where tissue testing indicates the likelihood of a serious or imminent threat to public health. Harvesting fish or crabs from a banned area is a violation of state law enforceable by the Texas Parks and Wildlife Department. A fish or crab consumption advisory issued by DSHS recommends limited consumption of fish or crabs from a water body because tests found contaminants in fish or crab tissue at unsafe levels. Eating more fish or crabs than recommended by a consumption advisory may pose a potential human health risk, but harvesting fish or crabs from a water body with a consumption advisory is not illegal. DSHS periodically tests fish and crabs from water bodies with consumption advisories or bans to reevaluate the extent of contamination in fish and crab tissues and study trends.</p>
+<p>Fish and aquatic life in many bodies of water in Texas contain contaminants at levels that, if consumed, may pose a threat to human health. The DSHS tests fish and aquatic life tissues from public waters of Texas to determine contaminant levels and to assess human health risks from consumption of fish or aquatic life. The DSHS informs the public of unsafe contaminant levels in fish and aquatic life by issuing consumption advisories and possession bans (closures).</p>
+<p>The DSHS does not routinely test fish and aquatic life for unsafe levels of contaminants from public waters of Texas, nor has the DSHS tested fish and aquatic life from all public waters of Texas. The DSHS tests fish and aquatic life as resources allow.</p>
+<p><strong>Also See:</strong><br /> <a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20328">Seafood &amp; Aquatic Life Group Survey Team - Standard Operating Procedures &amp; Quality Control/Assurance Manual</a> (PDF, 1.2MB)</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

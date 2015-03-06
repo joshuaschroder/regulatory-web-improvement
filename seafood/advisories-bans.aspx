@@ -6,8 +6,6 @@
 <hr/>
 <p>Sign up to receive email updates about consumption advisories and possession bans.</p>
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
-<p><strong>Also see:</strong> <a title="Water Bodies Tested with No Advisories or Bans Issued" href="/seafood/no-advisories.aspx">Water Bodies Tested with No Advisories or Bans Issued</a></p>
-<hr/>
 
 <table class="zebraBorder" summary="Complex table with row and column headers. This table sorted alphabetically by Body of Water name.">
 	<caption>Consumption Advisories, Possession Bans, Rescinded Orders, and FAQs about Bodies of Water in Texas</caption>
@@ -56,7 +54,7 @@
 			<td headers="map b.a.-steinhagen-reservoir"><a title="B A Steinhagen Reservoir Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985026">B A Steinhagen Reservoir Map</a><br/><span class="small">(PDF, 329KB)</span></td>
 			<td headers="advisories b.a.-steinhagen-reservoir"><a title="Advisory 51" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985025">Advisory 51</a><br/><span class="small">(PDF, 54KB)</span></td>
 			<td headers="ban b.a.-steinhagen-reservoir">None</td>
-			<td headers="rescinded b.a.-steinhagen-reservoir">Advisory 12<a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=20197">Advisory 12</a><br/><span class="small">(PDF, 36KB)</span></td>
+			<td headers="rescinded b.a.-steinhagen-reservoir"><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20197">Advisory 12</a><br/><span class="small">(PDF, 36KB)</span></td>
 			<td headers="risk b.a.-steinhagen-reservoir">
 				<a title="B A Steinhagen Reservoir 2010 " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985029">B A Steinhagen Reservoir 2010 </a><br/><span class="small">(PDF, 1.1MB)</span><br/><br/>
 				<a title="Neches River Basin Risk Assessment Summary 2007&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin Risk Assessment Summary 2007&ndash;2011</a><br/><span class="small">(PDF, 2.5MB)</span>
@@ -222,14 +220,14 @@
 				<a title="AL-16" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20292">AL-16</a><br/><span class="small">(PDF, 72KB)</span><br/><br/>
 				<a title="Fosdic Lake 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20275">Al-10</a><br/><span class="small">(PDF, 36KB)</span>
 			</td>
-			<td headers="risk fosdic-lake"><a title="Fosdic Lake 2005" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=20308">Fosdic Lake 2005</a><br/><span class="small">(PDF, 1.1MB)</span></td>
+			<td headers="risk fosdic-lake"><a title="Fosdic Lake 2005" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20308">Fosdic Lake 2005</a><br/><span class="small">(PDF, 1.1MB)</span></td>
 			<td headers="faq fosdic-lake">None</td>
 		</tr>
 		
 		<tr>
 			<th id="galveston-bay" headers="table_heading_0">Galveston Bay Estuary</th>
 			<td headers="map galveston-bay">
-				<a title="Galveston Bay Estuary – Map 1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589978703 ">Galveston Bay Estuary – Map 1</a><br/><span class="small">(PDF, 3.8MB)</span><br/><br/>
+				<a title="Galveston Bay Estuary – Map 1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978703 ">Galveston Bay Estuary – Map 1</a><br/><span class="small">(PDF, 3.8MB)</span><br/><br/>
 				<a title="Galveston Bay Estuary – Map 2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978704">Galveston Bay Estuary – Map 2</a><br/><span class="small">(PDF, 584KB)</span>
 			</td>
 			<td headers="advisories galveston-bay">
@@ -245,7 +243,7 @@
 				<a title="Advisory 3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996270"></a><br/><span class="small">(PDF, 30KB)</span>
 			</td>
 			<td headers="risk galveston-bay">
-				<a title="Houston Ship Channel and San Jacinto River 2010&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589978702">Houston Ship Channel and San Jacinto River 2010&ndash;2011</a><br/><span class="small">(PDF, 1.8MB)</span><br/><br/>
+				<a title="Houston Ship Channel and San Jacinto River 2010&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978702">Houston Ship Channel and San Jacinto River 2010&ndash;2011</a><br/><span class="small">(PDF, 1.8MB)</span><br/><br/>
 				<a title="Galveston Bay" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978701">Galveston Bay 2010</a><br/><span class="small">(PDF, 4.5MB)</span>
 			</td>
 			<td headers="faq galveston-bay"><a title="Houston Ship Channel and Upper Galveston Bay Fish and Blue Crab Consumption Advisory FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59289">Houston Ship Channel and Upper Galveston Bay Fish and Blue Crab Consumption Advisory FAQs</a><br/><span class="small">(PDF, 28KB)</span></td>
@@ -300,7 +298,7 @@
 			<td headers="map lavaca-bay"><a title="Lavaca Bay" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20272">Lavaca Bay Map</a><br/><span class="small">(PDF, 1.1MB)</span></td>
 			<td headers="advisories lavaca-bay">None</td>
 			<td headers="ban lavaca-bay"><a title="AL-13" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20278">AL-13</a><br/><span class="small">(PDF, 36KB)</span></td>
-			<td headers="rescinded lavaca-bay"><a title="AL-1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=20274">AL-1</a><br/><span class="small">(PDF, 71KB)</span></td>
+			<td headers="rescinded lavaca-bay"><a title="AL-1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20274">AL-1</a><br/><span class="small">(PDF, 71KB)</span></td>
 			<td headers="risk lavaca-bay"><a title="Lavaca Bay 2012" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996281">Lavaca Bay 2012</a><br/><span class="small">(PDF, 2.7MB)</span></td>
 			<td headers="faq lavaca-bay">None</td>
 		</tr>
@@ -373,105 +371,128 @@
 		
 		<tr>
 			<th id="pruitt-lake-black-cypress-bayou" headers="table_heading_0">Pruitt Lake-Black Cypress Bayou</th>
-			<td headers="map pruitt-lake-black-cypress-bayou"><a title="Pruitt Lake-Black Cypress Bayou" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20184">Pruitt Lake-Black Cypress Bayou</a><br/><span class="small">(PDF, 1.2MB)</span></td>
+			<td headers="map pruitt-lake-black-cypress-bayou"><a title="Pruitt Lake-Black Cypress Bayou Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20184">Pruitt Lake-Black Cypress Bayou Map</a><br/><span class="small">(PDF, 1.2MB)</span></td>
 			<td headers="advisories pruitt-lake-black-cypress-bayou"><a title="Advisory 16" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20198">Advisory 16</a><br/><span class="small">(PDF, 28KB)</span></td>
 			<td headers="ban pruitt-lake-black-cypress-bayou">None</td>
 			<td headers="rescinded pruitt-lake-black-cypress-bayou">None</td>
-			<td headers="risk pruitt-lake-black-cypress-bayou"><a title="Pruitt Lake-Black Cypress Bayou 1999" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20319">Pruitt Lake-Black Cypress Bayou 1999</a><br/><span class="small">(PDF, 579KB)</span></td>
+			<td headers="risk pruitt-lake-black-cypress-bayou"><a title="Pruitt Lake-Black Cypress Bayou 1998" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20319">Pruitt Lake-Black Cypress Bayou 1998</a><br/><span class="small">(PDF, 579KB)</span></td>
 			<td headers="faq pruitt-lake-black-cypress-bayou">None</td>
 		</tr>
 		
 		<tr>
 			<th id="Ratcliff" headers="table_heading_0">Ratcliff</th>
-			<td headers="map Ratcliff"><a title="Ratcliff" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20185">Ratcliff</a><br/><span class="small">(PDF, 290KB)</span></td>
+			<td headers="map Ratcliff"><a title="Ratcliff Lake Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20185">Ratcliff Lake Map</a><br/><span class="small">(PDF, 290KB)</span></td>
 			<td headers="advisories Ratcliff"><a title="Advisory 23" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20203">Advisory 23</a><br/><span class="small">(PDF, 28KB)</span></td>
 			<td headers="ban Ratcliff">None</td>
 			<td headers="rescinded Ratcliff">None</td>
-			<td headers="risk Ratcliff"><a title="Ratcliff 2002" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20320">Ratcliff 2002</a><br/><span class="small">(PDF, 290KB)</span></td>
+			<td headers="risk Ratcliff"><a title="Ratcliff 2000" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20320">Ratcliff 2000</a><br/><span class="small">(PDF, 290KB)</span></td>
 			<td headers="faq Ratcliff">None</td>
 		</tr>
 		
 		<tr>
 			<th id="sabine-lake" headers="table_heading_0">Sabine Lake</th>
-			<td headers="map sabine-lake"><a title="Sabine Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961761">Sabine Lake</a><br/><span class="small">(PDF, 704KB)</span></td>
+			<td headers="map sabine-lake"><a title="Sabine Lake Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961761">Sabine Lake Map</a><br/><span class="small">(PDF, 704KB)</span></td>
 			<td headers="advisories sabine-lake"><a title="Advisory 46" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961764">Advisory 46</a><br/><span class="small">(PDF, 24KB)</span></td>
 			<td headers="ban sabine-lake">None</td>
 			<td headers="rescinded sabine-lake">None</td>
-			<td headers="risk sabine-lake"><a title="Sabine Lake 2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961765">Sabine Lake 2011</a><br/><span class="small">(PDF, 1.1MB)</span></td>
-			<td headers="faq sabine-lake">None</td>
+			<td headers="risk sabine-lake"><a title="Sabine Lake 2010" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961765">Sabine Lake 2010</a><br/><span class="small">(PDF, 1.1MB)</span></td>
+			<td headers="faq sabine-lake"><a title="Advisory 46 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961767">Advisory 46 FAQs</a><br/><span class="small">(PDF, 60KB)</span></td>
 		</tr>
 		
 		<tr>
 			<th id="sam-rayburn-reservoir" headers="table_heading_0">Sam Rayburn Reservoir</th>
-			<td headers="map sam-rayburn-reservoir"><a title="Sam Rayburn Reservoir" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985022">Sam Rayburn Reservoir</a><br/><span class="small">(PDF, 444KB)</span></td>
+			<td headers="map sam-rayburn-reservoir"><a title="Sam Rayburn Reservoir map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985022">Sam Rayburn Reservoir Map</a><br/><span class="small">(PDF, 444KB)</span></td>
 			<td headers="advisories sam-rayburn-reservoir"><a title="Advisory 51" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20197">Advisory 51</a><br/><span class="small">(PDF, 36KB)</span></td>
 			<td headers="ban sam-rayburn-reservoir">None</td>
-			<td headers="rescinded sam-rayburn-reservoir">None</td>
-			<td headers="risk sam-rayburn-reservoir"><a title="Neches River Basin 2013" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin 2013</a><br/><span class="small">(PDF, 2.5MB)</span></td>
-			<td headers="faq sam-rayburn-reservoir">None</td>
+			<td headers="rescinded sam-rayburn-reservoir"><a title="Advisory 12" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20197">Advisory 12</a><br/><span class="small">(PDF, 36KB)</span></td>
+			<td headers="risk sam-rayburn-reservoir">
+				<a title="Sam Rayburn 2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985031">Sam Rayburn 2011</a><br/><span class="small">(PDF, 1.9MB)</span><br/><br/>
+				<a title="Neches River Basin 2007&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin 2007&ndash;2011</a><br/><span class="small">(PDF, 2.5MB)</span>
+			</td>
+			<td headers="faq sam-rayburn-reservoir"><a title="Advisory 51 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985027">Advisory 51 FAQs</a><br/><span class="small">(PDF, 101KB)</span></td>
 		</tr>
 		
 		<tr>
 			<th id="toledo-bend" headers="table_heading_0">Toledo Bend</th>
-			<td headers="map toledo-bend"><a title="Toledo Bend" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20187">Toledo Bend</a><br/><span class="small">(PDF, 579KB)</span></td>
+			<td headers="map toledo-bend"><a title="Toledo Bend Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20187">Toledo Bend Map</a><br/><span class="small">(PDF, 579KB)</span></td>
 			<td headers="advisories toledo-bend"><a title="Advisory 12" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20197">Advisory 12</a><br/><span class="small">(PDF, 36KB)</span></td>
 			<td headers="ban toledo-bend">None</td>
 			<td headers="rescinded toledo-bend">None</td>
-			<td headers="risk toledo-bend"><a title="Toledo Bend 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20322">Toledo Bend 1995</a><br/><span class="small">(PDF, 290KB)</span></td>
-			<td headers="faq toledo-bend">None</td>
+			<td headers="risk toledo-bend">
+				<a title="Toledo Bend 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20322">Toledo Bend 1995</a><br/><span class="small">(PDF, 290KB)</span><br/><br/>
+				<a title="East Texas Lakes 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20302">East Texas Lakes 1995</a><br/><span class="small">(PDF, 38KB)</span>
+			</td>
+			<td headers="faq toledo-bend"><a title="Advisory 12 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996251">Advisory 12 FAQs</a><br/><span class="small">(PDF, 125KB)</span></td>
 		</tr>
 		
 		<tr>
-			<th id="town-lake" headers="table_heading_0">Town Lake</th>
+			<th id="town-lake" headers="table_heading_0">Town Lake <br/>"Lady Bird Lake"</th>
 			<td headers="map town-lake">None</td>
-			<td headers="advisories town-lake"><a title="Advisory 0" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20282">Advisory 0</a><br/><span class="small">(PDF, 36KB)</span></td>
+			<td headers="advisories town-lake">None</td>
 			<td headers="ban town-lake">None</td>
-			<td headers="rescinded town-lake"><a title="Advisory 17" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20286">Advisory 17</a><br/><span class="small">(PDF, 18KB)</span></td>
-			<td headers="risk town-lake">None</td>
+			<td headers="rescinded town-lake">
+				<a title="Advisory 17" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20286">Advisory 17</a><br/><span class="small">(PDF, 18KB)</span><br/><br/>
+				<a title="Advisory-not numbered" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20282">Advisory-not numbered</a><br/><span class="small">(PDF, 36KB)</span>
+			</td>
+			<td headers="risk town-lake"><a title="Town Lake 1998" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996300">Town Lake 1998</a><br/><span class="small">(PDF, 222KB)</span></td>
 			<td headers="faq town-lake">None</td>
 		</tr>
 		
 		<tr>
 			<th id="trinity-river" headers="table_heading_0">Trinity River</th>
-			<td headers="map trinity-river"><a title="Trinity River" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59262">Trinity River</a><br/><span class="small">(PDF, 827KB)</span></td>
-			<td headers="advisories trinity-river"><a title="Advisory 25" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20205">Advisory 25</a><br/><span class="small">(PDF, 36KB)</span></td>
+			<td headers="map trinity-river"><a title="Trinity River" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59262">Trinity River Map</a><br/><span class="small">(PDF, 827KB)</span></td>
+			<td headers="advisories trinity-river"><a title="Advisory 43" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59265">Advisory 43</a><br/><span class="small">(PDF, 29KB)</span></td>
 			<td headers="ban trinity-river">None</td>
-			<td headers="rescinded trinity-river">None</td>
+			<td headers="rescinded trinity-river">
+				<a title="Advisory 25" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20205">Advisory 25</a><br/><span class="small">(PDF, 36KB)</span><br/><br/>
+				<a title="AL-17" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996351">AL-17</a><br/><span class="small">(PDF, 40KB)</span><br/><br/>
+				<a title="AL-14" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20279">AL-14</a><br/><span class="small">(PDF, 18KB)</span><br/><br/>
+				<a title="AL-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20280">AL-2</a><br/><span class="small">(PDF, 56KB)</span>
+			</td>
 			<td headers="risk trinity-river"><a title="Trinity River 2008" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59320">Trinity River 2008</a><br/><span class="small">(PDF, 1.2MB)</span></td>
-			<td headers="faq trinity-river">None</td>
+			<td headers="faq trinity-river"><a title="Advisory 43 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996354">Advisory 43 FAQs</a><br/><span class="small">(PDF, 114KB)</span></td>
 		</tr>
 		
 		<tr>
 			<th id="village-creek" headers="table_heading_0">Village Creek</th>
-			<td headers="map village-creek"><a title="Village Creek" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51745">Village Creek</a><br/><span class="small">(PDF, 269KB)</span></td>
+			<td headers="map village-creek"><a title="Village Creek" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51745">Village Creek Map</a><br/><span class="small">(PDF, 269KB)</span></td>
 			<td headers="advisories village-creek"><a title="Advisory 39" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51746">Advisory 39</a><br/><span class="small">(PDF, 25KB)</span></td>
 			<td headers="ban village-creek">None</td>
 			<td headers="rescinded village-creek">None</td>
-			<td headers="risk village-creek"><a title="Village Creek 2009" href="http://www.dshs.state.tx.us/seafood/PDF2/Risk-Characterization/VillageCreekRC2007.pdf">Village Creek 2009</a><br/><span class="small">(PDF, 909KB)</span></td>
-			<td headers="faq village-creek"><a title="Village Creek Consumption Advisory FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59295">Village Creek Consumption Advisory FAQs</a><br/><span class="small">(PDF, 55KB)</span></td>
+			<td headers="risk village-creek"><a title="Village Creek 2007" href="http://www.dshs.state.tx.us/seafood/PDF2/Risk-Characterization/VillageCreekRC2007.pdf">Village Creek 2007</a><br/><span class="small">(PDF, 909KB)</span></td>
+			<td headers="faq village-creek"><a title="Advisory 39 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59295">Advisory 39 FAQs</a><br/><span class="small">(PDF, 55KB)</span></td>
 		</tr>
 		
 		<tr>
 			<th id="welsh-reservoir" headers="table_heading_0">Welsh Reservoir</th>
 			<td headers="map welsh-reservoir">None</td>
-			<td headers="advisories welsh-reservoir"><a title="Advisory 4" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20289">Advisory 4</a><br/><span class="small">(PDF, 28KB)</span></td>
+			<td headers="advisories welsh-reservoir">None</td>
 			<td headers="ban welsh-reservoir">None</td>
-			<td headers="rescinded welsh-reservoir"><a title="Advisory 27" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20288">Advisory 27</a><br/><span class="small">(PDF, 18KB)</span></td>
-			<td headers="risk welsh-reservoir">None</td>
+			<td headers="rescinded welsh-reservoir">
+				<a title="Advisory 27" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20288">Advisory 27</a><br/><span class="small">(PDF, 18KB)</span><br/><br/>
+				<a title="Advisory 4" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20289">Advisory 4</a><br/><span class="small">(PDF, 28KB)</span>
+			</td>
+			<td headers="risk welsh-reservoir"><a title="Welsh Reservoir 2003" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996358">Welsh Reservoir 2003</a><br/><span class="small">(PDF, 455KB)</span></td>
 			<td headers="faq welsh-reservoir">None</td>
 		</tr>		
 		
 		<tr>
 			<th id="worth-lake" headers="table_heading_0">Worth, Lake</th>
-			<td headers="map worth-lake"><a title="Lake Worth" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946769">Lake Worth</a><br/><span class="small">(PDF, 676KB)</span></td>
-			<td headers="advisories worth-lake"><a title="Advisory 18" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20199">Advisory 18</a><br/><span class="small">(PDF, 18KB)</span></td>
+			<td headers="map worth-lake"><a title="Lake Worth" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946769">Lake Worth Map</a><br/><span class="small">(PDF, 676KB)</span></td>
+			<td headers="advisories worth-lake"><a title="Advisory 45" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589936145">Advisory 45</a><br/><span class="small">(PDF, xxKB)</span></td>
 			<td headers="ban worth-lake">None</td>
-			<td headers="rescinded worth-lake">None</td>
+			<td headers="rescinded worth-lake"><a title="Advisory 18" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20199">Advisory 18</a><br/><span class="small">(PDF, 18KB)</span></td>
 			<td headers="risk worth-lake"><a title="Lake Worth 2008" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589936661">Lake Worth 2008</a><br/><span class="small">(PDF, 1.6MB)</span></td>
-			<td headers="faq worth-lake"><a title="Lake Worth FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589936144">Lake Worth FAQs</a><br/><span class="small">(PDF, 63KB)</span></td>
+			<td headers="faq worth-lake"><a title="Advisory 45 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589936144">Advisory 45 FAQs</a><br/><span class="small">(PDF, 63KB)</span></td>
 		</tr>
 		
 	</tbody>
 </table>		
+
+<h2>Additional Resources</h2>
+<ul>
+	<li><a title="Water Bodies Tested with No Advisories or Bans Issued" href="/seafood/no-advisories.aspx">Water Bodies Tested with No Advisories or Bans Issued</a></li>
+	<li><a title="Archived Risk Categorizations" href="/seafood/risk-categorization-archives.aspx">Archived Risk Categorizations</a>
+<hr/>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>			

@@ -4,7 +4,18 @@
     include '/home/codio/workspace/includes/menus/seafood_menu.html'; 
 ?>
 
-<p>The mission of the Seafood and Aquatic Life Group is to protect the consumer from disease or other health hazards transmissible by oysters, clams, mussels and scallops and crab meat produced in or imported into Texas. The Seafood and Aquatic Life Group also protects recreational fishers from disease or contaminants found in fish and other aquatic species caught in Texas' lakes, rivers, bays or nearshore state waters. We carry out this mission by classification of shellfish growing areas, certification of molluscan shellfish shippers and crab meat processors, and testing tissue samples from fish and seafood harvesting areas.</p>
+<p><strong>Mission</strong></p>
+
+<p>To protect consumers from contaminants, disease or other health hazards transmissible or found in fish and shellfish. </p>
+
+<p><strong>Responsibilities</strong></p>
+<p>To accomplish our mission, we will:</p>
+<ul>
+	<li>Classify molluscan shellfish (i.e., oysters, clams, and mussels) growing areas.</li>
+	<li>Certify molluscan shellfish shippers and crab meat processors.</li>
+	<li>Approve importation of processed crab meat.</li>
+	<li>Test fish, shellfish, and aquatic life tissue samples from public waters of Texas. </li>
+</ul>
 
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about advisories, bans, and certification changes to the Seafood and Aquatic Life Program rules. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
