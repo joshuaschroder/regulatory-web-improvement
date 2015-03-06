@@ -24,7 +24,7 @@
 <blockquote>
 	<blockquote>
 		<p>
-			<a title="25 Texas Administrative Code, §229.301 – 229.307" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938163">25 Texas Administrative Code, §§229.301 &ndash; 229.307</a> <span class="small">(PDF, 55KB)</span>
+			<a title="25 Texas Administrative Code, §229.301 – 229.307" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938163">25 Texas Administrative Code, §§229.301 &#8211; 229.307</a> <span class="small">(PDF, 55KB)</span>
 		</p>
 	</blockquote>
 </blockquote>
@@ -43,7 +43,7 @@
 <blockquote>
 	<blockquote>
 		<p>
-			<a title="25 TAC - Section 230.11 &ndash; 230.18, Limitations on Sales of Products Containing Ephedrine, Pseudoephedrine, and Norpseudoephedrine" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589974385">25 Texas Administrative Code, §§230.11 &ndash; 230.18</a> <span class="small">(PDF, 80KB)</span>
+			<a title="25 TAC - Section 230.11 &#8211; 230.18, Limitations on Sales of Products Containing Ephedrine, Pseudoephedrine, and Norpseudoephedrine" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589974385">25 Texas Administrative Code, §§230.11 &#8211; 230.18</a> <span class="small">(PDF, 80KB)</span>
 		</p>
 	</blockquote>
 </blockquote>

@@ -57,7 +57,7 @@
 			<td headers="rescinded b.a.-steinhagen-reservoir"><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20197">Advisory 12</a><br/><span class="small">(PDF, 36KB)</span></td>
 			<td headers="risk b.a.-steinhagen-reservoir">
 				<a title="B A Steinhagen Reservoir 2010 " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985029">B A Steinhagen Reservoir 2010 </a><br/><span class="small">(PDF, 1.1MB)</span><br/><br/>
-				<a title="Neches River Basin Risk Assessment Summary 2007&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin Risk Assessment Summary 2007&ndash;2011</a><br/><span class="small">(PDF, 2.5MB)</span>
+				<a title="Neches River Basin Risk Assessment Summary 2007&#8211;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin Risk Assessment Summary 2007&#8211;2011</a><br/><span class="small">(PDF, 2.5MB)</span>
 			</td>
 			<td headers="faq b.a.-steinhagen-reservoir">None</td>
 		</tr>
@@ -243,7 +243,7 @@
 				<a title="Advisory 3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996270"></a><br/><span class="small">(PDF, 30KB)</span>
 			</td>
 			<td headers="risk galveston-bay">
-				<a title="Houston Ship Channel and San Jacinto River 2010&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978702">Houston Ship Channel and San Jacinto River 2010&ndash;2011</a><br/><span class="small">(PDF, 1.8MB)</span><br/><br/>
+				<a title="Houston Ship Channel and San Jacinto River 2010&#8211;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978702">Houston Ship Channel and San Jacinto River 2010&#8211;2011</a><br/><span class="small">(PDF, 1.8MB)</span><br/><br/>
 				<a title="Galveston Bay" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978701">Galveston Bay 2010</a><br/><span class="small">(PDF, 4.5MB)</span>
 			</td>
 			<td headers="faq galveston-bay"><a title="Houston Ship Channel and Upper Galveston Bay Fish and Blue Crab Consumption Advisory FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59289">Houston Ship Channel and Upper Galveston Bay Fish and Blue Crab Consumption Advisory FAQs</a><br/><span class="small">(PDF, 28KB)</span></td>
@@ -319,7 +319,7 @@
 			<td headers="advisories madisonville-lake"><a title="Advisory 36" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20244">Advisory 36</a><br/><span class="small">(PDF, 36KB)</span></td>
 			<td headers="ban madisonville-lake">None</td>
 			<td headers="rescinded madisonville-lake">None</td>
-			<td headers="risk madisonville-lake"><a title="Lake Madisonville 2006&ndash;2007" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20312">Lake Madisonville 2006&ndash;2007</a><br/><span class="small">(PDF, 579KB)</span></td>
+			<td headers="risk madisonville-lake"><a title="Lake Madisonville 2006&#8211;2007" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20312">Lake Madisonville 2006&#8211;2007</a><br/><span class="small">(PDF, 579KB)</span></td>
 			<td headers="faq madisonville-lake"><a title="Advisory 36 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59291">Advisory 36 FAQs</a><br/><span class="small">(PDF, 62KB)</span></td>
 		</tr>
 		
@@ -365,7 +365,7 @@
 			<td headers="advisories neches-river"><a title="Advisory 51" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985025">Advisory 51</a><br/><span class="small">(PDF, 54KB)</span></td>
 			<td headers="ban neches-river">None</td>
 			<td headers="rescinded neches-river"><a title="Advisory 13" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20284">Advisory 13</a><br/><span class="small">(PDF, 18KB)</span></td>
-			<td headers="risk neches-river"><a title="Neches River Basin 2007&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin 2007&ndash;2011</a><br/><span class="small">(PDF, 2.5MB)</span></td>
+			<td headers="risk neches-river"><a title="Neches River Basin 2007&#8211;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin 2007&#8211;2011</a><br/><span class="small">(PDF, 2.5MB)</span></td>
 			<td headers="faq neches-river"><a title="Advisory 51 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985027">Advisory 51 FAQs</a><br/><span class="small">(PDF, 101KB)</span></td>
 		</tr>
 		
@@ -407,7 +407,7 @@
 			<td headers="rescinded sam-rayburn-reservoir"><a title="Advisory 12" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20197">Advisory 12</a><br/><span class="small">(PDF, 36KB)</span></td>
 			<td headers="risk sam-rayburn-reservoir">
 				<a title="Sam Rayburn 2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985031">Sam Rayburn 2011</a><br/><span class="small">(PDF, 1.9MB)</span><br/><br/>
-				<a title="Neches River Basin 2007&ndash;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin 2007&ndash;2011</a><br/><span class="small">(PDF, 2.5MB)</span>
+				<a title="Neches River Basin 2007&#8211;2011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985035">Neches River Basin 2007&#8211;2011</a><br/><span class="small">(PDF, 2.5MB)</span>
 			</td>
 			<td headers="faq sam-rayburn-reservoir"><a title="Advisory 51 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985027">Advisory 51 FAQs</a><br/><span class="small">(PDF, 101KB)</span></td>
 		</tr>

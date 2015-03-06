@@ -30,7 +30,7 @@
 <strong>Testing Sites</strong>
 <p>
 	One Site: $400.00 <br/>
-	2&ndash;10 Sites: $1000.00 <br/>
+	2&#8211;10 Sites: $1000.00 <br/>
 	Over 10 Sites: $2,000.00 <br/>
 	Late Fee - $100.00
 </p>

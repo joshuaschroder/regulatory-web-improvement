@@ -37,11 +37,11 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0">$0 &ndash; $49,999.99</td>
+			<td headers="table_heading_0">$0 &#8211; $49,999.99</td>
 			<td headers="table_heading_1">$258</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">$50,000 &ndash; $149,999.99</td>
+			<td headers="table_heading_0">$50,000 &#8211; $149,999.99</td>
 			<td headers="table_heading_1">$515</td>
 		</tr>
 		<tr>

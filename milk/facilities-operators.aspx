@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/milk_menu.html'; 
 ?>
 
-<table class="zebra" summary="sorted alphabetically by regulated facility or operator type">
+<table class="zebra" summary="sorted alphabetically by regulated facility or operator type" style="width:100%;">
 	<caption>Number of facilities and/or operators licensed or registered in Texas with the DSHS Milk Group.</caption>
 	<thead>
 		<th id="table_heading_0">Regulated Facility or Operator Type</th>
@@ -13,15 +13,15 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0">Bulk Milk Transport Tankers</td>
-			<td headers="table_heading_1">720</td>
+			<td headers="table_heading_1">747</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Certified Hauler/Sampler/Receiver </td>
-			<td headers="table_heading_1">1312</td>
+			<td headers="table_heading_1">1334</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Frozen Dessert Plants (In-State)</td>
-			<td headers="table_heading_1">63</td>
+			<td headers="table_heading_1">64</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Frozen Dessert Plants (Out-of-State) **</td>
@@ -29,11 +29,11 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Milk for Manufacturing Purposes</td>
-			<td headers="table_heading_1">55</td>
+			<td headers="table_heading_1">56</td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0">Pasteurization Plants (In-State)</td>
-			<td headers="table_heading_1">35</td>
+			<td headers="table_heading_1">39</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Pasteurization Plants (Out-of-State) **</td>
@@ -41,7 +41,7 @@
 		</tr>		
 		<tr>
 			<td headers="table_heading_0">Producer Dairy Farms</td>
-			<td headers="table_heading_1">466</td>
+			<td headers="table_heading_1">464</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Retail Raw Milk</td>
@@ -49,7 +49,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Single Service Container Manufacturing Plant </td>
-			<td headers="table_heading_1">30</td>
+			<td headers="table_heading_1">31</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Transfer/Receiving Stations</td>

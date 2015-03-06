@@ -17,8 +17,8 @@
 <h3>Texas Administrative Code (TAC), Title 25</h3>
 <ul>
 	<li><a title="229.261, Assessment of Administrative or Civil Penalties" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">229.261: Assessment of Administrative or Civil Penalties</a></li>
-	<li><a title="229.401&ndash;413, Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=V&rl=Y">229.401&ndash;413: Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios</a> <span class="small">(HTML)</span></li>
-	<li><a title="229.401&ndash;413, Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17222">229.401&ndash;413: Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios</a> <span class="small">(PDF, 142KB)</span></li>
+	<li><a title="229.401&#8211;413, Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=V&rl=Y">229.401&#8211;413: Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios</a> <span class="small">(HTML)</span></li>
+	<li><a title="229.401&#8211;413, Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17222">229.401&#8211;413: Minimum Standards for Licensure of Tattoo and Certain Body Piercing Studios</a> <span class="small">(PDF, 142KB)</span></li>
 </ul>
 <hr/>
 

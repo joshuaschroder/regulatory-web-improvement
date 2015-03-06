@@ -31,11 +31,11 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0">$0 &ndash; $499,999.99</td>
+			<td headers="table_heading_0">$0 &#8211; $499,999.99</td>
 			<td headers="table_heading_1">$495 for each place of business</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">$50,000 &ndash; $9,999,999.99</td>
+			<td headers="table_heading_0">$50,000 &#8211; $9,999,999.99</td>
 			<td headers="table_heading_1">$2,225 for each place of business</td>
 		</tr>
 		<tr>
@@ -55,11 +55,11 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0">$0 &ndash; $499,999.99</td>
+			<td headers="table_heading_0">$0 &#8211; $499,999.99</td>
 			<td headers="table_heading_1">$240 for each place of business</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">$50,000 &ndash; $9,999,999.99</td>
+			<td headers="table_heading_0">$50,000 &#8211; $9,999,999.99</td>
 			<td headers="table_heading_1">$1,080 for each place of business</td>
 		</tr>
 		<tr>
@@ -88,11 +88,11 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0">$0 &ndash; $499,999.99</td>
+			<td headers="table_heading_0">$0 &#8211; $499,999.99</td>
 			<td headers="table_heading_1">$495 for each place of business</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">$50,000 &ndash; $9,999,999.99</td>
+			<td headers="table_heading_0">$50,000 &#8211; $9,999,999.99</td>
 			<td headers="table_heading_1">$1,113 for each place of business</td>
 		</tr>
 		<tr>
@@ -112,11 +112,11 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0">$0 &ndash; $499,999.99</td>
+			<td headers="table_heading_0">$0 &#8211; $499,999.99</td>
 			<td headers="table_heading_1">$240 for each place of business</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">$50,000 &ndash; $9,999,999.99</td>
+			<td headers="table_heading_0">$50,000 &#8211; $9,999,999.99</td>
 			<td headers="table_heading_1">$540 for each place of business</td>
 		</tr>
 		<tr>

@@ -5,7 +5,7 @@
 ?>
 
 <table class="zebra border" summary="This table is sorted chronologically by date of action (column 6) from oldest to newest">
-	<caption>Birthing Centers Enforcement Actions September 2013 &ndash; September 2014</caption>
+	<caption>Birthing Centers Enforcement Actions September 2013 &#8211; September 2014</caption>
 	<thead>
 		<tr>
 			<th id="table_heading_0">Name</th>

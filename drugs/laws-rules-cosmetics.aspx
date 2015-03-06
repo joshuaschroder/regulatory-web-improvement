@@ -20,14 +20,14 @@
 
 <blockquote>
     <blockquote>
-<p><a title="25 Texas Administrative Code, Sections 229.40 - 229.41" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17168">25 Texas Administrative Code, §§229.40 &ndash; 229.41</a> <span class="small">(PDF, 75KB)</span></p>
+<p><a title="25 Texas Administrative Code, Sections 229.40 - 229.41" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17168">25 Texas Administrative Code, §§229.40 &#8211; 229.41</a> <span class="small">(PDF, 75KB)</span></p>
 </blockquote>
 </blockquote>
 
 <h3>Related Rules</h3>
 <ul>    
 	<li><a title="25 Texas Administrative Code, Section 229.261" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">229.261 - Assessment of Administrative or Civil Penalties</a></li>
-	<li><a title="25 Texas Administrative Code, Sections 229.301 &ndash; 229.307" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=R&rl=Y">229.301&ndash;307 - Issuance of Certificates of Free Sale/Origin and Sanitation</a>
+	<li><a title="25 Texas Administrative Code, Sections 229.301 &#8211; 229.307" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=R&rl=Y">229.301&#8211;307 - Issuance of Certificates of Free Sale/Origin and Sanitation</a>
 	<br/><br/><em>For more information, please see the <a title="Certificates of Free Sale program" href="/certificate-of-free-sale/">Certificates of Free Sale program</a></em>.
 	</li>
 </ul>

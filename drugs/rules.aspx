@@ -32,7 +32,7 @@
 
 <h2><a title="nonprescription" class="bookmark" name="nonprescription"></a>Drugs (Nonprescription)</h2>
 <h3><a title="nonprescription-distributors" class="bookmark" name="nonprescription-distributors"></a>Texas Administrative Code: Licensing of Wholesale Distributors of Nonprescription Drugs -- including Good Manufacturing Practices</h3>
-<p><a title="25 Texas Administrative Code (TAC), &sect;&sect; 229.241 - 229.252" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17195">25 Texas Administrative Code (TAC), &sect;&sect;229.241 &ndash; 229.252</a> <span class="small">(PDF, 140KB)</span></p>
+<p><a title="25 Texas Administrative Code (TAC), &sect;&sect; 229.241 - 229.252" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17195">25 Texas Administrative Code (TAC), &sect;&sect;229.241 &#8211; 229.252</a> <span class="small">(PDF, 140KB)</span></p>
 
 <p><strong>Section:</strong></p>
 <ul>
@@ -63,7 +63,7 @@
 <h2><a title="prescription" class="bookmark" name="prescription"></a>Drugs (Prescription)</h2>
 
 <h3><a title="prescription-distributors" class="bookmark" name="prescription-distributors"></a>Texas Administrative Code: Licensing of Wholesale Distributors of Prescription Drugs -- including Good Manufacturing Practices</h3>
-<p><a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938359">25 Texas Administrative Code (TAC), &sect;&sect;229.419 &ndash; 229.430</a> <span class="small">(PDF, 121KB)</span></p>
+<p><a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938359">25 Texas Administrative Code (TAC), &sect;&sect;229.419 &#8211; 229.430</a> <span class="small">(PDF, 121KB)</span></p>
 <p><strong>Section:</strong></p>
 <ul>
 	<li><a title="25 Texas Administrative Code, Section 229.419" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&amp;app=9&amp;p_dir=N&amp;p_rloc=118486&amp;p_tloc=&amp;p_ploc=1&amp;pg=105&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=229&amp;rl=251">229.419</a> - Purpose</li>

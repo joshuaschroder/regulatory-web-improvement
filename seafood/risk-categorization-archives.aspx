@@ -11,7 +11,7 @@
 <p><a title="Caddo Lake 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20297">Caddo Lake 1995</a> <span class="small">(PDF, 290KB)</span></p>
 <p><a title="Como, Lake 2005" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20299">Como, Lake 2005</a> <span class="small">(PDF, 1.2MB)</span></p>
 <p><a title="Cox Bay (Lavaca Bay) 1999" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996360">Cox Bay (Lavaca Bay) 1999</a> <span class="small">(PDF, 628KB)</span></p>
-<p><a title="Donna Irrigation System 1993&ndash;1994" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20301">Donna Irrigation System 1993&ndash;1994</a> <span class="small">(PDF, 145KB)</span></p>
+<p><a title="Donna Irrigation System 1993&#8211;1994" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20301">Donna Irrigation System 1993&#8211;1994</a> <span class="small">(PDF, 145KB)</span></p>
 <p><a title="East Texas Lakes 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20302">East Texas Lakes 1995</a> <span class="small">(PDF, 38KB)</span></p>
 <p><a title="Echo Lake 2001" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20303">Echo Lake 2001</a> <span class="small">(PDF, 290KB)</span></p>
 <p><a title="Fosdic Lake 2002" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20306">Fosdic Lake 2002</a> <span class="small">(PDF, 36KB)</span></p>
@@ -37,7 +37,7 @@
 <p><a title="Sam Rayburn Reservoir 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20321">Sam Rayburn Reservoir 1995</a> <span class="small">(PDF, 299KB)</span></p>
 <p><a title="Trinity Bay - Upper Galveston Bay 2006" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20323">Trinity Bay - Upper Galveston Bay 2006</a> <span class="small">(PDF, 579KB)</span></p>
 <p><a title="Trinity Bay 1999" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996371">Trinity Bay 1999</a> <span class="small">(PDF, 236KB)</span></p>
-<p><a title="Trinity River 2001&ndash;2002" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996372">Trinity River 2001&ndash;2002</a> <span class="small">(PDF, 309KB)</span></p>
+<p><a title="Trinity River 2001&#8211;2002" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996372">Trinity River 2001&#8211;2002</a> <span class="small">(PDF, 309KB)</span></p>
 <p><a title="Trinity River 1998" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996373">Trinity River 1998</a> <span class="small">(PDF, 131KB)</span></p>
 <p><a title="Welsh Reservoir 1998" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996374">Welsh Reservoir 1998</a> <span class="small">(PDF, 363KB)</span></p>
 
