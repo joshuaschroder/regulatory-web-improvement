@@ -5,7 +5,7 @@
 ?>
 
 
-<h2>What to include in a request for license verification</h2>
+<h2>What to Include in a Request for License Verification</h2>
 <ul>
 	<li>The license number of the firm.<br/></li>
 	<li>The return address. Without this, the license verification will be returned to the address on the original envelope or letterhead, or to the address of the firm listed on the form.<br/></li>
@@ -18,7 +18,7 @@
 <p>Currently, there is no fee, but this may change in the future.</p>
 
 <hr/>
-<h2>How to get the request for license verification to the department. </h2>
+<h2>Where to Send the Request</h2>
 <p>
 	<strong>Fax:</strong> (512) 834-6759, attn: Karen Tannert<br/>
 	<strong>Email:</strong> <a title="License Verification Request" href="mailto:karen.tannert@dshs.state.tx.us?subject=License Verification Request">karen.tannert@dshs.state.tx.us</a>
