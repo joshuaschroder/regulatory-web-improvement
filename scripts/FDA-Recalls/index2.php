@@ -11,15 +11,21 @@ $file = 'array.txt';
 $current = file_get_contents($file);
 
 // get the link URLs
-$fdalinks = $html->find('tr td[2] a');
-foreach ($fdalinks as $element) {
-	$url = 'http://www.fda.gov' . $element -> href;
-
-	// write contents to the array
-	$current .= "$url\n";
-	file_put_contents($file, $current);		
+$rows = $html->find('tr');
+foreach ($rows as $element) {
+	
+	// search table rows for numberical identifier of Food Alerts
+	if (strpos($element,'69') !== false) {
+		// when relevant rows are found, scrape the needed info
+    	foreach($element->find('td[2] a') as $url) {
+			$url = 'http://www.fda.gov' . $url->href;
+			
+			// write contents to the array
+			$current .= "$url\n";
+			file_put_contents($file, $current);
+		}
+	}
 }
-
 //Scrape each URL in the array for meta title, created date, and description
 
 $links = file('array.txt', FILE_IGNORE_NEW_LINES);
@@ -88,3 +94,4 @@ file_put_contents("array.txt", "");
     
 </body>
 </html>  
+?>
