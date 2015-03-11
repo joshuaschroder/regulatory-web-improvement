@@ -1,12 +1,7 @@
 <?php
 
-//-------------------- USER INPUTS -------------------------------------------------//
-
-	// Age of results to return in report
-	$days = 8;
-
-	// Where to output results
-	$outFile = "foodalerts.html";
+// Create output file
+$outFile = "foodalerts.html";
 
 
 // Setup Date Formatting
@@ -46,7 +41,7 @@ foreach($xml as $entry) {
 		if (strpos($title,'Texas') || strpos($desc,'Texas') !== false) {
 
 			// get only recent alerts and recalls
-			if ($interval->days < $days) {
+			if ($interval->days < 8) {
 				
 				// format output
 				$title = htmlspecialchars($title);		
@@ -108,7 +103,7 @@ foreach ($FDAarray as $key => $val) {
 
 			
 			// get only recent alerts and updates
-			if ($interval->days < $days) {
+			if ($interval->days < 8) {
 				
 				// format output
 				$manufacturer = htmlspecialchars($manufacturer);
@@ -126,9 +121,9 @@ foreach ($FDAarray as $key => $val) {
 				
 					// output an ordered list if there are multiple products
 					if (strpos($desc,'</li><li>') !== false) {				
-						$output .= "  <strong>Product(s):</strong><ol><li>" . $desc . "</li></ol>\n";
+						$output .= "  <strong>Products:</strong><ol><li>" . $desc . "</li></ol>\n";
 					} else {
-						$output .= "  <strong>Product(s):</strong> " . $desc . "<br/>\n";
+						$output .= "  <strong>Product:</strong> " . $desc . "<br/>\n";
 					}
 				
 				$output .= '  <strong>Link:</strong> <a title="' . $manufacturer . ' Recall Number ' . $eventID . '" href="' . $hyperlink . '">' . $manufacturer . ' Recall Number ' . $eventID . '</a><br/>';				
@@ -141,7 +136,7 @@ foreach ($FDAarray as $key => $val) {
 	}
 }
 
-//include '/home/codio/workspace/scripts/mailgun-php/swiftmailer/mailgun_with_swiftmailer.php';
+include '/home/codio/workspace/scripts/mailgun-php/swiftmailer/mailgun_with_swiftmailer.php';
 
 // Garbage Collection
 unlink('fda.csv');
