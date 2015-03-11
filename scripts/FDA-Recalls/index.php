@@ -1,90 +1,149 @@
 <?php
 
-include ('/home/codio/workspace/scripts/simplehtmldom/simple_html_dom.php');
+//-------------------- USER INPUTS -------------------------------------------------//
 
-// Get the List of Food Alerts URLs from the FDA Website and add them to an array
+	// Age of results to return in report
+	$days = 8;
 
-$html = file_get_html('http://www.fda.gov/Safety/Recalls/');
+	// Where to output results
+	$outFile = "foodalerts.html";
 
-// create the array and open it for writing
-$file = 'array.txt';
-$current = file_get_contents($file);
 
-// get the link URLs
-$fdalinks = $html->find('tr td[2] a');
-foreach ($fdalinks as $element) {
-	$url = 'http://www.fda.gov' . $element -> href;
+// Setup Date Formatting
+date_default_timezone_set('America/Chicago');
+$today = date('m/d/Y');
 
-	// write contents to the array
-	$current .= "$url\n";
-	file_put_contents($file, $current);		
-}
+//----------------------- USDA Website Food Alerts ---------------------------------//
 
-//Scrape each URL in the array for meta title, created date, and description
+$headingUSDA = "<h2>USDA Food Alerts and Recalls</h2>\n";
+file_put_contents($outFile, $headingUSDA);
 
-$links = file('array.txt', FILE_IGNORE_NEW_LINES);
 
-// scraping function 
-function scrapingMeta($links) {
-    
-    // create HTML DOM for link pages
-    $html = file_get_html($links);
+// Setup the Array
+$xml = simplexml_load_file('http://www.fsis.usda.gov/wps/wcm/connect/fsis-content/rss/recalls');
+$parsed_results_array = array();
 
-    // get the current URL and wrap in an anchor
-    echo '<hr/><h3><a href="' . $links . '" ';
-    
-    // get the page title
-    foreach($html->find('title') as $e) {
-		echo 'title="' .$e->innertext .'">';
-        echo $e->innertext;
+// Data Processing
+foreach($xml as $entry) {
+    foreach($entry->item as $item) {
 		
-        // close the anchor element
-        echo '</a></h3>';
-    }
-    
-    // get the posted date 
-     foreach($html->find('meta') as $element) {
-        if (in_array($element->name, array('posted','Posted','POSTED'))) {
-            $value = $element->content;
-			echo '<p><strong>Posted On:</strong> ' . $value . '<br/>';
-        }  
-   }
+		// get relevant entries
+		$title = $item->title;
+		$trimDate = substr_replace($item->pubDate, "", -14);
+		$pubDate = DateTime::createFromFormat('Y-m-d', $trimDate);
+		$date = $pubDate->format('m/d/Y');
+		$desc = $item->description;
+		$hyperlink = $item->link;
+		$anchorText = explode(" ", $title);;
+			
+		// determine if post is new
+		$date1 = new DateTime($date);
+		$date2 = new DateTime($today);
+		$interval = $date1->diff($date2);		
 
-    // get the meta description
-    foreach($html->find('meta') as $element) {
-        if (in_array($element->name, array('description','Description'))) {
-            $value = $element->content;
-            echo '<strong>Description:</strong> ' . $value . '</p>';
-        }
+		
+		// get only Texas alerts and recalls
+		if (strpos($title,'Texas') || strpos($desc,'Texas') !== false) {
+
+			// get only recent alerts and recalls
+			if ($interval->days < $days) {
+				
+				// format output
+				$title = htmlspecialchars($title);		
+				$desc = htmlspecialchars($desc);
+
+				// write output to file
+				$output = "<div>\n";
+				$output .= "  <strong>Title:</strong> " . $title . "<br/>\n";
+				$output .= "  <strong>Report Date:</strong> " . $date . "<br/>\n";
+				$output .= "  <strong>Description:</strong> " . $desc . "<br/>\n";
+				$output .= '  <strong>Link:</strong> <a title="' . $title . '" href="' . $hyperlink . '">' . "USDA - $anchorText[0] $anchorText[1] $anchorText[2] $anchorText[3]" . '</a><br/>';
+
+				$output .= "\n</div>\n<hr/>\n\n";
+								
+				
+				file_put_contents($outFile, $output, FILE_APPEND);
+				
+			}
+		}
     }
-    
-    $html->clear(); 
 }
 
+$xml = '';
 
-// -----------------------------------------------------------------------------
-?>
+//----------------------- FDA Website Food Alerts ---------------------------------//
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<html>
+$headingFDA = "<h2>FDA Food Alerts and Recalls</h2>\n";
+file_put_contents($outFile, $headingFDA, FILE_APPEND);
 
-<head>
-    <title></title>
-    <style>
-    </style>
-</head>
-<body>
 
-<?php
+// Setup the Array
+file_put_contents("fda.csv", file_get_contents("http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Event-Tabs.cfm?csv"));
+$FDAarray = array_map('str_getcsv', file('fda.csv'));
 
- foreach ($links as $link) {
-    $ret = scrapingMeta($link);
+// Data Processing
+foreach ($FDAarray as $key => $val) {
+	
+	// determine if post is new
+	$date1 = new DateTime($date);
+	$date2 = new DateTime($today);
+	$interval = $date1->diff($date2);
+	
+
+	// grab only food alerts
+	if ($val['0'] == "Food") {
+
+		// product must be distributed in Texas
+		if (strpos($val['9'],'Texas') || strpos($val['9'],'TX') || stripos($val['9'],'nationwide') !== false) {
+
+			// get relevant entries
+			$eventID = $val['1'];
+			$manufacturer = $val['3'];
+			$desc = $val['12'];
+			$date = $val['18'];
+			$reason = $val['16'];
+
+			$week = str_replace('/','',$date);
+			$hyperlink = 'http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Event-Detail.cfm?action=detail&id=' . $eventID . '&w=' . $week . '%E2%9F%A8=eng';
+
+			
+			// get only recent alerts and updates
+			if ($interval->days < $days) {
+				
+				// format output
+				$manufacturer = htmlspecialchars($manufacturer);
+				$reason = htmlspecialchars($reason);
+				$desc = htmlspecialchars($desc);
+				
+				// determine if there are multiple products
+				$desc = str_replace("; ","</li><li>", $desc);
+
+				// write output to file
+				$output = "<div>\n";
+				$output .= "  <strong>Manufacturer:</strong> " . $manufacturer . "<br/>\n";
+				$output .= "  <strong>Report Date:</strong> " . $date . "<br/>\n";
+				$output .= "  <strong>Reason:</strong> " . $reason . "<br/>\n";
+				
+					// output an ordered list if there are multiple products
+					if (strpos($desc,'</li><li>') !== false) {				
+						$output .= "  <strong>Product(s):</strong><ol><li>" . $desc . "</li></ol>\n";
+					} else {
+						$output .= "  <strong>Product(s):</strong> " . $desc . "<br/>\n";
+					}
+				
+				$output .= '  <strong>Link:</strong> <a title="' . $manufacturer . ' Recall Number ' . $eventID . '" href="' . $hyperlink . '">' . $manufacturer . ' Recall Number ' . $eventID . '</a><br/>';				
+				$output .= "\n</div>\n<hr/>\n\n";
+								
+				file_put_contents($outFile, $output, FILE_APPEND);
+			}
+
+		}
+	}
 }
 
-file_put_contents("array.txt", "");
+//include '/home/codio/workspace/scripts/mailgun-php/swiftmailer/mailgun_with_swiftmailer.php';
+
+// Garbage Collection
+unlink('fda.csv');
 
 ?>
-    
-</body>
-</html>  

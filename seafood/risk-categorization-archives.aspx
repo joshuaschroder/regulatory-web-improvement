@@ -6,8 +6,8 @@
 <br/>
 <p><a title="Arroyo Colorado 2001" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20293">Arroyo Colorado 2001</a> <span class="small">(PDF, 1.2MB)</span></p>
 <p><a title="B.A. Steinhagen 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20295">B.A. Steinhagen 1995</a> <span class="small">(PDF, 290KB)</span></p>
-<!--p><a title="Brandy Branch Reservoir 1995" href="">Brandy Branch Reservoir 1995</a> <span class="small">(PDF, xxKB)</span></p>
-<p><a title="Brazos River 1997" href="">Brazos River 1997</a> <span class="small">(PDF, xxKB)</span></p-->
+<p><a title="Brandy Branch Reservoir 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996430">Brandy Branch Reservoir 1995</a> <span class="small">(PDF, 609KB)</span></p>
+<p><a title="Brazos River 1997" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996431">Brazos River 1997</a> <span class="small">(PDF, 263KB)</span></p>
 <p><a title="Caddo Lake 1995" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20297">Caddo Lake 1995</a> <span class="small">(PDF, 290KB)</span></p>
 <p><a title="Como, Lake 2005" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20299">Como, Lake 2005</a> <span class="small">(PDF, 1.2MB)</span></p>
 <p><a title="Cox Bay (Lavaca Bay) 1999" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996360">Cox Bay (Lavaca Bay) 1999</a> <span class="small">(PDF, 628KB)</span></p>
