@@ -89,7 +89,7 @@ foreach ($FDAarray as $key => $val) {
 	if ($val['0'] == "Food") {
 
 		// product must be distributed in Texas
-		if (strpos($val['9'],'Texas') || strpos($val['9'],'TX') || stripos($val['9'],'nationwide') !== false) {
+		if (strpos($val['9'],'Texas') || strpos($val['9'],'TX') || stripos($val['9'],'nationwide') || strpos($val['5'],'TX') || strpos($val['5'],'Texas') !== false) {
 
 			// get relevant entries
 			$eventID = $val['1'];
@@ -139,6 +139,6 @@ foreach ($FDAarray as $key => $val) {
 include '/home/codio/workspace/scripts/mailgun-php/swiftmailer/mailgun_with_swiftmailer.php';
 
 // Garbage Collection
-unlink('fda.csv');
+file_put_contents('fda.csv', '');
 
 ?>
