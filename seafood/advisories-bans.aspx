@@ -34,7 +34,7 @@
 		
 		<tr>
 			<th id="arroyo-colorado" headers="table_heading_0">Arroyo Colorado</th>
-			<td headers="map arroyo-colorado"><a title="Arroyo Colorado Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20173">Arroyo Colorado Map</a><br/><span class="small">(PDF, 290KB)</span></td>
+			<td headers="map arroyo-colorado"><a title="Arroyo Colorado Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20173">Arroyo Colorado Map</a><br/><span class="small">(PDF, 1MB)</span></td>
 			<td headers="advisories arroyo-colorado"><a title="Advisory 34" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20211">Advisory 34</a><br/><span class="small">(PDF, 18KB)</span></td>
 			<td headers="ban arroyo-colorado">None</td>
 			<td headers="rescinded arroyo-colorado">
@@ -120,7 +120,7 @@
 		
 		<tr>
 			<th id="clear-creek" headers="table_heading_0">Clear Creek</th>
-			<td headers="map clear-creek"><a title="Clear Creek" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51739">Clear Creek Map</a><br/><span class="small">(PDF, 249KB)</span></td>
+			<td headers="map clear-creek"><a title="Clear Creek" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51739">Clear Creek Map</a><br/><span class="small">(PDF, 1MB)</span></td>
 			<td headers="advisories clear-creek"><a title="Advisory 37" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51740">Advisory 37</a><br/><span class="small">(PDF, 25KB)</span></td>
 			<td headers="ban clear-creek">None</td>
 			<td headers="rescinded clear-creek">
@@ -305,7 +305,7 @@
 		
 		<tr>
 			<th id="leon-creek" headers="table_heading_0">Leon Creek</th>
-			<td headers="map leon-creek"><a title="Leon Creek Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59263">Leon Creek Map</a><br/><span class="small">(PDF, 557KB)</span></td>
+			<td headers="map leon-creek"><a title="Leon Creek Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59263">Leon Creek Map</a><br/><span class="small">(PDF, 605KB)</span></td>
 			<td headers="advisories leon-creek"><a title="Advisory 42" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59264">Advisory 42</a><br/><span class="small">(PDF, 17KB)</span></td>
 			<td headers="ban leon-creek">None</td>
 			<td headers="rescinded leon-creek"><a title="Advisory 26" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996283">Advisory 26</a><br/><span class="small">(PDF, 123KB)</span></td>

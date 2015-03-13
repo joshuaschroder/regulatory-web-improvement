@@ -5,7 +5,7 @@
 ?>
 
 <hr/>
-Also See: 
+<strong>Also See:</strong>
 <ul>
 	<li><a title="Current Food Alerts and Recalls" href="/foods/alerts/">Current Food Alerts and Recalls</a></li>
 	<li><a title="Archived Food Alerts" href="/foods/alerts/archives/">Archived Food Alerts</a></li>

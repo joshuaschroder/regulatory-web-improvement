@@ -4,13 +4,13 @@
 	include '/home/codio/workspace/includes/menus/foods_menu.html';
 ?>
 
-<p>Firms that engage in any of the following activities are required to obtain a food distributor license, a warehouse operator license, or a food distributor registration:</p>
+<p>Firms that engage in any of the following activities are required to obtain a <a title="food distributor license" href="/foods/forms.aspx">food distributor license</a>, a <a title="warehouse operator license" href="/foods/forms.aspx">warehouse operator license</a>, or a <a title="food distributor registration" href="/foods/forms.aspx">food distributor registration</a>:</p>
 <ul>
 	<li>Sell any type of food product to any entity other than the final consumer</li>
 	<li>Hold food that will be sold or distributed either by that entity or another</li>
 	<li>Sell bulk raw materials (flour, sugar, grains, etc.) to any entity other than the final consumer</li>
 </ul>
-<p>The <a title="Licensing Flowchart for Food Distributors and Warehouses" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18806">Licensing Flowchart for Food Distributors and Warehouses</a> provides guidance on which license is appropriate for individual businesses. <em><strong>This chart provides the current interpretation of our regulations and is subject to change. </strong></em>Please call 512-834-6670 if you do not see your specific situation reflected here. </p>
+<p>The <a title="Licensing Flowchart for Food Distributors and Warehouses" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18806">Licensing Flowchart for Food Distributors and Warehouses</a> <span class="small">(PDF, 16KB)</span> provides guidance on which license is appropriate for individual businesses. <em><strong>This chart provides the current interpretation of our regulations and is subject to change. </strong></em>Please call 512-834-6670 if you do not see your specific situation reflected here. </p>
 <p>The following entities are subject to inspection but are exempt from licensure:</p>
 <ul>
 	<li>Distributors of beverages in sealed container. Distributors carrying concentrates or drink mixes must be licensed.</li>

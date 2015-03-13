@@ -28,13 +28,16 @@
 
 <hr/>
 <h2>Rules and Regulations</h2>
-<p><a title="25 Texas Administrative Code, §§229.81-91" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=F&rl=Y">25 Texas Administrative Code, §§229.81-91</a> covers production, processing, and distribution of bottled and vended drinking water. This rule also describes requirements for bottled and vended water facilities.</p>
+<p><a title="Texas Health and Safety Code, Chapter 431" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.431.htm">Texas Health and Safety Code, Chapter 431</a> - Texas Food, Drug, and Cosmetic Act</p>
+<p><a title="25 Texas Administrative Code, §§229.81-91" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=F&rl=Y">25 Texas Administrative Code, 229.81-91</a> - Production, Processing &amp; Distribution of Bottled / Vended Drinking Water</p>
+<p><a title="21 Code of Federal Regulations, Part 129" href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=129">21 Code of Federal Regulations, Part 129</a> - Processing and Bottling of Bottled Drinking Water</p>
+
 
 <hr/>
 <h2>Applications and Forms</h2>
 <p>Texas bottled water plants, water stores, and water vending machines are required to be operated under the supervision of a person who has obtained a certificate of competency for bottled and vended water operators. The intent of the certification is to ensure that production of bottled and vended water is conducted by persons educated in the proper methods of production, processing, treatment, and distribution of bottled and vended water products. This person must complete an application to take the exam.</p>
-<p><a title="Bottled Water Operators Certificate of Competency Exam Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986419">Bottled Water Operators Certificate of Competency Exam Application (EF23-12982)</a> <span class="small">(PDF, 30KB)</span>
-<br/><em><strong>Note:</strong> This is not a license to conduct a food operation.</em></p>
+<p><a title="Bottled Water Operators Certificate of Competency Exam Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986419">Bottled Water Operators Certificate of Competency Exam Application (EF23-12982)</a> <span class="small">(PDF, 30KB)</span></p>
+<p><em><strong>Note:</strong> This is not a license to conduct a food operation.</em></p>
 
 <hr/>
 <a class="bookmark" name="exam-sites" title="exam-sites"></a>
