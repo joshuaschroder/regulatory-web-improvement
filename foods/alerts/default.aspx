@@ -4,14 +4,7 @@
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>
 
-<h2>Sources for Recall Information Include:</h2>
-<ul>
-	<li><a title="USDA Current Recalls and Alerts" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/current-recalls-and-alerts" target="_blank">USDA Current Recalls and Alerts</a></li>
-	<li><a title="FDA Recalls, Market Withdrawals, &amp; Safety Alerts" href="http://www.fda.gov/Safety/Recalls/default.htm" target="_blank">FDA Recalls, Market Withdrawals, &amp; Safety Alerts</a></li>
-<li><a title="FDA Enforcement Reports" href="http://www.fda.gov/Safety/Recalls/EnforcementReports/default.htm">FDA Enforcement Reports</a></li>
-</ul>
 
-<hr>
 <h2>March 9, 2015</h2>
 <ul>
 	<li><strong>Washington Harvest Wapato is recalling The World's Finest Mixed Fruit containing Red Delicious Apples, Granny Smith Apples and Navel Oranges, packed in poly bags 6/4 lb. bags per case, and Fast &amp; Fresh Grab Mixed Apples And/or Oranges containing Fuji Apples, Granny Smith Apples and Oranges, packed in poly bags 10/4 lb. bags per case or 8/5lb. mesh bags per case, due to possible Listeria monocytogenes contamination.<br/></strong>Please see the FDA Enforcement Report, Week of March 4, 2015 for more details:<br/><a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;amp;w=03042015&amp;amp;lang=eng#food" href="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;w=03042015&amp;lang=eng#food">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;w=03042015&amp;lang=eng#food</a></li><br/>
@@ -101,9 +94,7 @@
 <hr>
 <h2>Food Alert Archives for Previous Months</h2>
 <ul>
-	<li><a title="Food Alerts - January 2015" href="/foods/alerts/archives/january2015.aspx">January 2015 - Alerts and Recalls</a></li>
-	<li><a title="Food Alerts December 2014" href="/foods/alerts/archives/december2014.aspx">December 2014 - Alerts and Recalls</a></li>
-	<li><a title="Food Alerts November 2014" href="/foods/alerts/archives/november2014.aspx">November 2014 - Alerts and Recalls</a></li>
+	<li><a title="Archived Food Alerts" href="/foods/alerts/archives/">Archived Food Alerts</a></li>
 </ul>
 <hr>
 <h2>Links for Information on National Food Recall:</h2>
