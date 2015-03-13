@@ -27,6 +27,7 @@
 
 <h2 id="contact">Contact Information</h2>
 <p>
+	<strong>Email:</strong> <a title="FoodsLicensingGroup@dshs.state.tx.us" href="mailto:FoodsLicensingGroup@dshs.state.tx.us">FoodsLicensingGroup@dshs.state.tx.us</a><br/>
 	<strong>Phone:</strong> (512) 834-6670<br/>
 	<strong>Fax:</strong> (512) 834-6681<br/><br/>
 	Mailing addresses may be found on the <a title="contact page" href="/foods/contact.aspx">contact page</a>.
