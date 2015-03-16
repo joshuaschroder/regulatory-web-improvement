@@ -25,7 +25,7 @@
 	<li>Bottling/Canning plants producing water, soft drinks, fruit juice, vegetable juice</li>
 	<li>Ice plants</li>
 	<li>Cut produce packers of fruits, vegetables, and nuts</li>
-	<li>Water and/or ice vending machines</li>
+	<li>Water and/or ice vending machines (please refer to the <a title="Bottled and Vended Water" href="/foods/bottled-vended-water.aspx">Bottled and Vended Water</a> program)</li>
 	<li>Seafood processors (please refer to the <a title="Seafood and Aquatic Life" href="/seafood/">Seafood and Aquatic Life</a> group)</li>
 	<li>Grocery stores with meat markets, delis, or bakeries that package food and display it for retail customer self-service.</li>
 	<li>Restaurants and other food service operations providing food packaged on-site via a retail customer self-service display.</li>

@@ -8,7 +8,7 @@
 <p>
 	<strong>Phone:</strong> (512) 834-6758 <br/>
 	<strong>Fax:</strong> (512) 834-6756 <br/>
-	<strong>Email:</strong> NEED EMAIL CONTACT
+	<strong>Email:</strong> <a title="Sofia.Stifflemire@dshs.state.tx.us" href="mailto:Sofia.Stifflemire@dshs.state.tx.us">Sofia.Stifflemire@dshs.state.tx.us</a>
 </p>
 
 <h2>Mailing Address </h2>

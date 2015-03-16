@@ -9,6 +9,15 @@
 
 <h2>Licensing</h2>
 <p>To become licensed as a drug manufacturer or distributor, please visit the <a title="licensing requirements page" href="/drugs/licensing.aspx">licensing requirements page</a>, which outlines options for  licensing and renewal of a license as well as fee schedules and links to application forms.</p>
+For information on other topics, please see the links below:
+
+<ul>
+	<li><a title="Certificates of Free Sale / Origin" href="/certificate-of-free-sale/">Certificates of Free Sale / Origin</a></li>
+	<li><a title="Cosmetics Manufacturers and Distributors" href="/cosmetics/">Cosmetics Manufacturers and Distributors</a></li>
+	<li><a title="Medical Device Manufacturers and Distributors" href="/medical-devices/">Medical Device Manufacturers and Distributors</a></li>
+	<li><a title="Salvage Establishments and Brokers" href="/salvage/">Salvage Establishments and Brokers</a></li>
+</ul>
+
 
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about important changes to the Drug Manufacturers and Distributors Program. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
