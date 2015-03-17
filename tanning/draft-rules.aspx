@@ -1,7 +1,7 @@
 <?php
 	$title= "Draft and Proposed Rules - Tanning Facilities" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
+    include '/home/codio/workspace/includes/menus/tanning_menu.html'; 
 ?>
 
 <h2>Licensure of Tanning Facilities</h2>

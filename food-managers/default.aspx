@@ -13,7 +13,7 @@
 <p><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXX"><img title="Sign up for e-mail updates" border="0" alt="Sign up for e-mail updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif" /></a></p>
 <br/>
 
-<h2>Contact Information</h2>
+<h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <p>
 	<strong>Phone:</strong> (512) 834-6727<br/>
 	<strong>Fax:</strong> (512) 834-6741 <br/>

@@ -1,7 +1,7 @@
 <?php
-	$title= "Contact Information - Medical Device Manufacturers and Distributors" ;
+	$title= "Contact Information - Tanning" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/mdev_menu.html'; 
+    include '/home/codio/workspace/includes/menus/tanning_menu.html'; 
 ?>
 
 <hr/>
@@ -15,7 +15,7 @@
 	<strong>Rules, Inspections, and Information:</strong> (512) 834-6755<br/>
 	<strong>Licensing:</strong> (512) 834-6727<br/>	
 	<strong>Fax:</strong> (512) 834-6759<br/>
-	<strong>Email:</strong> <a title="Drugs and Food Safety Licensing Group" href="mailto: amanda.govea@dshs.state.tx.us; maria.deolloz@dshs.state.tx.us; kellee.walker@dshs.state.tx.us ">Drugs and Food Safety Licensing Group</a>
+	<strong>Email:</strong> <a title="Drugs and Medical Devices Group" href="mailto:amanda.govea@dshs.state.tx.us; maria.deolloz@dshs.state.tx.us; kellee.walker@dshs.state.tx.us ">Drugs and Medical Devices Group</a>
 </p>
 <p>Staff assigned to the Drugs and Medical Devices Group are available during office hours, 8:00 a.m. - 5:00 p.m., to answer questions related to the rules and statutes, inspections, or other information.</p>
 

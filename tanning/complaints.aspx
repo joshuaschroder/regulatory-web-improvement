@@ -1,7 +1,7 @@
 <?php
-	$title= "How to File a Complaint - Drug Manufacturers and Distributors" ;
+	$title= "How to File a Complaint - Tanning Facilities" ;
 	include '../includes/header.html';
-    include '../includes/menus/drugs_menu.html'; 
+    include '../includes/menus/tanning_menu.html'; 
 ?>
 
 <hr/>

@@ -13,7 +13,7 @@
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
 
 
-<h2 id="contact">Contact Information</h2>
+<h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 
 <p>
 	<strong>Telephone:</strong>  (512) 834-6626<br/>
