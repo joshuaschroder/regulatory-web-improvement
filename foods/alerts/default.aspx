@@ -1,9 +1,16 @@
 <?php
-	$title= "Food Alerts and Recalls Affecting Texas - Food Manufacturers and Distributors" ;
+	$title= "Food Alerts and Recalls Affecting Texas - Food Manufacturers and Wholesalers" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>
-
+<hr/>
+<p><strong>Sources for recall information:</strong></p>
+<ul>
+	<li><a title="USDA Current Recalls and Alerts" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/current-recalls-and-alerts">USDA Current Recalls and Alerts</a></li>
+	<li><a title="FDA Recalls, Market Withdrawals, &amp; Safety Alerts" href="http://www.fda.gov/Safety/Recalls/default.htm">FDA Recalls, Market Withdrawals, &amp; Safety Alerts</a></li>
+	<li><a title="FDA Enforcement Reports" href="http://www.fda.gov/Safety/Recalls/EnforcementReports/default.htm">FDA Enforcement Reports</a></li>
+</ul>
+<hr/>
 
 <h2>March 9, 2015</h2>
 <ul>
@@ -19,8 +26,8 @@
 	<li><strong>Rio Tex Wholesale Meats is recalling Hausman Foods Brand Cooked Beef Taco Filling Seasoned Cooked Beef Barbacoa, Fully Cooked Barbacoa, and Beef Carne Guisada packaged in 20-lb. boxes containing four 5-lb. packages, and Rio-Tex-Meats Barbacoa packaged in 15-lb. and 45-lb. boxes containing three 5-lb. or 15-lb. packages, due to possible Listeria monocytogenes contamination.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-041-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-041-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-041-2015-release</a></li><br/>
 	<li><strong>Campos Foods, LLC is recalling H-E-B Fully Cooked Thick N’ Tasty Cheese Burgers Natural Smoke Flavor Added net wt. 15-oz. (425g) bag containing four 3.75-oz. burgers and net wt. 30-oz. (1.87lbs) (850g) bag containing eight 3.75-oz. burgers, and H-E-B Fully Cooked Thick N’ Tasty&nbsp; Bacon Cheese Burgers Natural Smoke Flavor Added net wt. 30-oz. (1.87lbs) (850g) bag containing eight 3.75-oz. burgers, misbranding and undeclared allergens.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-038-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-038-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-038-2015-release</a></li><br/>
 </ul>
-<h2><hr>
-</h2>
+
+<hr/>
 <h2>March 2, 2015</h2>
 <ul>
 	<li><strong>Hamchorom Inc. is recalling Haitai Tayo Crackers (140 g) 24 boxes/carton, in box colors: blue, yellow, and red, and Haitai Gyeran Crackers (70 g) 20 boxes/carton, in yellow box with "Angry Birds" logo, due to undeclared allergens.<br/></strong>Please see the FDA Enforcement Report, Week of February 25, 2015 for more details:<br/><a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;amp;w=02252015&amp;amp;lang=eng#food" href="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;w=02252015&amp;lang=eng#food">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;w=02252015&amp;lang=eng#food</a></li><br/>
@@ -29,7 +36,8 @@
 	<li><strong>Fairway “Like No Other Market” is recalling Fairway brand Raw Hazelnuts (Filberts), packaged in clear, plastic cello bags of varying weights, each weighing less than one pound, due to possible Salmonella contamination.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fda.gov/Safety/Recalls/ucm435547.htm" href="http://www.fda.gov/Safety/Recalls/ucm435547.htm">http://www.fda.gov/Safety/Recalls/ucm435547.htm</a></li><br/>
 	<li><strong>Oscar’s Hickory House Inc. is recalling Oscar’s Adirondack Mountain Smokehouse Beef Jerky in 4 oz. and 8 oz. cryovac packages, due to a processing deviation.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-037-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-037-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-037-2015-release</a></li><br/>
 </ul>
-<hr>
+
+<hr/>
 <h2>February 24, 2015</h2>
 <ul>
 	<li><strong>Freeland Foods Inc. is recalling Go Raw 100% Organic Sunflower Seeds; Net Wt. 1 lb. (454 g), due to possible Salmonella contamination.</strong><br/>Please see the following website for more details:<br/><a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;amp;recall_number=F-1196-2015&amp;amp;w=02182015&amp;amp;lang=eng" href="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-1196-2015&amp;w=02182015&amp;lang=eng">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-1196-2015&amp;w=02182015&amp;lang=eng</a></li><br/>
@@ -44,7 +52,7 @@
 	<li><strong>ESS Food is recalling Pini Polona Pork Belly Boneless (40 lb.) packaged in boxes containing 4-5 pieces, due to not being presented at the U.S. point of entry for inspection.</strong> <br/>Please see the following website for more details:<br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-035-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-035-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-035-2015-release</a></li><br/>
 </ul>
 
-<hr>
+<hr/>
 <h2>February 18, 2015</h2>
 <ul>
 	<li><strong>High Road Craft Ice Cream, Inc. is recalling High Road Craft Ice Cream &amp; Sorbet, Limoncello Sorbet packed in 4.9L (1.3 gallon) tubs, due to undeclared allergens.<br/></strong>Please see the following website for more details:<br/><a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;amp;recall_number=F-0967-2015&amp;amp;w=02112015&amp;amp;lang=eng" href="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-0967-2015&amp;w=02112015&amp;lang=eng">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-0967-2015&amp;w=02112015&amp;lang=eng</a></li><br/>
@@ -58,8 +66,8 @@
 	<li><strong>Michigan Brand, Inc. is recalling Michigan Brand Teriyaki Hunter Sausage in 6 oz. and 14 oz. packages, and The Jerky Outlet Teriyaki Hunter Sausage in 6 oz. and 14 oz. packages, and 40 count boxes, due to undeclared allergens.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-032-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-032-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-032-2015-release</a></li><br/>
 	<li><strong>Ruiz Foods is recalling Egg Sausage and Cheese Wrapped in a Flour Tortilla packaged in 4.5-lb. cases containing 3 trays with 8 pieces, due to undeclared allergens.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-033-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-033-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-033-2015-release</a></li><br/>
 </ul>
-<h2><hr>
-</h2>
+
+<hr/>
 <h2>February 12, 2015</h2>
 <ul>
 	<li><strong>Sunfood is recalling Organic Sacha Inchi Powder, packaged in&nbsp; 8 oz. white bags, due to possible Staphylococcus enterotoxin contamination.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fda.gov/Safety/Recalls/ucm434009.htm" href="http://www.fda.gov/Safety/Recalls/ucm434009.htm">http://www.fda.gov/Safety/Recalls/ucm434009.htm</a></li><br/>
@@ -70,8 +78,8 @@
 	<li><strong>See’s Company is recalling Classic Red Hearts with Assorted Chocolates 8 oz., due to undeclared allergens.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fda.gov/Safety/Recalls/ucm433408.htm" href="http://www.fda.gov/Safety/Recalls/ucm433408.htm">http://www.fda.gov/Safety/Recalls/ucm433408.htm</a></li><br/>
 	<li><strong>Sunrise Poultry Processors is recalling Sunrise Poultry Brand Chicken Thighs in 40 lb. bulk cases, Chicken Thighs Boneless in 25 lb. cases, Boneless Chicken Breast in 2.5lb. cases, and Chicken Whole Fryer in 2.5 lb., 4 lb., and 3.25-3.75 lb. cases, due to not being presented at the U.S. point of entry for inspection.<br/></strong>Please see the following website for more details:<br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-029-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-029-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-029-2015-release</a></li><br/>
 </ul>
-<h2><hr>
-</h2>
+
+<hr/>
 <h2>February 6, 2015 </h2>
 <ul>
 	<li><strong>Eillien's Candies, Inc. is recalling Walnut Pieces in several sizes, under the following brand names: Eillien’s, Blain’s Farm and Fleet, Mill’s Fleet Farm, Piggly Wiggly, Rural King, and Trig’s, due to possible Salmonella contamination. <br/></strong>Please see the following website for more details: <br/><a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-0933-2015&amp;w=02042015&amp;lang=eng" href="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-0933-2015&amp;w=02042015&amp;lang=eng">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-0933-2015&amp;w=02042015&amp;lang=eng</a><br/></li><br/>
@@ -81,7 +89,8 @@
 	<li><strong>The Spice Mill is recalling Ground Cumin (2.75 oz.) and Cajun Seasoning (4 oz.), due to undeclared allergens. <br/></strong>Please see the following website for more details: <br/><a title="http://www.fda.gov/Safety/Recalls/ucm432761.htm" href="http://www.fda.gov/Safety/Recalls/ucm432761.htm">http://www.fda.gov/Safety/Recalls/ucm432761.htm</a><br/></li><br/>
 	<li><strong>Krehbiel’s Specialty Meats, Inc. is recalling Fresh Beer Bratwurst Made With Tallgrass Brewery Oasis Beer in 16 oz. vacuum sealed packages, due to misbranding. <br/></strong>Please see the following website for more details: <br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/rnr-028-2015" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/rnr-028-2015">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/rnr-028-2015</a></li><br/>
 </ul>
-<hr>
+
+<hr/>
 <h2>February 3, 2015 </h2>
 <ul>
 	<li><strong>Quest Nutrition, LLC is recalling QuestBar Protein Bar Chocolate Chip Cookie Dough Flavor net wt. 2.12 OZ (60 g) and QuestBar Protein Bar Double Chocolate Chunk Flavor net wt. 2.12 OZ (60 g), due to the possibility of plastic pieces introduced into the products by an ingredients supplier. <br/></strong>Please see the FDA Enforcement Report, Week of January 28, 2015 for more details: <br/><a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;w=01282015&amp;lang=eng#food" href="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;w=01282015&amp;lang=eng#food">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=Expand+Index&amp;w=01282015&amp;lang=eng#food</a><br/></li><br/>
@@ -91,12 +100,14 @@
 	<li><strong>Freeland Foods, Inc. is recalling Go Raw Organic Sunflower Seed, due to possible Salmonella contamination. <br/></strong>Please see the following website for more details: <br/><a title="http://www.fda.gov/Safety/Recalls/ucm432417.htm" href="http://www.fda.gov/Safety/Recalls/ucm432417.htm">http://www.fda.gov/Safety/Recalls/ucm432417.htm</a><br/></li><br/>
 	<li><strong>Morrison Meat Packers is recalling “El Toro Cooked Pork and Water Product” and “Vida Latina Cooked Pork and Water Product”, of various weights, due to undeclared allergens. <br/></strong>Please see the following website for more details: <br/><a title="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-027-2015-release" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-027-2015-release">http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2015/recall-027-2015-release</a></li><br/>
 </ul>
-<hr>
+
+<hr/>
 <h2>Food Alert Archives for Previous Months</h2>
 <ul>
 	<li><a title="Archived Food Alerts" href="/foods/alerts/archives/">Archived Food Alerts</a></li>
 </ul>
-<hr>
+
+<hr/>
 <h2>Links for Information on National Food Recall:</h2>
 <ul>
 	<li><a title="http://www.fda.gov/Safety/Recalls/default.htm" href="http://www.fda.gov/Safety/Recalls/default.htm">FDA Recall site (non-meat items)</a></li>

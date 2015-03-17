@@ -1,5 +1,5 @@
 <?php
-	$title= "Laws and Rules - Food Manufacturers and Distributors" ;
+	$title= "Laws and Rules - Food Manufacturers and Wholesalers" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>
@@ -11,11 +11,12 @@
 </ul>
 
 <hr/>
-<h2>Texas Rules &amp; Regulations</h2>
+<h2>Texas Rules</h2>
 
-<h3>General Food and Drug</h3>
+<h3>General Food Regulations</h3>
 <ul>
 	<li><a title="25 TAC, §229 - Food and Drug (All subchapters listed)" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=1&ch=229">25 TAC, §229 - Food and Drug (All subchapters listed)</a></li>
+	<li><a title="25 TAC, §229.261 - Assessment of Administrative Penalties" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">25 TAC, §229.261 - Assessment of Administrative Penalties</a></li>
 	<li><a title="25 TAC, §§229.211&#8211;222 - Current Good Manufacturing Practice" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=N&rl=Y">25 TAC, §§229.211&#8211;222 - Current Good Manufacturing Practice</a></li>
 </ul>
 

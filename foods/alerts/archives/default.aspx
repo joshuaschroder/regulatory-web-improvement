@@ -1,5 +1,5 @@
 <?php
-	$title= "Archived Food Alerts and Recalls Affecting Texas - Food Manufacturers and Distributors" ;
+	$title= "Archived Food Alerts and Recalls Affecting Texas - Food Manufacturers and Wholesalers" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>
@@ -20,5 +20,13 @@
 
 <p><strong>Also See:</strong> <a title="Current Food Alerts and Recalls" href="/foods/alerts/">Current Food Alerts and Recalls</a></p>
 
+<hr/>
+<p><strong>Sources for recall information:</strong></p>
+<ul>
+	<li><a title="USDA Current Recalls and Alerts" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/current-recalls-and-alerts">USDA Current Recalls and Alerts</a></li>
+	<li><a title="FDA Recalls, Market Withdrawals, &amp; Safety Alerts" href="http://www.fda.gov/Safety/Recalls/default.htm">FDA Recalls, Market Withdrawals, &amp; Safety Alerts</a></li>
+	<li><a title="FDA Enforcement Reports" href="http://www.fda.gov/Safety/Recalls/EnforcementReports/default.htm">FDA Enforcement Reports</a></li>
+</ul>
+<hr/>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>	

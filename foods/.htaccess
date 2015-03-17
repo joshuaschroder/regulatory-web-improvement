@@ -1,1 +1,2 @@
 DirectoryIndex default.aspx
+Redirect 301 /foods/distributors.aspx /foods/wholesalers.aspx

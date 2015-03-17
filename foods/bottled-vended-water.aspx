@@ -1,5 +1,5 @@
 <?php
-	$title= "Bottled and Vended Water - Food Manufacturers and Distributors" ;
+	$title= "Bottled and Vended Water - Food Manufacturers and Wholesalers" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>

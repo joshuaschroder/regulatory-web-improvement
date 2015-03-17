@@ -1,5 +1,5 @@
 <?php
-	$title= "Frequently Asked Questions about Grants of Inspection" ;
+	$title= "Frequently Asked Questions about Grants of Inspection and Exemptions" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/meat_menu.html'; 
 ?>

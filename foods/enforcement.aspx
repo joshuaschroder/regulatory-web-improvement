@@ -1,5 +1,5 @@
 <?php
-	$title= "Enforcement Actions - Food Manufacturers and Distributors" ;
+	$title= "Enforcement Actions - Food Manufacturers and Wholesalers" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>

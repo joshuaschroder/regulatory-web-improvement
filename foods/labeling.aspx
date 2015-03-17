@@ -1,5 +1,5 @@
 <?php
-	$title= "Labeling - Food Manufacturers and Distributors" ;
+	$title= "Labeling - Food Manufacturers and Wholesalers" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foods_menu.html';
 ?>
@@ -45,7 +45,9 @@
 
 <hr/>
 <h2>Requirements for Allergen and Trans Fat Labeling </h2>
-<p>January 1, 2006, new requirements regarding allergen labeling went into effect. For more information on the Food Labeling and Consumer Protection Act of 2004 and allergen labeling, visit the <a title="FDA Web site" href="http://www.fda.gov/">FDA Web site</a>. </p>
-<p>January 1, 2006, new requirements regarding trans fat declaration on the nutrituion facts panel went into effect. For more information on trans fat labeling, visit the <a title="FDA Web site" href="http://www.fda.gov/">FDA Web site</a>. </p>
+<ul>
+	<li><a title="FDA Food Labeling Guide" href="http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm2006828.htm">FDA Food Labeling Guide</a></li>
+	<li><a title="Labeling &amp; Nutrition Guidance Documents &amp; Regulatory Information" href="http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/default.htm">Labeling &amp; Nutrition Guidance Documents &amp; Regulatory Information</a></li>
+</ul>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>	
