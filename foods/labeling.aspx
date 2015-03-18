@@ -42,6 +42,7 @@
 
 <p>Labeling regulations and exemptions can be found in <a title="21 Code of Federal Regulations-Part 101" href="http://www.access.gpo.gov/nara/cfr/waisidx_06/21cfr101_06.html">21 Code of Federal Regulations-Part 101</a>.</p>
 <p>For more information on Nutrition Labeling:<br>Visit the <a title="U.S. Food and Drug Administration Center for Food Safety and Applied Nutrition" href="http://www.fda.gov/AboutFDA/CentersOffices/OfficeofFoods/CFSAN/">U.S. Food and Drug Administration Center for Food Safety and Applied Nutrition</a> Web site. </p>
+<p>Labeling agreements can be made if the product needs to be further processed, labeled or repacked in order for a label agreement to qualify; i.e. the product can’t be sent to a customer who serves it “as is” such as tortilla chips.  Bread made into sandwiches would qualify for example.  Please see <a title="21 CFR 100.100" href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=100.100">21 CFR 100.100</a> (d) through (e) for the regulations describing labeling agreements.</p>
 
 <hr/>
 <h2>Requirements for Allergen and Trans Fat Labeling </h2>

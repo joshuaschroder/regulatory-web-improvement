@@ -20,11 +20,11 @@
 <hr/>
 <p>
 	<strong>Download this Document:</strong><br/>
-	<a title="Water Bodies Tested with No Advisories or Bans Issued" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20266">Water Bodies Tested with No Advisories or Bans Issued</a> <span class="small">(PDF, 36KB)</span>
+	<a title="Public Waters Tested without Consumption Advisories " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996670">Public Waters Tested without Consumption Advisories Public Waters Tested without Consumption Advisories</a> <span class="small">(XLSX, 19KB)</span>
 </p>
 <hr/>
 
-<p>The laboratory chemical contaminant tests (analyses performed), listed in the table by water body are defined by the following codes:</p>
+<p>Contaminant Test Acronyms:</p>
 <p><strong>Metals:</strong></p>
 <ul class="metals">
 	<li>Ag = Silver</li>
@@ -55,7 +55,7 @@
 
 <p><strong>Additional Tests:</strong></p>
 <ul class="addtests">
-	<li>DX = Dibenzodioxins and Dibenzofurans</li>
+	<li>DX = Polychlorinated dibenzo-p-dioxins and dibenzofurans</li>
 	<li>SVOCs = Semivolatile Organic Compounds</li>
 	<li>PEST = Pesticides</li>
 	<li>PCBs = Polychlorinated Biphenyls</li>

@@ -17,9 +17,12 @@
 </ul>
 
 <hr/>
-<h2>Rendering Plants</h2>
+<a class="bookmark" title="rendering" href="rendering"></a>
+<h2>Rendering Establishments</h2>
 <ul>
-	<li><a title="Texas Rendering Plants Construction Guide" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589942464">Texas Rendering Plants Construction Guide</a> <span class="small">(PDF, 380KB)</span></li>
+	<li><a title="Application for Operators Rendering License" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589971816">Application for Operators Rendering License</a> <span class="small">(PDF, 96KB)</span></li>
+	<li><a title="Application for Construction Permit" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589971494">Application for Construction Permit</a> <span class="small">(PDF, 53KB)</span></li>
+	<li><a title="Construction Guide for Texas Rendering Plants " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589942464">Construction Guide for Texas Rendering Plants</a> <span class="small">(PDF, 380KB)</span></li>
 </ul>
 
 

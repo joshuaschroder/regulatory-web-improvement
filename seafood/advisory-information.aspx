@@ -6,7 +6,7 @@
 
 <p>To inform the public of unsafe contaminant levels in fish and shellfish harvested from public waters of Texas, the Texas Department of State Health Services (DSHS) issues consumption advisories or possession bans.</p>
 <h2>Consumption Advisory</h2>
-<p>A consumption advisory issued by the DSHS may recommend limited or no consumption of fish or aquatic life from a body of water because tests found contaminants at unsafe levels. Eating more fish or aquatic life than recommended by a consumption advisory may pose potential human health risks. Harvesting fish or aquatic life from a body of water with a consumption advisory is not illegal as long as Texas Parks and Wildlife harvest regulations are followed.</p>
+<p>A consumption advisory issued by the DSHS may recommend limited or no consumption of fish or aquatic life from a body of water because tests found contaminants at unsafe levels. Eating more fish or aquatic life than recommended by a consumption advisory may pose potential human health risks. Harvesting fish or aquatic life from a body of water with a consumption advisory is not illegal as long as Texas Parks and Wildlife Department <a title="harvest regulations" href="https://tpwd.texas.gov/regulations/outdoor-annual/fishing/">harvest regulations</a> are followed.</p>
 <h2>Possession Ban</h2>
 <p>A possession ban prohibits the taking of fish or aquatic life from a body of water where tissue testing indicates the likelihood of a serious or imminent threat to public health. Taking fish or aquatic life from a closed or prohibited area is a violation of state law enforceable by the Texas Parks and Wildlife Department.</p>
 <h2>Rescinded Consumption Advisory or Possession Ban</h2>

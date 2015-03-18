@@ -1,5 +1,5 @@
 <?php
-	$title= "Grant of Inspection or Exemption - Meat Safety" ;
+	$title= "Inspections and Exemptions - Meat Safety" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/meat_menu.html'; 
 ?>

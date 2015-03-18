@@ -8,7 +8,7 @@
 <p>
 	<strong>Phone:</strong> (512) 834-6670 <br/>
 	<strong>Fax:</strong> (512) 834-6681<br/>
-	<strong>Email:</strong> <a title="FoodsLicensingGroup@dshs.state.tx.us" href="mailto:FoodsLicensingGroup@dshs.state.tx.us">FoodsLicensingGroup@dshs.state.tx.us</a>
+	<!--strong>Email:</strong> <a title="FoodsLicensingGroup@dshs.state.tx.us" href="mailto:FoodsLicensingGroup@dshs.state.tx.us">FoodsLicensingGroup@dshs.state.tx.us</a-->
 </p>
 <hr/>
 
