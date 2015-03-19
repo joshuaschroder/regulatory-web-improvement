@@ -1,5 +1,5 @@
 <?php
-	$title= "Inspections and Exemptions - Meat Safety" ;
+	$title= "Information about Inspections and Exemptions - Meat Safety" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/meat_menu.html'; 
 ?>
@@ -16,7 +16,5 @@
 	<li><strong><a title="Grant of Poultry/Rabbit Exemption" href="/meat/grants/poultry-rabbit-exemption.aspx">Grants of Poultry/Rabbit Exemption</a></strong> may be issued to individuals who produce low volumes of poultry or rabbits and wish to slaughter and process them for sale. Poultry and rabbit producers and processors are required to either obtain an exemption or a Grant of Inspection.<br/><br/></li>
 </ul>
 
-<hr/>
-<p><em>This is an equal opportunity program. If you believe you have been discriminated against because of race, color, national origin, age, sex, or disability, contact the U.S. Department of Agriculture, Director, Office of Adjudication and Compliance, 1400 Independence Avenue, SW, Washington, DC 20250-9410; or call (866) 632-9992 (toll free), (202) 260-1026, (202) 401-0216 (TDD), or (800) 877-8339 (TDD toll free).</em></p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -17,6 +17,7 @@
 <p>Mailing addresses may be found on the <a title="contact page" href="/meat/contact.aspx">contact page</a>.</p>
 
 <hr/>
-<em>An equal opportunity employer and provider.</em>
+<p><em>This is an equal opportunity program. If you believe you have been discriminated against because of race, color, national origin, age, sex, or disability, contact the U.S. Department of Agriculture, Director, Office of Adjudication and Compliance, 1400 Independence Avenue, SW, Washington, DC 20250-9410; or call (866) 632-9992 (toll free), (202) 260-1026, (202) 401-0216 (TDD), or (800) 877-8339 (TDD toll free).</em></p>
+
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
