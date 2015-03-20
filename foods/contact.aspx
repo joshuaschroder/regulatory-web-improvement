@@ -5,14 +5,13 @@
 ?>
 
 <hr/>
+<h2>For General Program Inquiries</h2>
 <p>
 	<strong>Phone:</strong> (512) 834-6670 <br/>
 	<strong>Fax:</strong> (512) 834-6681<br/>
-	<!--strong>Email:</strong> <a title="FoodsLicensingGroup@dshs.state.tx.us" href="mailto:FoodsLicensingGroup@dshs.state.tx.us">FoodsLicensingGroup@dshs.state.tx.us</a-->
 </p>
-<hr/>
 
-<h2>Mailing Address</h2>
+<h3>Mailing Address</h3>
 <p>
 	Environmental and Consumer Safety Section<br/>
 	Foods Group MC 1987<br/>
@@ -22,8 +21,25 @@
 </p>
 
 <hr/>
+<h2>For Assistance with Licensing</h2>
+<p>
+	<strong>Phone:</strong> (512) 834-6626<br/>
+	<strong>Fax:</strong> (512) 834-6618<br/>
+	<strong>Email:</strong> <a title="Foods Licensing Group" href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+</p>
+
+<h3>Mailing Address</h3>
+<p><em>Send correspondence only to:</em></p>
+<p>
+	RLU, Food and Drug Licensing Group MC 2835<br/>
+	Texas Department of State Health Services<br/>
+	P. O. Box 149347<br/>
+	Austin, Texas 78714-9347
+</p>
+
+<hr/>
 <h2>Physical Address</h2>
-<p><strong><em>We only receive special service deliveries, such as UPS or Federal Express, at this address.</em></strong></p>
+<p><strong><em>We only receive special service deliveries, such as UPS or Federal Express, at this address<br/>Do not send money to this address</em></strong></p>
 <p>
 	The Exchange Building<br/>
 	8407 Wall Street<br/>

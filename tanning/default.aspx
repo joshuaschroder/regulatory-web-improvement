@@ -13,16 +13,27 @@
 	<li>Distribute consumer warning signs that are required to be posted in tanning facilities.</li>
 </ul>
 
+<hr/>
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about important changes to the Food Manufacturers and Distributors Program. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
 
+<hr/>
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
+<h3>For General Program Assitance</h3>
 <p>
 	<strong>Phone:</strong> (512) 834-6755<br/>
 	<strong>Fax:</strong> (512) 834-6759<br/>
-	<strong>Email:</strong> <a title="Drugs and Medical Devices Group" href="mailto:amanda.govea@dshs.state.tx.us; maria.deolloz@dshs.state.tx.us; kellee.walker@dshs.state.tx.us ">Drugs and Medical Devices Group</a><br/>
+	<strong>Email:</strong> <a title="Drugs and Medical Device Group" href="mailto:amanda.govea@dshs.state.tx.us; maria.deolloz@dshs.state.tx.us; kellee.walker@dshs.state.tx.us ">Drugs and Medical Device Group</a><br/>
 </p>
+<br/>
+<h3>For Licensing Assistance</h3>
+<p>
+	<strong>Phone:</strong> (512) 834-6727<br/>
+	<strong>Fax:</strong> (512) 834-6741<br/>
+	<strong>Email:</strong> <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+</p>
+
 <p>Mailing addresses may be found on the <a title="contact page" href="/tanning/contact.aspx">contact page</a>.</p>
 
 

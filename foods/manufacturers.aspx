@@ -3,7 +3,6 @@
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foods_menu.html';
 ?>
-
 <hr/>
 <h2>Who Must License as a Food Manufacturer?</h2>
 <p>Firms that manufacture food for sale to the public in the following manner are required to have a <a title="Food Manufacturer license" href="/foods/forms.aspx">Food Manufacturer license</a> with DSHS. This includes any firm that engages in the following activities:</p>

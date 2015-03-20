@@ -6,7 +6,7 @@
 <p>For assistance with licensing, please call (512) 834-6727</p>
 <hr/>
 
-<h2><a name="manufacturers"></a>Drug Manufacturers</h2>
+<h2><a class="bookmark" title="manufacturers" name="manufacturers"></a>Drug Manufacturers</h2>
 
 
 <blockquote>
@@ -28,7 +28,7 @@
 </ul>
 
 <hr/>
-<h2><a name="distributors"></a>Drug Distributors</h2>
+<h2><a class="bookmark" title="distributors" name="distributors"></a>Drug Distributors</h2>
 
 <blockquote>
 	<h3>Nonprescription Drugs License Applications</h3>
@@ -66,7 +66,7 @@
 
 
 <hr/>
-<h2><a name="multiple-products"></a>Multiple Products</h2>
+<h2><a class="bookmark" title="multiple-products" name="multiple-products"></a>Multiple Products</h2>
 
 <blockquote>
 	<h3>Nonprescription Drugs-Food-Devices</h3>

@@ -16,9 +16,10 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 
 <p>
-	<strong>Telephone:</strong>  (512) 834-6626<br/>
-	<strong>Fax: </strong>(512) 834-6618<br/>
-	<strong>Email:</strong> <a title="foodslicensinggroup@dshs.state.tx.us" href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+	Certificate of Free Sale: (512) 834-6626<br/>
+	Certificate of Origin: (512) 834-6626<br/>	
+	Certificate of Authority: (512) 834-6727<br/>
+	<!--strong>Email: <a title="foodslicensinggroup@dshs.state.tx.us" href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/-->
 </p>
 
 <p>Mailing addresses are available on the <a title="Contact page" href="/certificate-of-free-sale/contact.aspx">Contact page</a>.</p>
