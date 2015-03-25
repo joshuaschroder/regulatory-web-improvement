@@ -52,7 +52,7 @@
 <p>For an appointment to take the Bottled and Vended Water Operator certification examination after receiving an approval notice, contact:</p>
 
 <p>
-	<strong>Nancy Henley</strong><br/>
+	<strong>Robert Cloud</strong><br/>
 	1301 South Bowen Rd.<br/>
 	Suite #200<br/>
 	Arlington, TX 76013<br/>
@@ -60,7 +60,7 @@
 </p>
 
 <p>
-	<strong>Denette Plessala</strong><br/>
+	<strong>Diana Vara</strong><br/>
 	8407 Wall Street<br/>
 	Austin, TX 78754<br/>
 	(512) 834-6670<br/>
@@ -78,13 +78,6 @@
 	1314 Lomaland Dr.<br/>
 	El Paso, Tx 79935<br/>
 	(915) 599-5208<br/>
-</p>
-
-<p>
-	<strong>Kyle Stockton</strong><br/>
-	601 W. Sesame Dr.<br/>
-	Harlingen, TX 78550<br/>
-	(956) 423-0130 x620<br/>
 </p>
 
 <p>
