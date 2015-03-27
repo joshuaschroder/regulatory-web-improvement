@@ -1,5 +1,5 @@
 <?php
-	$title= "Archives of Risk Categorizations for Texas Water Bodies - Seafood and Aquatic Life" ;
+	$title= "Archives of Risk Characterizations for Texas Water Bodies - Seafood and Aquatic Life" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/seafood_menu.html'; 
 ?>

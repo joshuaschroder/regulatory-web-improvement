@@ -28,14 +28,14 @@
 
 <h2>2011 News Releases</h2>
 <ul>
-	<li>December 29, 2011 - <a title="ADV-46, DSHS Issues Fish Consumption Advisory for Sabine Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961766">ADV-46, DSHS Issues Fish Consumption Advisory for Sabine Lake</a> <span class="small">(PDF, 29KB)</span></li>
+	<li>December 29, 2011 - <a title="DSHS Issues Fish Consumption Advisory for Sabine Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961766">DSHS Issues Fish Consumption Advisory for Sabine Lake</a> <span class="small">(PDF, 29KB)</span></li>
 </ul>
 <hr/>
 
 <h2>2010 News Releases</h2>
 <ul>
 	<li>November 15, 2010 - <a title="DSHS Issues Fish Advisory for Lake Worth" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589936146">DSHS Issues Fish Advisory for Lake Worth</a> <span class="small">(PDF, 33KB)</span></li>
-	<li>October 1, 2010 - <a title="ADV-44 DSHS Issues Fish Advisory for Mountain Creek Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589935668">ADV-44, DSHS Issues Fish Advisory for Mountain Creek Lake</a> <span class="small">(PDF, 18KB)</span></li>
+	<li>October 1, 2010 - <a title="DSHS Issues Fish Advisory for Mountain Creek Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589935668">DSHS Issues Fish Advisory for Mountain Creek Lake</a> <span class="small">(PDF, 18KB)</span></li>
 	<li>July 7, 2010 - <a title="DSHS Issues Fish Advisory for Trinity River" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=54433">DSHS Issues Fish Advisory for Trinity River</a> <span class="small">(PDF, 34KB)</span></li>
 	<li>June 29, 2010 - <a title="DSHS Issues Fish Advisory for Lower Leon Creek" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51715">DSHS Issues Fish Advisory for Lower Leon Creek</a></li>
 	<li>March 8, 2010 - <a title="DSHS Issues Fish Advisory for Portions of Neches River" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51714">DSHS Issues Fish Advisory for Portions of Neches River</a> <span class="small">(PDF, 34KB)</span></li>
@@ -56,7 +56,7 @@
 <h2>2008 News Releases</h2>
 <ul>
 	<li>July 8, 2008 - <a title="DSHS Issues Fish Consumption Advisory for Galveston Bay" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51569">DSHS Issues Fish Consumption Advisory for Galveston Bay</a> <span class="small">(PDF, 46KB)</span></li>
-	<li>February 12, 2008 - <a title="ADV-34 DSHS Issues Arroyo Colorado Advisory" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20211">ADV-34, DSHS Issues Arroyo Colorado Advisory</a> <span class="small">(PDF, 18KB)</span></li>
+	<li>February 12, 2008 - <a title="DSHS Issues Arroyo Colorado Advisory" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20211">DSHS Issues Arroyo Colorado Advisory</a> <span class="small">(PDF, 18KB)</span></li>
 	<li>February 5, 2008 - <a title="Flower Garden Fish Advisories Issued" href="http://www.dshs.state.tx.us/news/releases/20080205.shtm">Flower Garden Fish Advisories Issued</a></li>	
 	<li>January 15, 2008 - <a title="Fish Ban Lifted for Fosdic Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20220">Fish Ban Lifted for Fosdic Lake</a> <span class="small">(PDF, 29KB)</span></li>
 </ul>
@@ -114,7 +114,7 @@
 
 <h2>1999 and Prior News Releases</h2>
 <ul>
-	<li>October 26, 1999 - <a title="ADV-17 TDH Lifts Consumption Advisory for Austin’s Town Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20286">ADV-17, TDH Lifts Consumption Advisory for Austin’s Town Lake</a> <span class="small">(PDF, 18KB)</span></li>
+	<li>October 26, 1999 - <a title="TDH Lifts Consumption Advisory for Austin’s Town Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20286">TDH Lifts Consumption Advisory for Austin’s Town Lake</a> <span class="small">(PDF, 18KB)</span></li>
 	<li>April 23, 1999 - <a title="TDH Advises Limiting Consumption of Fish from Two East Texas Lakes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20235">TDH Advises Limiting Consumption of Fish from Two East Texas Lakes</a> <span class="small">(PDF, 46KB)</span></li>
 	<li>July 10, 1997 - <a title="TDH Lifts Fish Consumption Advisory for Lower Brazos River" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20234">TDH Lifts Fish Consumption Advisory for Lower Brazos River</a> <span class="small">(PDF, 31KB)</span> </li>
 	<li>June 19, 1997 - <a title="Elevated Mercury Levels in King Mackerel Prompt Consumption Advisory" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20233">Elevated Mercury Levels in King Mackerel Prompt Consumption Advisory</a> <span class="small">(PDF, 47KB)</span></li>
@@ -124,15 +124,15 @@
 	<li>November 2, 1995 - <a title="TDH Recommends Limiting Consumption of Fish from Some East Texas Waters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20231">Consumption of Fish from Some East Texas Waters</a> <span class="small">(PDF, 53KB)</span></li>
 	<li>January 30, 1995 - <a title="Advised Reduced Consumption of Fish From Caddo Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20230">Advised Reduced Consumption of Fish From Caddo Lake</a> <span class="small">(PDF, 55KB)</span></li>
 	<li>April 4, 1995 - <a title="Contaminated Fish Found in Fort Worth Lakes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20250">Contaminated Fish Found in Fort Worth Lakes</a> <span class="small">(PDF, 54KB)</span></li>
-	<!--li>October 27, 1994 - <a title="ADV-10  TDH Lifts Consumption Advisories on Fish from San Jacinto, Trinity Rivers" href="">ADV-10, TDH Lifts Consumption Advisories on Fish from San Jacinto, Trinity Rivers</a> <span class="small">(PDF, xxKB)</span></li-->
-	<!--li>October 24, 1994 - <a title="ADV-9, TDH Extends Fish Consumption Advisory to Include Portions of Galveston Bay" href="">ADV-9, TDH Extends Fish Consumption Advisory to Include Portions of Galveston Bay</a> <span class="small">(PDF, xxKB)</span></li-->
+	<li>October 27, 1994 - <a title="TDH Lifts Consumption Advisories on Fish from San Jacinto, Trinity Rivers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996805">TDH Lifts Consumption Advisories on Fish from San Jacinto, Trinity Rivers</a> <span class="small">(PDF, 59KB)</span></li>
+	<li>October 24, 1994 - <a title="TDH Extends Fish Consumption Advisory to Include Portions of Galveston Bay" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996804">TDH Extends Fish Consumption Advisory to Include Portions of Galveston Bay</a> <span class="small">(PDF, 20KB)</span></li>
 	<li>February 3, 1994 - <a title="State Health Official Issues Fishing Ban" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20256">State Health Official Issues Fishing Ban</a> <span class="small">(PDF, 69KB)</span></li>
 	<li>November 18, 1993 - <a title="Health Commissioner Advises &ldquo;Zero Consumption&rdquo; of Fish from Clear Creek" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20248">Health Commissioner Advises &ldquo;Zero Consumption&rdquo; of Fish from Clear Creek</a> <span class="small">(PDF, 37KB)</span></li>
 	<li>November 17, 1993 - <a title="Health Officials Modify Hidalgo County Fish Advisory" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20247">Health Officials Modify Hidalgo County Fish Advisory</a> <span class="small">(PDF, 32KB)</span></li>
 	<li>June 24, 1993 - <a title="Health and Water Agencies Call News Conference on PCBs in Valley" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20246">Health and Water Agencies Call News Conference on PCBs in Valley</a> <span class="small">(PDF, 28KB)</span> </li>
 	<li>May 11, 1992 - <a title="Selenium Taints Fish at Three Northeast Texas Lakes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20245">Selenium Taints Fish at Three Northeast Texas Lakes</a> <span class="small">(PDF, 32KB)</span> </li>
 	<li>NO DATE - <a title="Health Commissioner Warns of Dioxin Hazard in Three Areas" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20242">Health Commissioner Warns of Dioxin Hazard in Three Areas</a> <span class="small">(PDF, 31KB)</span> </li>
-	<li>June 21, 1990 <a title="ADV-0 not numbered (Town Lake), Health Officials Advise Against Consuming Fish from Town Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20282">ADV-0, Health Officials Advise Against Consuming Fish from Town Lake</a> <span class="small">(PDF, 36KB)</span></li>
+	<li>June 21, 1990 <a title="Health Officials Advise Against Consuming Fish from Town Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20282">Health Officials Advise Against Consuming Fish from Town Lake</a> <span class="small">(PDF, 36KB)</span></li>
 	<li>January 8, 1990 - <a title="Health Commissioner Bans Fishing on Part of Trinity River" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20255">Health Commissioner Bans Fishing on Part of Trinity River</a> <span class="small">(PDF, 34KB)</span></li>
 	<li>June 6, 1989 - <a title="Lavaca Bay Stays Closed for Taking fish and Crab" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20249">Lavaca Bay Stays Closed for Taking fish and Crab</a> <span class="small">(PDF, 43KB)</span> </li>
 </ul>

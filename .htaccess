@@ -1,4 +1,5 @@
 AddType application/x-httpd-php .shtm .shtml .html .htm .aspx
+DirectoryIndex default.aspx index.php index.html
 
 #AuthType Basic
 #AuthName "Protected Area"

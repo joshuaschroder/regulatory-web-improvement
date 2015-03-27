@@ -20,7 +20,7 @@
 <hr/>
 <p>
 	<strong>Download this Document:</strong><br/>
-	<a title="Public Waters Tested without Consumption Advisories " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996670">Public Waters Tested without Consumption Advisories Public Waters Tested without Consumption Advisories</a> <span class="small">(XLSX, 19KB)</span>
+	<a title="Public Waters Tested without Consumption Advisories " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996670">Public Waters Tested without Consumption Advisories</a> <span class="small">(XLSX, 19KB)</span>
 </p>
 <hr/>
 
@@ -59,7 +59,7 @@
 	<li>SVOCs = Semivolatile Organic Compounds</li>
 	<li>PEST = Pesticides</li>
 	<li>PCBs = Polychlorinated Biphenyls</li>
-	<li>VOCs = Volatile Organic Compounds.</li>
+	<li>VOCs = Volatile Organic Compounds</li>
 </ul>
 <br/><br/>
 

@@ -69,8 +69,8 @@
 			<td headers="ban big-cypress-creek">None</td>
 			<td headers="rescinded big-cypress-creek">None</td>
 			<td headers="risk big-cypress-creek">
-				<a title="East Texas Lakes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20296">Big Cypress Creek</a><br/><span class="small">(PDF, 45KB)</span><br/><br/>
-				<a title="East Texas Lakes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20302">East Texas Lakes</a><br/><span class="small">(PDF, 38KB)</span><br/><br/>
+				<a title="East Texas Lakes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20296">Big Cypress Creek 1995</a><br/><span class="small">(PDF, 45KB)</span><br/><br/>
+				<a title="East Texas Lakes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20302">East Texas Lakes 1995</a><br/><span class="small">(PDF, 38KB)</span><br/><br/>
 			</td>
 			<td headers="faq big-cypress-creek">None</td>
 		</tr>
@@ -272,7 +272,7 @@
 			<td headers="advisories hills-lake"><a title="Advisory 32" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20195">Advisory 32</a><br/><span class="small">(PDF, 28KB)</span></td>
 			<td headers="ban hills-lake">None</td>
 			<td headers="rescinded hills-lake">None</td>
-			<td headers="risk hills-lake"><a title="Hills Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20261">Hills Lake</a><br/><span class="small">(PDF, 451KB)</span></td>
+			<td headers="risk hills-lake"><a title="Hills Lake" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20261">Hills Lake 2005</a><br/><span class="small">(PDF, 451KB)</span></td>
 			<td headers="faq hills-lake"><a title="Advisory 32 FAQs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59288">Advisory 32 FAQs</a><br/><span class="small">(PDF, 31KB)</span></td>
 		</tr>
 		
