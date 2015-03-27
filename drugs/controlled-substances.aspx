@@ -7,12 +7,12 @@
 <p>Additional information can be obtained by contacting the Department of State Health Services, Drugs and Medical Devices Group, P.O. Box 149347, Austin, Texas 78714-9347. The telephone number is (512) 834-6755.</p>
 
 <hr/>
-<h2>2014 Controlled Substance Schedule</h2>
+<h2>2014 Schedules of Controlled Substances</h2>
 <p><a title="2014 Schedules of Controlled Substances" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987205">2014 Schedules of Controlled Substances</a> <span class="small">(PDF, 93KB)</span></p>
 
 <hr/>
 
-<h2>Recent Changes to Controlled Substance Schedules</h2>
+<h2>Recent Changes to Schedules of Controlled Substances</h2>
 <ul>
 	<li>
 		<p>
@@ -51,7 +51,7 @@
 	</li>
 </ul>
 <hr/>
-<h2>Archives of Previous Years' Controlled Substance Schedules</h2>
+<h2>Schedules of Controlled Substances Archives</h2>
 <p>Archives of prior schedules and changes may be found on the <a title="controlled substance archive page" href="/drugs/controlled-substance-archives.aspx">controlled substance archive page</a>.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

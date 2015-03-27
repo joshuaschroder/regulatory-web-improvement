@@ -20,7 +20,7 @@
 
 <hr/>
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
-<h3>For General Program Assitance</h3>
+<h3>For General Program Assistance</h3>
 <p>
 	<strong>Phone:</strong> (512) 834-6755<br/>
 	<strong>Fax:</strong> (512) 834-6759<br/>

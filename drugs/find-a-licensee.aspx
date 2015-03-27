@@ -14,7 +14,7 @@
 
 <p><a title="Begin Your Public License Search Here" href="https://vo.ras.dshs.state.tx.us">Begin Your Public License Search Here</a></p>
 <p><em>The Public License Search provided by the Division for Regulatory Services - Online License Services contains the most current licensing information.&nbsp;</em></p>
-<p><strong>You don't have to log in to use the search tool.</strong><br>From the online license services homepage, click <a title="License Search" href="https://vo.ras.dshs.state.tx.us/datamart/selSearchTypeTXRAS.do">License Search</a>.</p>
+<p><strong>You don't have to log in to use the search tool.</strong><br>From the online license services homepage, click "License Search".</p>
 <p>You can search for a licensee by any one of the following ways: </p>
 <ul>
 	<li>Search by <em><strong>Owner</strong></em><strong><em> Name</em></strong> </li>

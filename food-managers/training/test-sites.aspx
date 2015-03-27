@@ -30,7 +30,7 @@
 			<td headers="table_heading_3">Travis</td>
 			<td headers="table_heading_4">78727</td>	
 			<td headers="table_heading_5">(888) 360-8764</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0"><a title="Texas Restaurant Association" href="http://www.restaurantville.com">Texas Restaurant Association</a></td>
@@ -39,7 +39,7 @@
 			<td headers="table_heading_3">Travis</td>
 			<td headers="table_heading_4">78701</td>	
 			<td headers="table_heading_5">(512) 457-4100</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0"><a title="National Restaurant Association Solutions" href="http://www.servsafe.com">National Restaurant Association Solutions</a></td>
@@ -48,16 +48,16 @@
 			<td headers="table_heading_3">Out of State</td>
 			<td headers="table_heading_4">60604</td>	
 			<td headers="table_heading_5">(800) 765-2122</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
-			<td headers="table_heading_0"><a title="Texas A&M Agrilife Extension Service" href="http://www.foodsafety.tamu.edu">Texas A&mp;M Agrilife Extension Service</a></td>
+			<td headers="table_heading_0"><a title="Texas A&M Agrilife Extension Service" href="http://www.foodsafety.tamu.edu">Texas A&amp;M Agrilife Extension Service</a></td>
 			<td headers="table_heading_1">114 Kleberg 2253 Tamu</td>
 			<td headers="table_heading_2">College Station, TX</td>
 			<td headers="table_heading_3">Brazos</td>
 			<td headers="table_heading_4">77843</td>	
 			<td headers="table_heading_5">(979) 458-2025</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0"><a title="A+ Food Industry Inspections Inc" href="http://www.aplusfii.com">A+ Food Industry Inspections Inc</a></td>
@@ -66,7 +66,7 @@
 			<td headers="table_heading_3">Collin</td>
 			<td headers="table_heading_4">75252</td>	
 			<td headers="table_heading_5">(214) 425-8154</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0"><a title="Grayson County Health Department" href="http://www.foodmanagerclasses.com">Grayson County Health Department</a></td>
@@ -93,7 +93,7 @@
 			<td headers="table_heading_3">Out of State</td>
 			<td headers="table_heading_4">32819</td>	
 			<td headers="table_heading_5">(407) 352-3830</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0">Serrato Food Safety</td>
@@ -102,7 +102,7 @@
 			<td headers="table_heading_3">Harris</td>
 			<td headers="table_heading_4">77503</td>	
 			<td headers="table_heading_5">(713) 472-5351</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0"><a title="G&B Consulting Inc" href="http://www.gbconsultingtexas.com">G&amp;B Consulting Inc</a></td>
@@ -111,16 +111,16 @@
 			<td headers="table_heading_3">Ellis</td>
 			<td headers="table_heading_4">75154</td>	
 			<td headers="table_heading_5">(972) 617-1017</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0"><a title="Food Safety Direct" href="http://www.foodsafetydirect.com">Food Safety Direct</a></td>
-			<td headers="table_heading_1">3603 Fredericksburg Rd Ste 137</td>
+			<td headers="table_heading_1">3603 Fredericksburg Rd Ste 109</td>
 			<td headers="table_heading_2">San Antonio, TX</td>
 			<td headers="table_heading_3">Bexar</td>
 			<td headers="table_heading_4">78201</td>	
 			<td headers="table_heading_5">(210) 785-9441</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>	
 		<tr>
 			<td headers="table_heading_0"><a title="Prometric" href="http://www.prometric.com/default.htm">Prometric</a></td>
@@ -129,11 +129,11 @@
 			<td headers="table_heading_3">Out of State</td>
 			<td headers="table_heading_4">55108</td>	
 			<td headers="table_heading_5">(800) 624-2736</td>
-			<td headers="table_heading_6"></td>
+			<td headers="table_heading_6">No</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><em>This table of information was last updated on May 2, 2014.</em></p>
+<p><em>This table of information was last updated on March 13, 2015.</em></p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

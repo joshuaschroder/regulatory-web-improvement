@@ -1,5 +1,5 @@
 <?php
-	$title= "Archive of Previous Years' Controlled Substances Schedules - Drug Manufacturers and Distributors" ;
+	$title= "Schedules of Controlled Substances Archives - Drug Manufacturers and Distributors" ;
 	include '../includes/header.html';
 	include '../includes/menus/drugs_menu.html';
 ?>
