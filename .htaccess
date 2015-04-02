@@ -1,6 +1,10 @@
 AddType application/x-httpd-php .shtm .shtml .html .htm .aspx
 DirectoryIndex default.aspx index.php index.html
 
+Options +FollowSymLinks
+RewriteEngine On
+Redirect 301 /VO/datamart/login.do.html    http://ecology-sandra.codio.io:3000/vo/datamart/login.do.html
+
 #AuthType Basic
 #AuthName "Protected Area"
 #AuthUserFile /home/codio/.htpasswd
