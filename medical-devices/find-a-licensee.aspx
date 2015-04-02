@@ -1,5 +1,5 @@
 <?php 
-    $title= "Public License Search - Drug Manufacturers and Distributors" ; 
+    $title= "Public License Search - Medical Device Manufacturers and Distributors" ; 
     include '../includes/header.html'; 
     include '../includes/menus/mdev_menu.html'; 
 ?>

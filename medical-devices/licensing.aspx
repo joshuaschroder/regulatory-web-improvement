@@ -15,7 +15,7 @@
 
 <hr/>
 <h2>Device Manufacturers</h2>
-<p>Medical device manufacturers may <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">apply for a license online</a>, or by completing and returning a <a title="license application form" href="/medical-devices/forms.aspx">license application form</a>. For assistance in completing applications, call (512) 834-6727.</p>
+<p>Medical device manufacturers may <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">apply for a license online</a>, or by completing and returning a <a title="license application form" href="/medical-devices/forms.aspx">license application form</a>. Licenses are valid for 2 years unless amended, suspended or revoked. For assistance in completing applications, call (512) 834-6727.</p>
 <p>“Manufacturer” means a person who manufactures, fabricates, assembles, or processes a finished device. The term includes a person who repackages or relabels a finished device. The term does not include a person who only distributes a finished device. “Finished Device” means a device, or any accessory to a device, which is suitable for use, whether or not packaged or labeled for commercial distribution.</p>
 
 <h3>Fee Schedule For Device Manufacturers</h3>
@@ -72,7 +72,7 @@
 
 <hr/>
 <h2>Device Distributors</h2>
-<p>Medical device distributors may <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">license online</a>, or by completing and returning a <a title="license application form" href="/medical-devices/forms.aspx">license application form</a>. For assistance in completing applications, call (512) 834-6727.</p>
+<p>Medical device distributors may <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">apply for a license online</a>, or by completing and returning a <a title="license application form" href="/medical-devices/forms.aspx">license application form</a>. Licenses are valid for 2 years unless amended, suspended or revoked. For assistance in completing applications, call (512) 834-6727.</p>
 <p>“Distributor” means a person who furthers the marketing of a finished domestic or imported device from the original place of manufacture to the person who makes final delivery or sale to the ultimate consumer or user. The term includes an importer or an own-label distributor. The term does not include a person who repackages a finished device or who otherwise changes the container, wrapper, or labeling of the finished device or the finished device package. “Finished Device” means a device, or any accessory to a device, which is suitable for use, hether or not packaged or labeled for commercial distribution.</p>
 
 <h3>Fee Schedule For Device Distributors</h3>

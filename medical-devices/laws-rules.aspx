@@ -16,7 +16,6 @@
 	<li><a title="Sections 229.431 &#8211; 229.444, Licensing of Device Distributors and Manufacturers" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=X&rl=Y">Sections 229.431 &#8211; 229.444, Licensing of Device Distributors and Manufacturers</a> <span class="small">(HTML)</span></li>
 	<li><a title="Sections 229.431 &#8211; 229.444, Licensing of Device Distributors and Manufacturers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589994059">Sections 229.431 &#8211; 229.444, Licensing of Device Distributors and Manufacturers</a> <span class="small">(PDF, 89KB)</span></li>
 	<li><a title="Section 229.261, Assessment of Administrative or Civil Penalties" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">Section 229.261, Assessment of Administrative or Civil Penalties</a></li>
-	<li><a title="Section 229.444, Device Distributors and Manufacturers Advisory Committee" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=444">Section 229.444, Device Distributors and Manufacturers Advisory Committee</a></li>
 </ul>
 
 <h3>Code of Federal Regulations, Title 21</h3>

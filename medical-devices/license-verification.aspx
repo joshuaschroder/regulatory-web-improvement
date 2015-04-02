@@ -1,5 +1,5 @@
 <?php
-	$title= "License Verification - Drug Manufacturers and Distributors" ;
+	$title= "License Verification - Medical Device Manufacturers and Distributors" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/mdev_menu.html'; 
 ?>

@@ -15,7 +15,7 @@
 
 <hr/>
 <h2>Drug and Medical Device Salvage</h2>
-<p>There should be some text here.</p>
+<p>This program is responsible for answering questions from consumers regarding salvaged drugs, devices, and cosmetics and offers regulatory guidance and interpretations to drug, device, and cosmetic reconditioners and brokers. The Drugs and Medical Devices Group conducts routine inspections of drug, device, and cosmetic salvage establishments, brokers, and warehouses, as required by state law, and investigates complaints involving distressed or reconditoned drugs, devices, and cosmetics. Businesses engaged in the reconditioning and/or distribution of distressed drugs, devices, or cosmetics are required to license with the Texas Department of State Health Services (DSHS).</p>
 
 <hr/>
 <h2>Email Updates</h2>
@@ -24,12 +24,23 @@
 
 <hr/>
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
+
+<h3>For General Program Assistance</h3>
 <p>
-	<strong>Phone: </strong>(512) 834-6727<br/>
-	<strong>Fax:</strong> (512) 834-6741<br/>
-	<strong>Email:</strong> <a title="Drugs-FoodSafety@dshs.state.tx.us" href="mailto:Drugs-FoodSafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a>
+	Drugs and Medical Device Group<br/>
+	Phone: (512) 834-6755<br/>
+	Fax: (512) 834-6759<br/>
+	<!--strong>Email:</strong> <a title="Drugs-FoodSafety@dshs.state.tx.us" href="mailto:Drugs-FoodSafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a-->
 </p>
 
+<h3>For Licensing Assistance</h3>
+<p>
+	Drugs and Food Safety Licensing Group<br/>
+	Phone: (512) 834-6727<br/>
+	Fax: (512) 834-6741<br/>
+	Email: <a title="Drugs-FoodSafety@dshs.state.tx.us" href="mailto:Drugs-FoodSafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a>
+</p>
+<br/>
 <p>Mailing addresses may be found on the <a title="contact page" href="/salvage/contact.aspx">contact page</a>.</p>
 
 

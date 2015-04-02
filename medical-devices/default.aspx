@@ -9,6 +9,14 @@
 <hr/>
 <h2>Licensing</h2>
 <p>To become licensed, please visit the <a title="licensing requirements page" href="/medical-devices/licensing.aspx">licensing requirements page</a>, which outline options for online licensing and renewal as well as fee schedules and links to application forms.</p>
+<p>Information on related licenses and certifications may be found by following the links below:</p>
+<ul>
+	<li><a title="Certificates of Free Sale / Origin" href="/certificate-of-free-sale/">Certificates of Free Sale / Origin</a></li>
+	<li><a title="Drug Manufacturers and Distributors" href="/drugs/">Drug Manufacturers and Distributors</a></li>
+	<li><a title="Multiple Product Licenses" href="/medical-devices/forms.aspx#multiple-products">Multiple Product Licenses</a></li>
+	<li><a title="Tanning Facilities" href="/tanning/">Tanning Facilities</a></li>
+	<li><a title="Tattoo / Piercing Studios" href="/tattoo-piercing/">Tattoo / Piercing Studios</a></li>
+</ul>
 
 <hr/>
 <h2>Email Updates</h2>
