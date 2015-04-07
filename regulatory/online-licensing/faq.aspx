@@ -28,7 +28,7 @@
 </ul>
 <hr/>
 <a class="bookmark" title="Who should create a user" name="who-should-create-a-user"></a><h2>Who should create a user registration?</h2>
-<p>Licensees and applicants with license types listed on our Who Should Register webpage (with license types currently eligible to start a new license, renew, pay a billing fee, and/or change addresses) should register as users.</p>
+<p>Licensees and applicants with license types listed on our "<a title="Who May Apply Online?" href="/regulatory/online-licensing/eligibility.aspx">Who May Apply Online?</a>" webpage (with license types currently eligible to start a new license, renew, pay a billing fee, and/or change addresses) should register as users.</p>
 <hr/>
 <a class="bookmark" title="How do I get to the" name="how-do-i-get-to-the"></a><h2>How do I access to the "Who May Apply Online" and "FAQs" pages?</h2>
 <p>The <a title="Who May Apply Online" href="/regulatory/online-licensing/eligibility.aspx">Who May Apply Online</a> and <a title="Online Licensing FAQ" href="/regulatory/online-licensing/faq.aspx">Online Licensing FAQ</a> pages are accessible from the main Online Licensing Services login page by clicking the "Help and Support" link in the upper right corner. These links will no longer be visible after logging in. It will be necessary to logout to access this page.</p>

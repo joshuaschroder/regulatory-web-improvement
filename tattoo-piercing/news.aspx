@@ -1,5 +1,5 @@
 <?php
-	$title= "News Releases and Product Recalls- Tattoo and Body " ;
+	$title= "News Releases and Product Recalls - Tattoo and Body Piercing Studios" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/tattoo_menu.html'; 
 ?>

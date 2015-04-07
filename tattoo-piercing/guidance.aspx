@@ -8,7 +8,7 @@
 <p>These forms are not to be considered official or mandatory, but are provided as examples containing all required information. Forms may also be requested by mail (call 512-834-6755 to have samples sent).</p>
 <hr/>
 
-<h2>Sterilization and Infection - Sample Forms</h2>
+<h2>Sterilization Record and Report of Infection/Allergic Reaction - Sample Forms</h2>
 <ul>
 	<li><a title="Report of Infection or Allergic Reaction by a Tattoo or Body Piercing Studio" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964519">Report of Infection or Allergic Reaction by a Tattoo or Body Piercing Studio</a> <span class="small">(PDF, 46KB)</span></li>
 	<li><a title="Tattoo and Body Piercing Sterilization Record" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17217">Tattoo and Body Piercing Sterilization Record</a> <span class="small">(PDF, 18KB)</span></li>	

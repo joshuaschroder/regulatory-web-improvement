@@ -1,11 +1,11 @@
 <?php
-	$title= "Frequently Asked Questions about Licensing - Tattoo and Body Piercing Studios" ;
+	$title= "Frequently Asked Questions from Licensees - Tattoo and Body Piercing Studios" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/tattoo_menu.html'; 
 ?>
 
 <hr/>
-<p><strong>Download this Document:</strong> <a title="Frequently Asked Questions about Licensing - Tattoo and Body Piercing Studios" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17223">Frequently Asked Questions about Licensing - Tattoo and Body Piercing Studios</a> <span class="small">(PDF, 18KB)</span></p>
+<p><strong>Download this Document:</strong> <a title="Frequently Asked Questions from Licensees - Tattoo and Body Piercing Studios" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=17223">Frequently Asked Questions from Licensees - Tattoo and Body Piercing Studios</a> <span class="small">(PDF, 18KB)</span></p>
 <p>Please pay careful attention to the rules as they are outlined in the minimum standards for licensure of tattoo and certain body piercing studios (tattoo/body piercing rules). You are required to abide by these rules. If they are violated you may face administrative, civil, or criminal penalties. Criminal penalty violations are class a misdemeanors.</p>
 <p>Texas Department of Health State Services (DSHS) Investigators perform inspections of tattoo and body piercing studios on a regular basis by means of routine and compliance inspections and/or by complaint investigations. Below is a listing of some frequently asked questions (FAQs) Investigators encounter during inspections of tattoo and body piercing studios:</p>
 <hr/>
@@ -23,10 +23,10 @@
 <p>We consider “unobstructed access” to be a situation where the artist can wash his/her hands and return to the tattoo or body piercing area without having to handle an item, such as a door knob. The idea behind this rule is to prevent artists from contaminating their clean hands.<br/><br/></p> 
 
 <p><strong>What do you mean by germicidal soap?</strong></p>
-<p>A germicidal soap is a product designed for use on the skin that kills diseasecausing microorganisms. This would include products that contain povidoneiodine, chloroxylenol, triclosan, and chlorhexidine gluconate (not to be considered all-inclusive).<br/><br/></p>
+<p>A germicidal soap is a product designed for use on the skin that kills disease-causing microorganisms. This would include products that contain povidone-iodine, chloroxylenol, triclosan, and chlorhexidine gluconate (not to be considered all-inclusive).</p>
 
 <p><strong>I use only pre-sterilized instruments; do I still need a sterilizer and a sterilization log?</strong></p>
-<p>No. Studios that use instruments sterilized by a third party (such as a manufacturer) do not need to re-sterilize the items. Instead, studios must have documentation from the third party telling how the items were sterilized, how to store them to keep them sterile, and how long the items should be considered sterile. Remember that even if most of your instruments are pre-sterilized, jewelry and other reusable instruments may need to be sterilized by you before they can be used.<br/><br/></p>
+<p>No. Studios that use instruments sterilized by a third party (such as a manufacturer) do not need to re-sterilize the items. Instead, studios must have documentation from the third party telling how the items were sterilized, how to store them to keep them sterile, and how long the items should be considered sterile. Remember that even if most of your instruments are pre-sterilized, jewelry and other reusable instruments may need to be sterilized by you before they can be used.</p>
 
 <p><strong>Do I need a notarized consent by a minor’s parent/guardian before I can give a minor a body piercing?</strong></p>
 <p>Body piercing clients must be 18 years of age unless they have consent from the minor’s parent, guardian, or managing conservator (we’ll use the term “parent” in the FAQs). Studios have two options in obtaining consent for a body piercing:</p>
@@ -43,7 +43,7 @@
 <p>Studios are required to <a title="report any infection/allergic reaction" href="/tattoo-piercing/guidance.aspx">report any infection/allergic reaction</a> from a tattoo or body piercing (whether from your studio or someone else’s) in writing to the Texas Department of State Health Services within five working days of learning about the infection/allergic reaction.<br/><br/></p>
 
 <p><strong>Are there any sample records and client care sheets available to me?</strong></p>
-<p>Yes. We have sample forms for client records, care sheets, a sterilization log, a report of infection/allergic reaction, and affidavits for minors (parental consent forms) available on the the <a title="Guidance Documents page" href="/tattoo-piercing/guidance.aspx">Guidance Documents page</a> or by mail (call 512-834- 6755 to have samples sent). These forms are not to be considered official or mandatory, but are provided as examples containing all required information.<br/><br/></p>
+<p>Yes. We have sample forms for client records, care sheets, a sterilization log, a report of infection/allergic reaction, and affidavits for minors (parental consent forms) available on the <a title="guidance documents page" href="/tattoo-piercing/guidance.aspx">Guidance Documents page</a> or by mail (call 512-834- 6755 to have samples sent). These forms are not to be considered official or mandatory, but are provided as examples containing all required information.</p>
 
 <hr/>
 <p>These are only a few FAQs Investigators encounter when performing inspections. Feel free to consult our website or contact us for assistance. Our hours are Monday through Friday, 8AM to 5PM.</p>
