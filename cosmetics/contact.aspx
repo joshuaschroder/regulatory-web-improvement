@@ -3,32 +3,48 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/cosmetics_menu.html'; 
 ?>
-
+<hr/>
+<h2>For General Program Inquiries</h2>
 <p>
-	<strong>Telephone:</strong>  (512) 834-6727 <br/>
-	<strong>Fax:</strong> (512) 834-6741 <br/>
-	<strong>Email:</strong> <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a>
+	Email: <a title="Drugs and Medical Device Group" href="mailto:DMD.regulatory@dshs.state.tx.us">Drugs and Medical Device Group</a><br/>
+	Phone: (512) 834-6755  <br/>
+	Fax: (512) 834-6759 <br/>
 </p>
 
-<h2>Mailing Addresses</h2>
-
-<p>For the mailing address to use when submitting an application with money, please refer to the address at the top of each individual application.</p>
-
-<h3>Send Correspondence Only To</h3>
+<h3>Mailing Address</h3>
 <p>
-	RLU, Food and Drug Licensing Group MC 2835 <br/>
-	Texas Department of State Health Services <br/>
-	P. O. Box 149347 <br/>
+	Drugs and Medical Devices Group MC 1987<br/>
+	Texas Department of State Health Services<br/>
+	P. O. Box 149347<br/>
 	Austin, Texas 78714-9347
 </p>
 
-<h3>Physical Address</h3>
+<hr/>
+<h2>For Assistance with Licensing</h2>
 <p>
-	<strong><em>DO NOT SEND MONEY TO THIS ADDRESS</em></strong> <br/>
-	The Exchange Building <br/>
-	8407 Wall Street <br/>
-	Austin, Texas 78754 <br/>
+	Email: <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Phone: (512) 834-6727<br/>
+	Fax: (512) 834-6741<br/>
+</p>
+
+<h3>Mailing Address</h3>
+<p><em>Send correspondence only to:</em></p>
+<p>
+	RLU, Food and Drug Licensing Group MC 2835<br/>
+	Texas Department of State Health Services<br/>
+	P. O. Box 149347<br/>
+	Austin, Texas 78714-9347
+</p>
+
+<hr/>
+<h2>Physical Address</h2>
+<p><strong><em>We only receive special service deliveries, such as UPS or Federal Express, at this address<br/>Do not send money to this address</em></strong></p>
+<p>
+	The Exchange Building<br/>
+	8407 Wall Street<br/>
+	Austin, Texas 78754<br/><br/>
 	<a title="Map and directions" href="http://www.dshs.state.tx.us/visitor/default.shtm">Map and directions</a> to the Exchange Building
 </p>
+
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>							

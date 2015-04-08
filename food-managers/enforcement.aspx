@@ -1,5 +1,5 @@
 <?php
-	$title= "Enforcement Actions - Certified Food Manager Programs" ;
+	$title= "Enforcement Actions - Certified Food Manager Program" ;
 	include '../includes/header.html';
     include '../includes/menus/foodman_menu.html'; 
 ?>

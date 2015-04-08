@@ -1,15 +1,13 @@
 <?php 
-    $title= "Public License Search - Drug Manufacturers and Distributors" ; 
+    $title= "Public License Search - Tattoo and Body Piercing Studios" ; 
     include '../includes/header.html'; 
     include '../includes/menus/tattoo_menu.html'; 
 ?>
 
 <p>An online search is now available for the following license types: </p>
 <ul>
-	<li>Multiple Products</li>
-	<li>Nonprescription Drugs</li>
-	<li>Prescription Drugs</li>
-	<li>Pseudoephedrine </li>
+	<li>Tattoo Studio</li>
+	<li>Body Piercing Studio</li>
 </ul>
 
 <p><a title="Begin Your Public License Search Here" href="https://vo.ras.dshs.state.tx.us">Begin Your Public License Search Here</a></p>

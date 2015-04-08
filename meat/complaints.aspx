@@ -16,9 +16,9 @@
 <hr/>
 <h2>How to File a Complaint</h2>
 <p>
-	<strong>Email:</strong> <a title="MSA or Rendering Complaint" href="mailto:adam.buuck@dshs.state.tx.us?subject=MSA%20or%20Rendering%20Complaint">Adam Buuck</a> and/or <a title="MSA or Rendering Complaint" href="mailto:Tracie.Luna@dshs.state.tx.us?subject=MSA%20or%20Rendering%20Complaint">Tracie Luna</a><br/>
-	<strong>Phone:&nbsp;</strong> (512) 834-6760<br />
-	<strong>Fax:</strong> (512) 834-6763
+	Email: <a title="Brandon Rudloff Email" href="mailto:Brandon.Rudloff@dshs.state.tx.us?subject=MSA%20or%20Rendering%20Complaint">Brandon Rudloff</a> and/or <a title="Tracie Luna Email" href="mailto:Tracie.Luna@dshs.state.tx.us?subject=MSA%20or%20Rendering%20Complaint">Tracie Luna</a><br/>
+	Phone: (512) 834-6760<br />
+	Fax: (512) 834-6763
 </p>
 <p>
 	<strong>Mailing Address: </strong><br />

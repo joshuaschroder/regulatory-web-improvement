@@ -3,8 +3,8 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/milk_menu.html'; 
 ?>
-
-<table class="zebra" summary="sorted alphabetically by regulated facility or operator type" style="width:100%;">
+<br/>
+<table class="zebraBorder" summary="sorted alphabetically by regulated facility or operator type" style="width:100%;">
 	<caption>Number of facilities and/or operators licensed or registered in Texas with the DSHS Milk Group.</caption>
 	<thead>
 		<th id="table_heading_0">Regulated Facility or Operator Type</th>

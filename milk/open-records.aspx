@@ -31,7 +31,7 @@
 	Austin, Texas 78714-9347<br/><br/>
 	<strong>Phone:</strong> 512-834-6770 ext. 2194 <br/>
 	<strong>Fax:</strong> 512-834-6756 <br/>
-	<strong>E-mail:</strong> <a title="Sofia.Stifflemire@dshs.state.tx.us" href="mailto:Sofia.Stifflemire@dshs.state.tx.us">Sofia Stifflemire</a>
+	<strong>E-mail:</strong> <a title="milk.regulatory@dshs.state.tx.us" href="mailto:milk.regulatory@dshs.state.tx.us">Milk and Dairy Group</a>
 </p>
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>

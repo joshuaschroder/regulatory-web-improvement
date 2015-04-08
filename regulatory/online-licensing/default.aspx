@@ -1,11 +1,11 @@
 <?php
 	$title= "Online Licensing Help Center - Regulatory Services" ;
 	include '/home/codio/workspace/includes/header.html';
-	include '/home/codio/workspace/includes/menus/von_menu.html'; 
+	include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
 
-
-
+<hr/>
+<p style="text-align: right;"><a title="Online Licensing" href="/vo/">Online Licensing</a> | <a title="Contact Support" href="/regulatory/online-licensing/contact.aspx">Contact Us</a></p>
 <hr/>
 <table class="layout" width="100%">
 	<tr>
@@ -54,6 +54,7 @@
 				<li><a title="New License Applications" href="/regulatory/online-licensing/applications-renewals.aspx#apply-license">New License Applications</a></li>
 				<li><a title="Renewal License Applications" href="/regulatory/online-licensing/applications-renewals.aspx#renew-license">Renewal License Applications</a></li>
 				<li><a title="Check Status of Applications" href="/regulatory/online-licensing/applications-renewals.aspx#check-status">Check Status of Applications</a></li>
+				<li><a title="Hardcopy Applications" href="/regulatory/online-licensing/forms.aspx">Hardcopy Applications</a></li>
 			</ul>
 		</td>
 		<td width="50%">
@@ -61,11 +62,12 @@
 			<ul>
 				<li><a title="Locked Out of Account" href="/regulatory/online-licensing/technical.aspx#locked-out">Locked Out of Account</a></li>
 				<li><a title="Minimum Browser Requirements" href="/regulatory/online-licensing/technical.aspx#browser-requirements">Minimum Browser Requirements</a></li>
+				<li><a title="Contact Support" href="/regulatory/online-licensing/contact.aspx">Contact Support</a></li>
 			</ul>
 		</td>
 	</tr>
+	
 </table>
-
 <hr/>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

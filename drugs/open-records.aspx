@@ -35,14 +35,16 @@
 <p>Providing this information will make it easier for us to quickly respond to your request. Be as specific as possible about the information you are seeking. Mail your request to: </p>
 
 <p>
-	Drugs and Medical Devices Group MC 1987 
-	<br/>Texas Department of State Health Services
-	<br/>P. O. Box 149347
-	<br/>Austin, Texas 78714-9347<br/>
-	<br/>Phone: 512-834-6755 
-	<br/>Fax: 512-834-6759
+	Drugs and Medical Devices Group MC 1987 <br/>
+	Texas Department of State Health Services<br/>
+	P. O. Box 149347<br/>
+	Austin, Texas 78714-9347<br/>
 </p>
-<a title="DMDG Open Records" href="mailto:amanda.govea@dshs.state.tx.us; maria.deolloz@dshs.state.tx.us; kellee.walker@dshs.state.tx.us ?subject=DMDG Open Records">DMDG Open Records</a>
+<p>
+	Email: <a title="DMDG Open Records" href="mailto:DMD.regulatory@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a><br/>
+	Phone: 512-834-6755<br/>
+	Fax: 512-834-6759<br/>
+</p>
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
 <p>

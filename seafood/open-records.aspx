@@ -32,7 +32,7 @@
 	Austin, Texas 78714-9347 <br/><br/>
 	Phone: 512-834-6670 ext. 2175 <br/>
 	Fax: 512-834-6681<br/>
-	Email: <a href="mailto:Gary.Heideman@dshs.state.tx.us">Gary Heideman</a>
+	Email: <a href="mailto:seafood.regulatory@dshs.state.tx.us">Seafood and Aquatic Life Program</a>
 </p>
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
 <p><em><strong>Please be advised that there may be a charge for the information you are requesting.</strong></em></p>

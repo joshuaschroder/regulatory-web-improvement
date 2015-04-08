@@ -1,5 +1,5 @@
 <?php
-	$title= "License Verification - Drug Manufacturers and Distributors" ;
+	$title= "License Verification - Tattoo and Body Piercing Studios" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/tattoo_menu.html'; 
 ?>

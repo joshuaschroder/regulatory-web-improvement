@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/milk_menu.html'; 
 ?>
 
-<p>You may file a complaint to <a title="Sofia Stifflemire" href="mailto:Sofia.Stifflemire@dshs.state.tx.us">Sofia Stifflemire</a></p>
+<p>You may send complaints by email to: <a title="milk.regulatory@dshs.state.tx.us" href="mailto:milk.regulatory@dshs.state.tx.us">Milk and Dairy Group</a>.</p>
 
 <p><strong>OR</strong></p>
 

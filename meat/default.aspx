@@ -14,16 +14,17 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Assitance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6760<br/>
-	<strong>Fax:</strong> (512) 834-6763<br/>
-	<strong>TDD:</strong> (800) 735-2989<br/>
+	Email: <a title="meat.regulatory@dshs.state.tx.us" href="mailto:meat.regulatory@dshs.state.tx.us">Meat Safety Assurance Unit</a><br/>
+	Phone: (512) 834-6760<br/>
+	Fax: (512) 834-6763<br/>
+	TDD: (800) 735-2989<br/>
 </p>
 <br/>
 <h3>For Licensing Assistance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6727<br/>
-	<strong>Fax:</strong> (512) 834-6741<br/>
-	<strong>Email:</strong> <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Email: <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Phone: (512) 834-6727<br/>
+	Fax: (512) 834-6741<br/>
 </p>
 
 <p>Mailing addresses may be found on the <a title="contact page" href="/meat/contact.aspx">contact page</a>.</p>

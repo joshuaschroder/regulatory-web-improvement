@@ -41,7 +41,7 @@
 	<br/>Austin, Texas 78714-9347<br/>
 	<br/>Phone: 512-834-6755 
 	<br/>Fax: 512-834-6759
-	<br/>Email: <a title="DMDG Open Records" href="mailto:amanda.govea@dshs.state.tx.us;maria.deolloz@dshs.state.tx.us;kellee.walker@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a>
+	<br/>Email: <a title="DMD.regulatory@dshs.state.tx.us" href="mailto:DMD.regulatory@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a>
 </p>
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>

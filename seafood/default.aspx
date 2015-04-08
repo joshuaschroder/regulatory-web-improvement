@@ -23,8 +23,9 @@
 
 <h2><a class="bookmark" title="contact" name="contact"></a>Contact Information</h2>
 <p>
-	<strong>Phone:</strong> (512) 834-6757<br/>
-	<strong>Fax:</strong> (512) 834-6762
+	Email: <a title="seafood.regulatory@dshs.state.tx.us" href="mailto:seafood.regulatory@dshs.state.tx.us">Seafood and Aquatic Life Program</a><br/>
+	Phone: (512) 834-6757<br/>
+	Fax: (512) 834-6762
 </p>
 
 <p>Mailing addresses may be found on the <a title="contact page" href="/seafood/contact.aspx">contact page</a>.</p>

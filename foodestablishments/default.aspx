@@ -29,16 +29,15 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Assitance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6753<br/>
-	<strong>Fax:</strong> (512) 834-6683<br/>
-	<strong>Email:</strong> <a title="Drugs and Medical Device Group" href="mailto:amanda.govea@dshs.state.tx.us; maria.deolloz@dshs.state.tx.us; kellee.walker@dshs.state.tx.us ">Drugs and Medical Device Group</a><br/>
+	Phone: (512) 834-6753<br/>
+	Fax: (512) 834-6683<br/>
 </p>
 <br/>
 <h3>For Licensing Assistance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6626<br/>
-	<strong>Fax:</strong> (512) 834-6618<br/>
-	<strong>Email:</strong> <a title="Foods Licensing Group" href="mailto:FoodsLicensingGroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+	Email: <a title="Foods Licensing Group" href="mailto:FoodsLicensingGroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+	Phone: (512) 834-6626<br/>
+	Fax: (512) 834-6618<br/>
 </p>
 
 <p>Mailing addresses may be found on the <a title="contact page" href="/foodestablishments/contact.aspx">contact page</a>.</p>

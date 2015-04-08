@@ -48,8 +48,7 @@
 
 <p>The fish species covered in this advisory are marbled, gag, scamp and yellowfin grouper; blackfin and dog snapper; and hogfish caught within 10 miles of the Flower Garden. Also included are yellow, horse-eye and black jack; king mackerel; amberjack; and barracuda from within 50 miles of the sanctuary.</p>
 
-<p>For more information about ciguatera please visit this U.S. Food and Drug Administration Web site:
-<a title="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2008/ucm116851.htm" href="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2008/ucm116851.htm">http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2008/ucm116851.htm</a></p>
+<p>For more information about ciguatera please see the following article:<br/> <a title="FDA Advises Seafood Processors About Ciguatera Fish Poisoning in the Northern Gulf of Mexico" href="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2008/ucm116851.htm">FDA Advises Seafood Processors About Ciguatera Fish Poisoning in the Northern Gulf of Mexico</a></p>
 
 
 

@@ -19,16 +19,16 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Assitance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6755<br/>
-	<strong>Fax:</strong> (512) 834-6759<br/>
-	<strong>Email:</strong> <a title="Drugs and Medical Device Group" href="mailto:amanda.govea@dshs.state.tx.us; maria.deolloz@dshs.state.tx.us; kellee.walker@dshs.state.tx.us ">Drugs and Medical Device Group</a><br/>
+	Email: <a title="Drugs and Medical Device Group" href="mailto:DMD.regulatory@dshs.state.tx.us ">Drugs and Medical Device Group</a><br/>
+	Phone: (512) 834-6755<br/>
+	Fax: (512) 834-6759<br/>
 </p>
 <br/>
 <h3>For Licensing Assistance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6727<br/>
-	<strong>Fax:</strong> (512) 834-6741<br/>
-	<strong>Email:</strong> <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Email: <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Phone: (512) 834-6727<br/>
+	Fax: (512) 834-6741<br/>
 </p>
 
 <p>Mailing addresses may be found on the <a title="contact page" href="/tattoo-piercing/contact.aspx">contact page</a>.</p>

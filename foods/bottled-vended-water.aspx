@@ -100,9 +100,10 @@
 	San Angelo, TX 76903<br/>
 	(915) 659-7850<br/>
 </p>
-David Sueltenfuss, R.S.
-7430 Louis Pasteur Dr.
-San Antonio, TX 78229
-(210) 949-2117
-
+<p>
+	<strong>David Sueltenfuss, R.S.</strong><br/>
+	11307 Roszell St.<br/>
+	San Antonio, TX 78217<br/>
+	(210) 949-2117<br/>
+</p>
 <?php include '/home/codio/workspace/includes/footer.html' ?>

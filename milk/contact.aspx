@@ -7,9 +7,9 @@
 <hr/>
 <h2>For General Program Inquiries</h2>
 <p>
-	<strong>Phone:</strong> (512) 834-6758<br/>
-	<strong>Fax:</strong> (512) 834-6756<br/>
-	<strong>Email:</strong> <a title="Sofia Stifflemire" href="mailto:Sofia.Stifflemire@dshs.state.tx.us">Sofia Stifflemire</a>
+	Email: <a title="milk.regulatory@dshs.state.tx.us" href="mailto:milk.regulatory@dshs.state.tx.us">Milk and Dairy Group</a><br/>
+	Phone: (512) 834-6758<br/>
+	Fax: (512) 834-6756<br/>
 </p>
 
 <h3>Mailing Address</h3>
@@ -23,9 +23,9 @@
 <hr/>
 <h2>For Assistance with Licensing</h2>
 <p>
-	<strong>Phone:</strong> (512) 834-6727<br/>
-	<strong>Fax:</strong> (512) 834-6741<br/>
-	<strong>Email:</strong> <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Email: <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Phone: (512) 834-6727<br/>
+	Fax: (512) 834-6741<br/>
 </p>
 
 <h3>Mailing Address</h3>
@@ -39,7 +39,7 @@
 
 <hr/>
 <h2>Physical Address</h2>
-<p><strong><em>We only receive special service deliveries, such as UPS or Federal Express, at this address<br/>Do not send money to this address</em></strong></p>
+<p><em>We only receive special service deliveries, such as UPS or Federal Express, at this address<br/>Do not send money to this address</em></p>
 <p>
 	The Exchange Building<br/>
 	8407 Wall Street<br/>

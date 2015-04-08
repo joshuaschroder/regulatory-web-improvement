@@ -15,16 +15,16 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Assitance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6758<br/>
-	<strong>Fax:</strong> (512) 834-6756<br/>
-	<strong>Email:</strong> <a title="Sofia Stifflemire" href="mailto:Sofia.Stifflemire@dshs.state.tx.us">Sofia Stifflemire</a>
+	Phone: (512) 834-6758<br/>
+	Fax: (512) 834-6756<br/>
+	Email: <a title="milk.regulatory@dshs.state.tx.us" href="mailto:milk.regulatory@dshs.state.tx.us">Milk and Dairy Group</a>
 </p>
 <br/>
 <h3>For Licensing Assistance</h3>
 <p>
-	<strong>Phone:</strong> (512) 834-6727<br/>
-	<strong>Fax:</strong> (512) 834-6741<br/>
-	<strong>Email:</strong> <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Phone: (512) 834-6727<br/>
+	Fax: (512) 834-6741<br/>
+	Email: <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
 </p>
 <p>For mailing addresses, please see the <a title="contact page" href="/milk/contact.aspx">contact page</a>.</p>
 

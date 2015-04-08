@@ -27,18 +27,16 @@
 
 <h3>For General Program Assistance</h3>
 <p>
-	Drugs and Medical Device Group<br/>
+	Email: <a title="DMD.regulatory@dshs.state.tx.us" href="mailto:DMD.regulatory@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
 	Phone: (512) 834-6755<br/>
 	Fax: (512) 834-6759<br/>
-	<!--strong>Email:</strong> <a title="Drugs-FoodSafety@dshs.state.tx.us" href="mailto:Drugs-FoodSafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a-->
 </p>
 
 <h3>For Licensing Assistance</h3>
 <p>
-	Drugs and Food Safety Licensing Group<br/>
+	Email: <a title="Drugs-FoodSafety@dshs.state.tx.us" href="mailto:Drugs-FoodSafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
 	Phone: (512) 834-6727<br/>
 	Fax: (512) 834-6741<br/>
-	Email: <a title="Drugs-FoodSafety@dshs.state.tx.us" href="mailto:Drugs-FoodSafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a>
 </p>
 <br/>
 <p>Mailing addresses may be found on the <a title="contact page" href="/salvage/contact.aspx">contact page</a>.</p>
