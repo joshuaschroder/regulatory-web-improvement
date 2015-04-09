@@ -7,8 +7,9 @@
 <hr/>
 <h2>For General Program Inquiries</h2>
 <p>
-	<strong>Phone:</strong> (512) 834-6670 <br/>
-	<strong>Fax:</strong> (512) 834-6681<br/>
+	Email: <a title="Foods Group" href="mailto:foods.regulatory@dshs.state.tx.us">Foods Group</a><br/>	
+	Phone: (512) 834-6670 <br/>
+	Fax: (512) 834-6681<br/>
 </p>
 
 <h3>Mailing Address</h3>
@@ -23,9 +24,9 @@
 <hr/>
 <h2>For Assistance with Licensing</h2>
 <p>
-	<strong>Phone:</strong> (512) 834-6626<br/>
-	<strong>Fax:</strong> (512) 834-6618<br/>
-	<strong>Email:</strong> <a title="Foods Licensing Group" href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+	Email: <a title="Foods Licensing Group" href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+	Phone: (512) 834-6626<br/>
+	Fax: (512) 834-6618<br/>
 </p>
 
 <h3>Mailing Address</h3>

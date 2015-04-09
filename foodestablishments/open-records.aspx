@@ -36,7 +36,7 @@
 <p>
 	Phone: 512-834-6753 ext. 2040 <br />
 	Fax: 512-834-6681<br/>
-	Email: <a href="mailto:FoodEstablishments@dshs.state.tx.us">Food Establishments Open Records</a> 
+	Email: <a href="mailto:FoodEstablishmentsOpenRecords@dshs.state.tx.us">Food Establishments Open Records</a> 
 </p>
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>

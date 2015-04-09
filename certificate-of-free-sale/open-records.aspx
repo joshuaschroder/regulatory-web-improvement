@@ -35,9 +35,9 @@
 
 <h3>Contacting Us</h3>
 <p>
-	<strong>Email:</strong> <a href="mailto:Isabel.Quintero@dshs.state.tx.us">Isabel Quintero</a> <br/>
-	<strong>Phone: </strong>(512) 834-6626 <br/>
-	<strong>Fax:</strong> (512) 834-6618
+	Email: <a href="mailto:Isabel.Quintero@dshs.state.tx.us">Isabel Quintero</a> <br/>
+	Phone: (512) 834-6626 <br/>
+	Fax: (512) 834-6618
 </p>
 
 

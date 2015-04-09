@@ -16,7 +16,7 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Inquiries</h3>
 <p>
-	Email: <a title="Foods Group" href="mailto:cfm.bfds@dshs.state.tx.us">Certified Food Manager Program</a><br/>
+	Email: <a title="Certified Food Manager Program" href="mailto:cfm.bfds@dshs.state.tx.us">Certified Food Manager Program</a><br/>
 	Phone: (512) 834-6727<br/>
 	Fax: (512) 834-6683 <br/>
 </p>

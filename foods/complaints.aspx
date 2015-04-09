@@ -5,7 +5,7 @@
 ?>
 
 
-<p>You may file a complaint to <a title="Complaint - Foods Group" href="mailto:FoodComplaints@dshs.state.tx.us?subject=Complaint - Foods Group">Complaint Coordinator, Foods Group</a></p>
+<p>You may file a complaint to <a title="Complaint - Foods Group" href="mailto:FoodComplaints@dshs.state.tx.us?subject=Complaint%20-%20Foods%20Group">Complaint Coordinator, Foods Group</a></p>
 <p><strong>OR</strong></p>
 <p>
 	You may write to:<br>

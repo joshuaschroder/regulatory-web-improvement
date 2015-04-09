@@ -7,6 +7,7 @@
 <hr/>
 <h2>For General Program Inquiries</h2>
 <p>
+	Email: <a title="foodestablishments@dshs.state.tx.us" href="mailto:foodestablishments@dshs.state.tx.us">Retail Food Service Establishments Program</a><br/>
 	Phone: (512) 834-6753  <br/>
 	Fax: (512) 834-6683 <br/>
 </p>

@@ -6,17 +6,17 @@
 <hr/>
 <h2>Certificate of Free Sale and/or Certificate of Origin</h2>
 <p>
-	<strong>Phone: </strong>(512) 834-6626<br />
-	<strong>Fax: </strong>(512) 834-6618<br />
-	<strong>Email: </strong><a href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a>
+	Email: <a href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+	Phone: (512) 834-6626<br />
+	Fax: (512) 834-6618<br />
 </p>
 
 <hr/>
 <h2>Certificate of Authority</h2>
 <p>
-	<strong>Phone:</strong> (512) 834-6727<br />
-	<strong>Fax:</strong> (512) 834-6741<br />
-	<strong>Email: </strong><a href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a>
+	Email: <a href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Phone: (512) 834-6727<br />
+	Fax: (512) 834-6741<br />
 </p>
 
 <hr/>
