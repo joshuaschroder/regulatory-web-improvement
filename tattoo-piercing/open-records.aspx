@@ -1,5 +1,5 @@
 <?php 
-	$title= "Open Records - Drug Manufacturers and Distributors" ; 
+	$title= "Open Records - Tattoo and Body Piercing Studios" ; 
 	include '../includes/header.html'; 
 	include '../includes/menus/tattoo_menu.html'; 
 ?>
@@ -40,6 +40,7 @@
 	<br/>P. O. Box 149347
 	<br/>Austin, Texas 78714-9347
 </p>
+<p>
 	Email: <a title="DMDG Open Records" href="mailto:amanda.govea@dshs.state.tx.us;maria.deolloz@dshs.state.tx.us;kellee.walker@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a><br/>
 	Phone: 512-834-6755<br/>
 	Fax: 512-834-6759

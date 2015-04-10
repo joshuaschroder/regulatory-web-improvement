@@ -26,10 +26,10 @@
 
 <h3>Supporting Documents</h3>
 <ul>
-	<li><a title="Proposed Texas Food Establishment Rule Changes from Stakeholder Meetings in May / June, 2014" href="http://www.dshs.state.tx.us/WorkArea/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993375">Proposed Texas Food Establishment Rule Changes from Stakeholder Meetings in May / June, 2014</a> <span class="small">(PDF, 1.1MB)</span></li>
-	<li><a title="Proposed Texas Food Establishment Rules - Update Nov. 13, 2014" href="http://www.dshs.state.tx.us/WorkArea/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993374">Proposed Texas Food Establishment Rules - Update Nov. 13, 2014</a> <span class="small">(PDF, 117KB)</span></li>
-	<li><a title="Summary Of Changes for Texas Food Establishment Rules 2014 Revision" href="http://www.dshs.state.tx.us/WorkArea/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589988000">Summary Of Changes for Texas Food Establishment Rules 2014 Revision</a> <span class="small">(PDF, 215 KB)</span> </li>
-	<li><a title="Proposed Retail Food Establishment Inspection Report 8-06-2014" href="http://www.dshs.state.tx.us/WorkArea/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993458">Proposed Retail Food Establishment Inspection Report 8-06-2014</a><span class="small">(PDF, 346 KB)</span></li>
+	<li><a title="Proposed Texas Food Establishment Rule Changes from Stakeholder Meetings in May / June, 2014" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993375">Proposed Texas Food Establishment Rule Changes from Stakeholder Meetings in May / June, 2014</a> <span class="small">(PDF, 1.1MB)</span></li>
+	<li><a title="Proposed Texas Food Establishment Rules - Update Nov. 13, 2014" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993374">Proposed Texas Food Establishment Rules - Update Nov. 13, 2014</a> <span class="small">(PDF, 117KB)</span></li>
+	<li><a title="Summary Of Changes for Texas Food Establishment Rules 2014 Revision" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589988000">Summary Of Changes for Texas Food Establishment Rules 2014 Revision</a> <span class="small">(PDF, 215 KB)</span> </li>
+	<li><a title="Proposed Retail Food Establishment Inspection Report 8-06-2014" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993458">Proposed Retail Food Establishment Inspection Report 8-06-2014</a><span class="small">(PDF, 346 KB)</span></li>
 </ul>
 
 <?php include '../includes/footer.html' ?>
