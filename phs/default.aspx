@@ -12,11 +12,11 @@
 
 <h2>Contact Information</h2>
 <p>
-	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">PHSCPS@dshs.state.tx.us</a><br/>
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">Public Health Sanitation Program</a><br/>
 	Phone: (512) 834-6753<br/>
 	Fax: (512) 834-6707
 </p>
 
-<p>Please see the <a title="contact page" href="/phs/contact.asx">contact page</a> for information on contacting us about specific health topics, such as bedbugs, hotels, and public restrooms, as well as mailing and physical addresses.</p>
+<p>Please see the <a title="contact page" href="/phs/contact.aspx">contact page</a> for information on contacting us about specific health topics, such as bedbugs, hotels, and public restrooms, as well as mailing and physical addresses.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>		

@@ -7,7 +7,7 @@
 <hr/>
 <h2>General Contact Information - Public Health Sanitation</h2>
 <p>
-	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">PHSCPS@dshs.state.tx.us</a><br/>
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">Public Health Sanitation Program</a><br/>
 	Phone: (512) 834-6753<br/>
 	Fax: (512) 834-6707
 </p>
