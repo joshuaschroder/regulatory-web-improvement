@@ -63,7 +63,7 @@
 <p>
 	Phone: 512-834-6787 <br/>
 	Fax: 512-834-6726<br/>
-	E-mail: <a title="Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=Open Records">Environmental Health Group Open Records</a> 
+	E-mail: <a title="Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=Open%20Records">Environmental Health Group Open Records</a> 
 </p>
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
 <p><strong>Please be advised that there may be a charge for the information you are requesting.</strong></p>
