@@ -6,7 +6,7 @@
 
 <hr/>
 <h2>Licensing and Certification</h2>
-<p>Firms that do any of the following are required to obtain a <a title="" href="/foods/manufacturers.aspx">Food Manufacturer license</a>.</p>
+<p>Firms that do any of the following are required to obtain a <a title="Food Manufacturer license" href="/foods/manufacturers.aspx">Food Manufacturer license</a>.</p>
 <ul>
 	<li>Process and bottle water in sealed containers</li>
 	<li>Dispense water through retail outlet(s) where either bottles are provided or the customer brings their own</li>
@@ -80,12 +80,12 @@
 	(915) 599-5208<br/>
 </p>
 
-<p>
+<!--p>
 	<strong>Dana Cotton, R.S.</strong><br/>
 	5425 Polk Avenue, Ste J<br/>
 	Houston, TX 77023<br/>
 	(713) 767-3242<br/>
-</p>
+</p-->
 
 <p>
 	<strong>Patrick Moore</strong><br/>

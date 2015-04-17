@@ -97,7 +97,7 @@
 
 <h2>Additional Resources</h2>
 <ul>
-	<li><a title="The Texas Department of State Health Services, Internal Open Records Policy " href="/policy/openrecords.shtm">The Texas Department of State Health Services, Internal Open Records Policy </a></li>
+	<li><a title="The Texas Department of State Health Services, Internal Open Records Policy " href="http://www.dshs.state.tx.us/policy/openrecords.shtm">The Texas Department of State Health Services, Internal Open Records Policy </a></li>
 	<li><a title="The Office of Attorney General of Texas " href="https://www.texasattorneygeneral.gov/og/open-government">The Office of Attorney General of Texas </a></li>
 </ul>
 

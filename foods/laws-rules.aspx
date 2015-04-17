@@ -25,6 +25,7 @@
 	<li><a title="25 TAC, §§229.181&#8211;184 - Licensure of Food Manufacturers, Food Wholesalers, and Warehouse Operators" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=L&rl=Y">25 TAC, Chapter 229, Subchapter L - Licensure of Food Manufacturers, Food Wholesalers, and Warehouse Operators</a></li>
 </ul>
 
+<a class="bookmark" title="Dietary Supplements" name="dietary-supplements"></a>
 <h3>Dietary Supplements</h3>
 <ul>
 	<li><a title="25 TAC, §§229.461&#8211;464 - Regulations to Prohibit the Sale of Dietary Supplements Containing Ephedrine&#8230;" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=Y&rl=Y">25 TAC, Chapter 229, Subchapter Y - Regulations to Prohibit the Sale of Dietary Supplements Containing Ephedrine Group Alkaloids; And to Restrict the Sale and Distribution of Certain Products Containing Ephedrine</a></li>

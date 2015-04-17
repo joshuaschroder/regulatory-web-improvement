@@ -17,17 +17,17 @@
 
 <h2>Tattoo Studio License Applications</h2>
 <ul>
-	<li><a title="Tattoo - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10618)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589995639">Tattoo - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10618)</a> <span class="small">(PDF, 195KB)</span></li>
+	<li><a title="Tattoo - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10618)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996586">Tattoo - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10618)</a> <span class="small">(PDF, 358KB)</span></li>
 	<li><a title="Tattoo - Minor Amendment Change: Name, Address (EF23-13022)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589995640">Tattoo - Minor Amendment Change: Name, Address (EF23-13022)</a> <span class="small">(PDF, 247KB)</span></li>
-	<li><a title="Tattoo - Temporary Event License (EF23-10618)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996001">Tattoo - Temporary Event License (EF23-10618)</a> <span class="small">(PDF, 447KB)</span></li>
+	<li><a title="Tattoo - Temporary Event License (EF23-10618)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996586">Tattoo - Temporary Event License (EF23-10618)</a> <span class="small">(PDF, 358KB)</span></li>
 </ul>
 <hr/>
 
 <h2>Body Piercing Studio License Application</h2>
 <ul>
-	<li><a title="Piercing - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10319)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996035">Piercing - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10319)</a> <span class="small">(PDF, 328KB)</span></li>
-	<li><a title="Piercing - Minor Amendment Change: Name, Address (EF23-13017)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996038">Piercing - Minor Amendment Change: Name, Address (EF23-13017)</a> <span class="small">(PDF, 312KB)</span></li>
-	<li><a title="Piercing - Temporary Event License (EF23-10319)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996035">Piercing - Temporary Event License (EF23-10319)</a> <span class="small">(PDF, 328KB)</span></li>
+	<li><a title="Piercing - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10319)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996035">Piercing - Initial License, Renewal, or Change of Ownership, including legal entity (EF23-10319)</a> <span class="small">(PDF, 329KB)</span></li>
+	<li><a title="Piercing - Minor Amendment Change: Name, Address (EF23-13017)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996038">Piercing - Minor Amendment Change: Name, Address (EF23-13017)</a> <span class="small">(PDF, 329KB)</span></li>
+	<li><a title="Piercing - Temporary Event License (EF23-10319)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996035">Piercing - Temporary Event License (EF23-10319)</a> <span class="small">(PDF, 329KB)</span></li>
 </ul>
 
 

@@ -5,7 +5,7 @@
 ?>
 
 <hr/>
-<p style="text-align: right;"><a title="Online Licensing" href="/vo/">Online Licensing</a> | <a title="Contact Support" href="/regulatory/online-licensing/contact.aspx">Contact Us</a></p>
+<p style="text-align: right;"><a title="Online Licensing" href="/vo/">Online Licensing System</a> | <a title="Contact Support" href="/regulatory/online-licensing/contact.aspx">Contact Us</a></p>
 <hr/>
 <table class="layout" width="100%">
 	<tr>
@@ -54,7 +54,7 @@
 				<li><a title="New License Applications" href="/regulatory/online-licensing/applications-renewals.aspx#apply-license">New License Applications</a></li>
 				<li><a title="Renewal License Applications" href="/regulatory/online-licensing/applications-renewals.aspx#renew-license">Renewal License Applications</a></li>
 				<li><a title="Check Status of Applications" href="/regulatory/online-licensing/applications-renewals.aspx#check-status">Check Status of Applications</a></li>
-				<li><a title="Hardcopy Applications" href="/regulatory/online-licensing/forms.aspx">Hardcopy Applications</a></li>
+				<li><a title="Hard Copy Applications" href="/regulatory/online-licensing/forms.aspx">Hard Copy Applications</a></li>
 			</ul>
 		</td>
 		<td width="50%">

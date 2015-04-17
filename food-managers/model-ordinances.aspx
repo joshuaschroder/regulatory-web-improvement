@@ -7,7 +7,7 @@
 <p>The following model order is to assist counties and public health districts adopt requirements for certified food managers.</p>
 
 <hr/>
-<p><strong>Download this Document:</strong> <a title="Certified Food Managers Model Order" href="http://www.dshs.state.tx.us/foodestablishments/pdf/CFMmodelOrder.pdf">Certified Food Managers Model Order</a> <span class="small">(PDF, 18KB)</span></p>
+<p><strong>Download this Document:</strong> <a title="Certified Food Managers Model Order" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18702">Certified Food Managers Model Order</a> <span class="small">(PDF, 18KB)</span></p>
 <hr/>
 
 <p align="center"><strong>MODEL ORDER <br/>

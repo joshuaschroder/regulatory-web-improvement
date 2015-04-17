@@ -6,8 +6,8 @@
 
 <h2>Applications and Forms</h2>
 <ul>
-	<li><a title="Certification - Initial, Renewal or Change of Ownership (including legal entity)" href="http://www.dshs.state.tx.us/fdlicense/PDF/PDFCFM/2101-CFM-2Cert-Prog---Initial-DRAFT8-7-14doc.pdf">Certification - Initial, Renewal or Change of Ownership (including legal entity) - EF23-12990</a> <span class="small">(PDF, 137KB) </span></li>
-	<li><a title="Certification - Minor Amendment Change (Name, Address)" href="http://www.dshs.state.tx.us/fdlicense/PDF/PDFCFM/2101-CFM-2Cert-Prog---Amended-DRAFT-8-7-14doc.pdf">Certification - Minor Amendment Change (Name, Address) - EF23-12991</a> <span class="small">(PDF, 137KB) </span></li>
+	<li><a title="Certification - Initial, Renewal or Change of Ownership (including legal entity)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589990674">Certification - Initial, Renewal or Change of Ownership (including legal entity) - EF23-12990</a> <span class="small">(PDF, 137KB) </span></li>
+	<li><a title="Certification - Minor Amendment Change (Name, Address)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589990673">Certification - Minor Amendment Change (Name, Address) - EF23-12991</a> <span class="small">(PDF, 137KB) </span></li>
 	<li><a title="Initial - Internet Examination Development Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=60699">Initial / Internet Examination Development Application - EF23-13424</a> <span class="small">(PDF, 192KB) </span></li>
 	<li><a title="Instructor New/Renewal Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18701">Instructor New/Renewal Application - EF23-12990</a> <span class="small">(PDF, 142KB) </span></li>
 	<li><a title="Recertification - Initial, Renewal or Change of Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18523">Recertification - Initial, Renewal or Change of Ownership - EF23-12992</a> <span class="small">(PDF, 167KB) </span></li>

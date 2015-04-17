@@ -23,14 +23,14 @@
 	<a href="http://www.dshs.state.tx.us/bedding/" target="_self">Bedding Program</a><br/>
 	<a href="/facilities/birthing-centers/" target="_self">Birthing Centers</a><br/>
 	<a href="http://www.dshs.state.tx.us/dmd/bloodborne.shtm" target="_self">Bloodborne Pathogen Control</a><br/>
-	<a href="http://www.dshs.state.tx.us/foods/bvwmain.shtm" target="_self">Bottled and Vended Water</a><br/>
+	<a href="/foods/bottled-vended-water.aspx" target="_self">Bottled and Vended Water</a><br/>
 	<br/>
 	<hr/>
 	<h2>C</h2>
 	
 	<a href="http://www.dshs.state.tx.us/cpm/" target="_self">Campus Program for Minors</a><br/>
-	<a href="http://www.dshs.state.tx.us/fdlicense/cfsinstructions.shtm" target="_self">Certificates of Free Sale</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/cfm.shtm" target="_self">Certified Food Manager Program</a><br/>
+	<a href="/certificate-of-free-sale/" target="_self">Certificates of Free Sale</a><br/>
+	<a href="/food-managers/" target="_self">Certified Food Manager Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/lcdc/" target="_self">Chemical Dependency Counselor Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/tiertwo/" target="_self">Chemical Reporting Program, Tier II</a><br/>
 	<a href="http://www.dshs.state.tx.us/avc/" target="_self">Chemicals Program, Abusable Volatile (AVC)</a><br/>
@@ -38,21 +38,21 @@
 	<a href="/facilities/community-mental-health-centers.aspx" target="_self">Community Mental Health Centers</a><br/>
 	<a href="/facilities/corf.aspx" target="_self">Comprehensive Out-Patient Rehabilitation Facilities</a><br/>
 	<a href="http://www.dshs.state.tx.us/contactlens/" target="_self">Contact Lens Dispensing Permit Program</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/control_subst_sched.shtm" target="_self">Controlled Substance Scheduling</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/cfpo/" target="_self">Cottage Food Production</a><br/>
+	<a href="/drugs/controlled-substances.aspx" target="_self">Controlled Substance Scheduling</a><br/>
+	<a href="/cosmetics/" target="_self">Cosmetics</a><br/>
+	<a href="/foodestablishments/cottagefood/" target="_self">Cottage Food Production</a><br/>
 	<a href="http://www.dshs.state.tx.us/counselor/" target="_self">Counselors, Texas State Board of Examiners of Professional</a><br/>
 	<br/>
 	<hr/>
 	<h2>D</h2>
 	
-	<a href="http://www.dshs.state.tx.us/dmd/devices.shtm" target="_self">Device Distributors and Manufacturers</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/salvage.shtm" target="_self">Device Salvage Brokers and Establishments</a><br/>
-	<a href="http://www.dshs.state.tx.us/foods/dietary.shtm" target="_self">Dietary Supplements</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/dietsupplement.shtm" target="_self">Dietary Supplements Containing Ephedrine and Herbal Products</a><br/>
+	<a href="/medical-devices/" target="_self">Device Distributors and Manufacturers</a><br/>
+	<a href="/salvage/" target="_self">Device Salvage Brokers and Establishments</a><br/>
+	<a href="/foods/dietary-supplements.aspx" target="_self">Dietary Supplements</a><br/>
+	<a href="/drugs/laws-rules.aspx#dietary-supplements" target="_self">Dietary Supplements Containing Ephedrine and Herbal Products</a><br/>
 	<a href="http://www.dshs.state.tx.us/dietitian/" target="_self">Dietitians, Texas State Board of Examiners of</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/drugs.shtm" target="_self">Drug Manufacturers and Distributors</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/pseretail.shtm"  target="_self">Drug Retailers, Pseudoephedrine</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/" target="_self">Drugs and Medical Devices Group</a><br/>
+	<a href="/drugs/" target="_self">Drug Manufacturers and Distributors</a><br/>
+	<a href="/drugs/laws.aspx"  target="_self">Drug Retailers, Pseudoephedrine</a><br/>
 	<a href="http://www.dshs.state.tx.us/dyslexia/" target="_self">Dyslexia Therapist and Dyslexia Practitioner Licensing Program</a><br/>
 	<br/>
 	<hr/>
@@ -70,19 +70,18 @@
 	<a href="http://www.dshs.state.tx.us/phs/fieldsan.aspx" target="_self">Field Sanitation</a><br/>
 	<a href="http://www.dshs.state.tx.us/emstraumasystems/fro.shtm" target="_self">First Responder Organization Registration</a><br/>
 	<a href="http://www.dshs.state.tx.us/fitters/" target="_self">Fitting and Dispensing of Hearing Instruments</a><br/>
-	<a href="http://www.dshs.state.tx.us/foods/alerts.aspx" target="_self">Food Alerts and Recalls</a><br/>
-	<a href="http://www.dshs.state.tx.us/fdlicense/" target="_self">Food and Drug Licensing Group</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/" target="_self">Food Establishments Group</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/pdf/MobilFoodEstabChecklist.doc" target="_self">Food Establishments, Mobile</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/startnew.shtm" target="_self">Food Establishments, Retail</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/pdf/TemporaryFoodEstablishmentFactSheet.pdf" target="_self">Food Establishments, Temporary</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/handler.shtm" target="_self">Food Handler Program</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/cfm.shtm" target="_self">Food Manager Program, Certified</a><br/>
-	<a href="http://www.dshs.state.tx.us/foods/foodmangen.shtm" target="_self">Food Manufacturers</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/cfpo/" target="_self">Food Production, Cottage</a><br/>
-	<a href="http://www.dshs.state.tx.us/foodestablishments/pdf/Roadside_ChecklistEng.doc" target="_self">Food Vendors, Roadside</a><br/>
-	<a href="http://www.dshs.state.tx.us/foods/" target="_self">Foods Group</a><br/>
-	<a href="http://www.dshs.state.tx.us/foods/labeling.shtm" target="_self">Foods Labeling</a><br/>
+	<a href="/foods/alerts/" target="_self">Food Alerts and Recalls</a><br/>
+	<a href="/foodestablishments/" target="_self">Food Establishments Group</a><br/>
+	<a href="/foodestablishments/licensing.aspx#mobile" target="_self">Food Establishments, Mobile</a><br/>
+	<a href="/foodestablishments/" target="_self">Food Establishments, Retail</a><br/>
+	<a href="/foodestablishments/licensing.aspx#temp" target="_self">Food Establishments, Temporary</a><br/>
+	<a href="/food-handlers/" target="_self">Food Handler Program</a><br/>
+	<a href="/food-managers/" target="_self">Food Manager Program, Certified</a><br/>
+	<a href="/foods/" target="_self">Food Manufacturers</a><br/>
+	<a href="/foodestablishments/cottagefood/" target="_self">Food Production, Cottage</a><br/>
+	<a href="/foodestablishments/licensing.aspx#roadside" target="_self">Food Vendors, Roadside</a><br/>
+	<a href="/foods/" target="_self">Foods Group</a><br/>
+	<a href="/foods/labeling.aspx" target="_self">Foods Labeling</a><br/>
 	<a href="/facilities/freestanding-emergency-rooms/" target="_self">Freestanding Emergency Medical Care Facilities</a><br/>
 	<br/>
 	<hr/>
@@ -95,7 +94,7 @@
 	<a href="/facilities/hospitals/general.aspx" target="_self">Hospitals - General</a><br/>
 	<a href="/facilities/hospitals/psych.aspx" target="_self">Hospitals - Psychiatric &amp; Crisis Stabilization Units</a><br/>
 	<a href="/facilities/hospitals/special.aspx" target="_self">Hospitals - Special</a><br/>
-	<a href="http://www.dshs.state.tx.us/phs/hotels.aspx" target="_self">Hotels, Motels, Travel Accommodations, Bed & Breakfasts</a><br/>
+	<a href="http://www.dshs.state.tx.us/phs/hotels.aspx" target="_self">Hotels, Motels, Travel Accommodations, Bed &amp; Breakfasts</a><br/>
 	<br/>
 	<hr/>
 	<h2>I</h2>
@@ -123,15 +122,15 @@
 	<a href="http://www.dshs.state.tx.us/massage/" target="_self">Massage Therapy Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/msa/" target="_self">Meat Safety Assurance Unit</a><br/>
 	<a href="http://www.dshs.state.tx.us/emstraumasystems/mabhome.shtm" target="_self">Medical Advisory Board</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/devices.shtm" target="_self">Medical Devices, Distributors and Manufacturers</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/salvage.shtm" target="_self">Medical Devices, Salvage Brokers and Establishments</a><br/>
+	<a href="/medical-devices/" target="_self">Medical Devices, Distributors and Manufacturers</a><br/>
+	<a href="/salvage/" target="_self">Medical Devices, Salvage Brokers and Establishments</a><br/>
 	<a href="/facilities/medical-disclosure/" target="_self">Medical Disclosure Panel, Texas</a><br/>
 	<a href="http://www.dshs.state.tx.us/mp/" target="_self">Medical Physicists, Texas Board of Licensure for Professional</a><br/>
 	<a href="http://www.dshs.state.tx.us/mrt/" target="_self">Medical Radiologic Technologist Certification Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/phs/medical.aspx" target="_self">Medical Waste Treatment Technologies</a><br/>
 	<a href="/facilities/community-mental-health-centers/" target="_self">Mental Health Centers, Community</a><br/>
 	<a href="http://www.dshs.state.tx.us/midwife/" target="_self">Midwifery Board, Texas</a><br/>
-	<a href="http://www.dshs.state.tx.us/milk/" target="_self">Milk Group</a><br/>
+	<a href="/milk/" target="_self">Milk Group</a><br/>
 	<a href="http://www.dshs.state.tx.us/mold/" target="_self">Mold Assessment and Remediation</a><br/>
 	<br/>
 	<hr/>
@@ -155,7 +154,7 @@
 	<a href="/facilities/outpatient-physical-therapy.aspx" target="_self">Physical Therapy or Speech Pathology Services, Out-Patient</a><br/>
 	<a href="http://www.dshs.state.tx.us/phs/playground.aspx" target="_self">Playground Safety</a><br/>
 	<a href="/facilities/portable-x-ray-services.aspx" target="_self">Portable X-Ray Services</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/pseretail.shtm" target="_self">Pseudoephedrine Retailers</a><br/>
+	<a href="/drugs/laws.aspx" target="_self">Pseudoephedrine Retailers</a><br/>
 	<a href="http://www.dshs.state.tx.us/phs/" target="_self">Public Health Sanitation Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/phs/publicnuis.aspx" target="_self">Public Nuisance Complaints</a><br/>
 	<a href="http://www.dshs.state.tx.us/phs/publicrest.aspx" target="_self">Public Restrooms</a><br/>
@@ -169,7 +168,7 @@
 	<a href="http://www.dshs.state.tx.us/LLRW/" target="_self">Radioactive Waste Shipping / Transporting</a><br/>
 	<a href="http://www.dshs.state.tx.us/mrt/" target="_self">Radiologic Technologist Certification Program, Medical</a><br/>								
 	<a href="/facilities/corf.aspx" target="_self">Rehabilitation Facilities, Out-Patient, Comprehensive</a><br/>
-	<a href="http://www.dshs.state.tx.us/msa/render.shtm" target="_self">Renderer's License</a><br/>
+	<a href="/meat/rendering.aspx" target="_self">Renderer's License</a><br/>
 	<a href="/facilities/special-care.aspx" target="_self">Residential Care Facilities, Special</a><br/>
 	<a href="http://www.dshs.state.tx.us/respiratory/" target="_self">Respiratory Care Practitioners Certification Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/phs/publicrest.aspx" target="_self">Restrooms, Public</a><br/>
@@ -180,7 +179,7 @@
 	
 	<a href="http://www.dshs.state.tx.us/sanitarian/" target="_self">Sanitarian Registration Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/schoolsafety/" target="_self">School Safety</a><br/>
-	<a href="http://www.dshs.state.tx.us/seafood" target="_self">Seafood and Aquatic Life Group</a><br/>
+	<a href="/seafood" target="_self">Seafood and Aquatic Life Group</a><br/>
 	<a href="http://www.dshs.state.tx.us/csot/" target="_self">Sex Offender Treatment, Council on</a><br/>
 	<a href="http://www.dshs.state.tx.us/socialwork/" target="_self">Social Worker Examiners, Texas State Board of</a><br/>
 	<a href="/facilities/special-care.aspx" target="_self">Special Care Facilities</a><br/>
@@ -192,13 +191,13 @@
 	<hr/>
 	<h2>T</h2>
 	
-	<a href="http://www.dshs.state.tx.us/dmd/tanning.shtm" target="_self">Tanning Facilities</a><br/>
-	<a href="http://www.dshs.state.tx.us/dmd/tattoo.shtm" target="_self">Tattoo and Body Piercing Studios</a><br/>
+	<a href="/tanning/" target="_self">Tanning Facilities</a><br/>
+	<a href="/tattoo-piercing/" target="_self">Tattoo and Body Piercing Studios</a><br/>
 	<br/>
 	<hr/>
 	<h2>W</h2>
 	
-	<a href="http://www.dshs.state.tx.us/foods/bvwmain.shtm" target="_self">Water, Bottled and Vended</a><br/>
+	<a href="/foods/bottled-vended-water.aspx" target="_self">Water, Bottled and Vended</a><br/>
 	<br/>
 	<hr/>
 	<h2>X</h2>
