@@ -554,19 +554,19 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Medical Physicist</td>
-			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Medical Radiologic Technologist (MRT), General or Limited</td>
-			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Medical Radiologic Technologist (MRT), Non-Certified Technician</td>
-			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">Yes</td>
 		</tr>
@@ -695,7 +695,7 @@
 		</tr>
  		<tr>
 			<td headers="table_heading_0">Respiratory Care Practitioner</td>
-			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">Yes</td>
 		</tr>
