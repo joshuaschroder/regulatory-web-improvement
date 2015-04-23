@@ -69,6 +69,10 @@
 			<td headers="table_heading_1"><a title="Dietitians Applications and Forms" href="http://www.dshs.state.tx.us/dietitian/dt_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Drug Manufacturers and Distributors</td>
+			<td headers="table_heading_1"><a title="Drug Manufacturers and Distributors Applications and Forms" href="http://www.dshs.state.tx.us/fdlicense/apps.shtm">Applications and Forms</a></td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0">Dyslexia</td>
 			<td headers="table_heading_1"><a title="Dyslexia Applications and Forms" href="http://www.dshs.state.tx.us/dyslexia/dyx_forms.shtm">Applications and Forms</a></td>
 		</tr>
