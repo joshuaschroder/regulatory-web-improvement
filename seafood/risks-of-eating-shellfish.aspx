@@ -9,14 +9,14 @@
 <h2>Buying Shellfish</h2>
 <p>Purchase and use ONLY raw oysters, clams, mussels, or whole or roe-on scallops as shellstock (in-the-shell) or shucked shellfish (removed from the shell) that originates from certified interstate shellfish shippers.</p>
 
-<p>DO NOT purchase molluscan shellfish from recreational or commercially licensed shellstock harvesters or any other source not listed in the <a title="Interstate Certified Shellfish Shippers List" href="http://www.fda.gov/Food/FoodSafety/Product-SpecificInformation/Seafood/FederalStatePrograms/InterstateShellfishShippersList/default.htm">Interstate Certified Shellfish Shippers List</a>, published by the U.S. Food and Drug Administration;</p>
+<p>DO NOT purchase molluscan shellfish from recreational or commercially licensed shellstock harvesters or any other source not listed in the <a title="Interstate Certified Shellfish Shippers List" href="http://www.fda.gov/food/guidanceregulation/federalstatefoodprograms/ucm2006753.htm">Interstate Certified Shellfish Shippers List</a>, published by the U.S. Food and Drug Administration;</p>
 <ul>
 	<li>That are not properly labeled or tagged</li>
 	<li>That, on arrival, do not have an internal meat temperature of (10&deg; C) 50&deg; F or less if shellstock, or (7&deg; C) 45&deg; F or less if shucked</li>
 </ul>
 <p>Purchase and use ONLY raw oysters, clams, mussels, or whole or roe-on scallops as shellstock (in-the-shell) or shucked shellfish (removed from the shell) that originates from certified interstate shellfish shippers.</p>
 
-<p>DO NOT purchase molluscan shellfish from recreational or commercially licensed shellstock harvesters or any other source not listed in the <u><a title="Interstate Certified Shellfish Shippers List" href="http://www.fda.gov/Food/FoodSafety/Product-SpecificInformation/Seafood/FederalStatePrograms/InterstateShellfishShippersList/default.htm">Interstate Certified Shellfish Shippers List</a></u>, published by the U.S. Food and Drug Administration;</p>
+<p>DO NOT purchase molluscan shellfish from recreational or commercially licensed shellstock harvesters or any other source not listed in the <u><a title="Interstate Certified Shellfish Shippers List" href="http://www.fda.gov/food/guidanceregulation/federalstatefoodprograms/ucm2006753.htm">Interstate Certified Shellfish Shippers List</a></u>, published by the U.S. Food and Drug Administration;</p>
 <ul>
 	<li>That are not properly labeled or tagged</li>
 	<li>That, on arrival, do not have an internal meat temperature of (10&deg; C) 50&deg; F or less if shellstock, or (7&deg; C) 45&deg; F or less if shucked</li>

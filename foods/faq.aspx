@@ -34,7 +34,7 @@
 </p>
 <p>
 	<strong><em>What type of license do I need if I just want to store food in a warehouse and distribute to retail outlets? </em></strong>
-	<br/>You will need a wholesale distributor's license, a warehouse operator's or a wholesale distributor's registration. <a title="How to License" href="/foods/distributors.aspx">How to License</a>. 
+	<br/>You will need a wholesale distributor's license, a warehouse operator's or a wholesale distributor's registration. <a title="How to License" href="/foods/wholesalers.aspx">How to License</a>. 
 </p>
 <p>
 	<strong><em>Do I need a license to sell candies, soft drinks, chips, and etc. through my company-owned vending machines?</em></strong>

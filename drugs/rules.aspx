@@ -53,7 +53,7 @@
 <h3><a title="penalties-nonprescription" class="bookmark" name="penalties-nonprescription"></a>25 Texas Administrative Code (TAC), Subchapter P - Assessment of Administrative Penalties</h3>
 <p><strong>Section:</strong></p>
 <ul>
-	<li><a title="25 Texas Administrative Code, Section 229.261" href="http://info.sos.state.tx.us/pub/plsql/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=229&amp;rl=261">229.261</a> - Assessment of Administrative or Civil Penalties</li>
+	<li><a title="25 Texas Administrative Code, Section 229.261" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">229.261</a> - Assessment of Administrative or Civil Penalties</li>
 </ul>
 
 <h3><a title="federal-nonprescription" class="bookmark" name="federal-nonprescription"></a>Federal Laws and Regulations Adopted by Reference</h3>

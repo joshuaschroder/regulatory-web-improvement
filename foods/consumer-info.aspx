@@ -64,7 +64,7 @@
 <p>Listeriosis, is an infection caused by consuming food contaminated with the bacterium<em> Listeria monocytogenes</em>. <strong>Healthy adults and children occasionally get infected with Listeria, but they rarely become seriously ill.</strong> </p>
 <p>The following groups are at increased risk for Listeriosis:</p>
 <ul>
-	<li><a title="Pregnant women" href="http://www.fsis.usda.gov/Fact_Sheets/Listeria_monocytogenes/index.asp">Pregnant women</a> - They are about 20 times more likely than other healthy adults to get listeriosis. About one-third of listeriosis cases happen during pregnancy. </li>
+	<li><a title="Pregnant women" href="http://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers/food-safety-fact-sheets/foodborne-illness-and-disease/listeria-monocytogenes/listeria-monocytogenes">Pregnant women</a> - They are about 20 times more likely than other healthy adults to get listeriosis. About one-third of listeriosis cases happen during pregnancy. </li>
 	<li>Newborns - Newborns rather than the pregnant women themselves suffer the serious effects of infection in pregnancy. </li>
 	<li>Persons with weakened immune systems </li>
 	<li>Persons with cancer, diabetes, or kidney disease </li>
@@ -90,7 +90,7 @@
 <p>Infected pregnant women may experience only a mild, flu-like illness; however, infections during pregnancy can lead to miscarriage or stillbirth, premature delivery, or infection of the newborn.</p>
 <p>In some cases involving a highly susceptible population, Listeriosis can result in death. A highly susceptible population consists of persons who are very young, elderly, or suffer from a variety of underlying medical conditions.</p>
 <p><strong>The risk of an individual person developing <em>Listeria</em> infection after consumption of a contaminated product is very small. If you have eaten a contaminated product and do not have any symptoms, we do not recommend that you have any tests or treatment, even if you are in a high-risk group. However, if you are in a high-risk group, have eaten the contaminated product, and within 2 months become ill with fever or signs of serious illness, you should contact your physician and inform him or her about this exposure.</strong></p>
-<p>For more information, visit the Center for Disease Control and Prevention (CDC)&nbsp;<a title="Listeriosis General Information" href="http://www.cdc.gov/nczved/divisions/dfbmd/diseases/listeriosis/">Listeriosis General Information</a> Web page.</p>
+<p>For more information, visit the Center for Disease Control and Prevention (CDC)&nbsp;<a title="Listeriosis General Information" href="http://www.cdc.gov/listeria/">Listeriosis General Information</a> Web page.</p>
 
 <hr/>
 <h2><a class="bookmark" title="transfat" name="transfat"></a>Trans Fat</h2>

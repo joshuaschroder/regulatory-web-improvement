@@ -70,7 +70,7 @@
 <hr/>
 <p>The following are links to additional resources regarding Open Records:</p>
 <p><a title="The Texas Department of State Health Services, Internal Open Records Policy" href="http://www.dshs.state.tx.us/policy/openrecords.shtm">The Texas Department of State Health Services, Internal Open Records Policy </a></p>
-<p><a title="The Office of Attorney General of Texas " href="https://www.oag.state.tx.us/open/index.shtml">The Office of Attorney General of Texas </a></p>
+<p><a title="The Office of Attorney General of Texas " href="https://www.texasattorneygeneral.gov/og/open-government">The Office of Attorney General of Texas </a></p>
 	
 
 

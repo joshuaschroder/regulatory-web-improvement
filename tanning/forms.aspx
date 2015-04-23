@@ -16,7 +16,7 @@
 <h2>Applications and Forms</h2>
 <ul>
 	<li><a title="Initial, Renewal, or Change of Ownership - including legal entity (EF23-10613)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969419">Initial, Renewal, or Change of Ownership - including legal entity (EF23-10613)</a> <span class="small">(PDF, 167KB)</span></li>
-	<li><a title="Minor Amendment Change - name, address (EF23-13021)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969418">Minor Amendment Change - name, address (EF23-13021)</a> <span class="small">(PDF, 165KB)</span></li>
+	<li><a title="Minor Amendment Change - name, address (EF23-13021)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589957306">Minor Amendment Change - name, address (EF23-13021)</a> <span class="small">(PDF, 314KB)</span></li>
 </ul>
 
 

@@ -9,6 +9,7 @@
 	<strong>Download these FAQs</strong><br/>
 	<a title="E23-13199 FAQs - Technical (Adobe Acrobat format, 166 KB)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589971981">Technical FAQs for Food Establishments (E23-13199)</a> <span class="small">(PDF, 166KB)</span>
 </p>
+<p>Please see the <a title="Laws and Rules Page" href="/foodestablishments/laws-rules.aspx">laws and rules page</a> for more detailed information on the Texas Food Establishment Rules.</p>
 
 <hr />
 <h2>Table of Contents</h2>
@@ -297,6 +298,6 @@
 	<br />It would only be a violation if the concentration was greater than 200 ppm chlorine and it would be a violation of Item #20 because that concentration is considered toxic, per 21 CFR 178.1010. Concentrations of the chlorine solution can vary, depending on the temperature and pH of the final rinse water. Refer to the chart on page 91 of the TFER. If the concentration was less than was required for the corresponding water temperature and pH, it would be a violation of Item #21. (4/11/03)(Revised 3/26/07)
 </p>
 
-<p>To access documents in Adobe Acrobat format, you must download the Acrobat Reader software. Please see the <a title="DSHS file viewing page" href="/viewing.shtm">DSHS file viewing page</a> for more information and a link to the Adobe website.</p>
+<p>To access documents in Adobe Acrobat format, you must download the Acrobat Reader software. Please see the <a title="DSHS file viewing page" href="http://www.dshs.state.tx.us/viewing.shtm">DSHS file viewing page</a> for more information and a link to the Adobe website.</p>
 
 <?php include '../includes/footer.html' ?>

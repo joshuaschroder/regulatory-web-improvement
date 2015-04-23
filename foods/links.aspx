@@ -21,8 +21,8 @@
 	<li><a title="Seafood Alliance" href="http://seafood.ucdavis.edu/">Seafood Alliance</a></li>
 	<li><a title="United States Department of Agriculture" href="http://www.usda.gov/">United States Department of Agriculture (USDA)</a></li>
 	<li><a title="U.S. Food and Drug Administration" href="http://www.fda.gov/">U.S. Food and Drug Administration (FDA)</a></li>
-	<li><a title="U.S. Food and Drug Administration - Food Irradiation: A Safe Measure" href="http://www.fda.gov/opacom/catalog/irradbro.html">FDA - Food Irradiation: A Safe Measure</a></li>
-	<li><a title="U.S. Food and Drug Administration Center for Food Safety and Applied Nutrition" href="http://www.fda.gov/AboutFDA/CentersOffices/OrganizationCharts/ucm135675.htm">FDA - Center for Food Safety and Applied Nutrition</a>
+	<li><a title="U.S. Food and Drug Administration - Food Irradiation: What You Need to Know" href="http://www.fda.gov/Food/ResourcesForYou/Consumers/ucm261680.htm">FDA - Food Irradiation: What You Need to Know</a></li>
+	<li><a title="U.S. Food and Drug Administration Center for Food Safety and Applied Nutrition" href="http://www.fda.gov/AboutFDA/CentersOffices/OfficeofFoods/CFSAN/default.htm">FDA - Center for Food Safety and Applied Nutrition</a>
 		<ul>
 			<li><a title="Biotechnology Page " href="http://www.fda.gov/Food/FoodScienceResearch/Biotechnology/default.htm">FDA - Biotechnology Page </a><a href="http://vm.cfsan.fda.gov/label.html"></a></li>
 			<li><a title="Consumer Advice and Publications On Food, Nutrition, and Cosmetics" href="http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/default.htm">FDA - Consumer Advice and Publications On Food, Nutrition, and Cosmetics</a> </li>

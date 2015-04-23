@@ -19,7 +19,7 @@
 <h2>Who May License Online?</h2>
 <p>Licensees and applicants should register to use this site after checking the license types listed on our <a title="Online Licensing Eligibility" href="/regulatory/online-licensing/eligibility.aspx">online licensing eligibility</a> webpage (with license types currently eligible to start a new license, renew, pay a billing fee, and/or change addresses). If your license type is ineligible for online processing, please refer to the <a title="applications and forms" href="/regulatory/online-licensing/forms.aspx">applications and forms</a> page for instructions on how to file a standard application packet.</p>
 
-<p>Online Services are only available in United States. Applicants outside the United States should apply using <a title="hard copy application forms" href="/forms.aspx">hard copy application forms</a>.</p>
+<p>Online Services are only available in United States. Applicants outside the United States should apply using <a title="hard copy application forms" href="/regulatory/online-licensing/forms.aspx">hard copy application forms</a>.</p>
 
 <hr/>
 <a class="bookmark" name="login" title="logging in"></a>

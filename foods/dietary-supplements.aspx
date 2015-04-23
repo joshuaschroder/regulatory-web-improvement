@@ -8,7 +8,7 @@
 <p>Dietary supplements are specific to all of the food labeling regulations as well as regulations specified to supplements. </p>
 <p>For more information on Dietary Supplements, visit the FDA Web site:</p>
 <p><a title="U.S. Food &amp;amp; Drug Administration - Dietary Supplements" href="http://www.fda.gov/Food/DietarySupplements/ucm2006892.htm">U.S. Food &amp; Drug Administration - Dietary Supplements</a> </p>
-<p><a title="U. S. Food &amp;amp; Drug Administration - Dietary Supplement Alerts and Safety Information" href="http://www.fda.gov/Food/DietarySupplements/Alerts/default.htm">U. S. Food &amp; Drug Administration - Dietary Supplement Alerts and Safety Information</a></p>
+<p><a title="U. S. Food &amp;amp; Drug Administration - Dietary Supplement Alerts and Safety Information" href="http://www.fda.gov/Food/RecallsOutbreaksEmergencies/SafetyAlertsAdvisories/default.htm">U. S. Food &amp; Drug Administration - Dietary Supplement Alerts and Safety Information</a></p>
 
 <hr/>
 <p><em>This page provides links directing you to outside sources of information. These links will take you away from the Foods Group Web site and are provided as a service and the validity of the information provided at links to other sites cannot be guaranteed. These links do not necessarily imply any official endorsement of or responsibility for the opinions, ideas, data, or products presented at locations provided through the links on the Food Groups Web site. </em></p>

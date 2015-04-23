@@ -49,7 +49,7 @@
 	<a href="/medical-devices/" target="_self">Device Distributors and Manufacturers</a><br/>
 	<a href="/salvage/" target="_self">Device Salvage Brokers and Establishments</a><br/>
 	<a href="/foods/dietary-supplements.aspx" target="_self">Dietary Supplements</a><br/>
-	<a href="/drugs/laws-rules.aspx#dietary-supplements" target="_self">Dietary Supplements Containing Ephedrine and Herbal Products</a><br/>
+	<a href="/drugs/rules.aspx#ephedrine" target="_self">Dietary Supplements Containing Ephedrine and Herbal Products</a><br/>
 	<a href="http://www.dshs.state.tx.us/dietitian/" target="_self">Dietitians, Texas State Board of Examiners of</a><br/>
 	<a href="/drugs/" target="_self">Drug Manufacturers and Distributors</a><br/>
 	<a href="/drugs/laws.aspx"  target="_self">Drug Retailers, Pseudoephedrine</a><br/>
@@ -128,7 +128,7 @@
 	<a href="http://www.dshs.state.tx.us/mp/" target="_self">Medical Physicists, Texas Board of Licensure for Professional</a><br/>
 	<a href="http://www.dshs.state.tx.us/mrt/" target="_self">Medical Radiologic Technologist Certification Program</a><br/>
 	<a href="http://www.dshs.state.tx.us/phs/medical.aspx" target="_self">Medical Waste Treatment Technologies</a><br/>
-	<a href="/facilities/community-mental-health-centers/" target="_self">Mental Health Centers, Community</a><br/>
+	<a href="/facilities/community-mental-health-centers.aspx" target="_self">Mental Health Centers, Community</a><br/>
 	<a href="http://www.dshs.state.tx.us/midwife/" target="_self">Midwifery Board, Texas</a><br/>
 	<a href="/milk/" target="_self">Milk Group</a><br/>
 	<a href="http://www.dshs.state.tx.us/mold/" target="_self">Mold Assessment and Remediation</a><br/>

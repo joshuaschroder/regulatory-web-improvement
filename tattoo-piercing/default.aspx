@@ -4,11 +4,11 @@
     include '/home/codio/workspace/includes/menus/tattoo_menu.html'; 
 ?>
 
-<p>The Texas Department of State Health Services Drugs and Medical Devices Group is responsible for the enforcement of Health and Safety Code, Chapter 146, Tattoo and Certain Body Piercing Studio Act. New rules adopted under the Act went into effect May 4, 2000, and provide guidelines for minimizing infections and to reduce the occurrence of minors being tattooed and body pierced.</p>
+<p>The Drugs and Medical Devices Group is responsible for ensuring that tattoo and body piercing studios, including temporary locations, comply with minimum licensing standards established to protect the health and safety of the citizens of Texas.  In order to accomplish this objective, inspections of studios and temporary locations are conducted.  If voluntary compliance with the licensing standards cannot be achieved, the Group recommends regulatory actions when necessary.  In addition, the Group provides technical assistance to its licensees, answers inquiries from consumers and investigates complaints involving possible violations of the state requirements for operating tattoo and body piercing studios.</p>
 
 <hr/>
 <h2>Licensing</h2>
-<p>We require any business that is in the practice of producing an indelible mark or figure on the human body by scarring or inserting pigments under the skin using needles, scalpels, or other related equipment as well as any business that is in the practice of creating an opening in a person's body, other than the individual's earlobe, to insert jewelry or another decoration to license with the Department of State Health Services. Please see the <a title="licensing requirements page" href="/tattoo-piercing/licensing.aspx">licensing requirements page</a> for more information on how to become licensed.</p>
+<p>We require any business that is engaged in tattooing (i.e., the practice of producing an indelible mark or figure on the human body by scarring or inserting pigments under the skin using needles, scalpels, or other related equipment) or body piercing (i.e., the practice of creating an opening in a person's body, other than the individual's earlobe, to insert jewelry or another decoration) to be licensed with the Department of State Health Services. In addition, we require temporary locations at which tattooing or body piercing is performed for not more than seven days in conjunction with a single event or celebration to be licensed with the Department. Please see the <a title="licensing requirements page" href="/tattoo-piercing/licensing.aspx">licensing requirements page</a> for more information on how to become licensed.</p>
 
 <hr/>
 <h2>Email Updates</h2>
@@ -17,7 +17,7 @@
 
 <hr/>
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
-<h3>For General Program Assitance</h3>
+<h3>For General Program Assistance</h3>
 <p>
 	Email: <a title="Drugs and Medical Device Group" href="mailto:DMD.regulatory@dshs.state.tx.us ">Drugs and Medical Device Group</a><br/>
 	Phone: (512) 834-6755<br/>

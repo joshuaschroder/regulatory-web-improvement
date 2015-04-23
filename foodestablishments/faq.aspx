@@ -18,7 +18,7 @@
 <p>The TFER is a comprehensive set of rules for the regulation of retail food establishments. These rules are based on the current FDA Model Food Code. In these rules, food establishments include: restaurants, grocery stores, mobile food vendors, temporary food establishments, roadside food vendors and others. A copy of the TFER can be downloaded from the <a href="/foodestablishments/laws-rules.aspx">Food Establishments Laws &amp; Rules page</a>.</p>
 <hr />
 <p><strong>Do local city/county health departments need to adopt the TFER?</strong></p>
-<p>Yes, these are the minimum standards for all retail food establishments in the state, whether they are under city, county, public health district, or state jurisdiction. A model city ordinance and a model county order are available from the <a href="/foodestablishments/city-county-ordinances.aspx">Model Orders and Ordinances page</a>. </p>
+<p>Yes, these are the minimum standards for all retail food establishments in the state, whether they are under city, county, public health district, or state jurisdiction. A model city ordinance and a model county order are available from the <a href="/foodestablishments/model-ordinances.aspx">Model Orders and Ordinances page</a>. </p>
 <hr />
 <p><strong>Is there an inspection form to be used with the TFER?</strong></p>
 <p>Yes, a form is included with the rules. The form focuses on controlling those factors most often associated with foodborne illness. A copy of the inspection form can be downloaded from the <a href="/foodestablishments/publications.aspx">Food Establishments Publications page</a>. </p>

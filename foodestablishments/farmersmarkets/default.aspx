@@ -74,8 +74,8 @@
 	<p>(f) Eggs. A farmer or egg producer that sells eggs directly to the consumer at a farm or farmers' market shall maintain the eggs at an ambient air temperature of 7 degrees Celsius (45 degrees Fahrenheit) as specified in §229.164(c)(1)(C) of this title (relating to Food).</p>
 </blockquote>
 <br><hr>
-<p><a title="Proposed Rule 229 701-704 Farment Market Rule" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992412">Proposed Rule 229 701-704 Farmers' Market Rule</a> <span class="small">(PDF, 81KB)</span></p>
-<p><a title="Frequently Asked Questions - Farmers' Market" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992411">Frequently Asked Questions - Farmers' Market</a> <span class="small">(PDF, 207KB)</span></p>
+<p><a title="Proposed Rule 229 701-704 Farment Market Rule" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992412">Proposed Rule 229 701-704 Farmers' Market Rule</a> <span class="small">(PDF, 81KB)</span></p>
+<p><a title="Frequently Asked Questions - Farmers' Market" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992411">Frequently Asked Questions - Farmers' Market</a> <span class="small">(PDF, 207KB)</span></p>
 
 
 <?php include '../../includes/footer.html' ?>

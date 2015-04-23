@@ -38,7 +38,7 @@
 <p>
 	Phone: 512-834-6787 ext. 2610 <br/>
 	Fax: 512-834-6707<br/>
-	E-mail: <a title="Environmental Health Group Open Records" href="EHGOpenRecordRequest@dshs.state.tx.us">Environmental Health Group Open Records</a>
+	E-mail: <a title="Environmental Health Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us">Environmental Health Group Open Records</a>
 </p>
 
 <p><strong>Mailing Address</strong></p>

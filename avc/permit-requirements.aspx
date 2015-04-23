@@ -33,7 +33,7 @@
 
 <hr/>
 <h2>Additional Help and Resources</h2>
-<p>If you have any questions about the online application service or fees, please <a title="contact the AVC Permit Program by email" href="AVC@dshs.state.tx.us">contact the AVC Permit Program by email</a>, or call (512) 834-6603.</p>
+<p>If you have any questions about the online application service or fees, please <a title="contact the AVC Permit Program by email" href="mailto:AVC@dshs.state.tx.us">contact the AVC Permit Program by email</a>, or call (512) 834-6603.</p>
 <p>For assistance using the online licensing system, please see the <a title="Frequently Asked Questions about Online Licensing" href="http://www.dshs.state.tx.us/regulatory_faqs/">Frequently Asked Questions about Online Licensing</a> webpage.</p>
 <p>For technical assistance contact <a title="vo@dshs.state.tx.us" href="mailto:vo@dshs.state.tx.us">vo@dshs.state.tx.us</a> and please provide detailed information about your issue(s), including a description of your problem(s).  Please insert or attach relevant screen captures, if possible.</p>
 

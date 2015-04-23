@@ -70,7 +70,7 @@
 <h2>Additional Links and Resources</h2>
 <ul>
 	<li><a title="The Texas Department of State Health Services, Internal Open Records Policy " href="http://www.dshs.state.tx.us/policy/openrecords.shtm">The Texas Department of State Health Services, Internal Open Records Policy </a></li>
-	<li><a title="The Office of Attorney General of Texas " href="http://www.oag.state.tx.us/opinopen/opengovt.shtml">The Office of Attorney General of Texas </a></li>
+	<li><a title="The Office of Attorney General of Texas " href="https://www.texasattorneygeneral.gov/og/open-government">The Office of Attorney General of Texas </a></li>
 </ul>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

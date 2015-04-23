@@ -5,7 +5,7 @@
 ?>
 
 <h2>The Public Information Act</h2>
-<p><a href="http://tlo2.tlc.state.tx.us/statutes/docs/GV/content/pdf/gv.005.00.000552.00.pdf">Texas Government Code, Chapter 552</a> gives you the right to access government records; and an officer for public information and the officer's agent may not ask why you want them. All government information is presumed to be available to the public. Certain exceptions may apply to the disclosure of the information. Governmental bodies shall <strong>promptly </strong>release requested information that is not confidential by law, either constitutional, statutory, or by judicial decision, or information for which an exception to disclosure has not been sought.</p>
+<p><a href="http://www.statutes.legis.state.tx.us/Docs/GV/pdf/GV.552.pdf">Texas Government Code, Chapter 552</a> gives you the right to access government records; and an officer for public information and the officer's agent may not ask why you want them. All government information is presumed to be available to the public. Certain exceptions may apply to the disclosure of the information. Governmental bodies shall <strong>promptly </strong>release requested information that is not confidential by law, either constitutional, statutory, or by judicial decision, or information for which an exception to disclosure has not been sought.</p>
 
 <hr/>
 <h2>Non-Releasable Information</h2>
