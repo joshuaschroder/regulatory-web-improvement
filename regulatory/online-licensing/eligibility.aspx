@@ -285,26 +285,26 @@
 		<tr>
 			<td headers="table_heading_0">EMT - Certification</td>
 			<td headers="table_heading_1">Yes</td>
-			<td headers="table_heading_2">No</td>
-			<td headers="table_heading_3">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">EMT - Emergency Care Attendant Certification</td>
 			<td headers="table_heading_1">Yes</td>
-			<td headers="table_heading_2">No</td>
-			<td headers="table_heading_3">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">EMT - Intermediate Certification</td>
 			<td headers="table_heading_1">Yes</td>
-			<td headers="table_heading_2">No</td>
-			<td headers="table_heading_3">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">EMT - Paramedic License</td>
 			<td headers="table_heading_1">Yes</td>
-			<td headers="table_heading_2">No</td>
-			<td headers="table_heading_3">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">End Stage Renal Disease (ESRD) Facility</td>
@@ -665,6 +665,12 @@
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">Yes</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Multiple Products - Drugs, Food, Devices</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
 			<th scope="col" colspan="4"><a class="bookmark" title="O" name="O"></a>O</th>
