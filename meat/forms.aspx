@@ -6,7 +6,7 @@
 <br/>
 <h2>Inspections and Exemptions</h2>
 <ul>
-	<li><a title="Application for Texas Meat and Poultry Inspection or Exemption" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19559">Application for Texas Meat and Poultry Inspection or Exemption</a> <span class="small">(PDF, 36KB)</span></li>
+	<li><a title="Application for Texas Meat and Poultry Inspection or Exemption" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19559">Application for Texas Meat and Poultry Inspection or Exemption</a> <span class="small">(PDF, 609KB)</span></li>
 </ul>
 
 <hr/>
