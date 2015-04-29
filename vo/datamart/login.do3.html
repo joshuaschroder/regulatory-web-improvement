@@ -1,0 +1,177 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+
+<script type="text/javascript">
+	var skipText = '[[ rsdMenuSkipText ]]';
+	var startFromSummary = false;
+</script>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" type="text/css" href="../css/login_theme3.css" />
+		<script type="text/javascript" src="js/JQuery/js/jquery-1.6.2.min.js"></script>
+		<script>
+			//Focus on first element on page
+			$(window).load(function () {
+				$(':input:not([readonly]):visible:enabled:first').focus();
+			});
+			//Make the default behavior of the enter key on inputs to trigger the next / continue button
+			$(document).keypress(function(event){
+				if((event.keyCode ? event.keyCode : event.which) == '13'){
+					if (event.target.tagName.toLowerCase() != "textarea" && (event.target.type == null || (event.target.type.toLowerCase() != "submit"))) {
+						inputs = $("input:not([readonly],:hidden):visible:enabled, textarea:not([readonly]):visible:enabled, select:not([readonly]):visible:enabled");
+						currentIndex = inputs.index($(event.target));
+						if(inputs[currentIndex + 1] != null){
+							event.preventDefault();
+							inputs[currentIndex + 1].focus();
+							if(inputs[currentIndex + 1].type == 'submit' && $(inputs[currentIndex + 1]).val() == 'Sign In'){
+								$(inputs[currentIndex + 1]).click();
+							}
+						}
+						return false;
+					}
+				}
+				return true;
+			});
+		</script>
+		<title>Online Services</title>
+	</head>
+	
+	<body>
+		<form action="login.do.html" method="POST" class="formListing" >
+			<input type="hidden" name="logon" value="1" />
+			<div id="wrapper">
+				<div id="hph1">
+					<div class="header">
+						<h1 class="logo"><a href="http://www.dshs.state.tx.us/default.shtm" target="blank_"><img height="72" border="0" src="../images/Color_DSHS_Banner.jpg" alt="Department of State Health Services Home"></a></h1>
+						&nbsp;<!--end pics -->
+						<div id="navbar"> </div>
+					</div>
+					<div class="content">
+						<!--div id="errorBox">
+							<p>
+								<versa:label name="error">
+									This is where error messages will appear.
+								</versa:label>
+							</p>
+						</div-->
+						<div class="content-title">
+							<h2>Online Licensing Services</h2>
+						</div>
+						<div class="rightpane info">
+							<ul class="main-nav-horizontal-right">
+								<li><a class="linkborder" href="/regulatory/online-licensing/" target="_blank">Help &amp; Support</a></li>
+								<!--    <li><a class="linkborder" href="notificationSearchAction.do?from=loginPage">Environmental Notification Search</a></li> -->
+								<li><a class="linkborder" href="/regulatory/online-licensing/contact.aspx" target="blank_">Contact Us</a></li>
+							</ul>
+						</div>
+						<div class="clear"></div>
+						<div class="leftpane-index">
+							
+							<!-- content holder for Product Selector iframe. Integration will need to be non-cross domain call. -->
+							<div class="divPaddingAll">
+								<span class="leftpane-title"> Returning User</span>
+								<div class="leftpane-content secondndcontent">
+									"<span class="required">*</span>" are required. <br />
+									<br />
+									<table>
+										<tbody>
+											<tr>
+												<td nowrap=""><label for="username" class="label-login"><span class="required">*</span>User ID:</label></td>
+												<td class="txtpad"><input type="text" class="txt" name="userid" id="userid"></td>
+											</tr>
+											<tr>
+												<td nowrap=""><label for="password" class="label-login"><span class="required">*</span>Password:</label></td>
+												<td class="txtpad"><input type="password" class="txt" name="password" id="password"></td>
+											</tr>
+											<tr>
+												
+												<td align="left" class="txtpad" colspan="2"><input type="submit" class="btn" value="Sign In"></td>
+											</tr>
+										</tbody>
+									</table>
+									<br /><br />
+									<a href="https://vo.ras.dshs.state.tx.us/datamart/askEmailAddr.do">Forgot user ID?</a><br />
+									<a href="https://vo.ras.dshs.state.tx.us/datamart/askUserid.do">Forgot password?</a>
+								</div>
+								<span class="leftpane-title"> New User</span>
+								<div class="leftpane-content secondndcontent1">
+									<table>
+										<tr><td class="newuser">
+											<img src="../images/information24.png" alt="information" width="24" height="24" class="information-img">
+											Create a new online account as a first time user. Log in with the password emailed to you to access online services.
+											
+											
+										</td></tr>
+										<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vo.ras.dshs.state.tx.us/datamart/registration.do?from=loginPage">Register as a new user</a></td></tr>
+									</table>
+									
+									<br /><br />
+									
+								</div>
+							</div>
+						</div>
+						
+						<div class="rightpanewrapper">
+							
+							
+							<div class="rightpane content-right">
+								
+								<h3 style="margin-top:10px;">Check License Status or Search for a License</h3>
+								<p><em><strong>It is not necessary to login to view or search for a license or certification.</strong></em> Begin your <a title="license search" href="https://vo.ras.dshs.state.tx.us/datamart/selSearchTypeTXRAS.do?from=loginPage">license search</a> here to verify that a license holder has a current license with DSHS. Search by name, license type, city or county.</p>
+								<br/>
+								
+								<hr/>
+								<h3 style="margin-top:10px;">Apply for a New License</h3>
+								<p>To apply for an initial license, please see the <a href="/regulatory/online-licensing/eligibility.aspx">Online Licensing Eligibility</a> page to check if your license type is supported before you <a title="register as a new user" href="https://vo.ras.dshs.state.tx.us/datamart/registration.do?from=loginPage">register as a new user</a>. If you have previously registered using this system, it is not necessary to create another user registration to apply for a new license.</p>
+								<br/>
+								
+								<hr/>
+								<h3 style="margin-top:10px;">Renew Your License</h3>
+								<p>To renew an existing license, please verify that your license type is <a href="/regulatory/online-licensing/eligibility.aspx">eligible for online renewal</a>. Once you have confirmed that your license may be renewed online, please login with your existing user ID and password, or <a href="https://vo.ras.dshs.state.tx.us/datamart/registration.do?from=loginPage">register as a new user</a>.</p>
+								<br/>
+								
+								<!--hr/>
+								<h3 style="margin-top:10px;">Asbestos Notifications</h3>
+								<p><strong><em>It is not necessary to login to view asbestos notifications.</em></strong> <a title="search for a notification" href="https://vo.ras.dshs.state.tx.us/datamart/notificationSearchAction.do?from=loginPage">Search for a notification</a> by project location, date, name or notification number. If you wish to submit/amend an asbestos notification, you may <a title="register as a new user" href="https://vo.ras.dshs.state.tx.us/datamart/registration.do?from=loginPage">register as a new user</a> if you have not previously registered using this system.</p>
+								<br/--><br/>
+							</div>
+							
+						</div>
+						<div class="clear"></div>
+						<div class="footer-disclaimer border">
+							<div class="footer-row">
+								<a title="Contact Us" href="/regulatory/online-licensing/contact.aspx">Contact Us</a> | 
+								<a title="Compact with Texans" href="http://www.dshs.state.tx.us/policy/compact.shtm">Compact with Texans</a> | 
+								<a title="File Viewing Info" href="http://www.dshs.state.tx.us/viewing.shtm">File Viewing Info</a> | 
+								<a title="Internet Policy" href="http://www.dshs.state.tx.us/policy.shtm">Internet Policy</a>
+							</div>
+							<div class="footer-row">
+								<a title="Statewide Search" href="http://www2.tsl.state.tx.us/trail/">Statewide Search</a> | 
+								<a title="Homeland Security" href="http://governor.state.tx.us/homeland">Homeland Security</a> | 
+								<a title="Texas.gov" href="http://www.texas.gov/">Texas.gov</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="footer">
+				<div class="footer">
+					<div class="footer-horizontalbar"></div>
+				</div>
+			</div>
+			
+		</form>
+	</body>
+</html>
+
+
+
+
+
+
+
+
