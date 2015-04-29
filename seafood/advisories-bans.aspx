@@ -5,7 +5,7 @@
 ?>
 <hr/>
 <p>Sign up to receive email updates about consumption advisories and possession bans.</p>
-<p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
+<p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_468"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
 
 <table class="zebraBorder" summary="Complex table with row and column headers. This table sorted alphabetically by Body of Water name.">
 	<caption>Consumption Advisories, Possession Bans, Rescinded Orders, and FAQs about Bodies of Water in Texas</caption>

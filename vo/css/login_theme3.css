@@ -11,30 +11,29 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	/* font: inherit; */
 	vertical-align: baseline;
 }
 /* Headings */
 
 h1 {
-	color: #123466;
-	font-family: Verdana, arial, sans-serif;
-	font-size: x-large;
-	font-weight: bold;
-}
-h2 {
 	font-size:18px;
 	color: #336699;
 }
-h3 {
-	font-size:14px;
+h2 {
+	font-size:16px;
 	color: #336699;
 	font-weight:bold;
 	margin-top:5px;
 }
+h3 {
+	font-size:14px;
+	color:#336699;
+	font-weight:bold;
+}
 h4 {
-	font-size:15px;
-	color:#587878;
+	font-size:12px;
+	text-transform:uppercase;
 	font-weight:bold;
 }
 h5 {
@@ -184,18 +183,19 @@ div#pics {
 	padding:10px;
 	font-size:12px;
 	width:600px;
+	margin: 1px;
 }
 .leftpane {
-	float:left;
+	float:right;
 }
 .leftpane-index {
-	float:left;
+	float:right;
 	/*width:682px;*/
 	height:400px;
 	/* background:url(../images/family-bg-sm.jpg) no-repeat; */
 }
 .rightpane {
-	float:right;
+	float:left;
 }
 .rightpanewrapper {
 	padding-top:10px;
@@ -515,7 +515,7 @@ ul.language {
 #navbar #saturday ul.main-nav-horizontal li {
 	display:inline-block;
 	margin:0;
-	pading:0;
+	padding:0;
 }
 #navbar #saturday ul.main-nav-horizontal li a {
 	display:inline-block;
@@ -539,11 +539,14 @@ ul.main-nav-horizontal-right {
 	list-style-type:none;
 	width:auto;
 	float:right;
+	position:relative;
+	top:10px;
+	right:240px;
 }
 ul.main-nav-horizontal-right li {
 	float:left;
 	margin:0;
-	pading:0;
+	padding:0;
 }
 ul.main-nav-horizontal-right li a {
 	display:inline-block;

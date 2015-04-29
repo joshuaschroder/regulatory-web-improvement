@@ -4,6 +4,13 @@
     include '../../includes/menus/foodest_menu.html'; 
 ?>
 
+<hr/>
+<h2>Email Updates</h2>
+<p>Sign up to receive email updates about important changes regarding farmers' markets rules. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
+<p><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_435"><img title="Sign up for e-mail updates" border="0" alt="Sign up for e-mail updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif" /></a></p>
+
+<hr/>
+
 <h2>New Rule 229. 701-704 Farmer Market Rules</h2>
 <p><strong>Subchapter FF. Farmers’ Markets</strong></p>
 <h3>§229.701. Purpose and Applicability</h3>

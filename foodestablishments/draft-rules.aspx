@@ -4,6 +4,28 @@
     include '../includes/menus/foodest_menu.html'; 
 ?>
 
+<hr/>
+<h2>Public Hearing for Proposed Rules - May 19, 2015</h2>
+<p>The Public Sanitation &amp; Retail Food Safety Group of Texas Department of State Health Services (DSHS) is holding a Public Hearing for the proposed rules regarding Texas Food Establishment Rules (TFER) on Wednesday, May 19, 2015.  The stakeholder hearing will be held from 1:30 pm to 3:30 pm in Room K-100  at DSHS Main Campus Building.</p>
+<p>
+	Public Hearing<br/>
+	May 19, 2015 <br/>
+	1:30 pm – 3:30 pm<br/>
+</p>
+<p>
+	DSHS Main Campus Building<br/>
+	Room K-100<br/>
+	1100 West 49th Street <br/>
+	Austin, TX 78754<br/>
+</p>
+<p>Proposed Changes to the Texas Food Establishment Rules (TFER) can be reviewed <a title="below" href="#proposed-changes">below</a>.</p>
+<p>- OR -</p>
+<p><a title="Texas Register website page" href="http://www.sos.state.tx.us/texreg/index.shtml">Texas Register website page</a></p>
+<p>To access, in the "Points of Interest" box you would "Search the Texas Register," and at the Viewer Screen, enter your rules’ title number: 25, chapter number: 228 followed by the publication issue date, 3/20/2015; click on "find" and your publication data will be available.</p>
+<p>For comments or questions on public hearing, please contact Christopher Sparks, Manager at <a title="christopher.sparks@dshs.state.tx.us" href="mailto:christopher.sparks@dshs.state.tx.us">christopher.sparks@dshs.state.tx.us</a></p>
+
+<hr/>
+<a class="bookmark" title="Proposed Changes to the Texas Food Establishment Rules (TFER)" name="proposed-changes"></a>
 <h2>Proposed Changes to the Texas Food Establishment Rules (TFER)</h2>
 <p><strong>Date Posted: 11/14/2014</strong></p>
 <p>The Division for Regulatory Services with Texas Department of State Health Services is seeking input on changes to the state’s Texas Food Establishment Rules (TFER). This is a large revision that will take current rules adopted in 2006, which are based on the 2001 FDA Model Food Code and supplemental changes from 2004, and conform these rules to the 2013 FDA Model Food Code. Impetus to implement this project came from stakeholders to:</p>

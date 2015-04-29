@@ -16,6 +16,13 @@
 <ul>
 	<li>
 		<p>
+			<a title="Amendment Temporarily Adding AB-CHMINACA, AB-PINACA and THJ-2001 into Schedule I; and the Removal of Naloxegol from Schedule II" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589997636">Amendment Temporarily Adding AB-CHMINACA, AB-PINACA and THJ-2001 into Schedule I; and the Removal of Naloxegol from Schedule II</a><br/>
+			Effective April 24, 2015<br/>
+			These amendments were published in the April 3, 2015 issue of the Texas Register.
+		</p>
+	</li>
+	<li>
+		<p>
 			<a title="Amendment Deleting Hydrocodone Combination Products from Schedule III" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996034">Amendment Deleting Hydrocodone Combination Products from Schedule III</a><br/>
 			Effective January 2, 2015<br/>
 			This amendment was published in the December 12, 2014 issue of the Texas Register.

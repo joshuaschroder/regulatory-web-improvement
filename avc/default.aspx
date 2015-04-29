@@ -15,6 +15,7 @@
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
 
 <hr/>
+<a class="bookmark" title="contact" name="contact"></a>
 <h2>Contact Information</h2>
 <p>Please see the <a title="Contact Information" href="/avc/contact.aspx">Contact Information</a> page for details on contacting the AVC program in regards to policy, permitting, enforcement, and inspections.</p>
 

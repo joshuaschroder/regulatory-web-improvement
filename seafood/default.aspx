@@ -19,7 +19,7 @@
 
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about advisories, bans, and certification changes to the Seafood and Aquatic Life Program rules. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
-<p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a><br/><br/></p>
+<p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_468"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a><br/><br/></p>
 
 <h2><a class="bookmark" title="contact" name="contact"></a>Contact Information</h2>
 <p>

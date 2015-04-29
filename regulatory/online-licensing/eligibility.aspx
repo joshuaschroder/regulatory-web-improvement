@@ -163,14 +163,20 @@
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Birthing Centers</td>
+			<th scope="col" colspan="4"><a class="bookmark" title="B" name="B"></a>B</th>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Bedding Manufacturing / Processing</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0">Birthing Center</td>
 			<td headers="table_heading_1">No</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">No</td>
-		</tr>
-		<tr>
-			<th scope="col" colspan="4"><a class="bookmark" title="B" name="B"></a>B</th>
-		</tr>
+		</tr>		
 		<tr>
 			<td headers="table_heading_0">Body Piercing Studio (without a Tattoo License) </td>
 			<td headers="table_heading_1">Yes</td>
@@ -203,6 +209,12 @@
 		</tr>
 		<tr>
 			<th scope="col" colspan="4"><a class="bookmark" title="C" name="C"></a>C</th>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0">Certificate of Free Sale / Origin / Authority</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0">Code Enforcement Officer - Registration</td>
@@ -248,6 +260,18 @@
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">Yes</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Drugs - Distributor</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Drugs - Manufacturer</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Dyslexia - Practitioner</td>
@@ -328,24 +352,6 @@
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Food - Manufacturer</td>
-			<td headers="table_heading_1">Yes</td>
-			<td headers="table_heading_2">Yes</td>
-			<td headers="table_heading_3">No</td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">Food - Warehouse Operator</td>
-			<td headers="table_heading_1">No</td>
-			<td headers="table_heading_2">Yes</td>
-			<td headers="table_heading_3">No</td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">Food - Wholesaler / Registration</td>
-			<td headers="table_heading_1">Yes</td>
-			<td headers="table_heading_2">Yes</td>
-			<td headers="table_heading_3">No</td>
-		</tr>
-		<tr>
 			<td headers="table_heading_0">Food Establishments - Mobile Food Unit Permit</td>
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">No</td>
@@ -381,6 +387,37 @@
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">No</td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">Food Handler Training Program</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Food Manager, Certified</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Foods - Manufacturer</td>
+			<td headers="table_heading_1">Yes</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Foods - Warehouse Operator</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Foods - Wholesaler / Registration</td>
+			<td headers="table_heading_1">Yes</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		
 		<tr>
 			<td headers="table_heading_0">Freestanding Emergency Medical Care Facility</td>
 			<td headers="table_heading_1">No</td>
@@ -541,6 +578,12 @@
 			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Meat Producers / Wholesalers / Distriburors</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0">Medical Devices - Distributor</td>
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
@@ -583,9 +626,15 @@
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Milk and Dairy - Frozen Dessert</td>
+			<td headers="table_heading_0">Milk and Dairy - Frozen Dessert (In-State)</td>
 			<td headers="table_heading_1">No</td>
 			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Milk and Dairy - Frozen Dessert (Out-of-State)</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
@@ -595,15 +644,27 @@
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Milk and Dairy - Milk Producers</td>
+			<td headers="table_heading_0">Milk and Dairy - Producer Dairy</td>
 			<td headers="table_heading_1">No</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Milk and Dairy - Milk Transport</td>
+			<td headers="table_heading_0">Milk and Dairy - Products Manufacturer, Non Grade "A" (In-State)</td>
 			<td headers="table_heading_1">No</td>
 			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Milk and Dairy - Products Processor (In-State)</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Milk and Dairy - Products Processor (Out-of-State)</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
@@ -612,6 +673,12 @@
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">No</td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">Milk and Dairy - Tank Truck (Milk)</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>		
 		<tr>
 			<td headers="table_heading_0">Milk and Dairy - Transfer / Receiving Station</td>
 			<td headers="table_heading_1">No</td>
@@ -673,6 +740,15 @@
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
+			<th scope="col" colspan="4"><a class="bookmark" title="N" name="N"></a>N</th>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Narcotic Treatment Clinic</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
 			<th scope="col" colspan="4"><a class="bookmark" title="O" name="O"></a>O</th>
 		</tr>
 		<tr>
@@ -682,7 +758,7 @@
 			<td headers="table_heading_3">Yes</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Orthotic and/or Prosthetic Facilities</td>
+			<td headers="table_heading_0">Orthotic and/or Prosthetic Facility</td>
 			<td headers="table_heading_1">No</td>
 			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">No</td>
@@ -700,6 +776,12 @@
 			<th scope="col" colspan="4"><a class="bookmark" title="R" name="R"></a>R</th>
 		</tr>
  		<tr>
+			<td headers="table_heading_0">Rendering</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+ 		<tr>
 			<td headers="table_heading_0">Respiratory Care Practitioner</td>
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
@@ -707,6 +789,12 @@
 		</tr>
 		<tr>
 			<th scope="col" colspan="4"><a class="bookmark" title="S" name="S"></a>S</th>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Salvage Establishment / Broker</td>
+			<td headers="table_heading_1">Yes</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Sanitarian Registration</td>
@@ -719,12 +807,6 @@
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">No</td>
 			<td headers="table_heading_3">Yes</td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">Salvage Establishment / Broker</td>
-			<td headers="table_heading_1">Yes</td>
-			<td headers="table_heading_2">Yes</td>
-			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Sex Offender Treatment Provider</td>
@@ -754,6 +836,12 @@
 			<td headers="table_heading_0">Speech-Language Pathologist -  Intern</td>
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">No</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Substance Abuse Treatment Facility</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
 			<td headers="table_heading_3">No</td>
 		</tr>
 		<tr>
