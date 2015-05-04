@@ -153,6 +153,14 @@
 			<td headers="table_heading_1"><a title="Prosthetist / Orthotist (LPO) Contact" href="http://www.dshs.state.tx.us/op/op_contact.shtm">Program Contact</a></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Machine Registration Programs</td>
+			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Mammography Programs</td>
+			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0">Marriage and Family Therapist</td>
 			<td headers="table_heading_1"><a title="Marriage and Family Therapist Contact" href="http://www.dshs.state.tx.us/mft/mft_contact.shtm">Program Contact</a></td>
 		</tr>
@@ -208,6 +216,10 @@
 			<td headers="table_heading_0">Perfusionist</td>
 			<td headers="table_heading_1"><a title="Perfusionist Contact" href="http://www.dshs.state.tx.us/perfusionist/pf_contact.shtm">Program Contact</a></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">Radioactive Material Programs</td>
+			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
+		</tr>		
 		<tr>
 			<td headers="table_heading_0">Respiratory Care Practitioner</td>
 			<td headers="table_heading_1"><a title="Respiratory Care Practitioner Contact" href="http://www.dshs.state.tx.us/respiratory/rc_contact.shtm">Program Contact</a></td>

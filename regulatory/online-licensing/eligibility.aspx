@@ -548,6 +548,18 @@
 			<th scope="col" colspan="4"><a class="bookmark" title="M" name="M"></a>M</th>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Machine Registration Programs</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Mammography Programs</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0">Marriage and Family Therapist</td>
 			<td headers="table_heading_1">Yes</td>
 			<td headers="table_heading_2">Yes</td>
@@ -774,6 +786,12 @@
 		</tr>
 		<tr>
 			<th scope="col" colspan="4"><a class="bookmark" title="R" name="R"></a>R</th>
+		</tr>
+ 		<tr>
+			<td headers="table_heading_0">Radioactive Material Programs</td>
+			<td headers="table_heading_1">No</td>
+			<td headers="table_heading_2">Yes</td>
+			<td headers="table_heading_3">No</td>
 		</tr>
  		<tr>
 			<td headers="table_heading_0">Rendering</td>
