@@ -7,7 +7,7 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="" href="#pay-online">Pay for Online Applications</a></li>
+	<li><a title="Pay for Online Applications" href="#pay-online">Pay for Online Applications</a></li>
 	<li><a title="Third Party Payments" href="#third-party">Third Party Payments</a></li>
 	<li><a title="Paying Later" href="#pay-later">Paying Later</a></li>
 	<li><a title="Contacting Payment Support" href="#payment-support">Contacting Payment Support</a></li>

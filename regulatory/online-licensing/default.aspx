@@ -5,14 +5,15 @@
 ?>
 
 <hr/>
-<p style="text-align: right;"><a title="Online Licensing" href="/vo/">Online Licensing System</a> | <a title="Contact Support" href="/regulatory/online-licensing/contact.aspx">Contact Us</a></p>
+<p style="text-align: right;"><a title="Online Licensing" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Online Licensing System</a> | <a title="Contact Support" href="/regulatory/online-licensing/contact.aspx">Contact Us</a></p>
 <hr/>
-<table class="layout" width="100%">
+<table class="layout" width="100%" summary="&nbsp;">
+	<caption>&nbsp;</caption>
 	<tr>
 		<td width="50%">
 			<h2>Registration and Logging In</h2>
 			<ul>
-				<li><a title="Online Licensing Eligibility" href="/regulatory/online-licensing/registration-login.aspx#register">Online Licensing Eligibility</a></li>	
+				<li><a title="Who Should Register?" href="/regulatory/online-licensing/registration-login.aspx#register">Who Should Register?</a></li>	
 				<li><a title="Logging in" href="/regulatory/online-licensing/registration-login.aspx#login">Logging in</a></li>
 				<li><a title="Lost Password" href="/regulatory/online-licensing/registration-login.aspx#password">Lost Password</a></li>
 				<li><a title="Lost User ID" href="/regulatory/online-licensing/registration-login.aspx#user-id">Lost User ID</a></li>
@@ -35,6 +36,7 @@
 			<ul>
 				<li><a title="View Your Licenses" href="/regulatory/online-licensing/managing-licenses.aspx#view-licenses">View Your Licenses</a></li>
 				<li><a title="Add a License to Your Account" href="/regulatory/online-licensing/managing-licenses.aspx#add-license">Add a License to Your Account</a></li>
+				<li><a title="Find Your Licensing Board or Program" href="/regulatory/online-licensing/boards.aspx">Licensing Boards and Programs</a></li>
 			</ul>
 		</td>
 		<td width="50%">	

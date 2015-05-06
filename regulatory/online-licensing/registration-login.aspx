@@ -7,7 +7,7 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="Who May License Online?" href="#register">Who May License Online?</a></li>	
+	<li><a title="Who Should Register?" href="#register">Who Should Register?</a></li>	
 	<li><a title="Logging In" href="#login">Logging In</a></li>
 	<li><a title="Lost Password" href="#password">Lost Password</a></li>
 	<li><a title="Lost User ID" href="#user-id">Lost User ID</a></li>
@@ -15,16 +15,18 @@
 </ul>
 <hr/>
 
-<a class="bookmark" name="register" title="Who May License Online?"></a>
-<h2>Who May License Online?</h2>
-<p>Licensees and applicants should register to use this site after checking the license types listed on our <a title="Online Licensing Eligibility" href="/regulatory/online-licensing/eligibility.aspx">online licensing eligibility</a> webpage (with license types currently eligible to start a new license, renew, pay a billing fee, and/or change addresses). If your license type is ineligible for online processing, please refer to the <a title="applications and forms" href="/regulatory/online-licensing/forms.aspx">applications and forms</a> page for instructions on how to file a standard application packet.</p>
+<a class="bookmark" name="register" title="Who Should Register?"></a>
+<h2>Who Should Register?</h2>
+<p>If you are a licensee or applicant, you should register to use this site after checking the license types listed on our <a title="Online Licensing Eligibility" href="/regulatory/online-licensing/eligibility.aspx">online licensing eligibility</a> webpage (this webpage shows the license types currently eligible to start a new license, renew, pay a billing fee, and/or change addresses). If your license type is ineligible for online processing, please refer to the <a title="applications and forms" href="/regulatory/online-licensing/forms.aspx">applications and forms</a> page for instructions on how to file a standard application packet.</p>
+
+<p><strong><em>It is not necessary to register or login to simply view or search for a license or certification.</em></strong> From the <a title="online licensing services homepage" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">online licensing services homepage</a>, click the "License Search" link to begin searching our license database by name, license type, city or county.</p>
 
 <p>Online Services are only available in United States. Applicants outside the United States should apply using <a title="hard copy application forms" href="/regulatory/online-licensing/forms.aspx">hard copy application forms</a>.</p>
 
 <hr/>
 <a class="bookmark" name="login" title="logging in"></a>
 <h2>Logging in</h2>
-<p>In a web browser, navigate to the <a title="Regulatory Services Online Licensing" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing</a> homepage. Use the login box on the left side of the screen to enter your user ID and password.</p>
+<p>In a web browser, navigate to the <a title="Regulatory Services Online Licensing" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing</a> homepage. Use the login box on the right side of the screen to enter your user ID and password.</p>
 <p><img style="width:100%; height:auto;" src="/regulatory/online-licensing/img/homepage-login.png" alt="Online Licensing Homepage"/></p>
 
 <hr/>

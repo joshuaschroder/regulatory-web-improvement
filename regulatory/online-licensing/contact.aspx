@@ -137,6 +137,10 @@
 			<td headers="table_heading_1"><a title="Hospital Contact" href="http://www.dshs.state.tx.us/Facility/contact.aspx">Program Contact</a></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Laser Machine Registration</td>
+			<td headers="table_heading_1"><a title="Laser Machine Registration Contact" href="https://www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0">Lead</td>
 			<td headers="table_heading_1"><a title="Lead Contact" href="http://www.dshs.state.tx.us/elp/contact.shtm">Program Contact</a></td>
 		</tr>
@@ -149,16 +153,8 @@
 			<td headers="table_heading_1"><a title="Licensed Professional Counselor (LPC) Contact" href="http://www.dshs.state.tx.us/counselor/lpc_contact.shtm">Program Contact</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Prosthetist / Orthotist (LPO)</td>
-			<td headers="table_heading_1"><a title="Prosthetist / Orthotist (LPO) Contact" href="http://www.dshs.state.tx.us/op/op_contact.shtm">Program Contact</a></td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">Machine Registration Programs</td>
-			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
-		</tr>
-		<tr>
 			<td headers="table_heading_0">Mammography Programs</td>
-			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
+			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="http://www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Marriage and Family Therapist</td>
@@ -217,8 +213,16 @@
 			<td headers="table_heading_1"><a title="Perfusionist Contact" href="http://www.dshs.state.tx.us/perfusionist/pf_contact.shtm">Program Contact</a></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Prosthetist / Orthotist (LPO)</td>
+			<td headers="table_heading_1"><a title="Prosthetist / Orthotist (LPO) Contact" href="http://www.dshs.state.tx.us/op/op_contact.shtm">Program Contact</a></td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0">Radiation Machine Registration (X-Ray, Laser, Industrial)</td>
+			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="http://www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
+		</tr>		
+		<tr>
 			<td headers="table_heading_0">Radioactive Material Programs</td>
-			<td headers="table_heading_1"><a title="Machine Registration Programs Contact" href="www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
+			<td headers="table_heading_1"><a title="Radioactive Material Programs Contact" href="http://www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0">Respiratory Care Practitioner</td>
@@ -255,6 +259,10 @@
 		<tr>
 			<td headers="table_heading_0">Tattoo Studio</td>
 			<td headers="table_heading_1"><a title="Tattoo Studio Contact" href="/tattoo-piercing/contact.aspx">Program Contact</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">X-Ray Machine Registration Programs</td>
+			<td headers="table_heading_1"><a title="X-Ray Machine Registration Programs Contact" href="http://www.dshs.state.tx.us/radiation/contact.shtm">Program Contact</a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Youth Camp</td>

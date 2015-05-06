@@ -1,5 +1,5 @@
 <?php 
-    $title= "Open Records Requests - Certificates of Free Sale and Certificates of Origin" ; 
+    $title= "Open Records Requests - Certificates of Free Sale and Sanitation and/or Certificates of Origin and Sanitation" ; 
     include '../includes/header.html'; 
     include '../includes/menus/cfs_menu.html'; 
 ?>
@@ -35,7 +35,7 @@
 
 <h3>Contacting Us</h3>
 <p>
-	Email: <a href="mailto:Isabel.Quintero@dshs.state.tx.us">Isabel Quintero</a> <br/>
+	Email: <a href="mailto:Doreen.Garcia@dshs.state.tx.us">Doreen Garcia</a> <br/>
 	Phone: (512) 834-6626 <br/>
 	Fax: (512) 834-6618
 </p>

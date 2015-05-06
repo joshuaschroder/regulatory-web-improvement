@@ -1,5 +1,5 @@
 <?php 
-    $title= "Draft Rules - Certificates of Free Sale and Certificates of Origin" ; 
+    $title= "Draft Rules - Certificates of Free Sale and Sanitation and/or Certificates of Origin and Sanitation" ; 
     include '../includes/header.html'; 
     include '../includes/menus/cfs_menu.html'; 
 ?>

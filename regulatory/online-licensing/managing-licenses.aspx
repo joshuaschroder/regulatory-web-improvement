@@ -32,7 +32,7 @@
 <p><img style="width:100%; height:auto;" src="/regulatory/online-licensing/img/add-licenses.png" alt="Add Licenses to Registration"/></p>
 <p>The next screen will prompt you with a question, asking if you are a license holder for the license type you are attempting to add. Please read all instructions on the screen and select <em>"Next."</em></p>
 <p><img style="width:100%; height:auto;" src="/regulatory/online-licensing/img/add-licenses-2.png" alt="Add a License Eligibility Check"/></p>
-<p>From the next screen, please select the licensing board and license type that you wish to add to the account.</p>
+<p>From the next screen, please select the licensing board and license type that you wish to add to the account. Please see the <a title="Find Your Licensing Board" href="/regulatory/online-licensing/boards.aspx">Find Your Licensing Board or Program</a> page for more information on locating your licensing board or program.</p>
 <p><img style="width:100%; height:auto;" src="/regulatory/online-licensing/img/add-licenses-3.png" alt="Select Licensing Board and License Type"/></p>
 <p>On the following screen, add the license number, and add any other fields requested. Complete the CAPTCHA and select <em>"Next."</em></p>
 <p><img style="width:100%; height:auto;" src="/regulatory/online-licensing/img/add-licenses-4.png" alt="Enter License Information"/></p>

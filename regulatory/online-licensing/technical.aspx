@@ -7,7 +7,7 @@
 <h2>Table of Contents</h2>
 <ul>
 	<li><a title="Locked Out of Account" href="#locked-out">Locked Out of Account</a></li>
-	<li><a title=Minimum Browser Requirements"" href="#browser-requirements">Minimum Browser Requirements</a></li>
+	<li><a title="Minimum Browser Requirements" href="#browser-requirements">Minimum Browser Requirements</a></li>
 </ul>
 
 <hr/>

@@ -4,7 +4,7 @@
 	include '/home/codio/workspace/includes/menus/von_menu.html'; 
 ?>
 <hr/>
-<p>If you are not eligible or are otherwise unable to use the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>, this page offers links to the standard applications and forms. Please follow the instructions provided on the program websites and on the form itself for information on where to submit completed applications and remit payment.</p>
+<p>If you are not eligible or are otherwise unable to use the <a title="Regulatory Services Online Licensing System" href="http://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>, this page offers links to the standard applications and forms. Please follow the instructions provided on the program websites and on the form itself for information on where to submit completed applications and remit payment.</p>
 <hr/>
 
 <table class="zebraBorder layout" summary="sorted alphabetically by license type" width="100%">
@@ -41,6 +41,10 @@
 			<td headers="table_heading_1"><a title="Audiology Applications and Forms" href="http://www.dshs.state.tx.us/speech/sp_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Bedding</td>
+			<td headers="table_heading_1"><a title="Bedding Applications and Forms" href="http://www.dshs.state.tx.us/bedding/forms.shtm">Applications and Forms</a></td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0">Birthing Centers</td>
 			<td headers="table_heading_1"><a title="Birthing Centers Applications and Forms" href="http://www.dshs.state.tx.us/facilities/birthing-centers/forms.aspx">Applications and Forms</a></td>
 		</tr>
@@ -51,6 +55,10 @@
 		<tr>
 			<td headers="table_heading_0">Bottled Water Vendor / Operators</td>
 			<td headers="table_heading_1"><a title="Bottled Water Vendor / Operators Applications and Forms" href="/foods/contact.aspx">Applications and Forms</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Certificate of Free Sale / Origin / Authority</td>
+			<td headers="table_heading_1"><a title="Certificate of Free Sale / Origin / Authority Applications and Forms" href="/certificate-of-free-sale/forms.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Code Enforcement Officers</td>
@@ -70,7 +78,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Drug Manufacturers and Distributors</td>
-			<td headers="table_heading_1"><a title="Drug Manufacturers and Distributors Applications and Forms" href="http://www.dshs.state.tx.us/fdlicense/apps.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_1"><a title="Drug Manufacturers and Distributors Applications and Forms" href="/drugs/forms.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Dyslexia</td>
@@ -89,12 +97,20 @@
 			<td headers="table_heading_1"><a title="Fitter and Dispenser of Hearing Instruments Applications and Forms" href="http://www.dshs.state.tx.us/fitters/fdhi_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Food - Manufacturers / Wholesalers</td>
-			<td headers="table_heading_1"><a title="Food - Manufacturers / Wholesalers Applications and Forms" href="/foods/contact.aspx">Applications and Forms</a></td>
+			<td headers="table_heading_0">Food Establishment</td>
+			<td headers="table_heading_1"><a title="Food Establishments Applications and Forms" href="/foodestablishments/forms.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Food Establishments</td>
-			<td headers="table_heading_1"><a title="Food Establishments Applications and Forms" href="/foodestablishments/forms.aspx">Applications and Forms</a></td>
+			<td headers="table_heading_0">Food Handler Training Program</td>
+			<td headers="table_heading_1"><a title="Food Handler Training Program Applications and Forms" href="/food-handlers/forms.aspx">Applications and Forms</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Food Manager, Certified</td>
+			<td headers="table_heading_1"><a title="Food Handler Training Program Applications and Forms" href="/food-managers/forms.aspx">Applications and Forms</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Food Manufacturer / Wholesaler / Distributor</td>
+			<td headers="table_heading_1"><a title="Food - Manufacturers / Wholesalers Applications and Forms" href="/foods/forms.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Freestanding Emergency Medical Care Facilities</td>
@@ -105,48 +121,52 @@
 			<td headers="table_heading_1"><a title="Hazardous Consumer Products Applications and Forms" href="http://www.dshs.state.tx.us/hazpro/forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Hospitals</td>
+			<td headers="table_heading_0">Hospitals (All Types)</td>
 			<td headers="table_heading_1"><a title="Hospitals Applications and Forms" href="http://www.dshs.state.tx.us/facilities/hospitals/forms.aspx">Applications and Forms</a></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">Laser Machine Registration</td>
+			<td headers="table_heading_1"><a title="Machine Registration Applications and Forms" href="http://www.dshs.state.tx.us/radiation/forms.shtm">Applications and Forms</a></td>
+		</tr>		
 		<tr>
 			<td headers="table_heading_0">Lead</td>
 			<td headers="table_heading_1"><a title="Lead Applications and Forms" href="http://www.dshs.state.tx.us/elp/forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Licensed Chemical Dependency Counselors (LCDC)</td>
-			<td headers="table_heading_1"><a title="Licensed Chemical Dependency Counselors (LCDC) Applications and Forms" href="https://www.dshs.state.tx.us/lcdc/lcdc_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Licensed Chemical Dependency Counselor (LCDC)</td>
+			<td headers="table_heading_1"><a title="Licensed Chemical Dependency Counselors (LCDC) Applications and Forms" href="http://www.dshs.state.tx.us/lcdc/lcdc_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Licensed Professional Counselors (LPC)</td>
-			<td headers="table_heading_1"><a title="Licensed Professional Counselors (LPC) Applications and Forms" href="https://www.dshs.state.tx.us/counselor/lpc_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Licensed Professional Counselor (LPC)</td>
+			<td headers="table_heading_1"><a title="Licensed Professional Counselors (LPC) Applications and Forms" href="http://www.dshs.state.tx.us/counselor/lpc_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Prosthetists / Orthotists (LPO)</td>
-			<td headers="table_heading_1"><a title="Prosthetists / Orthotists (LPO) Applications and Forms" href="https://www.dshs.state.tx.us/op/op_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Mammography</td>
+			<td headers="table_heading_1"><a title="Mammography Applications and Forms" href="http://www.dshs.state.tx.us/radiation/forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Marriage and Family Therapists</td>
-			<td headers="table_heading_1"><a title="Marriage and Family Therapists Applications and Forms" href="https://www.dshs.state.tx.us/mft/mft_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Marriage and Family Therapist</td>
+			<td headers="table_heading_1"><a title="Marriage and Family Therapists Applications and Forms" href="http://www.dshs.state.tx.us/mft/mft_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Massage Establishments</td>
-			<td headers="table_heading_1"><a title="Massage Establishments Applications and Forms" href="https://www.dshs.state.tx.us/massage/mt_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Massage Establishment</td>
+			<td headers="table_heading_1"><a title="Massage Establishments Applications and Forms" href="http://www.dshs.state.tx.us/massage/mt_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Massage Therapists</td>
-			<td headers="table_heading_1"><a title="Massage Therapists Applications and Forms" href="https://www.dshs.state.tx.us/massage/mt_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Massage Therapist</td>
+			<td headers="table_heading_1"><a title="Massage Therapists Applications and Forms" href="http://www.dshs.state.tx.us/massage/mt_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Medical Devices</td>
+			<td headers="table_heading_0">Medical Devices Manufacturer / Distributor</td>
 			<td headers="table_heading_1"><a title="Medical Devices Applications and Forms" href="/medical-devices/forms.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Medical Physicists</td>
-			<td headers="table_heading_1"><a title="Medical Physicists Applications and Forms" href="https://www.dshs.state.tx.us/mp/mp_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Medical Physicist</td>
+			<td headers="table_heading_1"><a title="Medical Physicists Applications and Forms" href="http://www.dshs.state.tx.us/mp/mp_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Medical Radiologic Technologists (MRT)</td>
-			<td headers="table_heading_1"><a title="Medical Radiologic Technologists (MRT) Applications and Forms" href="https://www.dshs.state.tx.us/mrt/mrt_forms.shtm">Applications and Forms</a></td>
+			<td headers="table_heading_0">Medical Radiologic Technologist (MRT)</td>
+			<td headers="table_heading_1"><a title="Medical Radiologic Technologists (MRT) Applications and Forms" href="http://www.dshs.state.tx.us/mrt/mrt_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Midwife</td>
@@ -162,22 +182,38 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Multiple Products - Drugs, Food, Devices</td>
-			<td headers="table_heading_1"><a title="Multiple Products Applications and Forms" href="https://www.dshs.state.tx.us/fdlicense/apps.shtm#multiple products">Applications and Forms</a></td>
+			<td headers="table_heading_1"><a title="Multiple Products Applications and Forms" href="http://www.dshs.state.tx.us/fdlicense/apps.shtm#multiple products">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Opticians</td>
+			<td headers="table_heading_0">Narcotic Treatment Clinic</td>
+			<td headers="table_heading_1"><a title="Narcotic Treatment Clinic Applications and Forms" href="http://www.dshs.state.tx.us/facilities/narcotic-treatment-clinics/forms.aspx">Applications and Forms</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Optician</td>
 			<td headers="table_heading_1"><a title="Opticians Applications and Forms" href="http://www.dshs.state.tx.us/optician/opt_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Orthotic and/or Prosthetic Facilities</td>
+			<td headers="table_heading_0">Orthotic and/or Prosthetic Facility</td>
 			<td headers="table_heading_1"><a title="Orthotic and/or Prosthetic Facilities Applications and Forms" href="http://www.dshs.state.tx.us/op/op_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Perfusionists</td>
+			<td headers="table_heading_0">Perfusionist</td>
 			<td headers="table_heading_1"><a title="Perfusionists Applications and Forms" href="http://www.dshs.state.tx.us/perfusionist/pf_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Respiratory Care Practitioners</td>
+			<td headers="table_heading_0">Prosthetist / Orthotist (LPO)</td>
+			<td headers="table_heading_1"><a title="Prosthetists / Orthotists (LPO) Applications and Forms" href="http://www.dshs.state.tx.us/op/op_forms.shtm">Applications and Forms</a></td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0">Radiation Machine Registration (X-Ray, Laser, Industrial)</td>
+			<td headers="table_heading_1"><a title="Radiation Machine Registration Applications and Forms" href="http://www.dshs.state.tx.us/radiation/forms.shtm">Applications and Forms</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Radioactive Materials</td>
+			<td headers="table_heading_1"><a title="Radioactive Materials Applications and Forms" href="http://www.dshs.state.tx.us/radiation/forms.shtm">Applications and Forms</a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Respiratory Care Practitioner</td>
 			<td headers="table_heading_1"><a title="Respiratory Care Practitioners Applications and Forms" href="http://www.dshs.state.tx.us/respiratory/rc_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
@@ -185,7 +221,7 @@
 			<td headers="table_heading_1"><a title="Sanitarian Registration Applications and Forms" href="http://www.dshs.state.tx.us/sanitarian/rs_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Salvage Establishments / Brokers</td>
+			<td headers="table_heading_0">Salvage Establishment / Broker</td>
 			<td headers="table_heading_1"><a title="Salvage Establishments / Brokers Applications and Forms" href="/salvage/forms.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
@@ -193,7 +229,7 @@
 			<td headers="table_heading_1"><a title="Sex Offender Treatment Provider Applications and Forms" href="http://www.dshs.state.tx.us/csot/csot_forms.shtm">Applications and Forms</a></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">Special Care Facilities</td>
+			<td headers="table_heading_0">Special Care Facility</td>
 			<td headers="table_heading_1"><a title="Special Care Facilities Applications and Forms" href="http://www.dshs.state.tx.us/facilities/special-care.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
@@ -209,6 +245,10 @@
 			<td headers="table_heading_1"><a title="Tattoo Studios Applications and Forms" href="/tattoo-piercing/forms.aspx">Applications and Forms</a></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">X-Ray Machine Registration</td>
+			<td headers="table_heading_1"><a title="Machine Registration Applications and Forms" href="http://www.dshs.state.tx.us/radiation/forms.shtm">Applications and Forms</a></td>
+		</tr>		
+		<tr>
 			<td headers="table_heading_0">Youth Camps</td>
 			<td headers="table_heading_1"><a title="Youth Camps Applications and Forms" href="http://www.dshs.state.tx.us/youthcamp/forms.shtm">Applications and Forms</a></td>
 		</tr>
@@ -216,4 +256,4 @@
 </table>
 
 
-<?php include '/home/codio/workspace/includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>		

@@ -27,7 +27,7 @@
 <h2>Food Wholesaler License</h2>
 <ul>
 	<li><a title="Initial, Renewal, or Change of Ownership - including legal entity (EF23-10505)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589968775">Initial, Renewal, or Change of Ownership - including legal entity (EF23-10505)</a> <span class="small">(PDF, 113KB)</span></li>
-	<li><a title="Minor Amendment Change - Name, Address (EF23-12978)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589968793">Minor Amendment Change - Name, Address (EF23-12978)</a> <span class="small">(PDF, 113KB)</span></li>
+	<li><a title="Minor Amendment Change - Name, Address (EF23-12978)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589968776">Minor Amendment Change - Name, Address (EF23-12978)</a> <span class="small">(PDF, 113KB)</span></li>
 </ul>
 
 <hr/>
@@ -40,22 +40,13 @@
 <hr/>
 <h2><a class="bookmark" title="multiple-products" name="multiple-products"></a>Multiple Products</h2>
 
-<blockquote>
-	<h3>Nonprescription Drugs-Food-Devices</h3>
-</blockquote>
+<p>Please see the <a title="Multiple Products applications" href="/drugs/forms.aspx#multiple-products">Multiple Products applications</a> on the Drug Manufacturers and Distributors website to apply for a multiple products license for two or more of the following</p>
 <ul>
-	<li><a title="Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13010)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969299">Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13010)</a> <span class="small">(PDF, 149KB)</span></li>
-	<li><a title="Minor Amendment Change - Name, Address (EF23-13011)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969300">Minor Amendment Change - Name, Address (EF23-13011)</a> <span class="small">(PDF, 150KB)</span></li>
+	<li>Non-Prescription Drugs</li>
+	<li>Medical Devices</li>
+	<li>Compressed Medical Gases</li>
+	<li>Foods</li>
 </ul>
-
-<blockquote>
-	<h3>Compressed Medical Gases-Nonprescription Drugs-Food-Devices</h3>
-</blockquote>
-<ul>
-	<li><a title="Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13012)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969301">Initial, Renewal or Change of Ownership - Including Legal Entity (EF23-13012)</a> <span class="small">(PDF, 149KB)</span></li>
-	<li><a title="Minor Amendment Change - Name, Address (EF23-13013)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969298">Minor Amendment Change - Name, Address (EF23-13013)</a> <span class="small">(PDF, 150KB)</span></li>
-</ul>
-
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

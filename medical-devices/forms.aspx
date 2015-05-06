@@ -32,25 +32,12 @@
 
 <hr/>
 <h2><a class="bookmark" name="multiple-products" title="Multiple Products"></a>Multiple Products</h2>
-
-<blockquote>
-<h3>Nonprescription Drugs-Food-Devices</h3>
-</blockquote>
+<p>Please see the <a title="Multiple Products applications" href="/drugs/forms.aspx#multiple-products">Multiple Products applications</a> on the Drug Manufacturers and Distributors website to apply for a multiple products license for two or more of the following</p>
 <ul>
-	<li>
-		<a title="Multiple Products (Nonprescription Drugs-Food-Devices) - Initial, Renewal or Change of Ownership (including legal entity)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969299">Initial, Renewal or Change of Ownership - including legal entity (EF23-13010)</a> <span class="small">(PDF, 149KB)</span>
-	</li>
-	<li>
-		<a title="Multiple Products (Nonprescription Drugs-Food-Devices) - Minor Amendment Change (Name, Address)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969300">Minor Amendment Change - Name, Address (EF23-13011)</a> <span class="small">(PDF, 150KB)</span>
-	</li>
-</ul>
-
-<blockquote>
-<h3>Compressed Medical Gases-Nonprescription Drugs-Food-Devices</h3>
-</blockquote>
-<ul>
-	<li><a title="Multiple Products (Compressed Medical Gases-Nonprescription Drugs-Food-Devices) - Initial, Renewal or Change of Ownership (including legal entity)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969301">Initial, Renewal or Change of Ownership - including legal entity (EF23-13012)</a> <span class="small">(PDF, 149KB)</span></li>
-	<li><a title="Multiple Products (Compressed Medical Gases-Nonprescription Drugs-Food-Devices) - Minor Amendment Change (Name, Address)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589969298">Minor Amendment Change - Name, Address (EF23-13013)</a> <span class="small">(PDF, 150KB)</span></li>
+	<li>Non-Prescription Drugs</li>
+	<li>Medical Devices</li>
+	<li>Compressed Medical Gases</li>
+	<li>Foods</li>
 </ul>
 
 

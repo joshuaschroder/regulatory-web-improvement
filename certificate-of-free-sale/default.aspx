@@ -1,12 +1,10 @@
 <?php 
-    $title= "Certificates of Free Sale and Certificates of Origin" ; 
+    $title= "Certificates of Free Sale and Sanitation and/or Certificates of Origin and Sanitation" ; 
     include '../includes/header.html'; 
     include '../includes/menus/cfs_menu.html'; 
 ?>
 
-<p>A certificate of free sale is a state issued document, which certifies that foods, drugs, cosmetics, or medical devices may be freely exported outside of the State of Texas.</p>
-
-<p>Food manufacturers/distributors, medical device manufacturers/distributors, frozen dessert manufacturers/distributors, milk processors/distributors and wholesale distributors of drugs must be currently licensed with the Texas Department of State Health Services (DSHS). Certificates will be issued only for products that are regulated or inspected by DSHS. </p>
+<p>Certificates are issued only to Texas licensed manufacturers and/or distributors with products physically present in Texas (and therefore available for inspection by the department) for the purpose of exporting products from the United States into other countries.</p>
 
 <hr/>
 <h2>Email Updates</h2>
@@ -20,7 +18,6 @@
 <p>
 	Certificate of Free Sale: (512) 834-6626<br/>
 	Certificate of Origin: (512) 834-6626<br/>	
-	Certificate of Authority: (512) 834-6727<br/>
 </p>
 
 <h3>For Food Related Questions</h3>

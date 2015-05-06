@@ -10,7 +10,7 @@
 	<li>Hold food that will be sold or distributed either by that entity or another</li>
 	<li>Sell bulk raw materials (flour, sugar, grains, etc.) to any entity other than the final consumer</li>
 </ul>
-<p>The <a title="Licensing Flowchart for Food Wholesalers and Warehouses" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18806">Licensing Flowchart for Food Wholesalers and Warehouses</a> <span class="small">(PDF, 16KB)</span> provides guidance on which license is appropriate for individual businesses. <em><strong>This chart provides the current interpretation of our regulations and is subject to change. </strong></em>Please call 512-834-6670 if you do not see your specific situation reflected here. </p>
+<p>The <a title="Licensing Flowchart for Food Wholesalers and Warehouses" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18806">Licensing Flowchart for Food Wholesalers and Warehouses</a> <span class="small">(PDF, 157KB)</span> provides guidance on which license is appropriate for individual businesses. <em><strong>This chart provides the current interpretation of our regulations and is subject to change. </strong></em>Please call 512-834-6670 if you do not see your specific situation reflected here. </p>
 <p>The following entities are subject to inspection but are exempt from licensure:</p>
 <ul>
 	<li>Wholesalers of beverages in sealed container. Wholesalers carrying concentrates or drink mixes must be licensed.</li>
