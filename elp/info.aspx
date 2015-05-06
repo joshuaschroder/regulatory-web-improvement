@@ -1,0 +1,52 @@
+<?php
+	$title= "Lead in the Home - Environmental Lead Program" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/elp_menu.html'; 
+?>
+
+<p>Texas Environmental Lead Reduction Rules (TELRR) apply to housing (also known as "target housing" by the TELRR) and child-occupied facilities (i.e., daycare centers and kindergartens) built before January 1, 1978. In order to do any lead-based paint activity in these structures, such as inspections, risk assessments, lead hazard screens, or abatements, the individuals and firms conducting this work must be certified (licensed) by the Texas Department of State Health Services (DSHS), Environmental Lead Program. Although the following is a brief summary of the TELRR requirements, the TELRR should always be consulted as the final authority to determine absolute compliance requirements. </p>
+<hr>
+<ul>
+	<li><a href="#locating">Locating a Certified Individual or Firm</a> </li>
+	<li><a href="#inspections">Lead-Based Paint Inspections and Risk Assessments</a> </li>
+	<li><a href="#abatements">Lead-Based Paint Abatements</a> </li>
+	<li><a href="#exclusions">Exclusions to Abatements</a> </li>
+	<li><a href="#more">For More Information</a> </li>
+</ul>
+
+<hr/>
+<a class="bookmark" title="locating" name="locating"></a>
+<h2>Locating a Certified Individual or Firm</h2>
+<p>DSHS certifies six lead-based paint disciplines, which are <em>Lead Inspector, Lead Risk Assessor, Lead Abatement Supervisor, Lead Abatement Worker, Lead Abatement Project Designer,</em> and <em>Lead Firm</em>. As a point of information, individuals who possess the Lead Risk Assessor certification are allowed by the TELRR to do lead-based paint inspections, as well as all other certified Lead Inspector duties, even though they are not required to possess the Lead Inspector certification. Choose a certified professional or firm wisely by asking them to provide you with a copy of their certification credentials and references of completed jobs they have done.</p>
+
+<hr/>
+<a class="bookmark" title="inspections" name="inspections"></a>
+<h2>Lead-Based Paint Inspections and Risk Assessments</h2>
+<p>Any lead-based paint inspection conducted in target housing or child-occupied facilities must only be done by a <em>certified Lead Inspector</em> or <em>certified Lead Risk Assessor</em> in accordance with the TELRR. A lead-based paint inspection is a <em>surface-by-surface</em> investigation to determine the presence of lead-based paint in these facilities.</p> 
+<p>Paint chip collection and/or XRF (x-ray fluorescence) analysis are common ways to determine the presence of lead-based paint while chemical test wipe (swab) kits are not acceptable as they give inaccurate results for TELRR purposes. Interpretation of the results of the inspection, including assessing any hazards, can only be done by a <em>certified Lead Risk Assessor</em>. In addition, lead hazard screens, and any soil or dust sampling conducted (except for abatement clearance activities), can only be done by a <em>certified Lead Risk Assessor</em>.</p> 
+<p>Paint chip, soil, or dust samples must be sent to a <em>U.S. Environmental Protection Agency (EPA)-Recognized Laboratory (accredited through the National Lead Laboratory Accreditation Program - NLLAP)</em> for analysis to determine the presence of any lead in the sample. (To inquire about these EPA-recognized laboratories, call the National Lead Information Center toll-free at (800) 424-LEAD or view the current listing at the <a title="EPA lead website" href="http://www.epa.gov/lead/pubs/nllaplist.pdf">EPA lead website</a>.) </p>
+<p>A written lead inspection report must be developed by the certified Lead Inspector or Risk Assessor and include such information as the date of inspection, address of building sampled, and specific locations (building components) tested for lead-based paint.</p>
+<p>If the intent is to determine the existence, nature, severity, and location of lead-based paint hazards, then an <em>on-site</em> risk assessment conducted by a <em>certified Lead Risk Assessor</em> would be required <em>(certified Lead Inspectors cannot perform this activity)</em>. The risk assessment is documented in a <em>written</em> report explaining the results of the investigation and options for reducing lead-based paint hazards including a description of interim controls (i.e., operations and maintenance) and/or abatement options for each lead-based paint hazard. If an encapsulant or enclosure is recommended, then a maintenance and monitoring schedule shall be included in the risk assessment report. Copies of all reports prepared by the certified Lead Inspector or Risk Assessor must be provided to the building owner who contracted for its services, in accordance with state rules. </p>
+<p><em><strong>Note:</strong></em> As a point of information, owners of rental properties and owners selling their property must assure that information contained in these reports is given to their prospective tenants or buyers in accordance with Section 1018 of the "Residential Lead-Based Paint Hazard Reduction Act of 1992" and Title 40 of the Code of Federal Regulations, Part 745, Subpart F, <em>"Disclosure of Known Lead-Based Paint and/or Lead Based Paint Hazards Upon Sale or Lease of Residential Property"</em> (Additional information, downloadable versions of the required disclosure pamphlet, and example disclosure forms are available at the <a title="EPA lead website" href="http://www.epa.gov/lead">EPA lead website</a>). </p>
+
+<hr/>
+<a class="bookmark" title="abatements" name="abatements"></a>
+<h2>Lead-Based Paint Abatements</h2>
+<p>All lead-based paint abatements in target housing or child-occupied facilities usually have as a minimum the following certified entities involved: a <em>certified Lead Firm</em>; a <em>certified Lead Abatement Supervisor</em> to oversee the project; <em>certified Lead Abatement Workers</em>; and a <em>certified Lead Inspector</em> or <em>Lead Risk Assessor</em> to do clearance testing of the abatement.</p> 
+<p>All samples collected in connection with an abatement, including clearance samples, must be sent to an <em>EPA-Recognized Laboratory</em> for analysis. (Although there is no conflict-of-interest prohibition in the TELRR, it is recommended that the certified Lead Inspector or Lead Risk Assessor be a third-party representative to the abatement project, separate from the lead abatement contractor.) Larger projects may require the services of a <em>certified Lead Abatement Project Designer</em>.</p> 
+<p>Certified individuals working on an abatement site are required to have in their possession a current department-issued certification identification (ID) card. Additionally, in accordance with Section 295.212(d)(5) of the TELRR, a <em>certified Lead Abatement Supervisor</em> or a <em>certified Lead Abatement Project Designer</em> must develop a written Occupant Protection Plan for each abatement project and this document must be at the worksite at all times. Furthermore, according to Section 295.212(d)(6), unless presumed lead, a copy of the <em>Lead Inspection or Lead Risk Assessment report</em> prepared for the lead abatement project shall be kept at the worksite by the certified lead abatement firm and be available for department inspection. Specific work practice standards, as referenced in Section 295.212(d)(7) of the TELRR, must be followed at all abatement jobs. Furthermore, <em>notification of each abatement project</em>, as per Section 295.214(c) of the TELRR, is required to be made to the DSHS, Environmental Lead Branch, <em>and</em> to the appropriate DSHS Regional Office at least <em>seven (7) working days prior</em> to the abatement job. </p>
+
+<hr/>
+<a class="bookmark" title="exclusions" name="exclusions"></a>
+<h2>Exclusions to Abatements</h2>
+<p>The TELRR specifically excludes from the definition of abatement any renovation, remodeling, and landscaping activities that are not designed to permanently eliminate lead-based paint hazards, but, instead, are designed to repair, restore, or remodel a given structure or dwelling, even though these activities may incidentally result in a reduction or elimination of lead-based paint hazards. However, if activities being conducted are intended to permanently eliminate lead hazards, these activities are considered abatement. This is determined when abatement is specified in project specifications, job write-ups, bid contracts, or similar documents. When the primary purpose of work is rehabilitation or weatherization, these activities are not considered abatement. The TELRR definition of abatement also excludes interim control activities, operations and maintenance activities, or other measures designed to only temporarily, but not permanently, reduce lead-based paint hazards. Furthermore, the definition of abatement excludes demolition of target housing buildings and child-occupied facilities. </p>
+<p><em><strong>Note:</strong></em> As a point of information, if the job is a renovation, according to the federal EPA regulation entitled "<a title="Lead Pre-Renovation Education Rule" href="http://www.epa.gov/reg3wcmd/lp-preeducationrule.htm">The Lead-Based Paint Pre-Renovation Rule</a>," a contractor hired to do renovation work must provide the EPA lead pamphlet entitled, "<a title="Protect Your Family From Lead in Your Home" href="http://www2.epa.gov/lead/protect-your-family-lead-your-home-real-estate-disclosure">Protect Your Family From Lead in Your Home</a>," and this pamphlet must be given to the housing owner and occupants before renovation starts <em>(confirmation of receipt of this lead pamphlet from the owner and occupants must be obtained by the contractor)</em>.</p>
+
+<hr/>
+<a class="bookmark" title="more" name="more"></a>
+<h2>For More Information</h2>
+<p>Please contact the DSHS, Environmental Lead Program, at (512) 834-6787 ext. 2434 or toll-free in Texas at (888) 778-9440 if you have any questions. See the <a href="/elp/contact.aspx">contact us</a> page for more numbers.</p>
+<p>If you have any questions regarding federal requirements for lead-based paint, you may call (800) 424-LEAD.</p>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>
