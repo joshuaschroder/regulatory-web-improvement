@@ -19,7 +19,6 @@
 	<li><a title="Milk Safety" href="/milk">Milk Safety</a></li>
 	<li><a title="Salvage Establishments and Brokers" href="/salvage/">Salvage Establishments and Brokers</a></li>	
 	<li><a title="Seafood and Aquatic Life" href="/seafood/">Seafood and Aquatic Life</a></li>
-	<li><a title="Water, Bottled and Vended" href="/foods/bottled-vended-water.aspx">Water, Bottled and Vended</a></li>	
 </ul>
 
 <hr/>
