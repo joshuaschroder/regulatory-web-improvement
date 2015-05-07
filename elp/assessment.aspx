@@ -26,7 +26,7 @@
 <p>Your doctor or public health nurse will decide whether a home lead assessment survey is necessary, and are also the ones who must initiate a request to get the survey done through your local health department. Home assessments are typically conducted when a child has been determined to be lead poisoned. With your permission, a health professional trained to identify potential sources of lead exposure will visit your home to perform a survey that may uncover how your child's exposure occurred.</p>
 
 <h3>4. How can I get&nbsp;more information on childhood lead poisoning?</h3>
-<p>You can contact the Texas Childhood Lead Poisoning Prevention Program toll-free at 888-588-1248.&nbsp; You can also visit the <a title="Texas Childhood Lead Poisoning Prevention Program website" href="http://www.dshs.state.tx.us/lead">program website</a>.</p>
+<p>Visit the <a title="Texas Childhood Lead Poisoning Prevention Program website" href="http://www.dshs.state.tx.us/lead">Texas Childhood Lead Poisoning Prevention Program</a> website, or call toll-free at (888) 588-1248.</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

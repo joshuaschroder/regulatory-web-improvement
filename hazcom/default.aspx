@@ -19,7 +19,7 @@
 	Email: <a title="TXHazComHelp@dshs.texas.gov" href="mailto:TXHazComHelp@dshs.texas.gov">Hazard Communication Program</a><br/>
 	Toll Free: 1-800-452-2791 <em>(in Texas only)</em><br/>
 	Phone: (512) 834-6787<br/>
-	Fax: (512) 834-6779 <br/>
+	Fax: (512) 834-6726 <br/>
 </p>
 
 <p>Mailing addresses may be found on the <a title="contact page" href="/hazcom/contact.aspx">contact page</a>.</p>
