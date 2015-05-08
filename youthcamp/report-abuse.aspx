@@ -11,7 +11,7 @@
 
 <p>To make an online report go to the Texas Office of Inspector General - <a title="Reporting Waste, Abuse and Fraud Web page" href="https://oig.hhsc.state.tx.us/Fraud_Report_Home.aspx">Reporting Waste, Abuse and Fraud Web page</a>.</p>
 
-<p>If you prefer, you may use a report intake form entitled, <a title="Internal Affairs: Texas Youth Camp Waste, Abuse and Fraud Referral Form" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=4769#internal">Internal Affairs: Texas Youth Camp Waste, Abuse and Fraud Referral Form</a> and fax it to the Office of the Inspector General, Internal Affairs.</p> 
+<p>If you prefer, you may use a report intake form entitled "<em>Internal Affairs: Texas Youth Camp Waste, Abuse and Fraud Referral Form</em>" from the <a title="Applications and Forms" href="/youthcamp/forms.aspx#abuse-neglect">Applications and Forms</a> page on this website and fax it to the Office of the Inspector General, Internal Affairs.</p> 
 <p>To reach Internal Affairs directly call (512) 491-4023. You may also reach the Internal Affairs by fax at (512) 833-6493.</p>
 
 <hr/>

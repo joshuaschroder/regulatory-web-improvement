@@ -5,6 +5,7 @@
 ?>
 
 <hr/>
+<a class="bookmark" title="inspections" name="inspections"></a>
 <h2>Inspections</h2>
 <ul>
 	<li><a title="Deficiency Notice" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589935495">Deficiency Notice</a> <span class="small">(PDF, 52KB)</span></li>
@@ -15,6 +16,7 @@
 </ul>
 
 <hr/>
+<a class="bookmark" title="training" name="training"></a>
 <h2>Training</h2>
 <ul>
 	<li><a title="Approved Training and Examination Programs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20837">Approved Training and Examination Programs</a> <span class="small">(PDF, 203KB)</span></li>
@@ -24,6 +26,7 @@
 </ul>
 
 <hr/>
+<a class="bookmark" title="licensing" name="licensing"></a>
 <h2>Licensing</h2>
 <ul>
 	<li><a title="Youth Camp Pre-Licensing Process" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589975909">Youth Camp Pre-Licensing Process</a> <span class="small">(PDF, 92KB)</span></li>
@@ -32,12 +35,7 @@
 </ul>
 
 <hr/>
-<h2>Roster of Licensees</h2>
-<ul>
-	<li><a title="Roster of Licensed Youth Camps" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20826">Roster of Licensed Youth Camps</a> <span class="small">(PDF, 101KB)</span></li>
-</ul>
-
-<hr/>
+<a class="bookmark" title="abuse-neglect" name="abuse-neglect"></a>
 <h2>Abuse &amp; Neglect</h2>
 <ul>
 	<li><a title="Internal Affairs - Texas Youth Camp Waste, Abuse and Fraud Referral Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20825">Internal Affairs - Texas Youth Camp Waste, Abuse and Fraud Referral Form</a> <span class="small">(PDF, 59KB)</span></li>	
@@ -45,6 +43,7 @@
 </ul>
 
 <hr/>
+<a class="bookmark" title="advisory-committee" name="advisory-committee"></a>
 <h2>Advisory Committee</h2>
 <ul>
 	<li><a title="Youth Camp Advisory Committee " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589974908">Youth Camp Advisory Committee Members</a> <span class="small">(PDF, 187KB)</span></li>
