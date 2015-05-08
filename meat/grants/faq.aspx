@@ -36,7 +36,7 @@
 <p>Grants of inspection are awarded to individuals, not buildings or establishments. If an existing establishment (that already has a Grant of Inspection) is sold to new owners, the Grant of Inspection expires, and a new Grant of Inspection must be obtained in the new owner’s name. </p>
 
 <hr/>
-<p><em>For additional information regarding basic requirements to qualify for a Grant of Inspection, custom exemption, poultry exemption or other questions, please contact the MSA Central Office, in Austin, at 512-834-6760.</em></p>
+<p><em>For additional information regarding basic requirements to qualify for a Grant of Inspection, custom exemption, poultry exemption or other questions, please contact the MSA Central Office, in Austin, at (512) 834-6760.</em></p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

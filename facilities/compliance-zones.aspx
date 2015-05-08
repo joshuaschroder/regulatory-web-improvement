@@ -1,8 +1,8 @@
 <?php 
 	
 	$title= "Compliance Zones - Health Facility Compliance Group" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/hfp_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>
 <p><a href="/facilities/compliance-contact.aspx" title="Contact the Facility Compliance Group">Contact the Facility Compliance Group</a></p>

@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Recommendations Relating to Missing Infants" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/hfp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>        
 <style> ul {list-style-type:none;} </style>

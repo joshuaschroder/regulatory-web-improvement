@@ -1,8 +1,8 @@
 <?php 
 
     $title= "Recognizing &amp; Reporting Child Abuse - Chapter 3: Your Responsibility to Report (Part 1)" ; 
-    include '../../../includes/header.html'; 
-    include '../../../includes/menus/abortion_menu.html'; 
+    include '../..//home/codio/workspace/includes/header.html'; 
+    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 <p>Each staff member who is licensed or certified by the state or who is an employee of the abortion facility and who, in the normal course of his or her official duties, has direct contact with children shall report suspected abuse of a child, as described in this training, and as required by law.</p>

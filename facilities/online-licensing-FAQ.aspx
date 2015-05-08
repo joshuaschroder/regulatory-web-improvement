@@ -1,7 +1,7 @@
 <?php 
     $title= "License Renewals: Frequently Asked Questions - Health Facilities" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 <ul>
 	<li><a href="#eligibility">Who is eligible to renew online?</a></li>

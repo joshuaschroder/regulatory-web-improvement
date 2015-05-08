@@ -8,7 +8,7 @@
 
 <p>Since the law took effect in December 2008, public pool and spa owners have been required to have their pools and spas in compliance with VGBA. While existing Texas requirements for public pools and spas are similar to the federal VGBA requirements, Senate Bill (SB) 1732, 81st Leg., R.S. (see below), which creates Health and Safety Code §341.0645, requires the Department of State Health Services to develop and implement safety standards and rules that are at least as stringent as those in VGBA. The process to adopt these rules in Texas is under way.</p>
 
-<p>Information about compliance with VGBA can be found at: <a title="poolsafety.gov" href="http://www.poolsafety.gov/">poolsafety.gov</a>. Questions concerning compliance with SB 1732 and the Standards for Public Swimming Pools and Spas in Texas (25 TAC §§265.181 – 265.208) should be directed by email to <a title="Katie Moore" href="mailto:katie.moore@dshs.state.tx.us">Katie Moore</a>, or by telephone: 512-834-6788, ext. 2306, or by email to <a title="Andrea Garcia" href="mailto:andrea.garcia@dshs.state.tx.us">Andrea Garcia</a>, or by telephone: 512-834-6788, ext. 2362.</p>
+<p>Information about compliance with VGBA can be found at: <a title="poolsafety.gov" href="http://www.poolsafety.gov/">poolsafety.gov</a>. Questions concerning compliance with SB 1732 and the Standards for Public Swimming Pools and Spas in Texas (25 TAC §§265.181 – 265.208) should be directed by email to <a title="Katie Moore" href="mailto:katie.moore@dshs.state.tx.us">Katie Moore</a>, or by telephone: (512) 834-6788, ext. 2306, or by email to <a title="Andrea Garcia" href="mailto:andrea.garcia@dshs.state.tx.us">Andrea Garcia</a>, or by telephone: (512) 834-6788, ext. 2362.</p>
 
 <hr/>
 <h2>Related Information</h2>

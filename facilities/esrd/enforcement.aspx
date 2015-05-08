@@ -1,7 +1,7 @@
 <?php 
     $title= "Enforcement Actions - End-Stage Renal Disease Facilities" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/esrd_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/esrd_menu.html'; 
 ?>
 
 <table class="zebra border" summary="This table is sorted chronologically by date of action column 6 from oldest to newest">

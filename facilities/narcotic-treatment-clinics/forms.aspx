@@ -1,7 +1,7 @@
 <?php 
 	$title= "Applications and Forms - Narcotic Treatment Clinics" ; 
-	include '../../includes/header.html'; 
-	include '../../includes/menus/ntc_menu.html'; 
+	include '..//home/codio/workspace/includes/header.html'; 
+	include '..//home/codio/workspace/includes/menus/ntc_menu.html'; 
 ?>
 
 <h2>Application Form</h2>

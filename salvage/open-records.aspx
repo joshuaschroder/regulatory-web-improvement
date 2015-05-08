@@ -1,7 +1,7 @@
 <?php 
 	$title= "Open Records - Salvage Brokers and Establishments" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/salvage_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/salvage_menu.html'; 
 ?>
 
 <hr/>
@@ -35,12 +35,15 @@
 <p>Providing this information will make it easier for us to quickly respond to your request. Be as specific as possible about the information you are seeking. Mail your request to: </p>
 
 <p>
-	Drugs and Medical Devices Group MC 1987 
-	<br/>Texas Department of State Health Services
-	<br/>P. O. Box 149347
-	<br/>Austin, Texas 78714-9347<br/>
-	<br/>Phone: 512-834-6755 
-	<br/>Fax: 512-834-6759
+	Drugs and Medical Devices Group MC 1987 <br/>
+	Texas Department of State Health Services<br/>
+	P. O. Box 149347<br/>
+	Austin, Texas 78714-9347<br/>
+</p>
+<p>
+	Email: <a title="DMDG Open Records" href="mailto:DMD.regulatory@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a><br/>
+	Phone: (512) 834-6755 <br/>
+	Fax: (512) 834-6759<br/>
 </p>
 <a title="DMDG Open Records" href="mailto:DMD.regulatory@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a>
 

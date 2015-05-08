@@ -8,7 +8,7 @@
 
 <p>Military personnel or veterans may have met some licensing requirements as a result of their military service or other training, knowledge, and experience. Military spouses of current, active duty military service members may also have met some licensing requirements related to this status.</p>
 
-<p>Military personnel, their spouses, and veterans who are interested in obtaining an asbestos, mold, or lead license and would like additional information regarding requirements may contact the Environmental and Sanitation Licensing Group (ESLG) at 512-834-6600 ext 2174.</p>
+<p>Military personnel, their spouses, and veterans who are interested in obtaining an asbestos, mold, or lead license and would like additional information regarding requirements may contact the Environmental and Sanitation Licensing Group (ESLG) at (512) 834-6600 ext 2174.</p>
 
 <p>In addition to assistance with obtaining licensure, ESLG staff can assist deployed military service members who are currently licensed in Texas with license renewal requirements.</p>  
 

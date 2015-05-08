@@ -12,7 +12,7 @@
 
 <p>
 	Email: <a title="Katie Moore" href="mailto:PHSCPS@dshs.state.tx.us">Katie Moore</a><br/>
-	Phone: 512-834-6788, ext. 2306
+	Phone: (512) 834-6788, ext. 2306
 </p>
 
 <p><strong>Mailing Address:</strong></p>

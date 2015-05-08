@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Community Mental Health Centers" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p>A Community Mental Health Center (CMHC) is an entity that:</p>

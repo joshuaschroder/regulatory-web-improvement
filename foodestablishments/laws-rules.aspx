@@ -1,7 +1,7 @@
 <?php
 	$title= "Statutes and Laws - Retail Food Service Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <h2>Texas Laws</h2>

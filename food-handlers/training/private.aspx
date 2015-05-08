@@ -1,7 +1,7 @@
 <?php
 	$title= "Accredited Private Food Handler Training Programs" ;
-	include '../../includes/header.html';
-	include '../../includes/menus/no_menu.html'; 
+	include '..//home/codio/workspace/includes/header.html';
+	include '..//home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
 
 <hr/>

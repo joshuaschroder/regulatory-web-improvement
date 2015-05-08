@@ -9,7 +9,7 @@
 <p>
 	Email: <a title="katie.moore@dshs.state.tx.us" href="mailto:katie.moore@dshs.state.tx.us">Katie Moore</a> <br/>
 	Phone: (512) 834-6788, ext 2306<br/>
-	Fax: 512-834-6707<br/>
+	Fax: (512) 834-6707<br/>
 </p>
 
 <h2>Mailing Address</h2>

@@ -28,7 +28,7 @@
 
 <h3>Special Message for Military Personnel, Spouses, and Veterans</h3>
 <p>The State of Texas recognizes the contributions of our active duty military service members, their spouses, and veterans. The Texas Department of State Health Services (DSHS) in collaboration with the Office of the Governor, Texas Workforce Commission, Texas Veterans Commission, and Texas Department of Licensing and Regulation, is spreading the word to military personnel, their spouses, and veterans about licenses they may be eligible for and that may assist them in their search for work.</p>
-<p>Military personnel, their spouses, and veterans who are interested in obtaining a bottled and vended water certificate of competency and would like additional information regarding requirements may contact the Foods Licensing Group at 512-834-6626.</p>
+<p>Military personnel, their spouses, and veterans who are interested in obtaining a bottled and vended water certificate of competency and would like additional information regarding requirements may contact the Foods Licensing Group at (512) 834-6626.</p>
 <p>In addition to assistance with obtaining licensure, Foods Licensing staff can assist deployed military service members who are currently licensed in Texas with license renewal requirements.</p>
 <p>We extend our heartfelt thanks to military service members, veterans, and their families for their dedicated service to the United States of America and to the State of Texas.</p>
 

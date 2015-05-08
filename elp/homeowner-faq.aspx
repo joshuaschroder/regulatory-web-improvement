@@ -45,7 +45,7 @@
 <hr/>
 <a class="bookmark" title="6" name="6"></a>
 <h2>6. Where can I obtain copies of the U.S. Environmental Protection Agency's (EPA) lead disclosure pamphlet entitled "Protect Your Family From Lead in Your Home?" </h2>
-<p>Single copies of the disclosure pamphlet can be obtained by calling the <a title="National Lead Information Center" href="http://www2.epa.gov/lead/forms/lead-hotline-national-lead-information-center">National Lead Information Center</a> at (800) 424-LEAD (5323). Bulk copies can be obtained by calling the Government Printing Office at (202) 512-1800. Copies of <a title="Protect Your Family From Lead In Your Home" href="http://www2.epa.gov/lead/protect-your-family">"Protect Your Family From Lead In Your Home" </a>pamphlet are also available to be downloaded from EPA's Web site. </p>
+<p>Single copies of the disclosure pamphlet can be obtained by calling the <a title="National Lead Information Center" href="http://www2.epa.gov/lead/forms/lead-hotline-national-lead-information-center">National Lead Information Center</a> at (800) 424-LEAD (5323). Bulk copies can be obtained by calling the Government Printing Office at (202) (512) 1800. Copies of <a title="Protect Your Family From Lead In Your Home" href="http://www2.epa.gov/lead/protect-your-family">"Protect Your Family From Lead In Your Home" </a>pamphlet are also available to be downloaded from EPA's Web site. </p>
 
 <hr/>
 <a class="bookmark" title="7" name="7"></a>

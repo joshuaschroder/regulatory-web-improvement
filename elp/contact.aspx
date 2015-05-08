@@ -4,93 +4,100 @@
     include '/home/codio/workspace/includes/menus/elp_menu.html'; 
 ?>
 
-Other questions or further help:  (512) 834-6787, ext. 2434
-
 <hr/>
-<h2>Abatement Notifications</h2>
+<h2>Phone and Fax Numbers</h2>
+
+<h3>Abatement Notifications</h3>
 <p>
-	Toll Free: (888) 778-9440 ext. 2172
-	Phone: (512) 834-6770, ext. 2172
-	Fax: (512) 834-4524
+	Toll Free: (888) 778-9440 ext. 2172<br/>
+	Phone: (512) 834-6770, ext. 2172<br/>
+	Fax: (512) 834-4524<br/>
+</p>
+
+<h3>Enforcement Unit</h3>
+<p>
+	Toll Free: (888) 778-9440 ext. 3428<br/>
+	Phone: (512) 834-6600, ext. 3428<br/>
+	Fax: (512) 834-6726<br/>
+</p>
+
+<h3>Inspections Unit</h3>
+<p>
+	Toll Free: (888) 778-9440 ext. 2451 or 2455<br/>
+	Phone: (512) 834-6770, ext. 2451 or 2455<br/>
+	Fax: (512) 834-6726<br/>
+</p>
+
+<h3>Licensing Information</h3>
+<p>
+	Toll Free: (888) 778-9440 ext. 2174 <br/>
+	Phone: (512) 834-6660, ext. 2174<br/>
+	Fax: (512) 834-6614<br/>
+</p>
+
+<h3>Trainer Accreditation Information</h3>
+<p>
+	Toll Free: (888) 778-9440 ext. 2483<br/>
+	Phone: (512) 834-6600, ext. 2483<br/>
+	Fax: (512) 834-6614<br/>
+</p>
+
+<h3>For Other Questions or Further Help</h3>
+<p>
+	Toll-free: (888) 778-9440, ext. 2434 <br/>
+	Phone: (512) 834-6787, ext. 2434<br/>
+	Fax: (512) 834-6726<br/>
 </p>
 
 <hr/>
-<h2>Enforcement Unit</h2>
+
+<h2>Mailing and Physical Addresses</h2>
+
+<h3>For General Correspondence</h3>
 <p>
-	Toll Free: (888) 778-9440 ext. 3428
-	Phone: (512) 834-6600, ext. 3428
-	Fax: (512) 834-6726
+Environmental Lead Program MC 1987<br/>
+Texas Department of State Health Services<br/>
+P. O. Box 149347<br/>
+Austin, Texas  78714-9347<br/>
+<em>(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT.)</em><br/>
 </p>
 
-<hr/>
-<h2>Inspections Unit</h2>
+<h3>For All Licensure Related Materials</h3>
 <p>
-	Toll Free: (888) 778-9440 ext. 2451 or 2455
-	Phone: (512) 834-6770, ext. 2451 or 2455
-	Fax: (512) 834-6726
+Environmental and Sanitation Licensing Group MC 2835<br/>
+Texas Department of State Health Services<br/>
+P. O. Box 149347<br/>
+Austin, Texas  78714-9347<br/>
+<em>(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT.)</em><br/>
 </p>
 
-<hr/>
-<h2>Licensing Information</h2>
+<h3>For All Lead Abatement Notifications</h3>
 <p>
-	Toll Free: (888) 778-9440 ext. 2458 
-	Phone: (512) 834-6770, ext. 2458
-	Fax: (512) 834-6614
+Environmental Health Notifications Group MC 1986<br/>
+Texas Department of State Health Services<br/>
+P. O. Box 143538<br/>
+Austin, Texas 78714-3538<br/>
+<em>(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT.)</em><br/>
 </p>
 
-<hr/>
-<h2>Trainer Accreditation Information</h2>
+<h3>For All Mail Containing Money</h3>
 <p>
-	Toll Free: (888) 778-9440 ext. 2483
-	Phone: (512) 834-6600, ext. 2483
-	Fax: (512) 834-6614
+Texas Department of State Health Services MC 2003<br/>
+PO Box 149347<br/>
+Austin, Texas 78714-9347<br/>
+<em>(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT.)</em><br/>
 </p>
 
+<h3>Physical Address</h3>
+<p>
+Environmental and Sanitation Licensing Group MC 2835<br/>
+Texas Department of State Health Services<br/>
+The Exchange Building<br/>
+8407 Wall Street<br/>
+Austin, Texas 78754-4535<br/>
+<em>(If shipping OVERNIGHT, only special service deliveries such as UPS or Federal Express [NOT USPS] are delivered to this address)</em> <br/>
+</p>
 
-MAILING ADDRESS AND PHONE NUMBERS FOR GENERAL CORRESPONDENCE:
-Environmental Lead Program MC 1987
-Texas Department of State Health Services
-P. O. Box 149347
-Austin, Texas  78714-9347
-(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT.)
-1-888-778-9440, ext. 2434 ( Toll-free in Texas)
-(512) 834-6787, ext. 2434 
-Fax: (512) 834-6726
-
-MAILING ADDRESS AND PHONE NUMBERS FOR ALL LICENSURE RELATED MATERIALS:
-Environmental and Sanitation Licensing Group MC 2835
-Texas Department of State Health Services
-P. O. Box 149347
-Austin, Texas  78714-9347
-(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT.)
-1-888- 778-9440, ext. 2132 (toll-free in Texas)
-(512) 834-6600, ext. 2132
-Fax: (512) 834-6614
-
-MAILING ADDRESS AND PHONE NUMBERS FOR ALL LEAD ABATEMENT NOTIFICATIONS:
-Environmental Health Notifications Group MC 1986
-Texas Department of State Health Services
-P. O. Box 143538
-Austin, Texas 78714-3538
-(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box. UPS or Federal Express will NOT.)
-1-888- 778-9440, ext. 2132 (toll-free in Texas)
-(512) 834-6600, ext. 2132
-Fax: (512) 834-4524
-
-ADDRESS FOR ALL MAIL CONTAINING MONEY:
-Texas Department of State Health Services MC 2003
-PO Box 149347
-Austin, Texas 78714-9347
-(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT)
-
-PHYSICAL ADDRESS:
-(If shipping OVERNIGHT, only special service deliveries such as UPS or Federal Express [NOT USPS] are delivered to this address) 
-Environmental and Sanitation Licensing Group MC 2835
-Texas Department of State Health Services
-The Exchange Building
-8407 Wall Street
-Austin, Texas 78754-4535
-
-Map and Directions to The Exchange Building
+<p>Map and Directions to The Exchange Building</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

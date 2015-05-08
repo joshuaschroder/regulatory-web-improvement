@@ -1,7 +1,7 @@
 <?php 
     $title= "How to File a Complaint - Health Facilities" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p>Any person having knowledge that substandard care has been provided by any of the health care facilities regulated by the Texas Department of State Health Services may file a complaint.</p>

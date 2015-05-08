@@ -1,7 +1,7 @@
 <?php 
     $title= "Draft and Proposed Rules - Health Facilities" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 <hr/>
 <h2>Draft Rules - Standards Of Care For Substance Use Disorder Treatment Facilities</h2>

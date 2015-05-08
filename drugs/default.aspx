@@ -1,7 +1,7 @@
 <?php 
     $title= "Drug Manufacturers and Distributors" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/drugs_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>
 
 <p>This program is responsible for ensuring that human and animal drugs and biologicals are safe, properly labeled, do not contain harmful additives and do not make any unsubstantiated or fraudulent claims.</p>

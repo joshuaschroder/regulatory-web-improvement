@@ -1,8 +1,8 @@
 <?php 
 
     $title= "Abortion Facilities" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/abortion_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 <p>The Texas Abortion Facility Licensing Act was first enacted in 1989 by the 71st Legislature.  The Department develops rules that establish minimum standards for Abortion Facility licensing procedures; for granting, denying, suspending, and revoking a license; for licensing fees; for operation; and for clinical standards.  Abortion Facilities are not Medicare certified.</p>

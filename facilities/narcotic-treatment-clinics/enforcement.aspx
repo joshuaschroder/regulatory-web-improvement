@@ -1,7 +1,7 @@
 <?php 
 	$title= "Enforcement Actions - Narcotic Treatment Clinics" ; 
-	include '../../includes/header.html'; 
-	include '../../includes/menus/ntc_menu.html'; 
+	include '..//home/codio/workspace/includes/header.html'; 
+	include '..//home/codio/workspace/includes/menus/ntc_menu.html'; 
 ?>
 
 <p><em>There are currently no enforcement actions to report for the past year.</em></p>

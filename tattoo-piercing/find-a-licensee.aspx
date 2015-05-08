@@ -1,7 +1,7 @@
 <?php 
     $title= "Public License Search - Tattoo and Body Piercing Studios" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/tattoo_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/tattoo_menu.html'; 
 ?>
 
 <p>An online search is now available for the following license types: </p>

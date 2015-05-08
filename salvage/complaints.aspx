@@ -1,12 +1,12 @@
 <?php
 	$title= "How to File a Complaint - Salvage Brokers and Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/salvage_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/salvage_menu.html'; 
 ?>
 
 <hr/>
 <h2>Submit Complaints in Writing</h2>
-<p><a title="Email Drug and Medical Device Group Complaints" href="mailto:DMD.regulatory@dshs.state.tx.us">Email Drug and Medical Device Group Complaints</a></p>
+<p><a title="Email Drugs and Medical Devices Group Complaints" href="mailto:DMD.regulatory@dshs.state.tx.us">Email Drugs and Medical Devices Group Complaints</a></p>
 <p>
 	<strong>You may write to:</strong><br/>
 	Drugs and Medical Devices Group MC 1987<br/>

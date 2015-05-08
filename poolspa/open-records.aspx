@@ -1,7 +1,7 @@
 <?php 
 	$title= "Open Records - Public Swimming Pools and Spas" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/poolspa_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/poolspa_menu.html'; 
 ?>
 
 <hr/>

@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - Hospitals" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/hosp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
 ?>
 
 <hr/>
@@ -87,7 +87,7 @@
 	<strong>Facilities Affected:</strong> Hospitals<br/>
 	<strong>Date Posted:</strong> 07/29/2013<br/>
 	<strong>Description:</strong> Overview of approaches that hospitals may take to providing hospice care<br/>	
-	<strong>Contact:</strong> Hospital Licensing Program, 512-834-6648<br/>
+	<strong>Contact:</strong> Hospital Licensing Program, (512) 834-6648<br/>
 	<strong>Complete Details:</strong> <a title="Guidance for Hospitals Providing Hospice Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978974">Guidance for Hospitals Providing Hospice Services</a> <span class="small">(PDF, 112KB)</span><br/>
 </p>
 <hr/>

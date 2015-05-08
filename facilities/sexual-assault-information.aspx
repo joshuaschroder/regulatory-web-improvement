@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Information for Sexual Assault Patients" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p>House Bill (HB) 677, passed during the 79th Regular Session of the Texas Legislature, became effective on September 1, 2005. This law establishes specific requirements relating to emergency services for sexual assault survivors and added Chapter 323 to the Health and Safety Code, which pertains to hospital licensing. One of the requirements of HB 677 mandates that the Department of State Health Services develop standardized information that your health care facility must provide to sexual assault survivors. </p>

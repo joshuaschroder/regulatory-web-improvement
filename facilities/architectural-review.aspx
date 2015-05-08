@@ -1,7 +1,7 @@
 <?php 
 	$title= "Architectural Review Group" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/hfp_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p>An architectural review is one of the processes that is necessary in order to receive license approval from the Department of State Health Services (DSHS) and must be completed for hospitals, ambulatory surgical centers (ASCs), dialysis facilities (ESRDs), free standing emergency medical care facilities (FEMCs), and special care facilities (SCF).</p>
@@ -72,7 +72,7 @@
 <p>The CD’s/DVD’s must have a complete index page which includes page numbers as the first image. The CD’s/DVD’s shall be submitted in a hard case cover(s) with a label indicating the name of the facility and name of the project. The department may request hard copy documents for Life Safety Code plans or any other documents that are necessary for a complete review.</p>
 <ul>
 	<li><strong>Self-certification - </strong>Upon your request and at the discretion of the DSHS Architectural Review Group, you may be allowed to submit a set of final construction documents and the <a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=55002" title="self-certification">self-certification</a> form attesting that plans and specifications are based upon and comply with the requirements of state licensing rules.</li>
-	<li><strong>Minor project - </strong>A small project in a building that holds a current facility license issued by the DSHS and meets the specifications listed in 25 TAC Chapter 117, Chapter 125, Chapter 131, Chapter 133, Chapter 134, or Chapter 135, accordingly may request to be reviewed as a minor project. A minor project shall be requested in writing with a brief written description, narrative of the proposed project, and floor plans which depict the areas of work. Minor project packages shall be submitted via mail or fax (512-834-6620). E-mail submittals will not be processed.</li>	
+	<li><strong>Minor project - </strong>A small project in a building that holds a current facility license issued by the DSHS and meets the specifications listed in 25 TAC Chapter 117, Chapter 125, Chapter 131, Chapter 133, Chapter 134, or Chapter 135, accordingly may request to be reviewed as a minor project. A minor project shall be requested in writing with a brief written description, narrative of the proposed project, and floor plans which depict the areas of work. Minor project packages shall be submitted via mail or fax ((512) 834-6620). E-mail submittals will not be processed.</li>	
 	<li><strong>Fast-track project - </strong>A new hospital or major new hospital addition may request a fast track process. At the discretion of the DSHS Architectural Review Group,, you may be allowed to submit the project documents in two or three separate packages, which will allow for the  review of each package as it is received. This process will allow construction to begin as soon as DSHS issues approval of the initial package. Submittal of the package must be in accordance with 25 TAC Chapter 133, &#167;133.167(g)(2). A fast-track project shall be requested in writing on facility letterhead with a brief written description, including a narrative and construction timeline of the proposed project.</li>
 </ul>
 

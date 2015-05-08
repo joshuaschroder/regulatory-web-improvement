@@ -1,12 +1,12 @@
 <?php
-	$title= "Contact Information - Cosmetics Manufacturers and Distributors" ;
+	$title= "Contact Information - Cosmetic Manufacturers and Distributors" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/cosmetics_menu.html'; 
 ?>
 <hr/>
 <h2>For General Program Inquiries</h2>
 <p>
-	Email: <a title="Drugs and Medical Device Group" href="mailto:DMD.regulatory@dshs.state.tx.us">Drugs and Medical Device Group</a><br/>
+	Email: <a title="Drugs and Medical Devices Group" href="mailto:DMD.regulatory@dshs.state.tx.us">Drugs and Medical Devices Group</a><br/>
 	Phone: (512) 834-6755  <br/>
 	Fax: (512) 834-6759 <br/>
 </p>

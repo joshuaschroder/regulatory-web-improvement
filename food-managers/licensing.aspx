@@ -1,7 +1,7 @@
 <?php
 	$title= "Licensing Requirements for Certified Food Manager Programs" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodman_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodman_menu.html'; 
 ?>
 
 <p>To become licensed as a certified food manager training program, please visit the Food Manager Forms and Applications page and complete the appropriate application for your program.</p>

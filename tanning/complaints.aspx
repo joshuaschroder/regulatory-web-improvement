@@ -1,7 +1,7 @@
 <?php
 	$title= "How to File a Complaint - Tanning Facilities" ;
-	include '../includes/header.html';
-    include '../includes/menus/tanning_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/tanning_menu.html'; 
 ?>
 
 <hr/>

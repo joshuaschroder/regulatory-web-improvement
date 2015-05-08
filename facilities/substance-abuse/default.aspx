@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Substance Abuse Treatment Facilities" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/substance_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/substance_menu.html'; 
 	
 ?>
 
@@ -19,13 +19,13 @@
 </p>	
 <p>
 	<strong>Phone:</strong><br/>
-	Substance Abuse Compliance - 512-834-6700 ext. 2126<br/>
-	Substance Abuse Facility Licensing - 512-834-6600 , ext - 2016 or 2118
+	Substance Abuse Compliance - (512) 834-6700 ext. 2126<br/>
+	Substance Abuse Facility Licensing - (512) 834-6600 , ext - 2016 or 2118
 </p>
 <p>
     <strong>Fax:</strong><br/>
-	Substance Abuse Compliance and Narcotic Treatment Program - 512-834-6638<br/>
-	Substance Abuse Facility Licensing or Narcotic Treatment Facility Licensing - 512-834-4514	
+	Substance Abuse Compliance and Narcotic Treatment Program - (512) 834-6638<br/>
+	Substance Abuse Facility Licensing or Narcotic Treatment Facility Licensing - (512) 834-4514	
 </p>	
     <strong>Email</strong>: <a title="infohflc@dshs.state.tx.us" href="mailto:infohflc@dshs.state.tx.us">infohflc@dshs.state.tx.us</a>
 </p>

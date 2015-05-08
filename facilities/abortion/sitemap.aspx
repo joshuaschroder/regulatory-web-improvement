@@ -1,7 +1,7 @@
 <?php 
     $title= "Sitemap - Abortion Facilities" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/abortion_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 ### Add Sitemap Here ###

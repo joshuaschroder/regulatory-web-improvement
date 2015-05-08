@@ -12,6 +12,6 @@
 
 <p>The Toxicology program also answers questions from all consumers/public-at-large on health effects of any toxic or hazardous chemicals they might have been, or suspect they might have been, exposed to. You may contact Toxicology whether you are already experiencing symptoms, or just need information prior to exposure. Toxicology can also answer questions related to MSDS (Material Safety Data Sheet) and Rules, Regulations and Statutes protecting/covering chemical exposure.</p>
 
-<p>For more information on either EBL or the health effects of any toxic or hazardous chemicals contact: Thandi Ziqubu-Page at 512-834-6788 ext. 2803 or <a title="contact by email" href="mailto:PHSCPS@dshs.state.tx.us">contact by email</a>.</p>
+<p>For more information on either EBL or the health effects of any toxic or hazardous chemicals contact: Thandi Ziqubu-Page at (512) 834-6788 ext. 2803 or <a title="contact by email" href="mailto:PHSCPS@dshs.state.tx.us">contact by email</a>.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

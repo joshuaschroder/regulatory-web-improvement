@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - Freestanding Emergency Medical Care Facilities" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/freestand_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/freestand_menu.html'; 
 ?>
 
 <hr/>

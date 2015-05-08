@@ -1,7 +1,7 @@
 <?php 
     $title= "Prescription Drug Distributors’ Facts and Frequently Asked Questions" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/drugs_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>
 
 <p>Drugs and Medical Devices Group investigators perform inspections/investigations of wholesale drug companies, durable medical equipment dealers, and welding supplies. The <a title="Texas Administrative Code, Sections 229.251 &#8211; 229.254" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=O&rl=Y">Texas Administrative Code, Sections 229.251 &#8211; 229.254</a>, Licensing of Wholesale Distributors of Drugs; Including Good Manufacturing Practices (Drug Rules), adopts certain federal requirements.</p>

@@ -8,7 +8,7 @@
 
 <p>The Texas Department of State Health Services (DSHS) will refer public nuisance complaints to municipalities and counties with local health departments or code enforcement officials. DSHS will respond to public nuisance complaints in areas of the state that do not have a local health department or code enforcement officials.</p>
 
-<p>For more information, or to file a complaint, contact Public Health Sanitation 512-834-6788 or email <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a>.</p>
+<p>For more information, or to file a complaint, contact Public Health Sanitation (512) 834-6788 or email <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a>.</p>
 
 <p>
 	Policy, Standards, and Quality Assurance Unit<br/>

@@ -1,7 +1,7 @@
 <?php 
     $title= "Public License Search - Drug Manufacturers and Distributors" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/drugs_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>
 
 <p>An online search is now available for the following license types: </p>

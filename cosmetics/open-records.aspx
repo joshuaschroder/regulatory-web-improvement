@@ -1,7 +1,7 @@
 <?php 
-	$title= "Open Records - Cosmetics Manufacturers and Distributors" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/cosmetics_menu.html'; 
+	$title= "Open Records - Cosmetic Manufacturers and Distributors" ; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/cosmetics_menu.html'; 
 ?>
 
 <hr/>
@@ -42,8 +42,8 @@
 </p>
 <p>
 	Email: <a title="DMDG Open Records" href="mailto:DMD.regulatory@dshs.state.tx.us?subject=DMDG Open Records">DMDG Open Records</a><br/>
-	Phone: 512-834-6755 <br/>
-	Fax: 512-834-6759
+	Phone: (512) 834-6755 <br/>
+	Fax: (512) 834-6759
 </p>
 
 

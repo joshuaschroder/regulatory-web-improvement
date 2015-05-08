@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - Substance Abuse Treatment Facilities" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/substance_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/substance_menu.html'; 
 ?>
 
 <hr/>

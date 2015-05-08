@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - Birthing Centers" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/birth_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/birth_menu.html'; 
 ?>
 
 <hr/>
@@ -11,7 +11,7 @@
 	<strong>Facilities Affected:</strong> Birthing Centers<br/>
 	<strong>Date Posted:</strong> 08/15/2013<br/>
 	<strong>Description:</strong> Regarding DSHS collection of aggregate data from all licensed birthing centers in Texas<br/>	
-	<strong>Contact:</strong> <a title="Marcia.becker@dshs.state.tx.us" href="mailto:Marcia.becker@dshs.state.tx.us">Dr. Marcia Becker</a>, 512-776-6438<br/>
+	<strong>Contact:</strong> <a title="Marcia.becker@dshs.state.tx.us" href="mailto:Marcia.becker@dshs.state.tx.us">Dr. Marcia Becker</a>, (512) 776-6438<br/>
 	<strong>Complete Details:</strong> <a title="Birthing Center Reporting" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589979729">Birthing Center Reporting</a> <span class="small">(PDF, 239KB)</span><br/>
 </p>
 

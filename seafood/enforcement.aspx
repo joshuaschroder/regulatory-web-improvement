@@ -6,7 +6,7 @@
 
 <hr/>
 <p>Sign up to receive email updates about <a title="consumption advisories and possession bans" href="/seafood/advisories-bans.aspx">consumption advisories and possession bans</a>.</p>
-<p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></p>
+<p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_468"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></p>
 <hr/>
 
 <p><strong><em>There are currently no Seafood and Aquatic Life enforcement actions to report.</em></strong></p>

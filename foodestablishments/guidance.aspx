@@ -1,7 +1,7 @@
 <?php
 	$title= "Guidance and Clarification Documents - Retail Food Service Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <h2>Table of Contents</h2>

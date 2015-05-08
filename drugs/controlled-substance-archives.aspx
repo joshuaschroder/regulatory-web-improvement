@@ -1,7 +1,7 @@
 <?php
 	$title= "Schedules of Controlled Substances Archives - Drug Manufacturers and Distributors" ;
-	include '../includes/header.html';
-	include '../includes/menus/drugs_menu.html';
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/drugs_menu.html';
 ?>
 
 <hr/>

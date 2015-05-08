@@ -43,7 +43,7 @@
 <p>Studios are required to <a title="report any infection/allergic reaction" href="/tattoo-piercing/guidance.aspx">report any infection/allergic reaction</a> from a tattoo or body piercing (whether from your studio or someone else’s) in writing to the Texas Department of State Health Services within five working days of learning about the infection/allergic reaction.<br/><br/></p>
 
 <p><strong>Are there any sample records and client care sheets available to me?</strong></p>
-<p>Yes. We have sample forms for client records, care sheets, a sterilization log, a report of infection/allergic reaction, and affidavits for minors (parental consent forms) available on the <a title="guidance documents page" href="/tattoo-piercing/guidance.aspx">Guidance Documents page</a> or by mail (call 512-834- 6755 to have samples sent). These forms are not to be considered official or mandatory, but are provided as examples containing all required information.</p>
+<p>Yes. We have sample forms for client records, care sheets, a sterilization log, a report of infection/allergic reaction, and affidavits for minors (parental consent forms) available on the <a title="guidance documents page" href="/tattoo-piercing/guidance.aspx">Guidance Documents page</a> or by mail (call (512) 834- 6755 to have samples sent). These forms are not to be considered official or mandatory, but are provided as examples containing all required information.</p>
 
 <hr/>
 <p>These are only a few FAQs Investigators encounter when performing inspections. Feel free to consult our website or contact us for assistance. Our hours are Monday through Friday, 8AM to 5PM.</p>

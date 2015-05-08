@@ -1,7 +1,7 @@
 <?php 
     $title= "Public License Search - Medical Device Manufacturers and Distributors" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/mdev_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/mdev_menu.html'; 
 ?>
 
 

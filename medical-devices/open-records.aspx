@@ -1,7 +1,7 @@
 <?php 
 	$title= "Open Records - Medical Device Manufacturers and Distributors" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/mdev_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/mdev_menu.html'; 
 ?>
 
 <hr/>
@@ -39,8 +39,8 @@
 	<br/>Texas Department of State Health Services
 	<br/>P. O. Box 149347
 	<br/>Austin, Texas 78714-9347<br/>
-	<br/>Phone: 512-834-6755 
-	<br/>Fax: 512-834-6759
+	<br/>Phone: (512) 834-6755 
+	<br/>Fax: (512) 834-6759
 	<br/>Email: <a title="DMD.regulatory@dshs.state.tx.us" href="mailto:DMD.regulatory@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a>
 </p>
 

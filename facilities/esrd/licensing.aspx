@@ -1,7 +1,7 @@
 <?php 
     $title= "End-Stage Renal Disease Facility Licensing Requirements" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/esrd_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/esrd_menu.html'; 
 ?>
 
 <h2>License Application</h2>

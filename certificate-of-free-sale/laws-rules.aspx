@@ -1,7 +1,7 @@
 <?php 
     $title= "Laws and Rules - Certificates of Free Sale and Sanitation and/or Certificates of Origin and Sanitation" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/cfs_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/cfs_menu.html'; 
 ?>
 <hr/>
 <h2>Texas Laws</h2>

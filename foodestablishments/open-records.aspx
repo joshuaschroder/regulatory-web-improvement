@@ -1,8 +1,8 @@
 <?php
 
     $title= "Open Records - Retail Food Service Establishments" ;
-	include '../includes/header.html';
-	include '../includes/menus/foodest_menu.html';
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/foodest_menu.html';
 
 ?>
 
@@ -34,8 +34,8 @@
 </p>
 
 <p>
-	Phone: 512-834-6753 ext. 2040 <br />
-	Fax: 512-834-6681<br/>
+	Phone: (512) 834-6753 ext. 2040 <br />
+	Fax: (512) 834-6681<br/>
 	Email: <a href="mailto:FoodEstablishmentsOpenRecords@dshs.state.tx.us">Food Establishments Open Records</a> 
 </p>
 

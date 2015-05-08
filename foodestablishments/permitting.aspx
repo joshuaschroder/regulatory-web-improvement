@@ -1,7 +1,7 @@
 <?php
 	$title= "Permitting Information - Retail Food Service Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <hr/>
@@ -111,7 +111,7 @@
 	<li>A private home that receives catered or home-delivered food</li>	
 	<li>A <a title="cottage food production operations" href="/foodestablishments/cottagefood/">kitchen in a private home</a> is not considered a food establishment <strong><em>if</em></strong> only food that is not potentially hazardous is prepared for sale or service at a function such as a religious or charitable organization's bake sale (if allowed by law)</li>
 </ul>
-<p><em>* As of  April 1, 2010 Texas Department of State Health Services is no longer licensing day care facilities as food establishments. For further information please call 512-834-6626. </em></p>
+<p><em>* As of  April 1, 2010 Texas Department of State Health Services is no longer licensing day care facilities as food establishments. For further information please call (512) 834-6626. </em></p>
 <hr/>
 
 <h2><a href="#" name="exempt" title="exempt" class="bookmark"></a>Exemptions from Permitting</h2>

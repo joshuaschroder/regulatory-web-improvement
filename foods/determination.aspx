@@ -19,7 +19,7 @@
 	Texas Department of State Health Services <br/>
 	P. O. Box 149347 <br/>
 	Austin, Texas 78714-9347 <br/><br/>
-	<strong>Fax:</strong> 512-834-6681 <br/>
+	<strong>Fax:</strong> (512) 834-6681 <br/>
 	<strong>Email:</strong> <a title="Request for Official Determination " href="mailto:Lewis.Ressler@dshs.state.tx.us?subject=Request for Official Determination ">Lewis.Ressler@dshs.state.tx.us</a> or <a title="Request for Official Determination" href="mailto:Rod.Moline@dshs.state.tx.us?subject=Request for Official Determination">Rod.Moline@dshs.state.tx.us</a>
 </p>
 

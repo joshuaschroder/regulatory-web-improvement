@@ -1,8 +1,8 @@
 <?php
 
     $title= "Open Records - Licensing of Food Manager Training Programs";
-	include '../includes/header.html';
-	include '../includes/menus/foodhand_menu.html';
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/foodhand_menu.html';
 
 ?>
 
@@ -34,8 +34,8 @@
 </p>
 
 <p>
-	Phone: 512-834-6753 ext. 2040 <br />
-	Fax: 512-834-6681<br/>
+	Phone: (512) 834-6753 ext. 2040 <br />
+	Fax: (512) 834-6681<br/>
 	Email: <a href="mailto:FoodEstablishments@dshs.state.tx.us">Food Establishments Open Records</a> 
 </p>
 

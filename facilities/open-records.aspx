@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Open Records - Health Facilities" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <h2>The Public Information Act </h2>

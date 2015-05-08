@@ -1,7 +1,7 @@
 <?php
 	$title= "Licensing of Food Handler Training Programs" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodhand_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodhand_menu.html'; 
 ?>
 
 <p>The Texas Department of State Health Services provides the framework for accrediting food safety education and training programs for food handlers. A uniform standard governing the accreditation of food handler programs enhances the recognition of reciprocity among regulatory agencies and reduces the expense of duplicate education incurred when food handlers work in multiple regulatory jurisdictions.</p>

@@ -1,7 +1,7 @@
 <?php 
     $title= "Centers for Medicare &amp; Medicaid Services (CMS) Information - Health Facilities" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 <p>Healthcare facilities may be certified to participate in the federal Medicare program. The Secretary of the Department of Health and Human Services (DHHS) through the Centers for Medicare and Medicaid Services (CMS) directs state health agencies or other appropriate agencies to determine if health care entities meet federal standards through surveys and complaint investigations.</p> 
 <p>The Texas Department of State Health Services (DSHS) works closely with the CMS Dallas Regional Office regarding certification matters. DSHS divides the state into 5 geographic areas or zones; <a title="view the County Zone List" href="/facilities/compliance-zones.aspx">view the County Zone List</a> to find your appropriate zone office. Additional Medicare information and CMS contact information can be found at the <a title="Center for Medicaid and Medicare Services' " href="http://www.cms.gov/CertificationandComplianc/01_Overview.asp#TopOfPage" target="self">Center for Medicaid and Medicare Services'</a> web site; topics of interest include Medicare initial surveys, outpatient facilities, and observation patients.</p>

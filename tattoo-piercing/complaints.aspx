@@ -1,7 +1,7 @@
 <?php
 	$title= "How to File a Complaint - Tattoo and Body Piercing Studios" ;
-	include '../includes/header.html';
-    include '../includes/menus/tattoo_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/tattoo_menu.html'; 
 ?>
 
 <hr/>

@@ -1,7 +1,7 @@
 <?php 
     $title= "Laws and Rules - Hospitals" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/hosp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
 ?>
 
 <hr/>

@@ -1,8 +1,8 @@
 <?php 
 	
 	$title= "Applications and Forms - Substance Abuse Treatment Facilities" ; 
-	include '../../includes/header.html'; 
-	include '../../includes/menus/substance_menu.html'; 
+	include '..//home/codio/workspace/includes/header.html'; 
+	include '..//home/codio/workspace/includes/menus/substance_menu.html'; 
 	
 ?>
 <h2>License Application</h2>

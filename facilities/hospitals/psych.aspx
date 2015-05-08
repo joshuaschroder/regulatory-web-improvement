@@ -1,8 +1,8 @@
 <?php 
 
     $title= "Licensing Requirements - Private Psychiatric Hospitals and Crisis Stabilization Units" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/hosp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
 
 ?>
 <p>The Facility Licensing Group is responsible for developing rules that establish minimum standards for licensing procedures, operational requirements, standards for voluntary agreements, enforcement procedures, fire prevention and safety requirements, and physical plant and construction requirements for private psychiatric hospitals and crisis stabilization units.</p>

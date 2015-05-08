@@ -1,7 +1,7 @@
 <?php
 	$title="Site Map - Health Facilities Programs" ;
-	include '../includes/header.html';
-	include '../includes/menus/no_menu.html';
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/no_menu.html';
 ?>
 
 <style>ul {list-style-type:none;}</style>

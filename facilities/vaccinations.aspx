@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Vaccinations Against Influenza Virus and Pneumoccal Disease" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>
 

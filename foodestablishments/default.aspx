@@ -1,7 +1,7 @@
 <?php
 	$title= "Retail Food Service Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <p>Food safety is serious business in Texas. Our efforts are dedicated toward elimination of foodborne illness in the Lone Star State through personal and professional excellence. This endeavor requires the help of all public health regions, state and federal agencies, local and city health departments, private industry, and the public. Through teamwork and diligent effort, we can accomplish our mission, "to protect the public health through the efficient operation of a comprehensive, progressive retail food protection program focusing on education, training, and oversight, which will ultimately reduce the potential for foodborne illness in Texas."</p>

@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Comprehensive Out-Patient Rehabilitation Facilities" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p>A Comprehensive Out-Patient Rehabilitation Facility is a nonresidential facility that is established and operated exclusively for the purpose of providing diagnostic, therapeutic, and restorative services to outpatients for the rehabilitation of injured, disabled, or sick persons, at a single fixed location, by or under the supervision of a physician. Comprehensive Out-Patient Rehabilitation Facilities are not state licensed nor are they accredited. They may be certified to participate in the federal Medicare Program.</p>

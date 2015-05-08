@@ -1,7 +1,7 @@
 <?php 
     $title= "Freqently Asked Questions - Certificates of Free Sale and Sanitation and/or Certificates of Origin and Sanitation" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/cfs_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/cfs_menu.html'; 
 ?>
 
 <p><strong>1. How long does it take to get a certificate after I have submitted my application?</strong></p>

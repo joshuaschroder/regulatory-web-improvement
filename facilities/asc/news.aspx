@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - Ambulatory Surgical Centers" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/asc_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/asc_menu.html'; 
 ?>
 
 

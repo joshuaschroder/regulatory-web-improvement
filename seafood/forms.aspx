@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/seafood_menu.html'; 
 ?>
 
-<p>For assistance call 512-834-6626</p>
+<p>For assistance call (512) 834-6626</p>
 
 <ul>
 	<li><a title="Crabmeat Processing Facility (EF23-12968)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589985725">Crabmeat Processing Facility License Application (EF23-12968)</a> <span class="small">(PDF, 108KB)</span></li>

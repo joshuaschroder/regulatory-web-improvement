@@ -1,7 +1,7 @@
 <?php 
 	$title= "Patient Safety: Questions and Answers" ; 
-	include '../../includes/header.html'; 
-	include '../../includes/menus/hfp_menu.html'; 
+	include '..//home/codio/workspace/includes/header.html'; 
+	include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 <ul>
 	<li><a href="#stillborn">Stillborn infants and perinatal death</a></li>

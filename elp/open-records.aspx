@@ -1,7 +1,7 @@
 <?php 
 	$title= "Open Records - Environmental Lead Program" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/elp_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/elp_menu.html'; 
 ?>
 
 <hr/>
@@ -42,8 +42,8 @@
 </p>
 <p>
 	Email: <a title="Environmental Health Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=DMDG%20Open%20Records">Environmental Health Group Open Records</a><br/>
-	Phone: 512-834-6787 ext. 2610 <br/>
-	Fax: 512-834-6707<br/>
+	Phone: (512) 834-6787 ext. 2610 <br/>
+	Fax: (512) 834-6707<br/>
 </p>
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>

@@ -1,7 +1,7 @@
 <?php
 	$title= "Sample Certificates - Food Handler Certification" ;
-	include '../../includes/header.html';
-	include '../../includes/menus/foodhand_menu.html'; 
+	include '..//home/codio/workspace/includes/header.html';
+	include '..//home/codio/workspace/includes/menus/foodhand_menu.html'; 
 ?>
 
 <h2>Accredited Food Handler Training Programs "Sample Certificates"</h2>

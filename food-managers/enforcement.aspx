@@ -1,7 +1,7 @@
 <?php
 	$title= "Enforcement Actions - Certified Food Manager Program" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodman_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodman_menu.html'; 
 ?>
 
 <table class="zebraBorder" summary="Listed in alphabetical order by DBA ">

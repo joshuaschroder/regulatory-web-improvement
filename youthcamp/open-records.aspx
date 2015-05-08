@@ -1,7 +1,7 @@
 <?php 
 	$title= "Open Records - Youth Camp Program" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/youthcamp_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/youthcamp_menu.html'; 
 ?>
 
 <hr/>

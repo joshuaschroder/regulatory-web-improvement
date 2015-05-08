@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Applications and Forms - Birthing Centers" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/birth_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/birth_menu.html'; 
 	
 ?>
 

@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Recognizing &amp; Reporting Child Abuse - Chapter 6: How to Talk to Adolescents (Part 4)" ; 
-    include '../../../includes/header.html'; 
-    include '../../../includes/menus/abortion_menu.html'; 
+    include '../..//home/codio/workspace/includes/header.html'; 
+    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
 	
 ?>
 <hr/>

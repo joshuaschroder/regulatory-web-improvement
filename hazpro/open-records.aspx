@@ -1,7 +1,7 @@
 <?php 
 	$title= "Open Records - Hazardous Consumer Products Registration" ; 
-	include '../includes/header.html'; 
-	include '../includes/menus/hazpro_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/hazpro_menu.html'; 
 ?>
 
 <hr/>

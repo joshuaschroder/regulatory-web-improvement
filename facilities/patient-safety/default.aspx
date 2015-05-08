@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Patient Safety" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/hfp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p><a title="House Bill 1614" href="http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB01614F.htm">House Bill 1614</a> requiring certain events to be reported to the department on an annual basis expired on September 1, 2007. Facilities are no longer required to send a Patient Safety Annual Occurrence or Best Practices Report to the department. Facilities should continue to comply with the Patient Safety Program requirements other than the Annual Occurrence and Best Practices reporting sections.</p>

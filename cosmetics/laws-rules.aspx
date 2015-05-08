@@ -1,5 +1,5 @@
 <?php
-	$title= "Laws and Rules - Cosmetics Manufacturers and Distributors" ;
+	$title= "Laws and Rules - Cosmetic Manufacturers and Distributors" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/cosmetics_menu.html'; 
 ?>

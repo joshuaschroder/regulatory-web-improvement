@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Narcotic Treatment Clinics" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/ntc_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/ntc_menu.html'; 
 	
 ?>
 
@@ -41,13 +41,13 @@
 </p>
 <p>
 	<strong>Phone Numbers</strong><br/>
-	Narcotic Treatment Facility Licensing - 512-834-6600, ext - 2016 or 2118<br/>
-	Narcotic Treatment Program - 512-834-6700 ext. 2146
+	Narcotic Treatment Facility Licensing - (512) 834-6600, ext - 2016 or 2118<br/>
+	Narcotic Treatment Program - (512) 834-6700 ext. 2146
 </p>
 <p>
 	<strong>Fax Numbers</strong><br/>
-	Narcotic Treatment Facility Licensing - 512-834-4514<br/>
-	Narcotic Treatment Program - 512-834-6638
+	Narcotic Treatment Facility Licensing - (512) 834-4514<br/>
+	Narcotic Treatment Program - (512) 834-6638
 </p>
 
 <p><a title="Contact Information" href="/facilities/contact.aspx">Mailing addresses</a> may be found on the contact page.</p>

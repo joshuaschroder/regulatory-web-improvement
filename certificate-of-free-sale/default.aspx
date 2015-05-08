@@ -1,7 +1,7 @@
 <?php 
     $title= "Certificates of Free Sale and Sanitation and/or Certificates of Origin and Sanitation" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/cfs_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/cfs_menu.html'; 
 ?>
 
 <p>Certificates are issued only to Texas licensed manufacturers and/or distributors with products physically present in Texas (and therefore available for inspection by the department) for the purpose of exporting products from the United States into other countries.</p>

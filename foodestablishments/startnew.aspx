@@ -1,7 +1,7 @@
 <?php
 	$title= "Starting a New Retail Food Establishment under Department of State Health Services Jurisdiction" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <p align="right"><a title="Leer Este Documento en Español" href="http://www.dshs.state.tx.us/startnewspanish.aspx">Leer Este Documento en Español</a></p>

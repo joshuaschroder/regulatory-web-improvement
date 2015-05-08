@@ -1,7 +1,7 @@
 <?php 
     $title= "Laws and Rules - End-Stage Renal Disease Facilities" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/esrd_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/esrd_menu.html'; 
 ?>
 
 

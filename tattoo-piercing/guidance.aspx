@@ -5,7 +5,7 @@
 ?>
 
 <hr/>
-<p>These forms are not to be considered official or mandatory, but are provided as examples containing all required information. Forms may also be requested by mail (call 512-834-6755 to have samples sent).</p>
+<p>These forms are not to be considered official or mandatory, but are provided as examples containing all required information. Forms may also be requested by mail (call (512) 834-6755 to have samples sent).</p>
 <hr/>
 
 <h2>Sterilization Record and Report of Infection/Allergic Reaction - Sample Forms</h2>

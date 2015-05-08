@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Laboratories - Clinical Laboratory Improvement Amendments" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p>Laboratories must comply with the Clinical Laboratory Improvement Amendments (CLIA) of 1988. CLIA requires all entities that perform even one test, including waived tests on "materials derived from the human body for the purpose of providing information for the diagnosis, prevention or treatment of any disease or impairment of, or the assessment of the health of, human beings" to meet certain Federal requirements. If an entity performs tests for these purposes, it is considered under CLIA to be a laboratory and must register with the CLIA program.</p> 

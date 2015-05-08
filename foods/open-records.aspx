@@ -36,7 +36,7 @@
 	Texas Department of State Health Services<br/>
 	P. O. Box 149347<br/>
 	Austin, Texas 78714-9347<br/><br/>
-	<strong>Fax:</strong> 512-834-6681<br/>
+	<strong>Fax:</strong> (512) 834-6681<br/>
 	<strong>E-mail:</strong> <a href="mailto:FORR@dshs.state.tx.us ?subject=Open Records Request">Foods Open Records</a>
 </p>
 

@@ -1,7 +1,7 @@
 <?php 
     $title= "Public License Search - Salvage Brokers and Establishments" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/salvage_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/salvage_menu.html'; 
 ?>
 
 

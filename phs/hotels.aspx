@@ -8,7 +8,7 @@
 
 <p>DSHS will, as resources and time allow, inspect and investigate complaints about hotels, motels, inns, RV parks, and campgrounds in areas of the state where there is no local health department or code enforcement officials. DSHS will refer complaints about hotels, motels, inns, RV parks and campgrounds to municipalities or counties with a health department or code enforcement officials.</p>
 
-<p>For more information, or to file a complaint, contact Public Health Sanitation 512-834-6788 or email <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a>.</p>
+<p>For more information, or to file a complaint, contact Public Health Sanitation (512) 834-6788 or email <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a>.</p>
 
 <p>
 	Policy, Standards, and Quality Assurance Unit<br/>

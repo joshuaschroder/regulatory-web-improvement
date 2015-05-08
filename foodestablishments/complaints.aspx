@@ -1,7 +1,7 @@
 <?php
 	$title= "How to File a Complaint - Retail Food Service Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <p>If you have a complaint about a Food Establishment that is under a local jurisdiction, please contact the local jurisdiction directly - <a title="List of Local Health Departments" href="http://www.dshs.state.tx.us/regions/lhds.shtm">List of Local Health Departments</a>.</p>

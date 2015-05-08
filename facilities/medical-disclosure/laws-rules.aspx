@@ -1,8 +1,8 @@
 <?php
 	
 	$title= "Laws and Rules - Texas Medical Disclosure Panel" ;
-	include '../../includes/header.html';
-	include '../../includes/menus/tmdp_menu.html';
+	include '..//home/codio/workspace/includes/header.html';
+	include '..//home/codio/workspace/includes/menus/tmdp_menu.html';
 	
 ?>
 

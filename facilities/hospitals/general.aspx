@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Licensing Requirements - General Hospitals" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/hosp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
 	
 ?>
 <p>The Facility Licensing Group is responsible for developing rules that establish minimum standards for general hospital licensing procedures; fees; operational requirements; inspection and investigation procedures; construction; fire prevention and safety requirements; license denial, probation, suspension and revocation. </p>

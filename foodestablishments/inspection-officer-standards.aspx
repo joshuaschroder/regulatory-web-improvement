@@ -1,8 +1,8 @@
 
 <?php
 	$title= "Inspection Officer Standardization - Retail Food Service Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <p>The Standardization of Food Safety Inspection Officers program promotes consistency in the interpretation of the Texas Food Establishment Rules (TFER). Local health jurisdictions may request that their training officer complete the standardization exercise with a state standardization officer, who has been certified by US Food and Drug Admninistration (FDA). </p>

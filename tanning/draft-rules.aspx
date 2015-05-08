@@ -28,7 +28,7 @@
 </p>
 
 <p>
-	Phone: 512-834-6755 extension 2388
+	Phone: (512) 834-6755 extension 2388
 	Email: <a title="Tom Brinck" href="mailto:tom.brinck@dshs.state.tx.us?subject=Licensure of Tanning Facilities">Tom Brinck</a>
 </p>
 

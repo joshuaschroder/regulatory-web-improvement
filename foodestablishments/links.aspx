@@ -1,7 +1,7 @@
 <?php
 	$title= "Links - Retail Food Service Establishments" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <p><a title="Center for Food Safety &amp;amp; Applied Nutrition (CFSAN) " href="http://www.fda.gov/aboutfda/centersoffices/officeoffoods/cfsan/default.htm">Center for Food Safety &amp; Applied Nutrition (CFSAN) </a></p>

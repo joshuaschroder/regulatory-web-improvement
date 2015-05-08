@@ -29,7 +29,7 @@
 
 <p>
 	If you cannot download these files, DSHS will provide a hard copy of the area(s) you are interested in.<br/>
-	Please email <a title="seafood.regulatory@dshs.state.tx.us" href="mailto:seafood.regulatory@dshs.state.tx.us?subject=Shellfish%20Classification">Seafood and Aquatic Life Program</a> or call 512-834-6757 ext. 2503.
+	Please email <a title="seafood.regulatory@dshs.state.tx.us" href="mailto:seafood.regulatory@dshs.state.tx.us?subject=Shellfish%20Classification">Seafood and Aquatic Life Program</a> or call (512) 834-6757 ext. 2503.
 </p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

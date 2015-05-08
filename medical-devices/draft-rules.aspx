@@ -28,7 +28,7 @@
 	Austin, Texas 78714-9347 
 </p>
 
-<p>Phone: 512-834-6755 extension 2388<br/>
+<p>Phone: (512) 834-6755 extension 2388<br/>
 		Email: <a title="" href="mailto:tom.brinck@dshs.state.tx.us?subject=Licensing of Device Distributors and Manufacturers">Tom Brinck</a>
 </p>
 

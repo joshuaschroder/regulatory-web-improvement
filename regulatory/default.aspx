@@ -1,7 +1,7 @@
 <?php
 	$title="Regulatory Services Division" ;
-	include '../includes/header.html';
-	include '../includes/menus/reg_menu.html';
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/reg_menu.html';
 ?>
 
 

@@ -1,7 +1,7 @@
 <?php 
     $title= "Online Licensing Renewals - Health Facilities" ; 
-    include '../includes/header.html'; 
-    include '../includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 
 <p>The Facility Licensing Group is pleased to provide health care facilities a convenient option for paying license renewal fees over the Internet anytime 24 hours a day, seven days a week.</p>

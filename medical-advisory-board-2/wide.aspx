@@ -7,7 +7,7 @@
 <p>The mission of the Medical Advisory Board is to help reduce traffic deaths, disability and injury by evaluating medical histories, providing medical opinions and making recommendations to the Department of Public Safety (DPS) regarding the medical limitations of referred driver licensees and candidates and concealed handgun licensees and candidates.</p>
 
 <hr/>
-<p>If you need a medical packet for your physician <a title="contact the Medical Advisory Board by email" href="mailto:dshsmab@dshs.state.tx.us?subject=MAB medical packet request">contact the Medical Advisory Board by email</a> or call 512-834-6738 or 512-834-6739. Please specify if you would like the packet sent via mail, fax or email and include your driver's license number.</p>
+<p>If you need a medical packet for your physician <a title="contact the Medical Advisory Board by email" href="mailto:dshsmab@dshs.state.tx.us?subject=MAB medical packet request">contact the Medical Advisory Board by email</a> or call (512) 834-6738 or (512) 834-6739. Please specify if you would like the packet sent via mail, fax or email and include your driver's license number.</p>
 <hr/>
 
 <h2>Table of Contents</h2>

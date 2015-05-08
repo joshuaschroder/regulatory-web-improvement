@@ -1,7 +1,7 @@
 <?php 
 	$title= "Enforcement Actions - Ambulatory Surgical Centers" ; 
-	include '../../includes/header.html'; 
-	include '../../includes/menus/asc_menu.html'; 
+	include '..//home/codio/workspace/includes/header.html'; 
+	include '..//home/codio/workspace/includes/menus/asc_menu.html'; 
 ?>
 
 <table class="zebraBorder" summary="This table is sorted chronologically by date of action (column 6) from oldest to newest">

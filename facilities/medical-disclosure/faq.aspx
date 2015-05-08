@@ -1,7 +1,7 @@
 <?php 
     $title= "Frequently Asked Questions - Texas Medical Disclosure Panel" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/tmdp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/tmdp_menu.html'; 
 ?>
 <p>The Texas Medical Disclosure Panel (Panel) was established in 1977 to provide physicians and other health care providers with guidelines for informed consent, both as to the risks and hazards that should be disclosed to the patient and the form of the disclosure.  <a href="http://www.statutes.legis.state.tx.us/Docs/CP/htm/CP.74.htm" title="Chapter 74, Subchapter C">Chapter 74, Subchapter C</a>, Sections 74.101-74.107, of the Texas Civil Practices and Remedies Code (Consent Statute) set out the specific requirements as to the Panel and the duty of disclosure for informed consent.  The regulations promulgated by the Panel in implementing the statute are set out at <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=25&pt=7&ch=601&rl=Y" title="25 Texas Administrative Code, Sections 601.1-601.8">25 Texas Administrative Code, Sections 601.1-601.8</a>.</p>
 <p>The following is intended to explain the duties of the Panel, the purpose of the guidelines, and use of the consent forms, and to address some of the frequently asked questions.  Unless otherwise provided, the term “provider” refers to a physician or other health care provider identified in the Consent Statute.  This information is not intended as legal advice or to supercede the Consent Statute and regulations promulgated by the Panel, but as general guidance only.  Please note that the Panel does not provide expert testimony in litigation or opinions on the adequacy of consent to medical treatment or surgical procedures other than as provided in the Consent Statute and implementing regulations.</p>

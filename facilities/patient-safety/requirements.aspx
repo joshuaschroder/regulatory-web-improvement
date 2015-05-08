@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Patient Safety Program Requirements" ; 
-    include '../../includes/header.html'; 
-    include '../../includes/menus/hfp_menu.html'; 
+    include '..//home/codio/workspace/includes/header.html'; 
+    include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>        
 <p><a href="http://www.legis.state.tx.us/tlodocs/78R/billtext/html/HB01614F.htm">House Bill 1614</a> affects all <strong>licensed hospitals</strong>, <strong>ambulatory surgical centers</strong> and <strong>private psychiatric hospitals</strong>. These facilities are required to develop and implement an effective ongoing, organization-wide, data driven Patient Safety Program (PSP) that is approved by the facility's governing body. The PSP must include all of the following components: </p>

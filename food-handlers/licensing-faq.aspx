@@ -1,7 +1,7 @@
 <?php
 	$title= "Frequently Asked Questions - How to Become an Accredited Food Handler Program" ;
-	include '../includes/header.html';
-    include '../includes/menus/foodhand_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodhand_menu.html'; 
 ?>
 
 <hr/>
