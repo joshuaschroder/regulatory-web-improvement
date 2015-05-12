@@ -15,8 +15,8 @@
 <h2>Federal Laws</h2>
 <h3>Code of Federal Regulations, Title 40, Chaper 1</h3>
 <ul>
-	<li><a title="Part 61 - National Emission Standards for Hazardous Air Pollutants (HTML)" href="http://www.gpo.gov/fdsys/pkg/CFR-2014-title40-vol9/xml/CFR-2014-title40-vol9-part61.xml">Part 61 - National Emission Standards for Hazardous Air Pollutants</a> <span class="small">(HTML)</span></li>
-	<li><a title="Part 61 - National Emission Standards for Hazardous Air Pollutants (PDF)" href="http://www.gpo.gov/fdsys/pkg/CFR-2014-title40-vol9/pdf/CFR-2014-title40-vol9-part61.pdf">Part 61 - National Emission Standards for Hazardous Air Pollutants</a> <span class="small">(PDF, 2.4MB)</span></li>
+	<li><a title="Part 61 - National Emission Standards for Hazardous Air Pollutants (HTML)" href="http://www.gpo.gov/fdsys/pkg/CFR-2014-title40-vol9/xml/CFR-2014-title40-vol9-part61.xml">Part 61 - National Emission Standards for Hazardous Air Pollutants (NESHAP)</a> <span class="small">(HTML)</span></li>
+	<li><a title="Part 61 - National Emission Standards for Hazardous Air Pollutants (PDF)" href="http://www.gpo.gov/fdsys/pkg/CFR-2014-title40-vol9/pdf/CFR-2014-title40-vol9-part61.pdf">Part 61 - National Emission Standards for Hazardous Air Pollutants (NESHAP)</a> <span class="small">(PDF, 2.4MB)</span></li>
 </ul>
 
 <hr/>

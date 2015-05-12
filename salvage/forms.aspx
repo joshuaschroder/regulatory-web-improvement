@@ -18,7 +18,7 @@
 <p>Additional documentation will be required to complete the salvage application if:</p>
 <ol>
 	<li>The licensee is considered a charitable organization as described in the Internal Revenue Code 501 (c) (3), please submit all required documents proof of 501 (c) exemption.</li>
-	<li>If you are salvaging non-prescription drugs, you must submit a list of licenses held in other states.</li>
+	<li>If you are salvaging prescription or non-prescription drugs, you must submit a list of licenses held in other states.</li>
 	<li>If applying online, you will need to submit the <strong>"APPLICATION SUMMARY" </strong>(which will be sent to your e-mail address) so additional documentation may be placed with your online application.</li>
 </ol>
 <ul>

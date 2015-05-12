@@ -15,7 +15,7 @@
 
 <a class="bookmark" name="apply-license" title="New License Applications"></a>
 <h2>New License Applications</h2>
-<p>To apply for a new license, first login to the <a title="online licensing system" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Online Licensing System</a>, and choose the board of the licensing program.</p>
+<p>To apply for a new license, first login to the <a title="online licensing system" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Online Licensing System</a>, and choose the board of the licensing program. Please see the <a title="Find Your Licensing Board" href="/regulatory/online-licensing/boards.aspx">Find Your Licensing Board or Program</a> page for more information on locating your licensing board or program.</p>
 <p><img style="width:100%; height:auto;" src="/regulatory/online-licensing/img/apply-new.png" alt="choose the board of the licensing program"/></p>
 <p>After selecting the license board, choose the exact license type application from the second list.</p>
 <p><img style="width:100%; height:auto;" src="/regulatory/online-licensing/img/apply-new-2.png" alt="choose the exact license type application"/></p>

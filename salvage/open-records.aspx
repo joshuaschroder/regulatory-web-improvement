@@ -45,7 +45,6 @@
 	Phone: (512) 834-6755 <br/>
 	Fax: (512) 834-6759<br/>
 </p>
-<a title="DMDG Open Records" href="mailto:DMD.regulatory@dshs.state.tx.us?subject=DMDG%20Open%20Records">DMDG Open Records</a>
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
 <p>

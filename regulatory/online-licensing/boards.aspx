@@ -130,6 +130,22 @@
 			<td headers="table_heading_1">Machine Registration Programs</td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0">Industrial Radiographer </td>
+			<td headers="table_heading_1">Radioactive Material Programs</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Laser and Laser Services Laser</td>
+			<td headers="table_heading_1">Machine Registration Programs</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Laser Hair Removal Professionals</td>
+			<td headers="table_heading_1">Machine Registration Programs</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Laser Hair Removal Facilities</td>
+			<td headers="table_heading_1">Machine Registration Programs</td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0">Laser Machine Registration</td>
 			<td headers="table_heading_1">Machine Registration Programs</td>
 		</tr>
@@ -269,7 +285,7 @@
 			<td headers="table_heading_1">Bottled Water Vendor Program</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">X-Ray Machine</td>
+			<td headers="table_heading_0">X-Ray Registration</td>
 			<td headers="table_heading_1">Machine Registration Programs</td>
 		</tr>
 		<tr>

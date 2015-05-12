@@ -19,7 +19,7 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Assistance</h3>
 <p>
-	Email: <a title="Drugs and Medical Device Group" href="mailto:DMD.regulatory@dshs.state.tx.us ">Drugs and Medical Device Group</a><br/>
+	Email: <a title="Drugs and Medical Devices Group" href="mailto:DMD.regulatory@dshs.state.tx.us ">Drugs and Medical Devices Group</a><br/>
 	Phone: (512) 834-6755<br/>
 	Fax: (512) 834-6759<br/>
 </p>

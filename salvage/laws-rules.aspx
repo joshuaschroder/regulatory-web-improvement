@@ -8,6 +8,9 @@
 <h2>Texas Laws</h2>
 <ul>
 	<li><a title="Health and Safety Code, Chapter 432 - Food, Drug, Device, and Cosmetic Salvage Act" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.432.htm">Health and Safety Code, Chapter 432 - Food, Drug, Device, and Cosmetic Salvage Act</a></li>
+	<li><a title="Health and Safety Code, Chapter 431 - Texas Food, Drug, and Cosmetic Act" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.431.htm">Health and Safety Code, Chapter 431 - Texas Food, Drug, and Cosmetic Act</a></li>
+	<li><a title="Health and Safety Code, Chapter 481 - Texas Controlled Substances Act" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.481.htm">Health and Safety Code, Chapter 481 - Texas Controlled Substances Act</a></li>
+	<li><a title="Health and Safety Code, Chapter 483 - Texas Dangerous Drug Act" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.483.htm">Health and Safety Code, Chapter 483 - Texas Dangerous Drug Act</a></li>
 </ul>
 <hr/>
 

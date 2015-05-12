@@ -29,7 +29,7 @@
 
 <h3>For Drugs, Medical Devices, and Cosmetics Questions</h3>
 <p>
-	Email: <a title="DMD.regulatory@dshs.state.tx.us" href="mailto:DMD.regulatory@dshs.state.tx.us">Drugs and Medical Device Group</a><br/>
+	Email: <a title="DMD.regulatory@dshs.state.tx.us" href="mailto:DMD.regulatory@dshs.state.tx.us">Drugs and Medical Devices Group</a><br/>
 	Phone: (512) 834-6755<br/>
 	Fax: (512) 834-6759<br/>
 </p>
