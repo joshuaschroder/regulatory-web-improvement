@@ -1,7 +1,7 @@
 <?php 
     $title= "Ambulatory Surgical Center Licensing Requirements" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/asc_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/asc_menu.html'; 
 ?>
 <h2>License Application</h2>
 <p>The following documents, fees, and actions shall be completed and approved before a license will be issued:</p>
@@ -68,4 +68,4 @@
 	Austin, Texas 78756
 </p>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

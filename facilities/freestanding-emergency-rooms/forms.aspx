@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Applications and Forms - Freestanding Emergency Medical Care Facilities" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/freestand_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/freestand_menu.html'; 
 	
 ?>
 
@@ -22,5 +22,5 @@
 
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>
 

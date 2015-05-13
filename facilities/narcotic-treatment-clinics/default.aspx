@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Narcotic Treatment Clinics" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/ntc_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/ntc_menu.html'; 
 	
 ?>
 
@@ -53,4 +53,4 @@
 <p><a title="Contact Information" href="/facilities/contact.aspx">Mailing addresses</a> may be found on the contact page.</p>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

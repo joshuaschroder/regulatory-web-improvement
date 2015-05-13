@@ -1,7 +1,7 @@
 <?php 
     $title= "Birthing Center Licensing Requirements" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/birth_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/birth_menu.html'; 
 ?>
 <h2>License Applications</h2>
 <p>The following documents, fees, and actions shall be completed and approved before a license will be issued:</p>
@@ -57,4 +57,4 @@
 </p>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

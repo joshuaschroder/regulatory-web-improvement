@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Applications and Forms - Hospitals" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hosp_menu.html'; 
 	
 ?>
 
@@ -58,4 +58,4 @@
 </ul>
 <hr/>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -1,8 +1,8 @@
 <?php 
     
     $title= "End Stage Renal Disease Facilities" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/esrd_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/esrd_menu.html'; 
 ?>
 
 <p>The Texas End Stage Renal Disease (ESRD) Facility Licensing Act was first enacted in 1995 by the 74th Legislature. The Department develops rules that establish minimum standards for ESRD licensing procedures; for granting, denying, suspending, and revoking a license; for licensing fees; for operation; and for requirements concerning design, construction.</p>
@@ -21,4 +21,4 @@
 
 <p><a title="Contact Information" href="/facilities/contact.aspx">Mailing addresses</a> may be found on the contact page.</p>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

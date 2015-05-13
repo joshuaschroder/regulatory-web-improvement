@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - Ambulatory Surgical Centers" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/asc_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/asc_menu.html'; 
 ?>
 
 
@@ -55,4 +55,4 @@
     <strong>Complete Details:</strong> <a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987742">DSHS Position Statement Regarding the Use of Alcohol-Based Surgical Skin Preparations</a> <span class="small">(PDF, 111KB)</span><br/>
 </p>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

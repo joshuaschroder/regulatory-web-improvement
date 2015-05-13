@@ -1,8 +1,8 @@
 <?php
 	
 	$title= "Laws and Rules - Texas Medical Disclosure Panel" ;
-	include '..//home/codio/workspace/includes/header.html';
-	include '..//home/codio/workspace/includes/menus/tmdp_menu.html';
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/tmdp_menu.html';
 	
 ?>
 
@@ -29,4 +29,4 @@
 	<li><a href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589971649" title="Disclosure and Consent – Anesthesia and/or Perioperative Pain Management (Analgesia) – Spanish">Disclosure and Consent – Anesthesia and/or Perioperative Pain Management (Analgesia) - Spanish</a><span class="small"> (PDF, 11KB)</span></li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>																			
+<?php include '/home/codio/workspace/includes/footer.html' ?>																			

@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Recognizing &amp; Reporting Child Abuse - Training Complete" ; 
-    include '../..//home/codio/workspace/includes/header.html'; 
-    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 	
 ?>
 <hr/>
@@ -29,4 +29,4 @@
 <hr/>
 <p> <strong><a title="Quit" href="/facilities/abortion/">QUIT</a></strong></p>
 <p><em>This is the end of the training.</em></p>
-<?php include '../../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

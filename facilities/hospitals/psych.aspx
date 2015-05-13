@@ -1,8 +1,8 @@
 <?php 
 
     $title= "Licensing Requirements - Private Psychiatric Hospitals and Crisis Stabilization Units" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hosp_menu.html'; 
 
 ?>
 <p>The Facility Licensing Group is responsible for developing rules that establish minimum standards for licensing procedures, operational requirements, standards for voluntary agreements, enforcement procedures, fire prevention and safety requirements, and physical plant and construction requirements for private psychiatric hospitals and crisis stabilization units.</p>
@@ -34,4 +34,4 @@
 <p><strong>Private psychiatric hospitals</strong> may be certified to participate in the federal Medicare Program. The Secretary of the Department of Health and Human Services (DHHS) directs state health agencies or other appropriate agencies to determine if health care entities meet federal standards. This helping function is termed "provider certification." Health Facility Compliance Group staff is responsible for certifying hospitals. For more information on the certification process, refer to Rules/Regulation link on right-hand side menu box or contact your zone office. See the <a href="/facilities/compliance-zones.aspx">City-Region-Zone List</a> to find your appropriate zone office.</p>
 <p><strong>Crisis stabilization units</strong> may NOT be certified to participate in the federal Medicare Program.</p>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

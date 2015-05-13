@@ -1,8 +1,8 @@
 <?php 
 
     $title= "Abortion Facility Personnel Training on Recognizing &amp; Reporting Child Abuse in Texas" ; 
-    include '../..//home/codio/workspace/includes/header.html'; 
-    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 <p>Welcome to the Recognizing and Reporting Child Abuse training, which is designed for all staff of Licensed Abortion Facilities. </p>
@@ -21,4 +21,4 @@
 
 <p>DSHS Publications Number: E75-11987 rev. 4/04 </p>
 
-<?php include '../../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

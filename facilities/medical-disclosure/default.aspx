@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Texas Medical Disclosure Panel" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/tmdp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/tmdp_menu.html'; 
 	
 ?>
 
@@ -31,4 +31,4 @@
     <li><a href="/facilities/medical-disclosure/faq.aspx" title="Frequently Asked Questions - Medical Disclosure Panel">Frequently Asked Questions - Medical Disclosure Panel</a></li>
 </ul>
 
-<?php include '../../includes/footer.html' ?> 
+<?php include '/home/codio/workspace/includes/footer.html' ?> 

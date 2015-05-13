@@ -1,7 +1,7 @@
 <?php 
     $title= "Enforcement Actions - Private Psychiatric Hospitals and Crisis Stabilization Units" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hosp_menu.html'; 
 ?>
 
 <table class="zebra" summary="This table is sorted chronologically by date of action (column 6) from oldest to newest">
@@ -199,4 +199,4 @@ If no information is listed,  there are no enforcement actions to report for the
 	<li><a title="Health Facility Program Rules" href="/facilities/laws-rules.aspx">Health Facility Program Rules</a></li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

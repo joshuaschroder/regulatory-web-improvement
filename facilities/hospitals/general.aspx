@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Licensing Requirements - General Hospitals" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hosp_menu.html'; 
 	
 ?>
 <p>The Facility Licensing Group is responsible for developing rules that establish minimum standards for general hospital licensing procedures; fees; operational requirements; inspection and investigation procedures; construction; fire prevention and safety requirements; license denial, probation, suspension and revocation. </p>
@@ -38,4 +38,4 @@
 <p>(CAH)- This type of hospital is a federal designation. See the <a title="Center for Medicaid and Medicare Services' " href="http://www.cms.hhs.gov/CertificationandComplianc/04_CAHs.asp">Center for Medicaid and Medicare Services'</a>web site for information on attaining Medicare certification. The Office of Rural Community Affairs maintains a <a title="list of CAHs in Texas" href="http://www.texasagriculture.gov/GrantsServices/RuralEconomicDevelopment/StateOfficeofRuralHealth.aspx">list of CAHs in Texas</a>. </p>
 
 
-<?php include '../../includes/footer.html' ?>	
+<?php include '/home/codio/workspace/includes/footer.html' ?>	

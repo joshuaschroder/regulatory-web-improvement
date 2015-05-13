@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Laws and Rules - Narcotic Treatment Clinics" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/ntc_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/ntc_menu.html'; 
 	
 ?>
 
@@ -27,4 +27,4 @@
 </ul>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

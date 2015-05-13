@@ -1,8 +1,8 @@
 <?php 
 
     $title= "Recognizing &amp; Reporting Child Abuse - Chapter 2: What is Child Abuse? (Part 2)" ; 
-    include '../..//home/codio/workspace/includes/header.html'; 
-    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 <p><em>The following are legal definitions that are applicable only in Texas.</em></p>
 <hr/>
@@ -34,4 +34,4 @@
 <p> <strong><a title="Previous Page" href="/facilities/abortion/training/2-1-definitions.aspx">PREVIOUS</a></strong> | <strong><a title="Next Page" href="/facilities/abortion/training/2-3-definitions.aspx">NEXT</a></strong></p>
 <p><em>Use the links to move from one page to another in the training.<br/>Please go on to the next page</em></p>
 
-<?php include '../../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

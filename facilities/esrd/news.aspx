@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - End-Stage Renal Disease Facilities" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/esrd_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/esrd_menu.html'; 
 ?>
 
 <hr/>
@@ -69,4 +69,4 @@
 
 <hr/>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

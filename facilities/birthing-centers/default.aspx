@@ -1,7 +1,7 @@
 <?php 
     $title="Birthing Centers" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/birth_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/birth_menu.html'; 
 ?>
 
 <p>The Texas Birthing Center Licensing Act was first enacted in 1985 by the 69th Legislature.  A birthing center is an alternative means for a pregnant woman to deliver in a setting other than at home or in a hospital.</p>
@@ -21,4 +21,4 @@
 <p><a title="Contact Information" href="/facilities/contact.aspx">Mailing addresses</a> may be found on the contact page.</p>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

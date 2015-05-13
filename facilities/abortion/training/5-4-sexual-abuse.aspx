@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Recognizing &amp; Reporting Child Abuse - Chapter 5: Recognizing Sexual Abuse (Part 4)" ; 
-    include '../..//home/codio/workspace/includes/header.html'; 
-    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 	
 ?>
 
@@ -23,4 +23,4 @@
 <p><em>Page 4 of 7</em></p>
 <p> <strong><a title="Previous Page" href="/facilities/abortion/training/5-3-sexual-abuse.aspx">PREVIOUS</a></strong> | <strong><a title="Next Page" href="/facilities/abortion/training/5-5-sexual-abuse.aspx">NEXT</a></strong></p>
 <p><em>Use the links to move from one page to another in the training.<br/><br/>Please go on to the next page</em></p>
-<?php include '../../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

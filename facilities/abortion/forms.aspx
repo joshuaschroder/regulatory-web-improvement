@@ -1,7 +1,7 @@
 <?php 
     $title= "Applications and forms - Abortion Facilities" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 <h2>License Application</h2>
@@ -28,4 +28,4 @@
 <p><a id="training" name="training"></a>Abortion Facility Personnel Training on <a title="Training on Recognizing and Reporting Child Abuse" href="/facilities/abortion/training/">Recognizing and Reporting Child Abuse</a> - (DSHS Publication #E75-11987)</p>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

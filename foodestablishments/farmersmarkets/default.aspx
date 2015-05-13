@@ -1,7 +1,7 @@
 <?php
 	$title= "Farmers' Markets" ;
-	include '..//home/codio/workspace/includes/header.html';
-    include '..//home/codio/workspace/includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <hr/>
@@ -85,4 +85,4 @@
 <p><a title="Frequently Asked Questions - Farmers' Market" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992411">Frequently Asked Questions - Farmers' Market</a> <span class="small">(PDF, 207KB)</span></p>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

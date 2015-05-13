@@ -1,7 +1,7 @@
 <?php 
     $title= "Laws and Rules - Birthing Centers" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/birth_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/birth_menu.html'; 
 ?>
 
 <h2 id="laws">Texas Laws</h2>
@@ -19,4 +19,4 @@
 </ul>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

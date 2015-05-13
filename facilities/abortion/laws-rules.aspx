@@ -1,7 +1,7 @@
 <?php 
     $title= "Laws and Rules - Abortion Facilities" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 <h2>Texas Laws</h2>
 <ul>
@@ -16,4 +16,4 @@
     <li><a title="Abortion Facility Reporting and Licensing - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51080">Abortion Facility Reporting and Licensing - PDF</a> <span class="small">(PDF, 198KB)</span></li>    
 </ul>    
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

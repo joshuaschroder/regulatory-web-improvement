@@ -1,7 +1,7 @@
 <?php 
 	$title= "Patient Safety: Questions and Answers" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 ?>
 <ul>
 	<li><a href="#stillborn">Stillborn infants and perinatal death</a></li>
@@ -35,4 +35,4 @@
 	<dt><a id="hospitalcampuses"></a>Our hospital is comprised of 3 separate campuses. Do we submit a report for each campus?<br/><br/></dt>
 	<dd>The reporting of events is tied to the facility's license. If all three campuses are under the same license, then you should submit only one report for all locations under that license number. (Posted 08/12/04) </dd>
 </dl>
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

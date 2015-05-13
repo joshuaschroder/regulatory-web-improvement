@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Recognizing &amp; Reporting Child Abuse - Chapter 6: How to Talk to Adolescents (Part 3)" ; 
-    include '../..//home/codio/workspace/includes/header.html'; 
-    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 	
 ?>
 <hr/>
@@ -31,4 +31,4 @@
 <p><em>Page 3 of 4</em></p>
 <p> <strong><a title="Previous Page" href="/facilities/abortion/training/6-2-talking.aspx">PREVIOUS</a></strong> | <strong><a title="Next Page" href="/facilities/abortion/training/6-4-talking.aspx">NEXT</a></strong></p>
 <p><em>Use the links to move from one page to another in the training.<br/><br/>Please go on to the next page</em></p>
-<?php include '../../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

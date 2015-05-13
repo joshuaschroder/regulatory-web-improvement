@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Recommendations Relating to Missing Infants" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>        
 <style> ul {list-style-type:none;} </style>
@@ -76,4 +76,4 @@
 <p>Facility Licensing Group <br/>Department of State Health Services <br/>February 1998 </p>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

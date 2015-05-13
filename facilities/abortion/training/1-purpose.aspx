@@ -1,8 +1,8 @@
 <?php 
 
     $title= "Recognizing &amp; Reporting Child Abuse - Chapter 1: Purpose" ; 
-    include '../..//home/codio/workspace/includes/header.html'; 
-    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 <p>Provide training to abortion facility staff to understand child abuse and the responsibility/duty to report under Texas Law.</p>
@@ -21,4 +21,4 @@
 <p><em>Use the links to move from one page to another in the training.<br/>Please go on to the next page</em></p>
 
 
-<?php include '../../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -1,8 +1,8 @@
 <?php 
 	
 	$title= "Sitemap - Hospital Licensing and Regulation" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/no_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/no_menu.html'; 
 	
 ?>
 
@@ -113,4 +113,4 @@
 
 
 
-<?php include '../../includes/footer.html' ?>	
+<?php include '/home/codio/workspace/includes/footer.html' ?>	

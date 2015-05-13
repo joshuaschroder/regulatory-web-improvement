@@ -1,8 +1,8 @@
 <?php 
 	
 	$title= "Licensing Requirements - Substance Abuse Treatment Facilities" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/substance_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/substance_menu.html'; 
 	
 ?>
 <hr/>
@@ -170,4 +170,4 @@
 </p>
 <hr/>
 <p><em>External links to other sites are intended to be informational and do not have the endorsement of the Texas Department of State Health Services. These sites may not be accessible to people with disabilities.</em></p>
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

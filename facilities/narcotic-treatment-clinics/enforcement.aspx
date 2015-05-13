@@ -1,7 +1,7 @@
 <?php 
 	$title= "Enforcement Actions - Narcotic Treatment Clinics" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/ntc_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/ntc_menu.html'; 
 ?>
 
 <p><em>There are currently no enforcement actions to report for the past year.</em></p>
@@ -30,4 +30,4 @@
 	<li><a title="Health Facility Program Rules" href="/facilities/laws-rules.aspx">Health Facility Program Rules</a></li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

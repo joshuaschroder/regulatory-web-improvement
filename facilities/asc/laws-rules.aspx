@@ -1,7 +1,7 @@
 <?php 
     $title= "Laws and Rules - Ambulatory Surgical Centers" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/asc_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/asc_menu.html'; 
 ?>
 
 <h2 id="laws">Texas Laws</h2>
@@ -19,4 +19,4 @@
 	<li><a title="Federal Regulations - Ambulatory Surgical Centers, 42 CFR 416" href="http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=42:3.0.1.1.3&amp;idno=42">Federal Regulations - Ambulatory Surgical Centers, 42 CFR 416</a>&nbsp; See section 1 to 150 </li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

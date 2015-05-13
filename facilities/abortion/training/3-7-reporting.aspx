@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Recognizing &amp; Reporting Child Abuse - Chapter 3: Your Responsibility to Report (Part 7)" ; 
-    include '../..//home/codio/workspace/includes/header.html'; 
-    include '../..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 <hr/>
@@ -20,4 +20,4 @@
 <p> <strong><a title="Previous Page" href="/facilities/abortion/training/3-6-reporting.aspx">PREVIOUS</a></strong> | <strong><a title="Next Page" href="/facilities/abortion/training/3-8-reporting.aspx">NEXT</a></strong></p>
 <p><em>Use the links to move from one page to another in the training.<br/>Please go on to the next page</em></p>
 
-<?php include '../../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

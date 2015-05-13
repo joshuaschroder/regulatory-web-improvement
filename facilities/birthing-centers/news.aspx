@@ -1,7 +1,7 @@
 <?php 
     $title= "Program News - Birthing Centers" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/birth_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/birth_menu.html'; 
 ?>
 
 <hr/>
@@ -28,4 +28,4 @@
 
 <hr/>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

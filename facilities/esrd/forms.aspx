@@ -1,8 +1,8 @@
 <?php 
     
     $title= "Applications and Forms - End Stage Renal Disease Facilities" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/esrd_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/esrd_menu.html'; 
 ?>
 
 <h2>License Application</h2>
@@ -20,4 +20,4 @@
 </ul>
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Patient Safety Background Information" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>        
 
@@ -20,4 +20,4 @@
 	<li>The department will be responsible for compiling the data pertaining to reported events and best practices and making a summary of the information available to the public. The information made available to the public may not directly or indirectly identify a particular hospital or individual, or the specific events, circumstances or individuals surrounding a reported event.<em> To view the latest report, press the back button and select the link to the DSHS Annual Occurrence and Best Practice Report.</em> </li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

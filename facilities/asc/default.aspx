@@ -1,7 +1,7 @@
 <?php 
     $title= "Ambulatory Surgical Centers" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/asc_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/asc_menu.html'; 
 ?>
 
 <p>The Texas Ambulatory Surgical Center Licensing Act was first enacted in 1985 by the 69th Legislature. Ambulatory Surgical Centers (ASCs) are commonly referred to as "day surgery centers." An ASC must provide surgical services as its primary service. ASCs do not provide overnight or inpatient care. Care is provided on an out-patient basis. </p>
@@ -23,4 +23,4 @@
 
 
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

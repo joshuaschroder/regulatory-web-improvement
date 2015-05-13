@@ -1,7 +1,7 @@
 <?php 
 	$title= "Licensing Requirements - Narcotic Treatment Clinics" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/ntc_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/ntc_menu.html'; 
 ?>
 
 <h2>License Application</h2>
@@ -45,6 +45,6 @@
 <hr/>
 <p><em>External links to other sites are intended to be informational and do not have the endorsement of the Texas Department of State Health Services. These sites may not be accessible to people with disabilities.</em></p>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>
 
 

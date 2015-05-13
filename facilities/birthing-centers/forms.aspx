@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Applications and Forms - Birthing Centers" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/birth_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/birth_menu.html'; 
 	
 ?>
 
@@ -25,4 +25,4 @@
 <p>The updated paper Texas Medicaid Provider Enrollment Application will be version XXII. A checkbox for the LM provider type and the Physician’s Letter of Agreement form, which will be required for LMs and certified nurse midwives, will also be added to this version of the paper application.  For more information or for assistance with completing the application, call the TMHP Contact Center at 1-800-925-9126.</p>
 <hr/>
 <p><em>External links to other sites are intended to be informational and do not have the endorsement of the Texas Department of State Health Services. These sites may not be accessible to people with disabilities.</em></p>
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

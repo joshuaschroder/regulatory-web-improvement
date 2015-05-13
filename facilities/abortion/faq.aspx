@@ -1,7 +1,7 @@
 <?php 
 	$title= "Frequently Asked Questions - Abortion Facilities" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/abortion_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/abortion_menu.html'; 
 ?>
 
 <div>
@@ -112,4 +112,4 @@
 	<dd>ANSWER: This is to be determined by the physician who is to perform the abortion procedure.<br/><br/></dd>
 </dl>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

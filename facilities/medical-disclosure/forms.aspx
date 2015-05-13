@@ -1,8 +1,8 @@
 <?php
 	
 	$title= "Consent Forms – Texas Medical Disclosure Panel" ;
-	include '..//home/codio/workspace/includes/header.html';
-	include '..//home/codio/workspace/includes/menus/tmdp_menu.html';
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/tmdp_menu.html';
 	
 ?>
 
@@ -34,4 +34,4 @@
 </ul>
 
 
-<?php include '../../includes/footer.html' ?>																			
+<?php include '/home/codio/workspace/includes/footer.html' ?>																			

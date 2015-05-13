@@ -1,8 +1,8 @@
 <?php 
 	
 	$title= "Laws and Rules - Substance Abuse Treatment Facilities" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/substance_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/substance_menu.html'; 
 	
 ?>
 
@@ -22,4 +22,4 @@
 	<li><a title="Guidance Regarding Co-location of Facilities and/or Other Programs/Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589970347">Guidance Regarding Co-location of Facilities and/or Other Programs/Services</a> <span class="small">(PDF, 48KB)</span></li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

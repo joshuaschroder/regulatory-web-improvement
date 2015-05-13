@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Laws and Rules - Freestanding Emergency Medical Care Facilities" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/freestand_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/freestand_menu.html'; 
 	
 ?>
 
@@ -19,5 +19,5 @@
 	<li><a title="25 TAC 131 - Freestanding Emergency Medical Care Facilities - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=55033">25 TAC 131 - Freestanding Emergency Medical Care Facilities</a> <span class="small">(PDF, 705KB)</span></li>
 </ul>	
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>
 

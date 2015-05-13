@@ -1,7 +1,7 @@
 <?php
 	$title= "Accredited Food Handler Internet (Online) Training Programs" ;
-	include '..//home/codio/workspace/includes/header.html';
-	include '..//home/codio/workspace/includes/menus/no_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
 <hr/>
 <p><strong><em>Download this Document:</em></strong> <a title="Accredited Food Handler Online Training Programs - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993243">Accredited Food Handler Internet (Online) Training Programs</a> <span class="small">(PDF, 33KB)</span>
@@ -325,4 +325,4 @@
 	</tr>		
 </tbody>
 </table>
-<?php include '../../includes/footer.html' ?>	
+<?php include '/home/codio/workspace/includes/footer.html' ?>	

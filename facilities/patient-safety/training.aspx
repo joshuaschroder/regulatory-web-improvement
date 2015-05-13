@@ -1,8 +1,8 @@
 <?php 
 	
 	$title= "Patient Safety Training Aids" ; 
-	include '..//home/codio/workspace/includes/header.html'; 
-	include '..//home/codio/workspace/includes/menus/hfp_menu.html'; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>        
 
@@ -15,4 +15,4 @@
 	<li><a title="Root Cause Analysis Evaluation Tool" href="/hfp/pdf/saf_RootCauseEvalTool/">Root Cause Analysis Evaluation Tool</a> <span class="small">(PDF, 32KB)</span></li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

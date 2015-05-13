@@ -1,8 +1,8 @@
 <?php 
 	
     $title= "Contact - Hospital Licensing and Regulation" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hosp_menu.html'; 
 	
 ?>
 
@@ -21,4 +21,4 @@
 
 <p><a href="/facilities/contact.aspx">Mailing addresses</a> may be found on the main facilities contact page.</p>
 
-<?php include '../../includes/footer.html' ?>	
+<?php include '/home/codio/workspace/includes/footer.html' ?>	

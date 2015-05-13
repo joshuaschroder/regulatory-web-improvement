@@ -1,7 +1,7 @@
 <?php 
     $title= "Laws and Rules - Hospitals" ; 
-    include '..//home/codio/workspace/includes/header.html'; 
-    include '..//home/codio/workspace/includes/menus/hosp_menu.html'; 
+    include '/home/codio/workspace/includes/header.html'; 
+    include '/home/codio/workspace/includes/menus/hosp_menu.html'; 
 ?>
 
 <hr/>
@@ -71,4 +71,4 @@
 	<li><a title="DSHS Position Statement Regarding the Use of Alcohol-Based Surgical Skin Preparations" href="http://www.dshs.state.tx.us/hfp/pdf/PositionStatement_-AlcoholBasedSkinPrep/">DSHS Position Statement Regarding the Use of Alcohol-Based Surgical Skin Preparations</a> <span class="small">(PDF, 88KB)</span></li>
 </ul>
 
-<?php include '../../includes/footer.html' ?>
+<?php include '/home/codio/workspace/includes/footer.html' ?>

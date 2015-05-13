@@ -1,7 +1,7 @@
 <?php
 	$title= "Cottage Food Production Operations" ;
-	include '..//home/codio/workspace/includes/header.html';
-	include '..//home/codio/workspace/includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <hr/>
@@ -154,4 +154,4 @@
 <p><a href="#" name="19" title="19" class="bookmark"></a><strong>What are pickles? </strong>
 <br/>Pickles are made from cucumbers that have been preserved in vinegar, brine, or a similar solution. Only pickled cucumbers are allowed under the Cottage Food Law. All other pickled vegetables are prohibited. Federal requirements have been established for production of acidified foods such as pickles. If foods are sold across state lines, then the federal requirements would definitely apply. Under the FDA’s interpretation of “interstate commerce,” the federal requirements might also apply to cottage food producers who purchase supplies from out-of-state. As a precautionary measure, you may wish to take the federal course if you intend to sell pickles under the cottage foods law.</p>
 
-<?php include '../../includes/footer.html' ?>	
+<?php include '/home/codio/workspace/includes/footer.html' ?>	
