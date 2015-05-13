@@ -1,7 +1,7 @@
 <?php
 	$title= "Frequently Asked Questions - Farmers' Markets" ;
-	include '..//home/codio/workspace/includes/header.html';
-	include '..//home/codio/workspace/includes/menus/foodest_menu.html'; 
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
 <p><em>If you have addition questions, please contact Chris Sparks, Manager at <a title="Farmers' Markets" href="mailto:christopher.sparks@dshs.state.tx.us?subject=Farmers' Markets">christopher.sparks@dshs.state.tx.us</a>.</em></p>
@@ -145,4 +145,4 @@ Yes. Meat or poultry products must come from animals processed in compliance wit
 </strong>Yes. Commercial fishermen must possess a license from the TPWD or the fish and other cultured species must be produced and raised in a facility that has an aquaculture license from TDA and a temporary food establishment permit is required. <br />
 </p>
 
-<?php include '../../includes/footer.html' ?>					
+<?php include '/includes/footer.html' ?>					
