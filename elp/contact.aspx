@@ -30,6 +30,7 @@
 
 <h3>Licensing Information</h3>
 <p>
+	Email: <a title="lead.reg@dshs.state.tx.us" href="mailto:lead.reg@dshs.state.tx.us">lead.reg@dshs.state.tx.us</a><br/>
 	Toll Free: (888) 778-9440 ext. 2174 <br/>
 	Phone: (512) 834-6660, ext. 2174<br/>
 	Fax: (512) 834-6614<br/>
@@ -37,6 +38,7 @@
 
 <h3>Trainer Accreditation Information</h3>
 <p>
+	Email: <a title="lead.reg@dshs.state.tx.us" href="mailto:lead.reg@dshs.state.tx.us">lead.reg@dshs.state.tx.us</a><br/>
 	Toll Free: (888) 778-9440 ext. 2483<br/>
 	Phone: (512) 834-6600, ext. 2483<br/>
 	Fax: (512) 834-6614<br/>
@@ -44,6 +46,7 @@
 
 <h3>For Other Questions or Further Help</h3>
 <p>
+	Email: <a title="leadhelp@dshs.state.tx.us" href="mailto:leadhelp@dshs.state.tx.us">leadhelp@dshs.state.tx.us</a><br/>	
 	Toll-free: (888) 778-9440, ext. 2434 <br/>
 	Phone: (512) 834-6787, ext. 2434<br/>
 	Fax: (512) 834-6726<br/>

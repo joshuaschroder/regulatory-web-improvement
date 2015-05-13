@@ -12,7 +12,7 @@
 <p>A firm must have a retail food establishment permit if any food or beverage preparation is conducted. A firm that offers any type of potentially hazardous food must also have a retail food establishment permit. An permit is not required if a firm only offers prepackaged non-potentially hazardous food, such as bottled drinks or snacks, or offers whole, uncut produce. </p>
 <hr />
 <p><strong>How can I obtain a Retail Food Establishment Application?</strong></p>
-<p>A Retail Food Permit Application may be obtained by contacting the Food &amp; Drug Licensing Group at (512) 834-6626. The applications can also be downloaded from the <a href="/foodestablishments/licensing.aspx">Food Establishments Licensing page</a>.</p>
+<p>A Retail Food Permit Application may be obtained by contacting the Foods Licensing Group at (512) 834-6626. The applications can also be downloaded from the <a href="/foodestablishments/licensing.aspx">Food Establishments Licensing page</a>.</p>
 <hr />
 <p><strong>What are the Texas Food Establishment Rules (TFER)?</strong></p>
 <p>The TFER is a comprehensive set of rules for the regulation of retail food establishments. These rules are based on the current FDA Model Food Code. In these rules, food establishments include: restaurants, grocery stores, mobile food vendors, temporary food establishments, roadside food vendors and others. A copy of the TFER can be downloaded from the <a href="/foodestablishments/laws-rules.aspx">Food Establishments Laws &amp; Rules page</a>.</p>

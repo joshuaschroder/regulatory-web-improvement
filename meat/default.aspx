@@ -7,27 +7,19 @@
 
 <hr/>
 <h2>Email Updates</h2>
-<p>Sign up to receive email updates about important changes to the Meat Safety Program. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
+<p>Sign up to receive email updates about important changes to the Meat Safety Program. This feature will serve as a tool to increase communication with customers regarding new information added to the website.</p>
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_466"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a><br/><br/></p>
 
 <hr/>
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
-<h3>For General Program Assitance</h3>
 <p>
 	Email: <a title="meat.regulatory@dshs.state.tx.us" href="mailto:meat.regulatory@dshs.state.tx.us">Meat Safety Assurance Unit</a><br/>
 	Phone: (512) 834-6760<br/>
 	Fax: (512) 834-6763<br/>
-	TDD: (800) 735-2989<br/>
-</p>
-<br/>
-<h3>For Licensing Assistance</h3>
-<p>
-	Email: <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
-	Phone: (512) 834-6727<br/>
-	Fax: (512) 834-6741<br/>
 </p>
 
 <p>Mailing addresses may be found on the <a title="contact page" href="/meat/contact.aspx">contact page</a>.</p>
-
+<hr/>
+<p><em>An equal opportunity employer and provider.</em></p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

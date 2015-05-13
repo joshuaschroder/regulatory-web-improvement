@@ -10,7 +10,7 @@
 <h2>Sign up to Receive Email Notifications</h2>
 <p>Sign up to receive announcements by e-mail about important activities regarding the Environmental Lead Program. This feature will serve as a tool to increase communication regarding future issues such as proposed rule changes, rule interpretations, enforcement actions, or updated licensing forms, procedures, etc.</p>
 
-<p><strong><a title="Sign up for e-mail updates" href="http://service.govdelivery.com/service/subscribe.html?code=TXHHSC_179"><img title="Sign up for e-mail updates" border="0" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></strong></p>
+<p><strong><a title="Sign up for e-mail updates" href="https://service.govdelivery.com/service/subscribe.html?code=TXHHSC_179"><img title="Sign up for e-mail updates" border="0" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></strong></p>
 
 <hr/>
 <a class="bookmark" title="contact" name="contact"></a>
@@ -39,6 +39,7 @@
 
 <h3>Licensing Information</h3>
 <p>
+	Email: <a title="lead.reg@dshs.state.tx.us" href="mailto:lead.reg@dshs.state.tx.us">lead.reg@dshs.state.tx.us</a><br/>
 	Toll Free: (888) 778-9440 ext. 2174 <br/>
 	Phone: (512) 834-6660, ext. 2174<br/>
 	Fax: (512) 834-6614<br/>
@@ -46,6 +47,7 @@
 
 <h3>Trainer Accreditation Information</h3>
 <p>
+	Email: <a title="lead.reg@dshs.state.tx.us" href="mailto:lead.reg@dshs.state.tx.us">lead.reg@dshs.state.tx.us</a><br/>
 	Toll Free: (888) 778-9440 ext. 2483<br/>
 	Phone: (512) 834-6600, ext. 2483<br/>
 	Fax: (512) 834-6614<br/>
@@ -53,11 +55,11 @@
 
 <h3>For Other Questions or Further Help</h3>
 <p>
+	Email: <a title="leadhelp@dshs.state.tx.us" href="mailto:leadhelp@dshs.state.tx.us">leadhelp@dshs.state.tx.us</a><br/>	
 	Toll-free: (888) 778-9440, ext. 2434 <br/>
 	Phone: (512) 834-6787, ext. 2434<br/>
 	Fax: (512) 834-6726<br/>
 </p>
-
 <p>Mailing and physical addresses may be found on the <a title="contact information" href="/elp/contact.aspx">contact information</a> page.</p>
 
 

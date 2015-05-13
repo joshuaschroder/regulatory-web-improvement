@@ -11,7 +11,7 @@
 	<li>For manufacturers, of food, drug, medical device products, within 12 months from the date of the application. </li>
 	<li>For manufacturers, distributors, or wholesalers of cosmetic products, within 24 months from the date of the application. </li>
 	<li>For distributors or wholesalers of foods, drugs, or medical devices, within 24 months from the date of the application. </li>
-	<li>For producers, processors, and distributors of milk or dairy, frozen dessert, and molluscan shellfish products, within three months from the date of the application.</li>
+	<li>For producers, processors, and distributors of milk or dairy, frozen dessert, and molluscan shellfish products, within 12 months from the date of the application.</li>
 </ol>
 <p>If an inspection has not been done within the above timeframes, additional time will be required.</p>
 <p><strong>Return the completed application and non-refundable fee to:</strong><br/> 

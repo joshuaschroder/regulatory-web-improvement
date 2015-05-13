@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/phs_menu.html'; 
 ?>
 
-<p>The Texas Department of State Health Services (DSHS) conducts inspections for compliance with the standards of the <a title="Health and Safety Code §756.061" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.756.htm#756.061">Health and Safety Code §756.061</a> of playground equipment at schools, child care facilities and municipal parks in areas of the State of Texas without local Health Departments and at all youth camps and state parks. The regulation requires all playground equipment purchased with public funds to comply with the US Consumer Product Safety Commission’s <a title="Handbook for Public Playground Safety" href="http://www.cpsc.gov/CPSCPUB/PUBS/325.pdf">Handbook for Public Playground Safety</a> <span class="small">(PDF, 1.2MB)</span>.</p>
+<p>The Texas Department of State Health Services (DSHS) conducts inspections for compliance with the standards of the <a title="Health and Safety Code §756.061" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.756.htm#756.061">Health and Safety Code §756.061</a> of playground equipment at schools, child care facilities and municipal parks in areas of the State of Texas without local Health Departments and at all youth camps and state parks. The regulation requires all playground equipment purchased with public funds to comply with the US Consumer Product Safety Commission’s <a title="Handbook for Public Playground Safety" href="http://www.cpsc.gov/PageFiles/122149/325.pdf">Handbook for Public Playground Safety</a> <span class="small">(PDF, 1.2MB)</span>.</p>
 
 <p>Playground equipment inspections may be conducted as part of a facility inspection.</p>
 

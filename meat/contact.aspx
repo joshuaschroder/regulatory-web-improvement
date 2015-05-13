@@ -22,23 +22,6 @@
 </p>
 
 <hr/>
-<h2>For Assistance with Licensing</h2>
-<p>
-	Email: <a title="Drugs and Food Safety Licensing Group" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
-	Phone: (512) 834-6727<br/>
-	Fax: (512) 834-6741<br/>
-</p>
-
-<h3>Mailing Address</h3>
-<p><em>Send correspondence only to:</em></p>
-<p>
-	RLU, Food and Drug Licensing Group MC 2835<br/>
-	Texas Department of State Health Services<br/>
-	P. O. Box 149347<br/>
-	Austin, Texas 78714-9347
-</p>
-
-<hr/>
 <h2>Physical Address</h2>
 <p><em>We only receive special service deliveries, such as UPS or Federal Express, at this address<br/>Do not send money to this address</em></p>
 <p>
