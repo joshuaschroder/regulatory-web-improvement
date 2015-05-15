@@ -8,9 +8,9 @@
 <h2>AVC Policy, Standards And Quality Assurance (PSQA)</h2>
 <p>
 	E-mail: <a title="AVC Inquiry" href="mailto:Gary.Barg@dshs.state.tx.us?subject=AVC Inquiry">Gary Barg</a><br/>
-	Telephone: (512) 834-6787 ext. 2183<br/>
+	Phone: (512) 834-6787 Ext. 2183<br/>
 	Fax: (512) 834-6707<br/>
-	Manager: <a title="AVC Policy" href="mailto:Annabelle.Dillard@dshs.state.tx.us?subject=AVC Policy">Annabelle Dillard </a> - (512) 834-6787 ext. 6608
+	Manager: <a title="AVC Policy" href="mailto:Annabelle.Dillard@dshs.state.tx.us?subject=AVC Policy">Annabelle Dillard </a> - (512) 834-6787 Ext. 6608
 </p>
 <h3>Mailing Address</h3>
 <p>
@@ -24,8 +24,8 @@
 <h2>AVC Permitting</h2>
 <p>
 	E-mail: <a href="mailto:avc@dshs.state.tx.us">AVC General Mailbox</a> <br/>
-	Telephone: (512) 834-6603 <br/>
-	Manager: <a href="mailto:Hoyt.Henry@dshs.state.tx.us">Hoyt Henry</a> - (512) 834-6603 ext 2432
+	Phone: (512) 834-6603 <br/>
+	Manager: <a href="mailto:Hoyt.Henry@dshs.state.tx.us">Hoyt Henry</a> - (512) 834-6603 Ext. 2432
 </p>
 <h3>Mailing Address</h3>
 <p>
@@ -38,7 +38,8 @@
 <hr/>
 <h2>AVC Enforcement Issues</h2>
 <p>
-	E-mail: <a href="mailto:Becky.Exner@dshs.state.tx.us">Becky Exner</a> - (512) 834-6665 extension 2447 <br/>
+	E-mail: <a href="mailto:Becky.Exner@dshs.state.tx.us">Becky Exner</a><br/>
+	Phone: (512) 834-6665 Ext. 2447 <br/>
 	Fax: (512) 834-6625
 </p>
 <h3>Mailing Address</h3>
@@ -53,7 +54,7 @@
 <h2>AVC Inspections</h2>
 <p>
 	E-mail: <a href="mailto:Lauren.Hollas@dshs.state.tx.us">Lauren Hollas</a> <br/>
-	Phone: (512) 834-6747 extension 2449 <br/>
+	Phone: (512) 834-6747 Ext. 2449 <br/>
 	Fax: (512) 834-4524
 </p>
 <h3>Mailing Address</h3>

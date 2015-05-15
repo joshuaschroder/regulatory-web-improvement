@@ -5,7 +5,7 @@
 ?>
 
 <hr/>
-<p>For Assistance with Licensing, Call (512) 834-6727</p>
+<p>For assistance with applications and forms, please call: (512) 834-6727</p>
 <hr/>
 
 <h2>Online Licensing</h2>

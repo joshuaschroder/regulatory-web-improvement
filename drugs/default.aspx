@@ -4,19 +4,20 @@
     include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>
 
-<p>This program is responsible for ensuring that human and animal drugs and biologicals are safe, properly labeled, do not contain harmful additives and do not make any unsubstantiated or fraudulent claims.</p>
-<p>The Drugs and Medical Devices Group conducts inspections of manufacturers and distributors of drugs in order to determine compliance with applicable state and federal requirements.  Businesses engaged in the distribution or manufacture of over-the-counter (OTC) drugs or prescription drugs in Texas are required to license with the Texas Department of State Health Services (DSHS).  In addition, businesses located outside Texas who engage in the distribution of OTC or prescription drugs in this state must license as out-of-state distributors with DSHS.</p>
+<p>The Drugs and Medical Devices Group is responsible for ensuring that drug manufacturers and distributors comply with minimum licensing standards established to protect the health and safety of of the citizens of Texas.  In order to accomplish this objective, inspections of prescription and over-the-counter (OTC) drug manufacturers and distributors are conducted.  If voluntary compliance with the licensing standards cannot be achieved, the Group recommends regulatory actions when necessary.  In addition, the Group provides technical assistance to its licensees, answers inquiries from consumers and investigates complaints involving possible violations of the state requirements for drug manufacturers and distributors.</p>
 
 <hr/>
 <h2>Licensing</h2>
-<p>To become licensed as a drug manufacturer or distributor, please visit the <a title="licensing requirements page" href="/drugs/licensing.aspx">licensing requirements page</a>, which outlines options for  licensing and renewal of a license as well as fee schedules and links to application forms.</p>
-For information on other topics, please see the links below:
+<p>Businesses engaged in the manufacture or distribution of over-the-counter (OTC) drugs or prescription drugs in Texas are required to license with the Texas Department of State Health Services (DSHS).  In addition, businesses located outside Texas who engage in the distribution of OTC or prescription drugs in this state must license as out-of-state distributors with DSHS.  To become licensed as a drug manufacturer or distributor, please visit the <a title="licensing requirements page" href="/drugs/licensing.aspx">licensing requirements page</a>, which outlines options for online licensing and renewal as well as fee schedules and links to application forms.</p>
+<p>Information on related licenses and certifications may be found by following the links below:</p>
 
 <ul>
 	<li><a title="Certificates of Free Sale / Origin" href="/certificate-of-free-sale/">Certificates of Free Sale / Origin</a></li>
-	<li><a title="Cosmetics Manufacturers and Distributors" href="/cosmetics/">Cosmetics Manufacturers and Distributors</a></li>
 	<li><a title="Medical Device Manufacturers and Distributors" href="/medical-devices/">Medical Device Manufacturers and Distributors</a></li>
+	<li><a title="Multiple Products" href="/drugs/forms.aspx#multiple-products">Multiple Products</a></li>
 	<li><a title="Salvage Establishments and Brokers" href="/salvage/">Salvage Establishments and Brokers</a></li>
+	<li><a title="Tanning Facilities" href="/tanning/">Tanning Facilities</a></li>
+	<li><a title="Tattoo / Body Piercing Studios" href="/tattoo-piercing/">Tattoo / Body Piercing Studios</a></li>
 </ul>
 
 <hr/>

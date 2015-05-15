@@ -42,7 +42,6 @@
 <a class="bookmark" title="3. Who is eligible to renew online?" name="3"></a>
 <h2>3. Who is eligible to renew online?</h2>
 <p>Any retailer holding an AVC Permit and whose permit is active and within 45 days of expiration is eligible to renew online. The Department sends out renewal notices to each permittee approximately 45 days prior to the expiration date of the permit.</p>
-<p><a title="Top of Page" href="#TopOfPage"><em>Top of Page</em></a></p>
 
 <hr/>
 <a class="bookmark" title="4. If I want to apply for a renewal of my AVC Permit, what information will I need?" name="4"></a>
@@ -58,7 +57,6 @@
 <a class="bookmark" title="6. If I use Texas.gov to apply for a new facility under a parent company, can the parent company pay the filing fee?" name="6"></a>
 <h2>6. If I use Texas.gov to apply for a new facility under a parent company, can the parent company pay the filing fee?</h2>
 <p>The Texas.gov system will allow you to pay the filing fee for a new facility under a parent company as long as the parent company is willing to provide credit or debit card information or electronic check payment information to complete the online application process. Please note that the two-year fee payment of $59.00 will have to be paid through Texas.gov, regardless of the expiration date on the permit. The parent company will receive a fee credit of any overpayment (based on the common permit expiration date for all of the parent company’s AVC Permit facilities) for the new AVC Permit facility that can then be applied to future AVC Permits obtained by the parent company.</p>
-<p><a title="Top of Page" href="#TopOfPage"><em>Top of Page</em></a></p>
 
 <hr/>
 <a class="bookmark" title="7. When I apply for an AVC Permit through Texas.gov, when will this permit expire?" name="7"></a>
@@ -74,12 +72,11 @@
 <a class="bookmark" title="9. What if I choose not to use Texas.gov to apply for a new or renewal AVC Permit? " name="9"></a>
 <h2>9. What if I choose not to use Texas.gov to apply for a new or renewal AVC Permit? </h2>
 <p>You may still apply for a new or renewal AVC Permit by submitting the appropriate completed AVC Permit application form (new or renewal) and a fee payment of $59.00. Businesses that are renewing their AVC Permits will pay the permit fee of $59.00 by submitting their check or money order for the fee along with the payment coupon that the agency mailed to them with their renewal notice. The permit fee of $59.00 applies to all, whether or not you choose to apply for your permit online.</p>
-<p><a title="Top of Page" href="#TopOfPage"><em>Top of Page</em></a></p>
 
 <hr/>
 <a class="bookmark" title="10. How does the online application process work?" name="10"></a>
 <h2>10. How does the online application process work?</h2>
-<p>The online application process is a simple process. Please see either information about applying for a <a title="new (initial) AVC Permit" href="/avc/permit-requirements.aspx">new (initial) AVC Permit</a>, information for the <a title="renewal of an existing permit" href="/avc/permit-requirements.aspx#renew">renewal of an existing permit</a>. The AVC Permit will be mailed to you within 10 business days once the program receives verification from the State Comptroller's Office that the online fee payment has cleared.</p>
+<p>The online application process is a simple process. Please see either information about applying for a <a title="new (initial) AVC Permit" href="/avc/permits.aspx">new (initial) AVC Permit</a>, information for the <a title="renewal of an existing permit" href="/avc/permits.aspx#renew">renewal of an existing permit</a>. The AVC Permit will be mailed to you within 10 business days once the program receives verification from the State Comptroller's Office that the online fee payment has cleared.</p>
 
 <hr/>
 <a class="bookmark" title="11. Can I make changes to my business name or business address as part of the online renewal?" name="11"></a>
@@ -90,7 +87,6 @@
 <a class="bookmark" title="12. Can I print a copy of my entire permit renewal information?" name="12"></a>
 <h2>12. Can I print a copy of my entire permit renewal information?</h2>
 <p>Yes, you can print the payment receipt after completing the online process. There is a printer friendly version of the renewal information available.</p>
-<p><a href="#TopOfPage">Top of Page</a></p>
 
 <hr/>
 <a class="bookmark" title="13. What are the online available payment options?" name="13"></a>
@@ -106,7 +102,6 @@
 <a class="bookmark" title="15. Can I print the payment receipt after completing the online process?" name="15"></a>
 <h2>15. Can I print the payment receipt after completing the online process?</h2>
 <p>Yes, you print the payment receipt after completing the online process.</p>
-<p><a title="Top of Page" href="#TopOfPage"><em>Top of Page</em></a></p>
 
 <hr/>
 <a class="bookmark" title="16. Can I use my printed payment receipt as a temporary license/registration?" name="16"></a>
@@ -122,18 +117,16 @@
 <a class="bookmark" title="18. Whom do I contact with technical difficulties in operating the site?" name="18"></a>
 <h2>18. Whom do I contact with technical difficulties in operating the site?</h2>
 <p>Online Support is available through the Texas.gov Helpdesk at 1-877-452-9060,&nbsp; by email to&nbsp;<a title="Texas.gov Help Needed" href="mailto:support@texasgovhelpdesk.com?subject=Texas.gov Help Needed">Texas.gov Help</a>, or through a <a title="live chat session" href="http://www.texas.gov/en/about/Pages/contact-us.aspx" target="_blank">live chat session</a>.&nbsp;</p>
-<p><a title="Top of Page" href="#TopOfPage"><em>Top of Page</em></a></p>
 
 <hr/>
 <a class="bookmark" title="19. If I am unable to log in to the permit renewal screen, whom do I contact?" name="19"></a>
 <h2>19. If I am unable to log in to the permit renewal screen, whom do I contact?</h2>
-<p>If you have difficulties in logging in to the permit renewal screen or have any questions, please contact the Abusable Volatile Chemical Permit Program by telephone at (512) 834-6600, ext. 2440 or via email to the&nbsp;<a title="Problems Permit Renewal" href="mailto:AVC@dshs.state.tx.us?subject=Problems Permit Renewal">AVC Permit Program</a> .</p>
+<p>If you have difficulties in logging in to the permit renewal screen or have any questions, please contact the Abusable Volatile Chemical Permit Program by telephone at (512) 834-6600, ext. 2440 or via email to the&nbsp;<a title="Problems Permit Renewal" href="mailto:AVC@dshs.state.tx.us?subject=Problems Permit Renewal">AVC Permit Program</a>.</p>
 
 <hr/>
 <a class="bookmark" title="20. What browser versions does the application support?" name="20"></a>
 <h2>20. What browser versions does the application support?</h2>
 <p>The application will support IE version 4.0 and above and Netscape version 4.0 and above.</p>
-<p><a title="Top of Page" href="#TopOfPage"><em>Top of Page</em></a></p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

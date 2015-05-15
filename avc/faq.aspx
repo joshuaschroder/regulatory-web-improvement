@@ -104,7 +104,7 @@
 <hr/>
 <a class="bookmark" title="question number 10" name="10"></a>
 <h2>10. What is the fastest way to obtain a new or renewal AVC Permit?</h2>
-<p>The most time-efficient way to obtain a new or renewal AVC Permit is to submit an online application via Texas.gov. For more information, you may refer to the <a title="Permit Requirements" href="/avc/permit-requirements.aspx">Permit Requirements</a> page on this website.</p>
+<p>The most time-efficient way to obtain a new or renewal AVC Permit is to submit an online application via Texas.gov. For more information, you may refer to the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.</p>
 
 <hr/>
 <a class="bookmark" title="question number 11" name="11"></a>
@@ -147,7 +147,7 @@
 <h2>14. How do I renew the AVC Permit?</h2>
 <p>DSHS sends out renewal notices approximately 60 days in advance of the permit expiration date. Renewal notices are sent to the current mailing address on record for each permitted facility, so it is important to notify the AVC Permit Program if you change your mailing address. After the renewal notice has been received, the business may choose either of the following options to renew the AVC Permit: </p>
 <ul>
-	<li><strong>Renewing online</strong><br/>AVC Permits may be renewed via the Texas.gov webpage. Please note that you can only use Texas.gov to renew if your AVC Permit is active and is within 45 days of its expiration date. If you choose this option, your permit filing fees must be paid by either credit or debit card or via electronic bank funds transfer (electronic check). For more information on renewing your AVC Permit online, please see the <a title="Permit Requirements" href="/avc/permit-requirements.aspx">Permit Requirements</a> page on this website.<br/><br/></li>
+	<li><strong>Renewing online</strong><br/>AVC Permits may be renewed via the Texas.gov webpage. Please note that you can only use Texas.gov to renew if your AVC Permit is active and is within 45 days of its expiration date. If you choose this option, your permit filing fees must be paid by either credit or debit card or via electronic bank funds transfer (electronic check). For more information on renewing your AVC Permit online, please see the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.<br/><br/></li>
 	<li><strong>Renewing by mail</strong><br/>Complete the renewal form (enter the Tax ID and telephone number / sign and date an affirmation statement). This form and the filing fee payment (paid by check or money order). <br/><br/></li>
 	<li>Please note that mailing the renewal form and fee payment via overnight mail may actually <em>slow down</em> the processing of your renewal, since overnight mail payments are routed through the agency’s Fiscal division. <em>Return the form and fee payment by first class mail to ensure that your mailed-in renewal will be processed in the most efficient manner.</em> </li>
 </ul>
@@ -157,7 +157,7 @@
 <h2>15. What should I do if I did not receive my renewal from the AVC Permit Program?</h2>
 <p>If you do not receive your renewal notice, you should take one of the following actions: </p>
 <ul>
-	<li><strong>Renew Online</strong><br/>If your AVC Permit is still active and is within 45 days of the Permit Expiration Date, you may renew through Texas.gov. For information on online renewals, please see the <a title="Permit Requirements" href="/avc/permit-requirements.aspx">Permit Requirements</a> page on this website.<br/><br/></li>
+	<li><strong>Renew Online</strong><br/>If your AVC Permit is still active and is within 45 days of the Permit Expiration Date, you may renew through Texas.gov. For information on online renewals, please see the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.<br/><br/></li>
 	<li><strong>Obtain a Duplicate Renewal Notice</strong><br/>If your permit is still active, or if your permit has been expired for less than 60 days, then you may contact the AVC Permit Program by telephone at (512) 834-6603 or via email at the <a title="AVC Permit Program" href="mailto:AVC@dshs.state.tx.us">AVC Permit Program</a> and request that the Program send you a duplicate renewal notice. Please note that the Program can email the renewal notice, on request. <br/><br/></li>
 	<li><strong>Download an AVC Application from the Website</strong><br/>If your permit is still active, or if your permit has been expired for less than 60 days, you may download and print the AVC Permit application from the <a title="Forms and Publications" href="/avc/forms.aspx">Forms and Publications</a> page, and mark it as a “Renewal.” Return the completed application and filing fee payment to the AVC Permit Program. </li>
 </ul>

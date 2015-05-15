@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>
 
-<p>Prescription drug distributors must operate in compliance with rules found in 25 Texas Administrative Code (TAC), Sections 229.419 - 229.430 - Licensing of Wholesale Distributors of Prescription Drugs; Including Good Manufacturing Practices (pdf 121kb).  Section 229.420 of these rules adopts by reference certain federal laws and regulations applicable to prescription drug distributors, including the requirements in <a title="Title 21, Code of Federal Regulations (CFR), Part 205" href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=205">Title 21, Code of Federal Regulations (CFR), Part 205</a>, Guidelines for State Licensing of Wholesale Prescription Drug Distributors. </p>
+<p>Prescription drug distributors must operate in compliance with rules found in 25 Texas Administrative Code (TAC), Sections 229.419 - 229.430 - Licensing of Wholesale Distributors of Prescription Drugs; Including Good Manufacturing Practices.  Section 229.420 of these rules adopts by reference certain federal laws and regulations applicable to prescription drug distributors, including the requirements in <a title="Title 21, Code of Federal Regulations (CFR), Part 205" href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=205">Title 21, Code of Federal Regulations (CFR), Part 205</a>, Guidelines for State Licensing of Wholesale Prescription Drug Distributors. </p>
 
 <p>Inspections of prescription drug distributors generally include an assessment of a distributor’s level of compliance with 21 CFR, Part 205.  Below are some examples of frequently asked questions encountered during these inspections. </p>
 
