@@ -1,5 +1,5 @@
 <?php
-	$title= "Applications and Forms - Food Manufacturers and Wholesalers" ;
+	$title= "Applications and Forms - Food Manufacturers, Wholesalers, and Warehouses" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>

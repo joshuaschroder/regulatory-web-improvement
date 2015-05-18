@@ -1,5 +1,5 @@
 <?php
-	$title= "Archived Food Alerts for October 2014 - Food Manufacturers and Wholesalers" ;
+	$title= "Archived Food Alerts for October 2014 - Food Manufacturers, Wholesalers, and Warehouses" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>

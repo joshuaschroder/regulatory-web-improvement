@@ -11,12 +11,32 @@
 	Fax: (512) 834-6618<br />
 </p>
 
-<hr/>
-<h2>Certificate of Authority</h2>
+<h3>For Food Related Questions (Excluding Milk and Seafood)</h3>
 <p>
-	Email: <a href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
-	Phone: (512) 834-6727<br />
-	Fax: (512) 834-6741<br />
+	Email: <a title="Foods Group" href="mailto:foods.regulatory@dshs.state.tx.us">Foods Group</a><br/>
+	Phone: (512) 834-6670<br/>
+	Fax: (512) 834-6681 <br/>
+</p>
+
+<h3>For Drugs, Medical Devices, and Cosmetics Questions</h3>
+<p>
+	Email: <a title="DMD.regulatory@dshs.state.tx.us" href="mailto:DMD.regulatory@dshs.state.tx.us">Drugs and Medical Devices Group</a><br/>
+	Phone: (512) 834-6755<br/>
+	Fax: (512) 834-6759<br/>
+</p>
+
+<h3>For Milk Questions</h3>
+<p>
+	Email: <a title="milk.regulatory@dshs.state.tx.us" href="mailto:milk.regulatory@dshs.state.tx.us">Milk and Dairy Group</a><br/>
+	Phone: (512) 834-6758<br/>
+	Fax: (512) 834-6756<br/>
+</p>
+
+<h3>For Seafood Questions</h3>
+<p>
+	Email: <a title="seafood.regulatory@dshs.state.tx.us" href="mailto:seafood.regulatory@dshs.state.tx.us">Seafood and Aquatic Life Program</a><br/>
+	Phone: (512) 834-6757<br/>
+	Fax: (512) 834-6762
 </p>
 
 <hr/>

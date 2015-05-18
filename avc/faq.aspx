@@ -83,7 +83,7 @@
 <hr/>
 <a class="bookmark" title="question number 7" name="7"></a>
 <h2>7. How do I obtain an application for an AVC Permit?</h2>
-<p>You may also submit an online application and filing fee via the <a title="Texas.gov" href="http://www.texas.gov/">Texas.gov</a> service. For further information on using Texas.gov to obtain your AVC Permit, see the <a href="/avc/faq-texas-online.aspx">most frequently asked questions</a> about the AVC permit program via Texas.gov.</p>
+<p>You may also submit an online application and filing fee via the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>. For further information on using the online licensing system to obtain your AVC Permit, see the <a href="/avc/online-licensing-faq.aspx">Online Licensing FAQ</a> page.</p>
 
 <p>You may also download the <a title="AVC Permit Application" href="/avc/forms.aspx">AVC Permit Application</a> form from this Web site. If you don’t have Internet access, you may request that the AVC Permit Program mail you a hard copy application form by <a title="contacting the program via email" href="mailto:AVC@dshs.state.tx.us">contacting the program via email</a> or by telephone at (512) 834-6603.</p>
 
@@ -93,7 +93,7 @@
 <a class="bookmark" title="question number 8" name="8"></a>
 <h2>8. What is the cost of the permit? </h2>
 <p>For each individual retail location, you will be required to pay a $59.00 permit filing fee. If you are mailing in your application, you may pay the fee by check or money order made payable to<em>: DSHS AVC Permit Program ZZ109 125</em>. If you are applying for multiple AVC permits, you may pay the fees for all permits via a single check or money order, made payable for the total amount of all the fees. </p>
-<p>If you are obtaining your AVC Permit through the Texas.gov service, you will be able to pay the $59.00 filing fee for each facility location by credit/debit card or by an electronic bank funds transfer. </p>
+<p>If you are obtaining your AVC Permit through the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>, you will be able to pay the $59.00 filing fee for each facility location by credit/debit card or by an electronic bank funds transfer. </p>
 
 <hr/>
 <a class="bookmark" title="question number 9" name="9"></a>
@@ -104,7 +104,7 @@
 <hr/>
 <a class="bookmark" title="question number 10" name="10"></a>
 <h2>10. What is the fastest way to obtain a new or renewal AVC Permit?</h2>
-<p>The most time-efficient way to obtain a new or renewal AVC Permit is to submit an online application via Texas.gov. For more information, you may refer to the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.</p>
+<p>The most time-efficient way to obtain a new or renewal AVC Permit is to submit an online application via the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>. For more information, you may refer to the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.</p>
 
 <hr/>
 <a class="bookmark" title="question number 11" name="11"></a>
@@ -128,7 +128,7 @@
 	</p>
 </blockquote>
 
-<p>If you are submitting your application for an AVC Permit via the Texas.gov service, your application information and verification of fee payment will be sent to the AVC Permit Program in electronic format. </p>
+<p>If you are submitting your application for an AVC Permit via the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>, your application information and verification of fee payment will be sent to the AVC Permit Program in electronic format. </p>
 <p><a class="bookmark" title="Top of Page" href="#TopOfPage"><em>Top of Page</em></a></p>
 
 <hr/>
@@ -147,7 +147,7 @@
 <h2>14. How do I renew the AVC Permit?</h2>
 <p>DSHS sends out renewal notices approximately 60 days in advance of the permit expiration date. Renewal notices are sent to the current mailing address on record for each permitted facility, so it is important to notify the AVC Permit Program if you change your mailing address. After the renewal notice has been received, the business may choose either of the following options to renew the AVC Permit: </p>
 <ul>
-	<li><strong>Renewing online</strong><br/>AVC Permits may be renewed via the Texas.gov webpage. Please note that you can only use Texas.gov to renew if your AVC Permit is active and is within 45 days of its expiration date. If you choose this option, your permit filing fees must be paid by either credit or debit card or via electronic bank funds transfer (electronic check). For more information on renewing your AVC Permit online, please see the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.<br/><br/></li>
+	<li><strong>Renewing online</strong><br/>AVC Permits may be renewed via the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>. Please note that you can only use online licensing system to renew if your AVC Permit is active and is within 45 days of its expiration date. If you choose this option, your permit filing fees must be paid by either credit or debit card or via electronic bank funds transfer (electronic check). For more information on renewing your AVC Permit online, please see the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.<br/><br/></li>
 	<li><strong>Renewing by mail</strong><br/>Complete the renewal form (enter the Tax ID and telephone number / sign and date an affirmation statement). This form and the filing fee payment (paid by check or money order). <br/><br/></li>
 	<li>Please note that mailing the renewal form and fee payment via overnight mail may actually <em>slow down</em> the processing of your renewal, since overnight mail payments are routed through the agency’s Fiscal division. <em>Return the form and fee payment by first class mail to ensure that your mailed-in renewal will be processed in the most efficient manner.</em> </li>
 </ul>
@@ -157,7 +157,7 @@
 <h2>15. What should I do if I did not receive my renewal from the AVC Permit Program?</h2>
 <p>If you do not receive your renewal notice, you should take one of the following actions: </p>
 <ul>
-	<li><strong>Renew Online</strong><br/>If your AVC Permit is still active and is within 45 days of the Permit Expiration Date, you may renew through Texas.gov. For information on online renewals, please see the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.<br/><br/></li>
+	<li><strong>Renew Online</strong><br/>If your AVC Permit is still active and is within 45 days of the Permit Expiration Date, you may renew through the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>. For information on online renewals, please see the <a title="Permit Information" href="/avc/permits.aspx">Permit Information</a> page on this website.<br/><br/></li>
 	<li><strong>Obtain a Duplicate Renewal Notice</strong><br/>If your permit is still active, or if your permit has been expired for less than 60 days, then you may contact the AVC Permit Program by telephone at (512) 834-6603 or via email at the <a title="AVC Permit Program" href="mailto:AVC@dshs.state.tx.us">AVC Permit Program</a> and request that the Program send you a duplicate renewal notice. Please note that the Program can email the renewal notice, on request. <br/><br/></li>
 	<li><strong>Download an AVC Application from the Website</strong><br/>If your permit is still active, or if your permit has been expired for less than 60 days, you may download and print the AVC Permit application from the <a title="Forms and Publications" href="/avc/forms.aspx">Forms and Publications</a> page, and mark it as a “Renewal.” Return the completed application and filing fee payment to the AVC Permit Program. </li>
 </ul>
@@ -168,7 +168,7 @@
 <a class="bookmark" title="question number 16" name="16"></a>
 <h2>16. What should I do if my AVC Permit has expired and it is now more than 60 days after the Permit Expiration Date?</h2>
 <p>If your AVC Permit is expired and more than 60 days have passed since its expiration date, then you will need to apply for a <strong><em>new</em> </strong>AVC Permit, using one of the following procedures: </p>
-<p>You may submit an <strong>online application</strong> and filing fee via the Texas.gov service. For further information on using Texas.gov to obtain your AVC Permit, see <a title="Frequently Asked Questions about Using Texas.gov" href="/avc/faq-texas-online.aspx">Frequently Asked Questions about Using Texas.gov</a>.</p>
+<p>You may submit an <strong>online application</strong> and filing fee via the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>. For further information on using the online licensing system to obtain your AVC Permit, see <a title="Frequently Asked Questions about Online Licensing" href="/avc/online-licensing-faq.aspx">Frequently Asked Questions about Online Licensing</a>.</p>
 <p>You may also download the AVC Permit application form from the <a title="Applications and Forms page" href="/avc/forms.aspx">Applications and Forms page</a> of this website. If you don’t have Internet access, you may request that the AVC Permit Program mail you a hard copy application form by contacting the Program by telephone at (512) 834-6603 or via email to the <a title="AVC Permit Program" href="mailto:AVC@dshs.state.tx.us">AVC Permit Program</a> .</p>
 <p>If your previous permit is expired and more than 60 days have passed since its expiration date, then be sure to mark the AVC Permit application form as an application for a “new permit.”</p>
 
@@ -194,7 +194,7 @@
 <hr/>
 <a class="bookmark" title="question number 20" name="20"></a>
 <h2>20. How can I determine if the AVC Permit Program has received and deposited my permit filing fee?</h2>
-<p>If you are paying your permit filing fee through the Texas.gov system, then you will be able to print a <em>Receipt Page</em> that confirms that you have made the fee payment by either credit/debit card or electronic check. </p>
+<p>If you are paying your permit filing fee through the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a> system, then you will be able to print a <em>Receipt Page</em> that confirms that you have made the fee payment by either credit/debit card or electronic check. </p>
 <p>If you are paying your permit filing fee for renewal of an existing permit by mailing in a check or money order. If you have paid your fee by check<em> </em>your canceled check will have a six digit number stamped on the front, which will serve as proof of receipt and deposit of the fee payment. Unfortunately, if you send a money order with the renewal form, you will not receive proof of receipt or deposit. </p>
 <p>If you are paying your permit filing fee for either a new or renewal permit, and the <em>fee is mailed to the AVC Permit Program address</em> provided in the answer to Question #9 above, then your check or money order will be routed to the DSHS Fiscal Division for processing and deposit. <em>The Fiscal Division will stamp all checks received with a remittance number </em>and this number stamp will be your proof (on the canceled check) that the fee payment was received and deposited. Again, if you pay your permit fee via a money order, you will not receive proof of receipt or deposit. </p>
 <p>As you can see from the statements above, the AVC Permit Program does not actually handle the checks or money orders received for the permit fee payments, so the Program cannot trace fee payments until the Program receives the remittance record of the payment. Remittance records are not generated until the Fiscal Division have processed and deposited the fee payments, so there is always a period of time that will elapse between the time that your envelope is received at the DSHS Fiscal Division and when the remittance records are delivered to the AVC Permit Program. This is one reason that it is very important to renew your AVC Permit in a timely manner. The AVC Permit Program recommends that you renew your permit at least 30 days in advance of the permit expiration date. </p>

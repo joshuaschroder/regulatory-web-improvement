@@ -1,5 +1,5 @@
 <?php
-	$title= "Juice HACCP - Food Manufacturers and Wholesalers" ;
+	$title= "Juice HACCP - Food Manufacturers, Wholesalers, and Warehouses" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>

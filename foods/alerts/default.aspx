@@ -1,5 +1,5 @@
 <?php
-	$title= "Food Alerts and Recalls Affecting Texas - Food Manufacturers and Wholesalers" ;
+	$title= "Food Alerts and Recalls Affecting Texas - Food Manufacturers, Wholesalers, and Warehouses" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>

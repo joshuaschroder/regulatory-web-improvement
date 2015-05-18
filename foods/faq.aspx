@@ -1,5 +1,5 @@
 <?php
-	$title= "Frequently Asked Questions - Food Manufacturers and Wholesalers" ;
+	$title= "Frequently Asked Questions - Food Manufacturers, Wholesalers, and Warehouses" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foods_menu.html';
 ?>

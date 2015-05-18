@@ -1,5 +1,5 @@
 <?php
-	$title= "Draft and Proposed Rules - Food Manufacturers and Wholesalers" ;
+	$title= "Draft and Proposed Rules - Food Manufacturers, Wholesalers, and Warehouses" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>

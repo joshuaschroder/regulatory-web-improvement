@@ -1,5 +1,5 @@
 <?php
-	$title= "Laws and Rules - Food Manufacturers and Wholesalers" ;
+	$title= "Laws and Rules - Food Manufacturers, Wholesalers, and Warehouses" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foods_menu.html'; 
 ?>
