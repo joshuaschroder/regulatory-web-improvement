@@ -37,7 +37,7 @@
 <hr/>
 <a class="bookmark" title="4" name="4"></a>
 <h2>4. Can the abatement notification form be faxed to the Environmental Lead Program?</h2>
-<p>Facsimiles are not accepted. The notification form must be complete, and only original signatures are acceptable. Copies of the notification must be provided to the appropriate <a href="http://www.dshs.state.tx.us/regions/">DSHS Regional Office</a> by fax, hand-delivery, or express-mail, and must be received on the same date that the notification to the Environmental Health Notifications Group (EHNG) is post-marked. </p>
+<p>Facsimiles are not accepted. The notification form must be complete, and only original signatures are acceptable. Copies of the notification must be provided to the appropriate <a href="/elp/regions.aspx">DSHS Regional Office</a> by fax, hand-delivery, or express-mail, and must be received on the same date that the notification to the Environmental Health Notifications Group (EHNG) is post-marked. </p>
 
 <hr/>
 <a class="bookmark" title="5" name="5"></a>
@@ -52,7 +52,7 @@
 <hr/>
 <a class="bookmark" title="7" name="7"></a>
 <h2>7. Who needs to be notified if there is an amendment to the notification?</h2>
-<p>For changes in the start/and or stop date(s) the Environmental Health Notifications Group (EHNG) in the central headquarters office in Austin and the appropriate <a href="http://www.dshs.state.tx.us/regions/">DSHS Regional Office</a> must be notified by telephone between 8:00 a.m. and 5:00 p.m. Central Time (CT) prior to the original start and/or stop date(s) as previously specified on the notification form. A written amended notification must be postmarked within 24 hours following the telephone communication with the EHNG and the regional office. The phone numbers for EHNG are: (512) 834-6770, ext. 2172; or toll-free at (888) 778-9440 ext. 2172. </p>
+<p>For changes in the start/and or stop date(s) the Environmental Health Notifications Group (EHNG) in the central headquarters office in Austin and the appropriate <a href="/elp/regions.aspx">DSHS Regional Office</a> must be notified by telephone between 8:00 a.m. and 5:00 p.m. Central Time (CT) prior to the original start and/or stop date(s) as previously specified on the notification form. A written amended notification must be postmarked within 24 hours following the telephone communication with the EHNG and the regional office. The phone numbers for EHNG are: (512) 834-6770, ext. 2172; or toll-free at (888) 778-9440 ext. 2172. </p>
 
 <hr/>
 <a class="bookmark" title="8" name="8"></a>
@@ -62,12 +62,12 @@
 <hr/>
 <a class="bookmark" title="9" name="9"></a>
 <h2>9. What if the lead abatement project is cancelled?</h2>
-<p>The Environmental Lead Program and the appropriate <a href="http://www.dshs.state.tx.us/regions/">DSHS Regional Office</a> must be notified by telephone between 8:00 a.m. and 5:00 p.m. Central Standard Time (CST) at least 24 hours prior to the start date, and a notification of cancellation must be submitted to the Environmental Lead Program and postmarked no later than 24 hours following the telephone communication with the Environmental Lead Program and the regional office. The copy of the notification shall also be hand-delivered, express-mailed, or faxed to the regional office. Phone: 1-888-778-9440 ext. 2172 or (512) 834-6770 ext. 2172. </p>
+<p>The Environmental Lead Program and the appropriate <a href="/elp/regions.aspx">DSHS Regional Office</a> must be notified by telephone between 8:00 a.m. and 5:00 p.m. Central Standard Time (CST) at least 24 hours prior to the start date, and a notification of cancellation must be submitted to the Environmental Lead Program and postmarked no later than 24 hours following the telephone communication with the Environmental Lead Program and the regional office. The copy of the notification shall also be hand-delivered, express-mailed, or faxed to the regional office. Phone: 1-888-778-9440 ext. 2172 or (512) 834-6770 ext. 2172. </p>
 
 <hr/>
 <a class="bookmark" title="10" name="10"></a>
 <h2>10. What do I do if I have an emergency notification?</h2>
-<p>In the event of lead abatement made necessary by an unexpected or unplanned lead incident, notifcation will be made as soon as practicable, but not later than the following work day after the occurrence of the incident. Initial notification shall be made by telephone to the Environmental Health Notification Group (EHNG) in Austin and the <a href="http://www.dshs.state.tx.us/regions/">DSHS Regional Office</a> followed by formal notification on the <a href="/elp/forms.aspx">DSHS notification form</a>. The phone numbers for EHNG are: (512) 834-6770, ext. 2172; or toll-free at (888) 778-9440 ext. 2172.</p>
+<p>In the event of lead abatement made necessary by an unexpected or unplanned lead incident, notifcation will be made as soon as practicable, but not later than the following work day after the occurrence of the incident. Initial notification shall be made by telephone to the Environmental Health Notification Group (EHNG) in Austin and the <a href="/elp/regions.aspx">DSHS Regional Office</a> followed by formal notification on the <a href="/elp/forms.aspx">DSHS notification form</a>. The phone numbers for EHNG are: (512) 834-6770, ext. 2172; or toll-free at (888) 778-9440 ext. 2172.</p>
 
 <hr/>
 <a class="bookmark" title="11" name="11"></a>

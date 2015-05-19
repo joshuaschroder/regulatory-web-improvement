@@ -9,7 +9,7 @@
 
 <p>Certified lead firms are required to deliver written notification of lead-based paint abatement to the Department of State Health Services in cases of <em>child-occupied facilities</em> and <em>target housing</em> (see <a title="definitions" href="#definitions">definitions</a> below).</p>
 
-<p>The certified lead firm is responsible for completing the notification form and notifying both the <a title="Environmental Health Notifications Group" href="/elp/contact.aspx">Environmental Health Notifications Group</a> and the appropriate <a title="DSHS Regional Office" href="https://www.dshs.state.tx.us/regions/">DSHS Regional Office</a>.</p> 
+<p>The certified lead firm is responsible for completing the notification form and notifying both the <a title="Environmental Health Notifications Group" href="/elp/contact.aspx">Environmental Health Notifications Group</a> and the appropriate <a title="DSHS Regional Office" href="/elp/regions.aspx">DSHS Regional Office</a>.</p> 
 <p>Notification shall be made no less than seven working days (not calendar days) prior to the commencement of the abatement activity (this does not necessarily include setting up for the abatement project).</p>
 
 <hr/>

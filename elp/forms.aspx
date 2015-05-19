@@ -29,6 +29,7 @@
 	<li><a title="Examination Dates and Locations (2014-2015)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589990804">Examination Dates and Locations (2014-2015)</a> <span class="small">(PDF, 153KB)</span></li>
 	<li><a title="Examination Study Guide" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=17269">Examination Study Guide</a> <span class="small">(PDF, 71KB)</span></li>
 	<li><a title="Registration for State Lead Certification Examination" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589951118">Registration for State Lead Certification Examination</a> <span class="small">(PDF, 104KB)</span></li>
+	<li><a title="Exam Tips" href="/elp/exam-tips.aspx">Exam Tips</a></li>
 </ul>
 
 <hr/>

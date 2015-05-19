@@ -42,7 +42,7 @@
 
 <hr/>
 <h2>Notifying DSHS of Lead-Based Paint Abatement Activity</h2>
-<p>Notification of each abatement project, as per Section 295.214 of the TELRR, is required to be made by the certified Lead Abatement Firm to the DSHS Environmental Health Notifications Group (EHNG) in Austin, and to the appropriate DSHS Regional Office at least seven (7) working days prior to the abatement job. Furthermore, it is the responsibility of the certified Lead Abatement Firm to notify the DSHS Notifications Group and the appropriate DSHS Regional Office (http://www.dshs.state.tx.us/elp/regions.shtm) of any amendments, cancellations, or emergency notifications.</p>
+<p>Notification of each abatement project, as per Section 295.214 of the TELRR, is required to be made by the certified Lead Abatement Firm to the DSHS Environmental Health Notifications Group (EHNG) in Austin, and to the appropriate DSHS Regional Office at least seven (7) working days prior to the abatement job. Furthermore, it is the responsibility of the certified Lead Abatement Firm to notify the DSHS Notifications Group and the appropriate <a title="DSHS Regional Office" href="/elp/regions.aspx">DSHS Regional Office</a> of any amendments, cancellations, or emergency notifications.</p>
 
 <hr/>
 <h2>Exclusions to Abatements</h2>

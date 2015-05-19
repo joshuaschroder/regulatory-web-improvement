@@ -24,7 +24,7 @@
 <hr/>
 <h2>Required Documents</h2>
 
-<p>In order to process your Youth Camp Application as soon as possible, Youth Camp Licensing must receive all of the following qualification documents for your camp along with a <a title="completed application" href="/youthcamp/forms.aspx">completed application</a> and <a title="fee" href="/youthcamp/fees.aspx">appropriate fee</a> or an online receipt if renewing through Texas.gov.</p>
+<p>In order to process your Youth Camp Application as soon as possible, Youth Camp Licensing must receive all of the following qualification documents for your camp along with a <a title="completed application" href="/youthcamp/forms.aspx">completed application</a> and <a title="fee" href="/youthcamp/fees.aspx">appropriate fee</a> or an online receipt if renewing through the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>.</p>
 
 <p>1. A detailed camp schedule of activities that includes <strong>ALL</strong> of the following:</p>
 <ul>

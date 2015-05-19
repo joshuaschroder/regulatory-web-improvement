@@ -6,7 +6,7 @@
 
 <br/>
 <h2>Online Licensing</h2>
-<p>Hazardous Consumer Product license holders may now apply for their initial licenses and renew existing licenses through the new <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>.</p>
+<p>Hazardous Consumer Product registration (license) holders may now apply for their initial licenses and renew existing licenses using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>.</p>
 <p>We are currently unable to process minor amendment changes, such as name and address, using the online licensing system.</p>
 
 <hr/>
