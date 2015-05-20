@@ -6,18 +6,16 @@
 
 <h2>Definition of Youth Camp</h2>
 <p>To determine if an operation is a youth camp, the operation must meet the following criteria:</p>
-<ol>
-	<li>A facility or property, other than a facility required to be licensed by the Department of Family and Protective Services that: 
-		<ol>
-			<li type="A">has the general characteristics of a day camp, resident camp, or travel camp; </li>
-			<li type="A">is used for recreational, athletic, religious, or educational activities; </li>
-			<li type="A">accommodates at least five minors who attend or temporarily reside at the camp for all or part of at least four consecutive days; and </li>
-			<li type="A">is not a facility or program operated by or on the campus of an institution of higher education or a private or independent institution of higher education as those terms are defined by the Education Code, §61.003, that is regularly inspected by one or more local governmental entities for compliance with health and safety standards. </li>
-		</ol>
-		</li>
-	<li>A youth camp provides supervision, instruction, and recreation, utilizing a variety of activities primarily in an outdoor, natural environment, for children who are apart from their parents or legal guardians. </li>
-	<li>A youth camp operates only during school vacation periods, and not more than 120 days per calendar year; and </li>
-	<li>A youth camp accepts a camper for a minimum of four consecutive days for more than four hours per day. </li>
+<ol> 
+	<li>Provides supervision, instruction, and recreation</li>
+	<li>Accommodates at least five minors during each camp session</li>
+	<li>Operates as a youth camp for no more than 120 days each calendar year</li>
+	<li>Hosts children who are apart from parents or guardians</li>
+	<li>Operates as a youth camp for a period of four or more consecutive days</li>
+	<li>Operates as a youth camp for more than four consecutive hours per day</li>
+	<li>Operates as a youth camp only during school vacation periods</li>
+	<li>Offers a variety of activities in an outdoor setting and</li>
+	<li>Schedules activities so that campers spend a minimum of 60% of their time out-of-doors between the hours of 7:00 a.m. and 10:00 p.m.</li>
 </ol>
 <p>Please note that some “camp” operations may not meet all of the criteria listed above, and would not be considered a Youth Camp operation, although they may be considered a Child Care operation. Please see the <a title="Texas Department of Family and Protective Services" href="http://www.dfps.state.tx.us/">Texas Department of Family and Protective Services</a> Web site for more information on Child Care. Additionally, some licensed youth camps may offer services that do not meet the above criteria (such as weekend retreats), and those services would not be regulated under the youth camp laws.</p>
 

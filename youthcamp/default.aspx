@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/youthcamp_menu.html'; 
 ?>
 
-<p>The Texas Department of State Health Services is the principal authority on matters relating to health and safety conditions at youth camps in Texas. All youth camps must <a title="obtain a license" href="/youthcamp/license-qualifications.aspx">obtain a license</a> prior to operating. Any youth camp may be inspected during operation to determine compliance with the <a title="Youth Camp Act" href="/youthcamp/laws-rules.aspx">Youth Camp Safety and Health Act</a> and the <a title="Youth Camp Rules" href="/youthcamp/laws-rules.aspx">Youth Camp Rules</a>.</p>
+<p>The Texas Department of State Health Services is the principal authority on matters relating to health and safety conditions at youth camps in Texas. All youth camps must <a title="obtain a license" href="/youthcamp/license-qualifications.aspx">obtain a license</a> prior to operating. Any youth camp may be inspected during operation to determine compliance with the <a title="Youth Camp Act" href="/youthcamp/statutes-rules.aspx">Youth Camp Safety and Health Act</a> and the <a title="Youth Camp Rules" href="/youthcamp/statutes-rules.aspx">Youth Camp Rules</a>.</p>
 
 <hr/>
 <h2>E-Mail Updates</h2>
