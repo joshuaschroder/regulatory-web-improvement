@@ -266,7 +266,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Youth Camp</td>
-			<td headers="table_heading_1"><a title="Youth Camp Contact" href="http://www.dshs.state.tx.us/youthcamp/contact.shtm">Program Contact</a></td>
+			<td headers="table_heading_1"><a title="Youth Camp Contact" href="http://www.dshs.state.tx.us/youthcamp/contact.aspx">Program Contact</a></td>
 		</tr>
 	</tbody>
 </table>

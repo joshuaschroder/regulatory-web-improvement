@@ -182,7 +182,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Multiple Products - Drugs, Food, Devices</td>
-			<td headers="table_heading_1"><a title="Multiple Products Applications and Forms" href="http://www.dshs.state.tx.us/fdlicense/apps.shtm#multiple products">Applications and Forms</a></td>
+			<td headers="table_heading_1"><a title="Multiple Products Applications and Forms" href="/drugs/forms.aspx#multiple-products">Applications and Forms</a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Narcotic Treatment Clinic</td>
