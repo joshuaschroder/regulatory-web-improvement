@@ -32,7 +32,7 @@
 <h3>Mailing Address</h3>
 <p><em>Send correspondence only to:</em></p>
 <p>
-	RLU, Food and Drug Licensing Group MC 2835<br/>
+	RLU, Foods Licensing Group MC 2835<br/>
 	Texas Department of State Health Services<br/>
 	P. O. Box 149347<br/>
 	Austin, Texas 78714-9347
