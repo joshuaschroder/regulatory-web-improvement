@@ -70,7 +70,7 @@
 <p>Yes. The Texas Asbestos Health Protection Rules (TAHPR) allow a person who has had the Resilient Floor Covering Institute (RFCI) guidelines training to use those guidelines for flooring removal in leu of a license. The guidelines must be followed strictly. Also, before beginning any removal, the flooring material must be sampled by a licensed inspector to determine the presence of asbestos per TAHPR and that the inspector makes an assessment per the revised Model Accreditation Plan as to whether the flooring can be removed properly by the RFCI guidelines, call the <a title="Resilient Floor Covering Institute" href="http://www.rfci.com/">Resilient Floor Covering Institute</a> at (301) 340-8580.</p>
 <hr/>
 <a class="bookmark" title="12" name="12"></a>
-<h2>Who can conduct an asbestos survey in a public building?</h2>
+<h2>12. Who can conduct an asbestos survey in a public building?</h2>
 <ul>
 <li>Asbestos Consultant Agency</li>
 <li>Asbestos Management Planner Agency</li>
@@ -80,7 +80,7 @@
 </ul>
 <hr/>
 <a class="bookmark" title="13" name="13"></a>
-<h2>Who can remove asbestos from a public building?</h2>
+<h2>13. Who can remove asbestos from a public building?</h2>
 <p>Asbestos Contractors</p>
 
 

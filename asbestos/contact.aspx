@@ -177,27 +177,27 @@
 
 <h3>General Correspondence and Application Documentation without Money</h3>
 <p>
-Environmental and Sanitation Licensing Group MC 2835<br/>
-Texas Department of State Health Services<br/>
-P. O. Box 149347<br/>
-Austin, Texas 78714-9347<br/>
+	Environmental and Sanitation Licensing Group MC 2835<br/>
+	Texas Department of State Health Services<br/>
+	P. O. Box 149347<br/>
+	Austin, Texas 78714-9347<br/>
 </p>
 
 <h3>Address for all Mail Containing Money </h3>
 <p><strong><em>(Includes Application Documentation With Money)</em></strong></p>
 <p>
-Texas Department of State Health Services MC 2003<br/>
-PO Box 149347<br/>
-Austin, Texas 78714-9347<br/>
+	Texas Department of State Health Services MC 2003<br/>
+	PO Box 149347<br/>
+	Austin, Texas 78714-9347<br/>
 </p>
 <p><em>*Note: All applications are routed through the DSHS Fiscal Department before being received by the Environmental Licensing Group.</em></p>
 
 <h3>Physical Address</h3>
 <p>
-Asbestos Program<br/>
-Texas Department of State Health Services<br/>
-8407 Wall Street<br/>
-Austin, Texas 78754<br/>
+	Asbestos Program<br/>
+	Texas Department of State Health Services<br/>
+	8407 Wall Street<br/>
+	Austin, Texas 78754<br/>
 </p>
 
 <p><em>*Note: Only special service deliveries, such as UPS or Federal Express [not USPS], are received at this address. DO NOT MAIL PAYMENTS TO THIS ADDRESS.</em></p>

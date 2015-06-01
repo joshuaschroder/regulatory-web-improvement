@@ -27,5 +27,8 @@
 	<li><a title="Chapter 295, Subchapter C - Texas Asbestos Health Protection (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16575">Chapter 295, Subchapter C - Texas Asbestos Health Protection</a> <span class="small">(PDF, 449KB)</span></li>
 </ul>
 
+<hr/>
+<h2>Guidance and Clarification</h2>
+<p>The Asbestos Program has created a number of <a title="regulatory guidance and clarification documents" href="/asbestos/regulatory-clarifications.aspx">regulatory guidance and clarification documents</a> to address frequent questions and rule interpretations.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -9,7 +9,7 @@
 <ul>
 	<li><a title="Online Licensing and Renewals" href="#licensing">Online Licensing and Renewals</a></li>
 	<li><a title="Agencies, Contractors and Consultants" href="#agencies-contractors-consultants">Agencies, Contractors and Consultants</a></li>
-	<li><a title="Inspectors, Managers, Technicians and Workers" href="#technicians-workers">Inspectors, Managers, Technicians and Workers</a></li>
+	<li><a title="Inspectors, Managers, Technicians and Workers" href="#technicians-workers">Inspectors, Managers, Technicians, Transporters and Workers</a></li>
 	<li><a title="Laboratories" href="#laboratories">Laboratories</a></li>
 	<li><a title="Training Providers" href="#training">Training Providers</a></li>
 	<li><a title="Examination for Licensure" href="#exam">Examination for Licensure</a></li>
@@ -45,7 +45,7 @@
 
 <hr/>
 <a class="bookmark" title="technicians-workers" name="technicians-workers"></a>
-<h2>Inspectors, Managers, Technicians and Workers</h2>
+<h2>Inspectors, Managers, Technicians, Transporters and Workers</h2>
 <ul>
 	<li><a title="Abatement Worker License Application/Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16552">Abatement Worker License Application/Renewal</a> <span class="small">(PDF, 47KB)</span></li>
 	<li><a title="Air Monitor Technician License Application/Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16553">Air Monitor Technician License Application/Renewal</a> <span class="small">(PDF, 68KB)</span></li>
