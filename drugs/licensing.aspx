@@ -34,7 +34,7 @@
 <h2>Drug Manufacturers</h2>
 <p>Drug manufacturers may <a title="apply for a license online" href="https://vo.ras.dshs.state.tx.us/">apply for a license online</a>, or by completing and returning a <a title="license application form" href="/drugs/forms.aspx">license application form</a>. Licenses are valid for 2 years unless amended, suspended or revoked. For assistance in completing applications, call (512) 834-6727.</p>
 
-<p>“Manufacturer” means a person who manufactures, prepares, propagates, compounds, processes, packages, or repackages drugs, or a person who changes the container, wrapper, or labeling of any drug package. A person licensed or approved by the United States Food and Drug Administration to engage in the manufacture of drugs or devices, consistent with the federal agency's definition of "manufacturer" under the agency's regulations and guidances implementing the Prescription Drug Marketing Act of 1987 (Pub. L. No. 100 - 293). The term does not include a pharmacist engaged in compounding that is done within the practice of pharmacy and pursuant to a prescription drug order or initiative from a practitioner for a patient or prepackaging that is done in accordance with Occupations Code, §562.154.</p>
+<p>“Manufacturer” means a person who manufactures, prepares, propagates, compounds, processes, packages, or repackages drugs, or a person who changes the container, wrapper, or labeling of any drug package. A person licensed or approved by the United States Food and Drug Administration to engage in the manufacture of drugs consistent with the federal agency's definition of "manufacturer" under the agency's regulations and guidances implementing the Prescription Drug Marketing Act of 1987 (Pub. L. No. 100 - 293). The term does not include a pharmacist engaged in compounding that is done within the practice of pharmacy and pursuant to a prescription drug order or initiative from a practitioner for a patient or prepackaging that is done in accordance with Occupations Code, §562.154.</p>
 
 <h3>Fee Schedule for In-State Manufacturers of Prescription Drugs</h3>
 
@@ -142,7 +142,7 @@
 
 <p>Drug distributors may <a title="apply for a license online" href="https://vo.ras.dshs.state.tx.us/">apply for a license online</a>, or by completing and returning a <a title="license application form" href="/drugs/forms.aspx">license application form</a>. Licenses are valid for 2 years unless amended, suspended or revoked. For assistance in completing applications, call (512) 834-6727.</p>
 
-<p>“Distributor” means a person engaged in the wholesale distribution of prescription drugs, including, but not limited to, a manufacturer, repackager, own-label distributor, private-label distributor, jobber, broker, manufacturer warehouse, distributor warehouse, or other warehouse, manufacturer's exclusive distributor, authorized distributor of record, drug wholesaler or distributor, independent wholesale drug trader, specialty wholesale distributor, third-party logistics provider, retail pharmacy that conducts wholesale distribution, and pharmacy warehouse that conducts wholesale distribution.</p>
+<p>“Distributor” means a person engaged in the wholesale distribution of prescription drugs, including, but not limited to, a distributor, wholesaler, own-label distributor, private-label distributor, jobber, broker, manufacturer warehouse, distributor warehouse, or other warehouse, manufacturer's exclusive distributor, authorized distributor of record, independent wholesale drug trader, specialty wholesale distributor, third-party logistics provider, retail pharmacy that conducts wholesale distribution, and a pharmacy warehouse that conducts wholesale distribution.</p>
 
 <h3>Fee Schedule for In-State Distributors of Prescription Drugs </h3>
 
@@ -205,7 +205,7 @@
 <h3>Fee Schedule for In-State Distributors of Nonprescription Drugs</h3>
 
 <table class="zebraBorder" summary="Sorted by gross annual drug sales volume, ascending" style="width:100%;">
-	<caption>Fees for In-State Wholesale Distributors of Nonprescription Drugs Who Are Manufacturers - Minor Amendments (Name, Address)</caption>
+	<caption>Fees for In-State Wholesale Distributors of Nonprescription Drugs - Initial / Renewal License or Change of Ownership</caption>
 	<thead>
 		<tr>
 			<th id="table_heading_0" style="width:60%;">Gross Annual Drug Sales</th>

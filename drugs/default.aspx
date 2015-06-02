@@ -14,7 +14,7 @@
 <ul>
 	<li><a title="Certificates of Free Sale / Origin" href="/certificate-of-free-sale/">Certificates of Free Sale / Origin</a></li>
 	<li><a title="Medical Device Manufacturers and Distributors" href="/medical-devices/">Medical Device Manufacturers and Distributors</a></li>
-	<li><a title="Multiple Products" href="/drugs/forms.aspx#multiple-products">Multiple Products</a></li>
+	<li><a title="Multiple Products" href="/drugs/licensing.aspx#multiple-products">Multiple Products</a></li>
 	<li><a title="Pseudoephedrine Retail Certificate of Authority" href="/pseudoephedrine-retail/">Pseudoephedrine Retail Certificate of Authority</a></li>
 	<li><a title="Salvage Establishments and Brokers" href="/salvage/">Salvage Establishments and Brokers</a></li>
 	<li><a title="Tanning Facilities" href="/tanning/">Tanning Facilities</a></li>
