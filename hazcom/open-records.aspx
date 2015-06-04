@@ -55,15 +55,15 @@
 </ol>
 <p>Be as specific as possible about the information you are seeking. If you need assistance identifying records maintained by the file room, you may contact:</p>
 <p>
-	AVC Open Records MC 1987<br/>
-	Texas Department of State Health Services<br/>
+	Open Records Coordinator<br/>
+	PSQA- Environmental Hazards Group MC 1987<br/>
+	Texas Department of State Health Services <br/>
 	P. O. Box 149347<br/>
-	Austin, Texas 78714-9347
+	Austin, TX 78714-9347<br/>
 </p>
 <p>
-	Phone: (512) 834-6787 <br/>
 	Fax: (512) 834-6726<br/>
-	E-mail: <a title="Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=Open%20Records">Environmental Health Group Open Records</a> 
+	E-mail: <a title="Environmental Health Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=Open%20Records">Environmental Health Group Open Records</a> 
 </p>
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
 <p><strong>Please be advised that there may be a charge for the information you are requesting.</strong></p>

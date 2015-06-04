@@ -36,7 +36,6 @@
 		<li>Complaint Process
 			<ul>
 				<li><a title="Bloodborne Pathogen Control" href="/medical-devices/bloodborne-pathogens/complaints.aspx">Bloodborne Pathogen Control</a></li>				
-				<li><a title="Certificates of Free Sale / Origin" href="/certificate-of-free-sale/complaints.aspx">Certificates of Free Sale / Origin</a></li>
 				<li><a title="Drug Manufacturers and Distributors" href="/drugs/complaints.aspx">Drug Manufacturers and Distributors</a></li>
 				<li><a title="Medical Device Manufacturers and Distributors" href="/medical-devices/complaints.aspx">Medical Device Manufacturers and Distributors</a></li>
 				<li><a title="Salvage Establishments and Brokers" href="/salvage/complaints.aspx">Salvage Establishments and Brokers</a></li>
@@ -81,11 +80,10 @@
 	<ul>
 		<li>Enforcement Actions
 			<ul>
-				<li><a title="Certificates of Free Sale / Origin" href="/certificate-of-free-sale/enforcement.aspx">Certificates of Free Sale / Origin</a></li>
 				<li><a title="Drug Manufacturers and Distributors" href="/drugs/enforcement.aspx">Drug Manufacturers and Distributors</a></li>
 				<li><a title="Medical Device Manufacturers and Distributors" href="/medical-devices/enforcement.aspx">Medical Device Manufacturers and Distributors</a></li>
 				<li><a title="Salvage Establishments and Brokers" href="/salvage/enforcement.aspx">Salvage Establishments and Brokers</a></li>
-				<li><a title="Tanning Facilities" href="/tanning/enforcement.aspx">Tanning Facilities</a></li>
+				<li><a title="Tanning Facilities" href="/tanning/enforcement.aspx">Tanning Facilities</a></li>	
 				<li><a title="Tattoo / Body Piercing Studios" href="/tattoo-piercing/enforcement.aspx">Tattoo / Body Piercing Studios</a></li>		
 			</ul>
 		</li>
@@ -110,7 +108,8 @@
 			<ul>
 				<li><a title="Bloodborne Pathogen Control" href="/medical-devices/bloodborne-pathogens/laws-rules.aspx">Bloodborne Pathogen Control</a></li>
 				<li><a title="Certificates of Free Sale / Origin" href="/certificate-of-free-sale/laws-rules.aspx">Certificates of Free Sale / Origin</a></li>
-				<li><a title="Drug Manufacturers and Distributors" href="/drugs/laws-rules.aspx">Drug Manufacturers and Distributors</a></li>
+				<li><a title="Drug Manufacturers and Distributors (Laws)" href="/drugs/laws.aspx">Drug Manufacturers and Distributors (Laws)</a></li>
+				<li><a title="Drug Manufacturers and Distributors (Rules)" href="/drugs/rules.aspx">Drug Manufacturers and Distributors (Rules)</a></li>
 				<li><a title="Medical Device Manufacturers and Distributors" href="/medical-devices/laws-rules.aspx">Medical Device Manufacturers and Distributors</a></li>
 				<li><a title="Pseudoephedrine Retail Certificate of Authority" href="/pseudoephedrine-retail/laws-rules.aspx">Pseudoephedrine Retail Certificate of Authority</a></li>
 				<li><a title="Salvage Establishments and Brokers" href="/salvage/laws-rules.aspx">Salvage Establishments and Brokers</a></li>
@@ -122,7 +121,7 @@
 		<li>License Verification
 			<ul>
 				<li><a title="Drug License Verification" href="/drugs/license-verification.aspx">Drug License Verification</a></li>
-				<li><a title="Medical Device License Verification" href="/medical-devices/license-verification.asp">Medical Device License Verification</a></li>
+				<li><a title="Medical Device License Verification" href="/medical-devices/find-a-licensee.aspx">Medical Device License Verification</a></li>
 			</ul>
 		</li>
 	</ul>

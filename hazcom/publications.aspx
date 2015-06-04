@@ -4,6 +4,7 @@
     include '/home/codio/workspace/includes/menus/hazcom_menu.html'; 
 ?>
 
+<hr/>
 <h2>Notice to Employees</h2>
 <ul>
 	<li><a title="Worker Right to Know - English" href="http://www.dshs.state.tx.us/workarea/linkit.aspx?linkidentifier=id&itemid=8589989160">Worker Right to Know Notice - English</a> <span class="small">(PDF, 153KB)</span></li>

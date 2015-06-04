@@ -6,6 +6,13 @@
 
 <p>The mission of the Environmental Lead Program is to protect the public, especially young children, from exposure to lead in their environment through assuring that persons conducting lead inspections, lead risk assessments, and lead abatements in target housing (built before 1978) and child-occupied facilities (built before 1978) are properly trained and certified and are following minimum standards that protect the health of workers and building occupants.</p>
 
+<h2>Applicability of Lead Regulations</h2>
+
+<p>The U.S. Environmental Protection Agency (EPA) banned lead-based paint for residential use beginning on January 1, 1978.  As a result, the Lead Program administers the Texas Environmental Lead Reduction Rules (TELRR) which applies to housing (also known as "target housing" by the TELRR) and child-occupied facilities (i.e., daycare centers and kindergartens) built before this date.</p>  
+
+<p>In order to do any lead-based paint activity in these structures, such as inspections, risk assessments, lead hazard screens, or abatements, the individuals and firms conducting this work must be certified (licensed) by the Texas Department of State Health Services (DSHS), Environmental Lead Program.  In the absence of testing documentation to show that no lead-based paint is present, homes and child-occupied facilities built before 1978 must be assumed to contain lead-based paint.  Commercial and industrial buildings and structures are currently not covered by these regulations.</p>
+
+
 <hr/>
 <h2>Sign up to Receive Email Notifications</h2>
 <p>Sign up to receive announcements by e-mail about important activities regarding the Environmental Lead Program. This feature will serve as a tool to increase communication regarding future issues such as proposed rule changes, rule interpretations, enforcement actions, or updated licensing forms, procedures, etc.</p>
