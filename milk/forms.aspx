@@ -30,7 +30,7 @@
 <h2>Shipping, Transfer and Receiving</h2>
 <ul>
 	<li><a title="Transfer and/or Receiving Station License Application (EF23-13020)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589971543">Transfer and/or Receiving Station License Application (EF23-13020)</a> <span class="small">(PDF, 74KB)</span></li>
-	<li><a title="Milk Tank Truck Permit Application (EF47-10624)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987728">Milk Tank Truck Permit Application (EF47-10624)</a> <span class="small">(PDF, 66KB)</span></li>
+	<li><a title="Milk Tank Truck Permit Application (EF47-10624)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987728">Milk Tank Truck Permit Application (EF47-10624)</a> <span class="small">(PDF, 311KB)</span></li>
 </ul>
 
 <?php include '/home/codio/workspace/includes/footer.html'?>

@@ -3,9 +3,6 @@ DirectoryIndex default.aspx index.php index.html
 
 Options +FollowSymLinks
 RewriteEngine On
-Redirect 301 /VO/datamart/login.do.html    http://ecology-sandra.codio.io:3000/vo/datamart/login.do3.html
-Redirect 301 /vo/datamart/login.do.html http://ecology-sandra.codio.io:3000/vo/datamart/login.do3.html
-Redirect 301 /vo/index.html    http://ecology-sandra.codio.io:3000/vo/datamart/login.do3.html
 Redirect 301 /foodestablishments/licensing.aspx    http://ecology-sandra.codio.io:3000/foodestablishments/permitting.aspx
 
 #AuthType Basic
