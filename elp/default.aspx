@@ -8,9 +8,9 @@
 
 <h2>Applicability of Lead Regulations</h2>
 
-<p>The U.S. Environmental Protection Agency (EPA) banned lead-based paint for residential use beginning on January 1, 1978.  As a result, the Lead Program administers the Texas Environmental Lead Reduction Rules (TELRR) which applies to housing (also known as "target housing" by the TELRR) and child-occupied facilities (i.e., daycare centers and kindergartens) built before this date.</p>  
+<p>The U.S. Environmental Protection Agency (EPA) banned lead-based paint for residential use beginning on January 1, 1978.  As a result, the Texas Environmental Lead Reduction Rules (TELRR) were promulgated which apply to housing (also known as "target housing" by the TELRR) and child-occupied facilities (i.e., daycare centers and kindergartens) built before this date.</p>  
 
-<p>In order to do any lead-based paint activity in these structures, such as inspections, risk assessments, lead hazard screens, or abatements, the individuals and firms conducting this work must be certified (licensed) by the Texas Department of State Health Services (DSHS), Environmental Lead Program.  In the absence of testing documentation to show that no lead-based paint is present, homes and child-occupied facilities built before 1978 must be assumed to contain lead-based paint.  Commercial and industrial buildings and structures are currently not covered by these regulations.</p>
+<p>In order to do any lead-based paint activity in these structures, such as lead inspections, lead risk assessments, lead hazard screens, or lead abatements, the individuals and firms conducting this work must be certified (licensed) by the Texas Department of State Health Services (DSHS), Environmental Lead Program.  In the absence of testing documentation to show that no lead-based paint is present, homes and child-occupied facilities built before 1978 must be assumed to contain lead-based paint.  Commercial and industrial buildings and structures are currently not covered by these regulations.</p>
 
 
 <hr/>
