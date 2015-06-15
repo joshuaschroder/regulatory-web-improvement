@@ -14,9 +14,9 @@
 <hr/>
 <h2>Outreach Publications</h2>
 <ul>
-	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989131">Impact of the GHS on the THCA</a> <span class="small">(PDF, 206KB)</span></li>
+	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989131">Impact of the GHS on the THCA</a> <span class="small">(PDF, 257KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989116">Inspections Guide Brochure</a> <span class="small">(DOC, 100KB)</span></li>
-	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989124">Labeling and Labels Fact Sheet</a> <span class="small">(PDF, 182KB)</span></li>
+	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989124">Labeling and Labels Fact Sheet</a> <span class="small">(PDF, 187KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989125">Model Hazcom Program Fact Sheet</a> <span class="small">(PDF, 519KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989126">Personal Protective Equipment Fact Sheet</a> <span class="small">(PDF, 47KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989127">Rules and Revisions Fact Sheet</a> <span class="small">(PDF, 54KB)</span></li>
