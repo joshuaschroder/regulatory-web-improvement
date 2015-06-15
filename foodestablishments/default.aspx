@@ -4,8 +4,17 @@
     include '/home/codio/workspace/includes/menus/foodest_menu.html'; 
 ?>
 
-<p>Food safety is serious business in Texas. Our efforts are dedicated toward elimination of foodborne illness in the Lone Star State through personal and professional excellence. This endeavor requires the help of all public health regions, state and federal agencies, local and city health departments, private industry, and the public. Through teamwork and diligent effort, we can accomplish our mission, "to protect the public health through the efficient operation of a comprehensive, progressive retail food protection program focusing on education, training, and oversight, which will ultimately reduce the potential for foodborne illness in Texas."</p>
 
+<p>Food safety is serious business in Texas. Our efforts are dedicated toward elimination of foodborne illness in the Lone Star State through personal and professional excellence. This endeavor requires the help of all public health regions, state and federal agencies, local and city health departments, private industry, and the public. Through teamwork and diligent effort, we can accomplish our mission, "to protect the public health through the efficient operation of a comprehensive, progressive retail food protection program focusing on education, training, and oversight, which will ultimately reduce the potential for foodborne illness in Texas."</p>
+<hr/>
+<div class="suggResults" style="width:97%;padding:15px;">
+	<p><em><strong>ALERT:</strong>  Do you own or operate a food-related business in one of the following counties affected by recent heavy rains and flooding:  Bastrop, Colorado, Denton, Erath, Fayette, Gonzales, Grayson, Harris, Hays, Houston, Karnes, Lamar, Lavaca, Limestone, Liberty, Navarro, Tarrant, Travis, Wilson?  If so, please take a few moments to click on the link and take the survey.</em></p>
+	<ul>
+		<li><a title="Survey: Firm Assessment on Severe Weather Impact May 2015" href="http://www.may2015weatherevent.questionpro.com/">Survey: Firm Assessment on Severe Weather Impact May 2015</a> <br/></li>
+		<li><a title="Manufacturer Wholesaler Warehouse Storm Letter May 2015" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589998783">Manufacturer Wholesaler Warehouse Storm Letter May 2015</a> <span class="small">(PDF, 96KB)</span></li>
+	</ul>
+</div>
+<br/>
 <hr/>
 <h2>Permitting</h2>
 <p>Food service establishments are classified in the following areas:</p>
