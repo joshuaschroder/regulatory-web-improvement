@@ -25,10 +25,10 @@
 /*----------------------------------------------------------------------------------------------*/
 
 // Load the list of URLs
-$urls = file('input.txt', FILE_IGNORE_NEW_LINES);
+$urls = file('needle.txt', FILE_IGNORE_NEW_LINES);
 
 // Load the Array to Query
-include 'haystack.php';
+include 'haystack/haystack.php';
 
 // Set CURL parameters
 $ch = curl_init();
