@@ -70,7 +70,7 @@
 	<li>
 		<strong>Gold Medal Products is voluntarily recalling Product #4123: Caramel dip in metal #10 containers and Product #4124: Caramel dip in plastic containers due to production under insanitary conditions. <br/>
 		Please see the following websites for more information: </strong><br/>
-		<a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&recall_number=F-0710-2014&w=12112013&lang=eng" href="hhttp://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&recall_number=F-0710-2014&w=12112013&lang=eng">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-0710-2014&amp;w=12112013&amp;lang=eng</a><br/><br/>
+		<a title="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&recall_number=F-0710-2014&w=12112013&lang=eng" href="http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&recall_number=F-0710-2014&w=12112013&lang=eng">http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&amp;recall_number=F-0710-2014&amp;w=12112013&amp;lang=eng</a><br/><br/>
 	</li>
 	
 	<li>

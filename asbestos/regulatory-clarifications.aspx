@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$title= "Regulatory Guidance and Clarification Documents - Asbestos Program" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/asbestos_menu.html'; 
@@ -20,12 +20,12 @@
 <h2>Resilient Floor Covering Institute Guidance</h2>
 <p>Please be advised that DSHS is enforcing the <a title="1998 Resilient Floor Covering Institute (RFCI) Recommended Work Practices" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16601">1998 Resilient Floor Covering Institute (RFCI) Recommended Work Practices</a> <span class="small">(PDF, 589KB)</span>.</p> 
 
-<p>DSHS will publish any RFCI advisories, updates, etc. in the Tri-Annual Bulletin and on the Asbestos Web Page following any changes on the use of the RFCI Guidelines. The January 1998 RFCI Guidelines are issued by the <a title="Resilient Floor Covering Institute" href="http://www.rfci.com/">Resilient Floor Covering Institute</a>; 996 Hungerford Drive; Suite 12B; Rockville, MD 20850; (301) 340-8580.</p>
+<p>DSHS will publish any RFCI advisories, updates, etc. on the Asbestos Web Page following any changes on the use of the RFCI Guidelines. The January 1998 RFCI Guidelines are issued by the <a title="Resilient Floor Covering Institute" href="http://www.rfci.com/">Resilient Floor Covering Institute</a>; 996 Hungerford Drive; Suite 12B; Rockville, MD 20850; (301) 340-8580.</p>
 
 <hr/>
 <a class="bookmark" title="clarification" name="clarification"></a>
 <h2>Asbestos Regulatory Clarification Documents</h2>
-<table class="zebraBorder layout" summary="Sorted by date (descending)" style="width:100%;">
+<table class="zebraBorder layout" summary="Sorted chronologically by date (descending)" style="width:100%;">
 	<caption>Asbestos Regulatory Clarifications</caption>
 	<thead>
 		<tr>
@@ -51,7 +51,7 @@
 <hr/>
 <a class="bookmark" title="legacy" name="legacy"></a>
 <h3>Asbestos Regulatory Clarifications Written by the Legacy TDH Asbestos Program Prior to August 2003</h3>
-<table class="zebraBorder layout" summary="Sorted by date (descending)">
+<table class="zebraBorder layout" summary="Sorted chronologically by date (descending)" style="width:100%;">
 	<caption>Asbestos Regulatory Clarifications Written by the Legacy TDH Asbestos Program Prior to August 2003</caption>
 	<thead>
 		<tr>
@@ -64,112 +64,112 @@
 		<tr>
 			<td headers="table_heading_0">2003-08</td>
 			<td headers="table_heading_1"><p>Removing Non-Asbestos Floor Tile with RFCI  <br/>*This ARC has been replaced with PSQA-ASB002*</p></td>
-			<td headers="table_heading_2"><a title="ARC-022" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16549">ARC-022</a> <span class="small">(PDF, 52KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-022" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16549">ARC-022</a> <span class="small">(PDF, 125KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2003-07</td>
 			<td headers="table_heading_1">Qualifiable Licensing Experience </td>
-			<td headers="table_heading_2"><a title="ARC-021" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16548">ARC-021</a> <span class="small">(PDF, 58KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-021" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16548">ARC-021</a> <span class="small">(PDF, 165KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2002-06</td>
 			<td headers="table_heading_1">The Role of a General Contractor in a Renovation or Demolition Project</td>
-			<td headers="table_heading_2"><a title="ARC-015" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16542">ARC-015</a> <span class="small">(PDF, 76KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-015" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16542">ARC-015</a> <span class="small">(PDF, 167KB)</span></td>
 		</tr>				
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">Work Practices that Deviate from the Provisions - Alternate Control Method Format and Process Approval</td>
-			<td headers="table_heading_2"><a title="ARC-020" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16547">ARC-020</a> <span class="small">(PDF, 57KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-020" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16547">ARC-020</a> <span class="small">(PDF, 125KB)</span></td>
 		</tr>				
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">Application of Point Counting Bulk Samples in Regards to TAHPR </td>
-			<td headers="table_heading_2"><a title="ARC-019" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16546">ARC-019</a> <span class="small">(PDF, 68KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-019" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16546">ARC-019</a> <span class="small">(PDF, 139KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">Asbestos Survey Conducted Prior to December 1998</td>
-			<td headers="table_heading_2"><a title="ARC-018" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16545">ARC-018</a> <span class="small">(PDF, 95KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-018" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16545">ARC-018</a> <span class="small">(PDF, 131KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">Licensing Renewal Period</td>
-			<td headers="table_heading_2"><a title="ARC-017" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16544">ARC-017</a> <span class="small">(PDF, 53KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-017" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16544">ARC-017</a> <span class="small">(PDF, 111KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">The Meaning of "During the Project" in Public Buildings </td>
-			<td headers="table_heading_2"><a title="ARC-016" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16543">ARC-016</a> <span class="small">(PDF, 53KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-016" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16543">ARC-016</a> <span class="small">(PDF, 103KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">Analysis of Joint Compound for Asbestos Content</td>
-			<td headers="table_heading_2"><a title="ARC-014" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16541">ARC-014</a> <span class="small">(PDF, 64KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-014" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16541">ARC-014</a> <span class="small">(PDF, 137KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">The Impact of Sovereign Immunity and the Relationship of State to Federal Regulations </td>
-			<td headers="table_heading_2"><a title="ARC-013" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16540">ARC-013</a> <span class="small">(PDF, 62KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-013" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16540">ARC-013</a> <span class="small">(PDF, 121KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">Clarification of the Term "Airlock"</td>
-			<td headers="table_heading_2"><a title="ARC-012" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16539">ARC-012</a> <span class="small">(PDF, 61KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-012" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16539">ARC-012</a> <span class="small">(PDF, 109KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">Clarification of the Term Completion Date for Demolition and Renovation Projects</td>
-			<td headers="table_heading_2"><a title="ARC-011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16538">ARC-011</a> <span class="small">(PDF, 62KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-011" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16538">ARC-011</a> <span class="small">(PDF, 128KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-11</td>
 			<td headers="table_heading_1">The Applicability of TAHPR and NESHAP to Painting Asbestos-Containing Materials (ACM)</td>
-			<td headers="table_heading_2"><a title="ARC-010" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16537">ARC-010</a> <span class="small">(PDF, 85KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-010" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16537">ARC-010</a> <span class="small">(PDF, 124KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">The Demolition of a Public Building with Asbestos Containing Materials in Place</td>
-			<td headers="table_heading_2"><a title="ARC-009" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16536">ARC-009</a> <span class="small">(PDF, 62KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-009" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16536">ARC-009</a> <span class="small">(PDF, 208KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">AHERA, ESA's, EIS's, &amp; the 3-sample requirement</td>
-			<td headers="table_heading_2"><a title="ARC-008" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16535">ARC-008</a> <span class="small">(PDF, 59KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-008" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16535">ARC-008</a> <span class="small">(PDF, 175KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">Amounts of Asbestos Regulated by the TAHPR</td>
-			<td headers="table_heading_2"><a title="ARC-007" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16534">ARC-007</a> <span class="small">(PDF, 106KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-007" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16534">ARC-007</a> <span class="small">(PDF, 482KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">Clarification of the Term "Start Date" for Asbestos Abatement Projects in Public Buildings</td>
-			<td headers="table_heading_2"><a title="ARC-006" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16533">ARC-006</a> <span class="small">(PDF, 46KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-006" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16533">ARC-006</a> <span class="small">(PDF, 153KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">The Utilization of Large Consolidated Waste Containment Systems (LCWCS)</td>
-			<td headers="table_heading_2"><a title="ARC-005" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16532">ARC-005</a> <span class="small">(PDF, 45KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-005" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16532">ARC-005</a> <span class="small">(PDF, 188KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">Eligibility for Licensure under 25 TAC §295.47(e)</td>
-			<td headers="table_heading_2"><a title="ARC-004" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16531">ARC-004</a> <span class="small">(PDF, 58KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-004" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16531">ARC-004</a> <span class="small">(PDF, 239KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">Air Monitoring Technician Working for an O&amp;M Contractor</td>
-			<td headers="table_heading_2"><a title="ARC-003" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16530">ARC-003</a> <span class="small">(PDF, 51KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-003" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16530">ARC-003</a> <span class="small">(PDF, 204KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">Preparatory Work and Licensing</td>
-			<td headers="table_heading_2"><a title="ARC-002" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16529">ARC-002</a> <span class="small">(PDF, 60KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-002" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16529">ARC-002</a> <span class="small">(PDF, 201KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">2001-02</td>
 			<td headers="table_heading_1">Application of the TAHPR and NESHAP to the Demolition of a Public Building</td>
-			<td headers="table_heading_2"><a title="ARC-001" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16528">ARC-001</a> <span class="small">(PDF, 270KB)</span></td>
+			<td headers="table_heading_2"><a title="ARC-001" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16528">ARC-001</a> <span class="small">(PDF, 296KB)</span></td>
 		</tr>
 	</tbody>
 </table>

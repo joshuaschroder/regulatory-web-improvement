@@ -33,13 +33,13 @@
 <p>
 	E-mail: <a href="mailto:Becky.Exner@dshs.state.tx.us">Becky Exner</a><br/>
 	Phone: (512) 834-6665 Ext. 2447 <br/>
-	Fax: (512) 834-6625
+	Fax: (512) 834-6606
 </p>
 <h3>AVC Inspections</h3>
 <p>
-	E-mail: <a href="mailto:Lauren.Hollas@dshs.state.tx.us">Lauren Hollas</a> <br/>
-	Phone: (512) 834-6747 Ext. 2449 <br/>
-	Fax: (512) 834-4524
+	E-mail: <a href="mailto:Annette.Evans@dshs.state.tx.us">Annette Evans</a> <br/>
+	Phone: (512) 834-6770 Ext. 2449 <br/>
+	Fax: (512) 834-6644
 </p>
 
 <p>Please see the <a title="Contact Information" href="/avc/contact.aspx">Contact Information</a> page for mailing addresses and staff member contacts.</p>

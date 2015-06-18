@@ -40,7 +40,7 @@
 	Austin, Texas 78714-9347<br/>
 </p>
 <p>
-	Email: <a title="Environmental Health Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us">Environmental Health Group Open Records</a><br/>
+	Email: <a title="Environmental Hazards Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us">Environmental Hazards Group Open Records</a><br/>
 	Phone: (512) 834-6787<br/>
 	Fax: (512) 834-6726<br/>
 </p>

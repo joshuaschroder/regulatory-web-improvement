@@ -15,7 +15,7 @@
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Assistance</h3>
 <p>
-	Email: <a title="Dana.Shuler@dshs.state.tx.us" href="mailto:Dana.Shuler@dshs.state.tx.us">Dana Shuler</a><br/>
+	Email: <a title="mailto:hazprohelp@dshs.state.tx.us" href="mailto:hazprohelp@dshs.state.tx.us">hazprohelp@dshs.state.tx.us</a><br/>
 	Phone: (512) 834-6787 ext. 2301 <br/>
 	Fax:  (512) 834-6726<br/>
 </p>

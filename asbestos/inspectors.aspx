@@ -165,7 +165,7 @@
 
 <h4><strong><em>Region 7 Asbestos</em></strong></h4>
 <p>
-	<a title="Jorge Montemayor" href="mailto:Jorge.Montemayor">Jorge Montemayor</a><br/>
+	<a title="Jorge Montemayor" href="mailto:Jorge.Montemayor@dshs.state.tx.us">Jorge Montemayor</a><br/>
 	8407 Wall Street, Cube Y<br/>
 	Austin, TX 78754<br/>
 	Phone: (512) 834-6770 ext. 2169<br/>
@@ -234,7 +234,7 @@
 <h4><strong><em>Region 9/10 Asbestos</em></strong></h4>
 
 <p>
-	<a title="Roman Zarate" href="mailto:Roman.Zarate">Roman Zarate</a><br/>
+	<a title="Roman Zarate" href="mailto:Roman.Zarate@dshs.state.tx.us">Roman Zarate</a><br/>
 	2301 N. Big Spring St., Ste.200<br/>
 	Midland, TX 79705<br/>
 	Phone: (432) 571-4114<br/>

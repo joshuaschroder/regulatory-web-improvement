@@ -12,7 +12,7 @@
 <hr/>
 <h2>Applications</h2>
 <ul>
-	<li><a title="Hazardous Consumer Products Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18812">Hazardous Consumer Products Registration Application</a> <span class="small">(PDF, 102KB)</span></li>
+	<li><a title="Hazardous Consumer Products Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18812">Hazardous Consumer Products Registration Application</a> <span class="small">(PDF, 116KB)</span></li>
 </ul>
 
 <hr/>

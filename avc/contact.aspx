@@ -40,7 +40,7 @@
 <p>
 	E-mail: <a href="mailto:Becky.Exner@dshs.state.tx.us">Becky Exner</a><br/>
 	Phone: (512) 834-6665 Ext. 2447 <br/>
-	Fax: (512) 834-6625
+	Fax: (512) 834-6606
 </p>
 <h3>Mailing Address</h3>
 <p>
@@ -53,13 +53,13 @@
 <hr/>
 <h2>AVC Inspections</h2>
 <p>
-	E-mail: <a href="mailto:Lauren.Hollas@dshs.state.tx.us">Lauren Hollas</a> <br/>
-	Phone: (512) 834-6747 Ext. 2449 <br/>
-	Fax: (512) 834-4524
+	E-mail: <a href="mailto:Annette.Evans@dshs.state.tx.us">Annette Evans</a> <br/>
+	Phone: (512) 834-6770 Ext. 2449 <br/>
+	Fax: (512) 834-6644
 </p>
 <h3>Mailing Address</h3>
 <p>
-	Abusable Volatile Chemicals Inspections Group MC 1986<br/>
+	Abusable Volatile Chemicals Inspections Group MC 1987<br/>
 	Texas Department of State Health Services<br/>
 	P. O. Box 149347<br/>
 	Austin, Texas 78714-9347<br/>
@@ -79,7 +79,7 @@
 
 <p><strong>For Overnight Packages that <em>Do Not Contain Money</em>:</strong></p>
 <p>
-	Abusable Volatile Chemicals MC 2003<br/>
+	Abusable Volatile Chemicals MC 1987<br/>
 	Texas Department of State Health Services<br/>
 	1100 West 49th Street<br/>
 	Austin, Texas 78756-3199

@@ -14,14 +14,14 @@
 <hr/>
 <h2>Suspected Violation of Regulated Asbestos Work Practices</h2>
 <p>
-	Email: <a title="Tenessa Rodriguez Email" href="mailto:Tenessa.Rodriguez@dshs.state.tx.us">Tenessa Rodriguez</a> <br/>
-	Phone: (512) 834-6787, Ext 2109<br/>
+	Email: <a title="Asbestos Help Email" href="mailto:AsbestosHelp@dshs.state.tx.us">Asbestos Help</a> <br/>
+	Phone: (512) 834-6787<br/>
 	Fax: (512) 834-6726<br/>
 </p>
 
 <h3>Mailing Address</h3>
 <p>
-	Tenessa Rodriguez, Administrative Assistant<br/>
+	Asbestos Complaints<br/>
 	Environmental Hazards Group - PSQA Unit MC 1987<br/>
 	Texas Department of State Health Services<br/>
 	P. O. Box 149347<br/>
@@ -46,16 +46,6 @@
 	<a title="Roxanna B. Guerrero Email" href="mailto:Roxanna.Guerrero@dshs.state.tx.us">Roxanna B. Guerrero</a>, Asbestos Inspections Group Manager<br/>
 	Phone: (512) 834-6770, Ext 2455<br/>
 </p>
-
-<hr/>
-<h2>Processing of Asbestos-Related Licenses</h2>
-<p>
-	Email: <a title="Heather Muehr Email" href="mailto:Heather.Muehr@dshs.state.tx.us">Heather Muehr</a>, Environmental &amp; Sanitation Licensing Group Manager<br/>
-	Phone: (512) 834-6732<br/>
-</p>
-
-
-
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

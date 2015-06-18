@@ -230,7 +230,7 @@
 		<tr>
 			<th id="galveston-bay" headers="table_heading_0">Galveston Bay Estuary</th>
 			<td headers="map galveston-bay">
-				<a title="Galveston Bay Estuary – Map 1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978703 ">Galveston Bay Estuary – Map 1</a><br/><span class="small">(PDF, 3.8MB)</span><br/><br/>
+				<a title="Galveston Bay Estuary – Map 1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978703">Galveston Bay Estuary – Map 1</a><br/><span class="small">(PDF, 3.8MB)</span><br/><br/>
 				<a title="Galveston Bay Estuary – Map 2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978704">Galveston Bay Estuary – Map 2</a><br/><span class="small">(PDF, 584KB)</span>
 			</td>
 			<td headers="advisories galveston-bay">

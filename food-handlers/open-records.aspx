@@ -41,7 +41,7 @@
 
 <p>Your request should include your name, address, e-mail address (if you have one), daytime phone number and your fax number (if requesting a few pages, we may be able to fax the information to you).</p>
 <p><em><strong>Please be advised that there may be a charge for the information you are requesting.</strong></em></p>
-<p><em><strong>Other mailing addresses are available on the <a title="Contact Us" href="/foodestablishments/contact.shtm">Contact page</a>.</strong></em></p>
+<p><em><strong>Other mailing addresses are available on the <a title="Contact Us" href="/foodestablishments/contact.aspx">Contact page</a>.</strong></em></p>
 <hr/>
 
 <h2>Rights of Requestors</h2>

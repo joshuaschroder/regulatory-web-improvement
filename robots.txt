@@ -1,2 +1,6 @@
+User-Agent: LinkChecker
+Disallow: /scripts/
+Disallow: /includes/
+Disallow: /data-files/
 User-agent: *
 Disallow: /

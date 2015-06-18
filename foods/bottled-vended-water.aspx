@@ -43,8 +43,7 @@
 <hr/>
 <h2>Applications and Forms</h2>
 <p>Texas bottled water plants, water stores, and water vending machines are required to be operated under the supervision of a person who has obtained a certificate of competency for bottled and vended water operators. The intent of the certification is to ensure that production of bottled and vended water is conducted by persons educated in the proper methods of production, processing, treatment, and distribution of bottled and vended water products. This person must complete an application to take the exam.</p>
-<p><a title="Bottled Water Operators Certificate of Competency Exam Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986419">Bottled Water Operators Certificate of Competency Exam Application (EF23-12982)</a> <span class="small">(PDF, 30KB)</span></p>
-<p><em><strong>Note:</strong> This is not a license to conduct a food operation.</em></p>
+
 
 <hr/>
 <a class="bookmark" name="exam-sites" title="exam-sites"></a>

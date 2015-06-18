@@ -22,7 +22,7 @@
 	Fax: (512) 834-6614<br/>
 </p>
 
-<h3>Asbestos Regulations</h3>
+<h3>Asbestos Regulatory Information</h3>
 <p>Phone: (512) 834-6787</p>
 
 <h3>Inspections &amp; Notifications</h3>

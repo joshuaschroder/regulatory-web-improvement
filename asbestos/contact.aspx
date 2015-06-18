@@ -60,15 +60,15 @@
 	Phone: (512) 834-6770 Ext. 2451 <br/>
 </p>
 <p>
-	<a title="Todd Wingler" href="maito:Todd.Wingler@dshs.state.tx.us">Todd Wingler</a>, Regulatory Engineer<br/>
+	<a title="Todd Wingler" href="mailto:Todd.Wingler@dshs.state.tx.us">Todd Wingler</a>, Regulatory Engineer<br/>
 	Phone: (512) 834-6770 Ext. 2453<br/>
 </p>
 <p>
-	<a title="Terry Collins" href="maito:TerryW.Collins@dshs.state.tx.us">Terry Collins</a>, Group Manager Regions 2, 3, 4, 5N, 7, 9<br/>
+	<a title="Terry Collins" href="mailto:TerryW.Collins@dshs.state.tx.us">Terry Collins</a>, Group Manager Regions 2, 3, 4, 5N, 7, 9<br/>
 	Phone: (512) 834-6770 Ext. 2454 <br/>
 </p>
 <p>
-	<a title="Roxanna B. Guerrero" href="maito:Roxanna.Guerrero@dshs.state.tx.us">Roxanna B. Guerrero</a>, Group Manager Regions 6, 5S, 8, 11<br/>
+	<a title="Roxanna B. Guerrero" href="mailto:Roxanna.Guerrero@dshs.state.tx.us">Roxanna B. Guerrero</a>, Group Manager Regions 6, 5S, 8, 11<br/>
 	Phone: (512) 834-6770 Ext. 2455 <br/>
 </p>
 

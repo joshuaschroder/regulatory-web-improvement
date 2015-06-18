@@ -40,9 +40,9 @@
 <hr/>
 <h2>Enforcement Issues</h2>
 <p>
+	Email: <a title="Joe.Contreras@dshs.state.tx.us" href="mailto:Joe.Contreras@dshs.state.tx.us">Joe Contreras</a><br/>	
 	Phone: (512) 834-6665 ext. 2344<br/>
 	Fax: (512) 834-6625<br/>
-	Manager: Joe Contreras<br/>
 </p>
 
 <hr/>

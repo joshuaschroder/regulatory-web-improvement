@@ -18,7 +18,6 @@
 				<li><a title="Multiple Product Licenses - Applications and Forms" href="/drugs/forms.aspx#multiple-products">Multiple Product Licenses</a></li>
 				<li><a title="Pseudoephedrine Retail Certificate of Authority - Applications and Forms" href="/pseudoephedrine-retail/forms.aspx">Pseudoephedrine Retail Certificate of Authority</a></li>
 				<li><a title="Salvage Establishments and Brokers - Applications and Forms" href="/salvage/forms.aspx">Salvage Establishments and Brokers</a></li>
-				<li><a title="Tanning Facilities - Applications and Forms" href="/tanning/forms.aspx">Tanning Facilities</a></li>
 				<li><a title="Tattoo / Body Piercing Studios - Applications and Forms" href="/tattoo-piercing/forms.aspx">Tattoo / Body Piercing Studios</a></li>
 			</ul>
 		</li>

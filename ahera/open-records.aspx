@@ -36,7 +36,7 @@
 
 <h3>By Email or Fax</h3>
 <p>
-	Email: <a title="Environmental Health Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us@dshs.state.tx.us?subject=Open%20Records">Environmental Health Group Open Records</a><br/>
+	Email: <a title="Environmental Health Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=Open%20Records">Environmental Health Group Open Records</a><br/>
 	Fax: (512) 834-6726<br/>
 </p>
 
