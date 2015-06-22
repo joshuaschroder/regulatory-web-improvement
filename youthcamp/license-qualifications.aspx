@@ -22,7 +22,7 @@
 <hr/>
 <h2>Required Documents</h2>
 
-<p>In order to process your Youth Camp Application as soon as possible, Youth Camp Licensing must receive all of the following qualification documents for your camp along with a <a title="completed application" href="/youthcamp/forms.aspx">completed application</a> and <a title="fee" href="/youthcamp/fees.aspx">appropriate fee</a> or an online receipt if renewing through the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>.</p>
+<p>In order to process your Youth Camp Application as soon as possible, the Environmental and Santitation Licensing Group must receive all of the following qualification documents for your camp along with a <a title="completed application" href="/youthcamp/forms.aspx">completed application</a> and <a title="fee" href="/youthcamp/fees.aspx">appropriate fee</a> or an online receipt if renewing through the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a>.</p>
 
 <p>1. A detailed camp schedule of activities that includes <strong>ALL</strong> of the following:</p>
 <ul>
@@ -36,12 +36,12 @@
 
 <hr/>
 <h2>Contact Information for the Licensing Group</h2>
-<p>Email: <a title="Youth Camp Licensing" href="mailto:youthcamps.reg@dshs.state.tx.us?subject=Youth Camp Licensing">Youth Camp Licensing</a> </p>
+<p>Email: <a title="Environmental and Santitation Licensing Group" href="mailto:youthcamps.reg@dshs.state.tx.us?subject=Youth%20Camp%20Licensing">Environmental and Santitation Licensing Group</a> </p>
 <p>Phone: (512) 834-6600</p>
 <p>Fax: (512) 834-6614</p>
 
 <p>Please see the <a title="Contact Us" href="/youthcamp/contact.aspx">Contact Information</a> page for additional address and contact information.</p>
-<p>Once the Youth Camp Licensing Group has received all necessary documentation and fees your Youth Camp Application will be processed in the order of receipt. Once issued, the license will be mailed to the mailing address that is provided on the application.</p>
+<p>Once the Environmental and Sanitation Licensing Group has received all necessary documentation and fees your Youth Camp Application will be processed in the order of receipt. Once issued, the license will be mailed to the mailing address that is provided on the application.</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

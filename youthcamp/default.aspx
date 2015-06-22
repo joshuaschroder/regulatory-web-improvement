@@ -1,10 +1,10 @@
-﻿<?php
+<?php
 	$title= "Youth Camp Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/youthcamp_menu.html'; 
 ?>
 
-<p>The Texas Department of State Health Services is the principal authority on matters relating to health and safety conditions at youth camps in Texas. All youth camps must <a title="obtain a license" href="/youthcamp/license-qualifications.aspx">obtain a license</a> prior to operating. Any youth camp may be inspected during operation to determine compliance with the <a title="Youth Camp Act" href="/youthcamp/statutes-rules.aspx">Youth Camp Safety and Health Act</a> and the <a title="Youth Camp Rules" href="/youthcamp/statutes-rules.aspx">Youth Camp Rules</a>.</p>
+<p>The Texas Department of State Health Services is the principal authority on matters relating to health and safety conditions at youth camps in Texas. All youth camps must <a title="obtain a license" href="/youthcamp/license-qualifications.aspx">obtain a license</a> prior to operating. Any youth camp may be inspected during operation to determine compliance with the <a title="Youth Camp Act" href="/youthcamp/laws-rules.aspx">Youth Camp Safety and Health Act</a> and the <a title="Youth Camp Rules" href="/youthcamp/statutes-rules.aspx">Youth Camp Rules</a>.</p>
 
 <hr/>
 <h2>E-Mail Updates</h2>
@@ -26,7 +26,7 @@
 
 <h3>For Questions Regarding Licensing</h3>
 <p>
-	Email: <a title="Youth Camp Licensing" href="mailto:YouthCamps.Reg@dshs.state.tx.us?subject=Youth%20Camp%20Licensing">Youth Camp Licensing</a><br/>
+	Email: <a title="Environmental and Santitation Licensing Group" href="mailto:YouthCamps.Reg@dshs.state.tx.us?subject=Youth%20Camp%20Licensing">Environmental and Santitation Licensing Group</a><br/>
 	Phone: (512) 834-6600 ext. 2174<br/>
 	Fax: (512) 834-6614<br/>
 </p>

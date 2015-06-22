@@ -35,7 +35,7 @@
 <p>Providing this information will make it easier for us to quickly respond to your request. Be as specific as possible about the information you are seeking. Mail your request to: </p>
 
 <p>
-	Peggy Westlund <br/>
+	Sheena Coleman<br/>
 	Youth Camp Program Open Records MC 1987 <br/>
 	Texas Department of State Health Services<br/>
 	P. O. Box 149347<br/>
@@ -43,7 +43,7 @@
 </p>
 <p>
 	Email: <a title="DMDG Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=Open%20Records%20Request">EHG Open Records Request </a><br/>
-	Phone: (512) 834-6787 ext. 2610<br/>
+	Phone: (512) 834-6788  ext. 2391<br/>
 	Fax: (512) 834-6707<br/>
 </p>
 

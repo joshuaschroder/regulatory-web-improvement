@@ -15,7 +15,7 @@
 <hr/>
 <h2>For Questions Regarding Licensing</h2>
 <p>
-	Email: <a title="Youth Camp Licensing" href="mailto:YouthCamps.Reg@dshs.state.tx.us?subject=Youth%20Camp%20Licensing">Youth Camp Licensing</a><br/>
+	Email: <a title="Environmental and Santitation Licensing Group" href="mailto:YouthCamps.Reg@dshs.state.tx.us?subject=Youth%20Camp%20Licensing">Environmental and Santitation Licensing Group</a><br/>
 	Phone: (512) 834-6600 ext. 2174<br/>
 	Fax: (512) 834-6614<br/>
 </p>
