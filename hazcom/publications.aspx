@@ -19,9 +19,8 @@
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989124">Labeling and Labels Fact Sheet</a> <span class="small">(PDF, 187KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989125">Model Hazcom Program Fact Sheet</a> <span class="small">(PDF, 519KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989126">Personal Protective Equipment Fact Sheet</a> <span class="small">(PDF, 47KB)</span></li>
-	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989127">Rules and Revisions Fact Sheet</a> <span class="small">(PDF, 54KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989128">Sample Training Roster Fact Sheet</a> <span class="small">(PDF, 32KB)</span></li>
-	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989130">Safety Data Sheet Fact Sheet</a> <span class="small">(PDF, 191KB)</span></li>
+	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989130">Safety Data Sheet Fact Sheet</a> <span class="small">(PDF, 80KB)</span></li>
 	<li><a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589989129">Workplace Chemical List Fact Sheet</a> <span class="small">(PDF, 71KB)</span></li>
 </ul>
 

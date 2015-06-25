@@ -6,7 +6,7 @@
 <hr/>
 <h2>Certificate of Free Sale and/or Certificate of Origin</h2>
 <p>
-	Email: <a href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
+	Email: <a title="Foods Licensing Group" href="mailto:foodslicensinggroup@dshs.state.tx.us">Foods Licensing Group</a><br/>
 	Phone: (512) 834-6626<br />
 	Fax: (512) 834-6618<br />
 </p>
@@ -57,7 +57,7 @@
 	The Exchange Building<br />
 	8407 Wall Street<br />
 	Austin, Texas 78754<br />
-	<a href="https://www.dshs.state.tx.us/visitor/default.shtm">Map and directions</a> to the Exchange Building
+	<a title="Map and directions" href="https://www.dshs.state.tx.us/visitor/default.shtm">Map and directions</a> to the Exchange Building
 </p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
