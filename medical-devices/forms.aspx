@@ -24,12 +24,12 @@
 	<li><a title="Minor Amendment Change - Name, Address (EF23-13001)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589969187">Minor Amendment Change - Name, Address (EF23-13001)</a> <span class="small">(PDF, 153KB)</span></li>
 </ul>
 
-<hr/>
+<!--hr/>
 <a class="bookmark" title="bloodborne" name="bloodborne"></a>
 <h2>Bloodborne Pathogen Control</h2>
 <ul>
 	<li><a title="Bloodborne Pathogen Control Program Device Registration (EF23-10857)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=18514">Bloodborne Pathogen Control Program Device Registration (EF23-10857)</a> <span class="small">(PDF, 38KB)</span></li>
-</ul>
+</ul-->
 
 <hr/>
 <h2><a class="bookmark" name="multiple-products" title="Multiple Products"></a>Multiple Products</h2>

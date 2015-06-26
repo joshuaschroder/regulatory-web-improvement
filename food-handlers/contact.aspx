@@ -47,4 +47,4 @@
 	<a title="Map and directions" href="http://www.dshs.state.tx.us/visitor/default.shtm">Map and directions</a> to the Exchange Building
 </p>
 
-<?php include '/home/codio/workspace/includes/footer.html' ?>																																																																																																																												
+<?php include '/home/codio/workspace/includes/footer.html' ?>		

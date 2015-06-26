@@ -1,5 +1,5 @@
 <?php 
-    $title= "Frequently Asked Questions – Prescription Drug Distributors " ; 
+    $title= "Frequently Asked Questions – Prescription Drug Distributors" ; 
     include '/home/codio/workspace/includes/header.html'; 
     include '/home/codio/workspace/includes/menus/drugs_menu.html'; 
 ?>

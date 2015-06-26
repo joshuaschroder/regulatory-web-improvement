@@ -1,6 +1,6 @@
 <?php
 
-    $title= "Open Records - Licensing of Food Manager Training Programs";
+    $title= "Open Records - Certified Food Manager Program";
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foodhand_menu.html';
 

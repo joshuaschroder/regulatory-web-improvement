@@ -8,8 +8,8 @@
 <p>Please click on the link below that applies to your establishment:</p>
 
 <p>
-	<a title="Survey For Establishments With A Grant of Inspection" href="https://meatdshsgoi.questionpro.com/">Survey For Establishments With A Grant of Inspection</a><br/>
-	<a title="Survey For Establishments With A Grant of Custom Exemption or Poultry/Rabbit Exemption" href="https://meatdshscepre.questionpro.com/">Survey For Establishments With A Grant of Custom Exemption or Poultry/Rabbit Exemption</a><br/>
+	<a title="Survey For Establishments With A Grant of Inspection" href="https://meatdshsgoi.questionpro.com/">Survey for Establishments with a Grant of Inspection</a><br/>
+	<a title="Survey For Establishments With A Grant of Custom Exemption or Poultry/Rabbit Exemption" href="https://meatdshscepre.questionpro.com/">Survey for Establishments with a Grant of Custom Exemption or Poultry/Rabbit Exemption</a><br/>
 </p>
 
 

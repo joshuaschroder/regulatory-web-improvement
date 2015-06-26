@@ -1,5 +1,5 @@
 <?php
-	$title= "How to File a Complaint - Licensing of Food Handler Training Programs" ;
+	$title= "How to File a Complaint - Certified Food Manager Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foodman_menu.html'; 
 ?>

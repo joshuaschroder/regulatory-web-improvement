@@ -1,5 +1,5 @@
 <?php
-	$title= "Forms and Publications - Food Managers" ;
+	$title= "Forms and Publications - Certified Food Manager Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/foodman_menu.html'; 
 ?>
