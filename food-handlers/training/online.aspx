@@ -1,5 +1,5 @@
 <?php
-	$title= "Accredited Food Handler Internet (Online) Training Programs" ;
+	$title= "DSHS Accredited Food Handler Internet (Online) Training Programs" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
@@ -7,6 +7,8 @@
 <p><strong><em>Download this Document:</em></strong> <a title="Accredited Food Handler Online Training Programs - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993243">Accredited Food Handler Internet (Online) Training Programs</a> <span class="small">(PDF, 33KB)</span>
 </p>	
 <hr/>
+
+<p>Please also see the <a title="Food Handler Training Programs Accredited by the American National Standards Institute (ANSI)" href="https://www.ansica.org/wwwversion2/outside/ALLdirectoryListing.asp?menuID=212&prgID=237&prgID1=238&status=4">Food Handler Training Programs Accredited by the American National Standards Institute (ANSI)</a></p>
 
 <table class="zebraBorder" summary="sorted alphabetically by city name">
 	<caption>Accredited Food Handler Internet (Online) Training Programs</caption>

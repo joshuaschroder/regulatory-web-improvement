@@ -35,13 +35,13 @@
 <p>Providing this information will make it easier for us to quickly respond to your request. Be as specific as possible about the information you are seeking. Mail your request to: </p>
 
 <p>
-	Environmental Lead Program MC 1987 - Open Records <br/>
+	Environmental Hazards Group MC 1987 - Open Records <br/>
 	Texas Department of State Health Services<br/>
 	P. O. Box 149347<br/>
 	Austin, Texas 78714-9347<br/>
 </p>
 <p>
-	Email: <a title="Environmental Health Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=DMDG%20Open%20Records">Environmental Health Group Open Records</a><br/>
+	Email: <a title="Environmental Hazards Group Open Records" href="mailto:EHGOpenRecordRequest@dshs.state.tx.us?subject=DMDG%20Open%20Records">Environmental Hazards Group Open Records</a><br/>
 	Phone: (512) 834-6787 ext. 2610 <br/>
 	Fax: (512) 834-6707<br/>
 </p>

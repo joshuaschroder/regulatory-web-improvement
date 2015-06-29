@@ -1,5 +1,5 @@
 <?php
-	$title= "Accredited Private Food Handler Training Programs" ;
+	$title= "DSHS Accredited Private Food Handler Training Programs" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
@@ -9,6 +9,8 @@
 <hr/>
 <p>Accredited private food handler programs below  <em>do not</em> offer training to the public.<br/>
 This list is provided for Food Handler Program <em>license verification only.</em></p>
+
+<p>Please also see the <a title="Food Handler Training Programs Accredited by the American National Standards Institute (ANSI)" href="https://www.ansica.org/wwwversion2/outside/ALLdirectoryListing.asp?menuID=212&prgID=237&prgID1=238&status=4">Food Handler Training Programs Accredited by the American National Standards Institute (ANSI)</a></p>
 
 <table class="zebraBorder" summary="sorted alphabetically by city name">
 	<caption>Accredited Food Handler Training Programs</caption>

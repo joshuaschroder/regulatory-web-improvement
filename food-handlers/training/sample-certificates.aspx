@@ -1,5 +1,5 @@
 <?php
-	$title= "Sample Certificates - Food Handler Certification" ;
+	$title= "Sample Certificates for DSHS Accredited Food Handler Training Programs" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/foodhand_menu.html'; 
 ?>
