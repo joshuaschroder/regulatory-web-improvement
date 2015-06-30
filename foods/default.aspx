@@ -6,7 +6,7 @@
 
 
 <h2>Related Licenses and Information</h2>
-<p>This website contains information on licensure and regulation of <a title="food manufacturers" href="/foods/manufacturers.aspx">food manufacturers</a>, <a title="food distributors" href="/foods/wholesalers.aspx">food wholesaler and warehousing facilities</a>. For information on other topics, please see the program websites listed below:</p>
+<p>This website contains information on licensure and regulation of <a title="food manufacturers" href="/foods/manufacturers.aspx">food manufacturers</a>, <a title="food distributors" href="/foods/wholesalers.aspx">food wholesalers, and warehousing facilities</a>. For information on other topics, please see the program websites listed below:</p>
 
 <ul>
 	<li><a title="Certificates of Free Sale" href="/certificate-of-free-sale/">Certificates of Free Sale / Origin</a></li>

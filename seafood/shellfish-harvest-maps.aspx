@@ -5,7 +5,7 @@
 ?>
 
 <h2>Classification Information</h2>
-<p>Molluscan shellfish are defined as oysters, clams, and mussels.    All shellfish in Texas waters must be harvested from approved or conditionally approved areas as designated on the maps below. </p>
+<p>Molluscan shellfish are defined as oysters, clams, and mussels. All shellfish in Texas waters must be harvested from approved or conditionally approved areas as designated on the maps below. </p>
 <p>The status of shellfish growing waters in Texas estuaries is subject to change by the Texas Department of State Health Services at any time. These changes may be due to high rainfall and runoff, flooding, hurricanes and other extreme weather conditions, major spills, Harmful Algal Blooms, or the failure or inefficient operation of wastewater treatment facilities.  Closures can also occur due the Texas Parks and Wildlife Department taking actions to close these shellfish harvesting areas due to resource concerns or enforcement issues.</p>
 <p>The current status of shellfish harvesting areas may be obtained from your local Texas Parks and Wildlife office or by calling, in state only, toll-free, 1-800-685-0361.</p>
 <p>Texas Parks and Wildife posts the <a title="Regulations for Oysters and Other Aquatic Life" href="http://tpwd.texas.gov/regulations/outdoor-annual/fishing/shellfish-regulations/oyster-regulations">Regulations for Oysters and Other Aquatic Life</a> on their Web site.</p>

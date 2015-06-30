@@ -79,13 +79,6 @@
 	(915) 599-5208<br/>
 </p>
 
-<!--p>
-	<strong>Dana Cotton, R.S.</strong><br/>
-	5425 Polk Avenue, Ste J<br/>
-	Houston, TX 77023<br/>
-	(713) 767-3242<br/>
-</p-->
-
 <p>
 	<strong>Patrick Moore</strong><br/>
 	6302 Iola Ave<br/>
