@@ -1,5 +1,5 @@
 <?php
-	$title= "Lead in the Home - Environmental Lead Program" ;
+	$title= "Information About Certified Lead Professionals - Environmental Lead Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/elp_menu.html'; 
 ?>
@@ -50,8 +50,9 @@
 <hr/>
 <a class="bookmark" title="more" name="more"></a>
 <h2>For More Information</h2>
-<p>Please contact the DSHS, Environmental Lead Program, at (512) 834-6787 ext. 2434 or toll-free in Texas at (888) 778-9440 if you have any questions. See the <a href="/elp/contact.aspx">contact us</a> page for more numbers.</p>
-<p>If you have any questions regarding federal requirements for lead-based paint, you may call (800) 424-LEAD.</p>
+<p>Please contact the DSHS, Environmental Lead Program, at (512) 834-6787 ext. 2434 or toll-free in Texas at (888) 778-9440 if you have any questions. See the <a title="contact information page" href="/elp/contact.aspx">contact information page</a> for more numbers.</p>
+<p>If you have any questions regarding federal requirements for lead-based paint, you may call 1-800-424-LEAD (5323) or the EPA Region 6 office in Dallas at (214) 665-6711.
+</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

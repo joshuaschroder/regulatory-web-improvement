@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/asbestos_menu.html'; 
 ?>
 
-<p>Applicants and licensees may use the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a> to apply for new licenses and renew existing licenses. Please see the table below to determine if your specific license type is available for online licensing. For unsupported license types, please see the <a title="Applications and Forms" href="/asbestos/forms.aspx">Applications and Forms</a> page for instructions on completing a standard application packet.</p>
+<p>Applicants and licensees may use the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a> to apply for new licenses and renew existing licenses. Applications for Examination may not be submitted online. Please see the table below to determine if your specific license type is available for online licensing. For unsupported license types, please see the <a title="Applications and Forms" href="/asbestos/forms.aspx">Applications and Forms</a> page for instructions on completing a standard application packet.</p>
 
 <table class="layout zebraBorder" summary="sorted alphabetically by license type">
 	<caption>Online Licensing Eligibility</caption>

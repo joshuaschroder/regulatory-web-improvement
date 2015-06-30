@@ -20,8 +20,7 @@
 <h2>Licensing</h2>
 <p>Contact the Environmental and Sanitation Licensing Group for questions regarding the licensing process and application status for each Type of License, and for questions regarding Training submissions and applications.</p>
 <p>
-	Manager: <a title="Heather Muehr" href="mailto:Heather.Muehr@dshs.state.tx.us">Heather Muehr</a><br/>
-	Licensing Team Leader: <a title="Mary Hoffman" href="mailto:Mary.Hoffman@dshs.state.tx.us">Mary Hoffman</a><br/>
+	Email: <a title="Environmental and Sanitation Licensing Group" href="mailto:asbestos.reg@dshs.state.tx.us">Environmental and Sanitation Licensing Group</a>
 </p>
 
 <p>

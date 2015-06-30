@@ -6,7 +6,7 @@
 
 <p>This page contains information regarding environmental lead certifications and application types supported by the <a title="Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">online licensing system</a>. The Texas Online Payment System is currently unavailable to make asbestos, mold, and lead notification payments.  Payments may be made in the form of a check or money order and sent to the payment address provided on the notification invoice. </p>
 
-<p>Please see the <a title="licensing requirements" href="/elp/certification-requirements.aspx">certification requirements</a> page and the <a title="summary of certification requirements" href="/elp/certification-summary.aspx">summary of certification requirements</a> to ensure that you meet the requirements before attempting to apply or renew for a certification online.</p>
+<p>Please see the <a title="summary of certification requirements" href="/elp/certification-summary.aspx">summary of certification requirements</a> to ensure that you meet the requirements before attempting to apply or renew for a certification online.</p>
 
 <br/>
 

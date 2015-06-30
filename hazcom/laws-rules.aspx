@@ -18,7 +18,7 @@
 <hr/>
 <h2>Rules and Regulations</h2>
 <ul>
-	<li><a title="25 TAC, Chapter 296, Subchapter A - Hazard Communication" href="">25 TAC, Chapter 296, Subchapter A - Hazard Communication</a></li>
+	<li><a title="25 TAC, Chapter 296, Subchapter A - Hazard Communication" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=295&sch=A&rl=Y">25 TAC, Chapter 296, Subchapter A - Hazard Communication</a></li>
 </ul>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

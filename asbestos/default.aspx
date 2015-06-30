@@ -35,7 +35,7 @@
 </p>
 
 <h3>Training Provider Approval and State Examinations</h3>
-<p>Phone: (512) 834-6600</p>
+<p>Phone: (512) 834-6600 Ext. 2483</p>
 
 <hr/>
 <p>Additional staff member contacts and addresses may be found on the <a title="Contact Information page" href="/asbestos/contact.aspx">Contact Information page</a>.</p>

@@ -65,7 +65,7 @@ Austin, Texas  78714-9347<br/>
 <em>(If shipping OVERNIGHT, only USPS Special Service Deliveries will deliver to a P. O. Box.  UPS or Federal Express will NOT.)</em><br/>
 </p>
 
-<h3>For All Licensure Related Materials</h3>
+<h3>For All Licensure Related Materials That Do Not Contain Money</h3>
 <p>
 Environmental and Sanitation Licensing Group MC 2835<br/>
 Texas Department of State Health Services<br/>

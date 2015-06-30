@@ -13,7 +13,7 @@
 	<li>A <strong>letter of good standing</strong> can be provided if the requesting state does not include a blank affidavit form.</li>
 </ul>
 
-<hr/>
+<hr/>the
 <h2>Fees</h2>
 <p>Currently, there is no fee, but this may change in the future.</p>
 
