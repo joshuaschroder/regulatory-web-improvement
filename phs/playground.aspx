@@ -13,13 +13,8 @@
 <h2>For more information contact:</h2>
 
 <p>
-	Email:  Katie Moore <br/>
-	Telephone:  (512) 834-6788 ext. 2306<br/>
-	<br/>
-	OR<br/>
-	<br/>
-	Email: PHSCPS@dshs.state.tx.us <br/>
-	Telephone:  (512) 834-6788 ext. 2301
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a> <br/>
+	Telephone:  (512) 834-6788
 </p>
 
 <h3>General Address:</h3>

@@ -8,7 +8,7 @@
 
 <p>OSHA regulates any agricultural establishment where 11 or more employees are engaged on any given day in hand-labor operations in the field, in accordance with <a title="29 CFR 1928.110" href="http://www.ecfr.gov/cgi-bin/text-idx?SID=6fc9c70e4e6f783fb0ca610dbed21468&mc=true&node=se29.9.1928_1110&rgn=div8">29 CFR 1928.110</a>.</p>
 
-<p>If you have any questions about temporary places of employment or field sanitation inspections, please call Michael Minoia at (512) 834-6788 ext. 2305 or email <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">Michael Minoia</a>.</p>
+<p>If you have any questions about temporary places of employment or field sanitation inspections, please call the Public Health and Sanitation Program at (512) 834-6788 or email <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a>.</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

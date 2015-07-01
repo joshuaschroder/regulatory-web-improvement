@@ -6,7 +6,7 @@
 
 <hr/>
 <h2>Rules Violations</h2>
-<p>To submit a complaint regarding a suspected violation of the Texas Environmental Lead Reduction Rules, please contact:</p>
+<p>For questions, concerns, or complaints regarding a suspected violation of the Texas Environmental Lead Reduction Rules, please contact:</p>
 <p>
 	Peter Tadin, Program Coordinator<br/>
 	Environmental Health Group<br/>
@@ -17,7 +17,7 @@
 
 <hr/>
 <h2>Inspections</h2>
-<p>For concerns or complaints regarding inspections of lead-related work activities, please contact:</p>
+<p>For questions, concerns, or complaints regarding inspections of lead-related work activities, please contact:</p>
 <p>
 	Ken Ofunrein, Manager<br/>
 	Environmental Inspections Branch<br/>
@@ -28,7 +28,7 @@
 
 <hr/>
 <h2>Certifications and Lead Training Program Provider Accreditation</h2>
-<p>For concerns or complaints regarding the processing of a lead-related certification application or a Lead Training Program Provider accreditation application, or Lead Exam issues, please contact:</p>
+<p>For questions, concerns, or complaints regarding the processing of a lead-related certification application or a Lead Training Program Provider accreditation application, or Lead Exam issues, please contact:</p>
 <p>
 	Heather Muehr, Manager<br/>
 	Environmental &amp; Sanitation Licensing Group<br/>
@@ -39,7 +39,7 @@
 
 <hr/>
 <h2>Enforcement Actions</h2>
-<p>For concerns or complaints regarding the handling of an enforcement case, please contact:</p>
+<p>For questions, concerns, or complaints regarding the handling of an enforcement case, please contact:</p>
 <p>
 	Alyson Olson, Enforcement Specialist <br/>
 	Enforcement Unit<br/>

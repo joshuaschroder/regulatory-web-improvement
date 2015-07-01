@@ -11,13 +11,12 @@
 <h2>Public Nuisance and Public Restrooms</h2>
 
 <p>
-	Email: <a title="Katie Moore" href="mailto:PHSCPS@dshs.state.tx.us">Katie Moore</a><br/>
-	Phone: (512) 834-6788, ext. 2306
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6788
 </p>
 
 <p><strong>Mailing Address:</strong></p>
 <p>
-	Katie Moore<br/>
 	Policy, Standards, and Quality Assurance Unit<br/>
 	Health Sanitation &amp; Consumer Product Safety Group MC 1987<br/>
 	Texas Department of State Health Services<br/>

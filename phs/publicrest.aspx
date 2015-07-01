@@ -12,6 +12,6 @@
 
 <p>DSHS will investigate public restroom facility complaints in areas of the State where there is no local health department or code enforcement officials. DSHS will refer complaints about public restroom facilities to municipalities or counties with a health department or code enforcement officials.</p>
 
-<p>For questions or concerns call Katie Moore at (512) 834-6788, ext. 2306 or <a title="contact by email" href="mailto:PHSCPS@dshs.state.tx.us">contact by email</a> .</p>
+<p>For questions or concerns, please contact the Public Health and Sanitation Progam at (512) 834-6788 or by email at <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us">PHSCPS@dshs.state.tx.us</a>.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

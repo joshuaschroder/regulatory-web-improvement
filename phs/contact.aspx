@@ -18,32 +18,32 @@
 
 <h3>Bed Bugs</h3>
 <p>
-	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">Mark Hall</a><br/>
-	Phone: (512) 834-6788 ext. 2362
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">PHSCPS@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6788
 </p>
 
 <h3>Hotel/Motel/RV Park Complaints</h3>
 <p>
-	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">Mark Hall</a><br/>
-	Phone: (512) 834-6788 ext. 2362
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">PHSCPS@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6788
 </p>
 
 <h3>Public Lodging Complaints</h3>
 <p>
-	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">Mark Hall</a><br/>
-	Phone: (512) 834-6788 ext. 2362
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">PHSCPS@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6788
 </p>
 
 <h3>Public Nuisance Complaints</h3>
 <p>
-	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">Public Health Sanitation</a><br/>
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">PHSCPS@dshs.state.tx.us</a><br/>
 	Phone: (512) 834-6788
 </p>
 
 <h3>Public Restrooms</h3>
 <p>
-	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">Katie Moore</a><br/>
-	Phone: (512) 834-6788 ext. 2306
+	Email: <a title="PHSCPS@dshs.state.tx.us" href="mailto:PHSCPS@dshs.state.tx.us?subject=PHS%20Contact">PHSCPS@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6788
 </p>
 
 <h3>Toxicology Information</h3>

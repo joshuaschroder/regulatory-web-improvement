@@ -11,7 +11,7 @@
 </ul>
 
 <h3>About the Texas Hazard Communication Act (TCHA)</h3>
-<p>The THCA requires public employers to provide information, training, and appropriate personal protective equipment to their employees who may be exposed to hazardous chemicals in their workplaces.  The Section provides both consultative and enforcement related evaluations of public workplaces to ensure that public employees are protected from hazardous chemicals in their workplaces.</p>
+<p>The THCA requires public employers to provide information, training, and appropriate personal protective equipment to their employees who may be exposed to hazardous chemicals in their workplaces. The program provides both consultative and enforcement related evaluations of public workplaces to ensure that public employees are protected from hazardous chemicals in their workplaces.</p>
 
 <p>Public employers include (but are not limited to) cities, counties, state agencies, public schools, public colleges and universities, and volunteer service organizations.  Employees of private facilities in Texas are covered by a similar federal law, which is enforced by the U.S. Occupational Safety and Health Administration (OSHA).</p>
 

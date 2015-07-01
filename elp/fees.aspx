@@ -1,5 +1,5 @@
 <?php
-	$title= "Lead Certification & Accreditation Renewal Fees" ;
+	$title= "Lead Certification & Accreditation Fees - Environmental Lead Program" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/elp_menu.html'; 
 ?>
@@ -8,7 +8,7 @@
 	<caption>Fees for Lead Certification and Accreditation Renewal</caption>
 	<thead>
 		<tr>
-			<th id="table_headers_0" scope="col" style="width:20%;">License Renewal Type</th>
+			<th id="table_headers_0" scope="col" style="width:20%;">License Type</th>
 			<th id="table_headers_1" scope="col" style="width:15%;">Base Fee</th>
 			<th id="table_headers_2" scope="col" style="width:15%;">Subscription Fee</th>
 			<th id="table_headers_3" scope="col" style="width:15%;">Total Renewal Fee (if renewed on time)</th>
