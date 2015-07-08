@@ -3,9 +3,7 @@
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/elp_menu.html'; 
 ?>
-<hr/>
-<p><strong>Download this Document:</strong> <a title="Texas Lead Training Providers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968392">Texas Lead Training Providers</a> <span class="small">(PDF, 27KB)</span></p>
-<hr/>
+<br/>
 <table class="zebraBorder layout" summary="sorted alphabetically by provider name - ascending" style="width:100%;">
 	<caption>Texas Lead Training Providers</caption>
 	<thead>

@@ -41,10 +41,22 @@
 <h2>Enforcement Actions</h2>
 <p>For questions, concerns, or complaints regarding the handling of an enforcement case, please contact:</p>
 <p>
-	Alyson Olson, Enforcement Specialist <br/>
+	Brittany Droddy, Enforcement Specialist <br/>
 	Enforcement Unit<br/>
-	Email: <a title="Alyson.Olson@dshs.state.tx.us" href="mailto:Alyson.Olson@dshs.state.tx.us">Alyson.Olson@dshs.state.tx.us</a><br/>
-	Phone: (512) 834-6600, ext. 2789<br/>
+	Email: <a title="Brittany.Droddy@dshs.state.tx.us" href="mailto:Brittany.Droddy@dshs.state.tx.us">Brittany.Droddy@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6665, ext. 3730<br/>
 </p>
+
+<hr/>
+<h2>Lead Abatement Notifications</h2>
+<p>For questions, concerns, or complaints regarding the processing of lead abatement notifications, please contact:</p>
+<p>
+	Jeanette Vega, Lead Abatement Notification Technician<br/>
+	Environmental Health Notifications Group<br/>
+	Inspections Unit<br/>
+	Email: <a title="Jeanette.vega@dshs.state.tx.us" href="mailto:Jeanette.vega@dshs.state.tx.us">Jeanette.vega@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6747<br/>
+</p>
+
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

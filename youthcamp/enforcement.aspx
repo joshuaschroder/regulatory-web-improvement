@@ -1,12 +1,8 @@
-﻿<?php
+<?php
 	$title= "Enforcement Actions - Youth Camp Program" ;
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
-
-<hr/>
-<p><strong>Download this Document:</strong> <a title="Youth Camp Enforcement Actions" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20829">Youth Camp Enforcement Actions</a> <span class="small">(PDF, 153KB)</span></p>
-<hr/>
 
 <table class="zebraBorder" summary="sorted by final enforcement date, ascending">
 	<caption>Orders Issued For The Months Of March 2014 – March 2015</caption>

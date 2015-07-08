@@ -4,10 +4,6 @@
     include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
 
-<hr/>
-<p><strong>Download this Document:</strong> <a title="" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=54944">Enforcement Actions - Environmental Lead Program</a> <span class="small">(PDF, 115KB)</span></p>
-<hr/>
-
 <table class="zebraBorder" summary="sorted by final enforcement date - descending" style="width:100%;">
 	<caption>Suspension Orders Signed by the Assistant Commissioner Division for Regulatory Services, March 2014 - March 2015</caption>
 	<thead>

@@ -4,10 +4,6 @@
     include '/home/codio/workspace/includes/menus/hazpro_menu.html'; 
 ?>
 
-<hr/>
-<p><strong>Download this Document:</strong> <a title="Texas Hazardous Substances Act Registration Fact Sheet" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18813">Texas Hazardous Substances Act Registration Fact Sheet</a> <span class="small">(PDF, 28KB)</span></p>
-<hr/>
-
 <p>The purpose of the Texas Hazardous Substances Act (HSA), codified as Chapter 501 of the Health and Safety Code, is to protect the health, safety and welfare of the people of Texas by reducing the risk of illness, injury or death resulting from the handling or use of hazardous consumer products. The HSA requires manufacturers, importers, repackers, and private-label distributors of hazardous consumer products to submit a registration form and filing fee to the Texas Department of State Health Services (DSHS), and to ensure that regulated products are labeled and packaged appropriately prior to distribution or sale in Texas. The consumer products regulated by this law are those that meet the definition of a "hazardous substance" as defined under the HSA. These products may be grouped into the following categories:</p>
 
 <ol>

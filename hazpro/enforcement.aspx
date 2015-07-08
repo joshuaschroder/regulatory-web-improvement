@@ -4,10 +4,6 @@
     include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
 
-<hr/>
-<p><strong>Download this Document:</strong> <a title="Hazardous Products Program Enforcement Actions" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=18810">Hazardous Products Program Enforcement Actions</a> <span class="small">(PDF, 190KB)</span></p>
-<hr/>
-
 <h2>Product Safety-Hazardous Products Orders Issued for the Months of March 2014 - March 2015</h2>
 <table class="zebraBorder" summary="sorted by final enforcement date - ascending">
 	<caption>Agreed Orders Signed by the Assistant Commissioner Division for Regulatory Services</caption>
