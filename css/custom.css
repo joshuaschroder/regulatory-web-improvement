@@ -1,0 +1,292 @@
+/* Container Wrapper */
+ .container {
+    margin-top:15px !important;
+    margin-bottom:35px;
+    border-radius:7px;
+    border:1px solid #CCC;
+    padding-top:15px;
+    /*max-width:995px;*/
+}
+/* Top Navigation */
+ .navbar {
+    min-height:30px !important;
+}
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(255, 255, 255, 1);
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(73, 111, 171, 1);
+    overflow:visible;
+    margin:15px 0;
+    border:0px;
+    border-radius:0px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(73, 111, 171, 1);
+    font-size: 0.8em;
+    font-weight:bold;
+    padding:0.3em 2em !important;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover, #custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(62, 94, 145, 1);
+    background: -webkit-linear-gradient(top, rgba(89, 125, 177, 1) 0%, rgba(62, 94, 145, 1) 100%);
+    background: linear-gradient(to bottom, rgba(89, 125, 177, 1) 0%, rgba(62, 94, 145, 1) 100%);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a, #custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover, #custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(73, 111, 171, 1);
+}
+/* Side Menu */
+ @media (min-width: 768px) {
+    #sidebar-nav .navbar .navbar-collapse {
+        padding: 0;
+        max-height: none;
+    }
+    #sidebar-nav .navbar ul {
+        float: none;
+    }
+    #sidebar-nav .navbar ul:not {
+        display: block;
+    }
+    #sidebar-nav .navbar li {
+        float: none;
+        display: block;
+    }
+    #sidebar-nav .navbar li a {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    #sidebar-nav li.active {
+        background-color:#DDD;
+        font-weight:bold;
+    }
+    #sidebar-nav li.active a {
+        color:#000;
+    }
+    #sidebar-nav .dropdown-menu .active a {
+        color:#FFF;
+    }
+}
+/* Ektron CSS */
+ #search {
+    color:#42649B;
+    margin-top:10px
+}
+#search .searchBoxes {
+    vertical-align:middle;
+    height:27px;
+    margin-bottom:5px
+}
+#search input.searchBox {
+    /*background:url(http://www.dshs.state.tx.us/images/sprite/master.gif) no-repeat;*/
+    background-position:-10px -45px;
+    border:1px solid #777;
+    border-radius:5px;
+    height:22px;
+    width:70%;
+    margin:0;
+    padding:5px 8px 0 5px;
+    float:left
+}
+#search input.searchButton {
+    background:transparent url(http://www.dshs.state.tx.us/images/sprite/master.gif) no-repeat;
+    background-position:-10px -92px;
+    border:0;
+    margin:2px 0 0 5px;
+    height:21px;
+    width:21px;
+    float:left
+}
+a.searchButton {
+    margin-left:10px;
+}
+#search ul.alphabet {
+    margin:0;
+    padding:0;
+    list-style:none
+}
+#search ul.alphabet li {
+    display:inline
+}
+#search ul.alphabet li a {
+    color:#42649B;
+    text-decoration:none
+}
+#search ul.alphabet li a:visited {
+    color:#42649B;
+    text-decoration:none
+}
+#search ul.alphabet li a:hover {
+    color:#B92639;
+    text-decoration:underline
+}
+.headerLinks a, .headerLinks {
+    font-size:0.95em;
+    text-align:right;
+}
+/*
+ a.textLg {
+    font-size:0;
+    display:inline-block;
+    height:15px;
+    width:15px;
+    margin:0 3px 0 0;
+    overflow:hidden;
+    background:url("https://www.dshs.state.tx.us/images/sprite/master.gif") no-repeat;
+    background-position:-10px -168px
+}
+a.textLg:hover {
+    background:url("https://www.dshs.state.tx.us/images/sprite/master.gif") no-repeat;
+    background-position:-25px -168px
+}
+a.textSm {
+    font-size:0;
+    display:inline-block;
+    height:15px;
+    width:15px;
+    overflow:hidden;
+    background:url("https://www.dshs.state.tx.us/images/sprite/master.gif") no-repeat;
+    background-position:-10px -133px
+}
+a.textSm:hover {
+    background:url("https://www.dshs.state.tx.us/images/sprite/master.gif") no-repeat;
+    background-position:-25px -133px
+}
+*/
+ #footer {
+    margin:15px auto 0 auto;
+    padding:30px;
+    text-align:center;
+    background-color:#DEDEDE;
+}
+.editorStyles table.zebraBorder, .editorStyles table.zebra, .editorStyles table.border {
+    border-collapse:collapse
+}
+table.zebraBorder th, table.zebra th, table.border th {
+    text-align:left;
+    padding:3px
+}
+table.zebraBorder td, table.zebra td, table.border td {
+    padding:3px;
+    text-align:left
+}
+table.zebraBorder th, table.zebra th {
+    background-color:#ddd
+}
+tr.zebraEven {
+    background-color:#eee
+}
+table.zebraBorder th, table.border th, table.zebraBorder td, table.border td {
+    border:1px solid silver
+}
+.editorStyles table.layout, .editorStyles table.layoutBorder, table.layoutBorder tbody, table.layoutBorder th, table.layoutBorder td {
+    vertical-align:top
+}
+.editorStyles table.layoutBorder {
+    border:1px solid silver
+}
+.editorStyles table.layout caption, .editorStyles table.layoutBorder caption {
+    display:none
+}
+.editorStyles li {
+    margin-left:20px
+}
+.editorStyles caption {
+    caption-side:top;
+    text-align:left
+}
+table.content, table td.content {
+    background-color:#FFF;
+    font-size:12px;
+    font-style:normal;
+    line-height:150%;
+    padding:10px
+}
+table.content h1 {
+    color:#006;
+    font-size:17px;
+    font-weight:700
+}
+table.default {
+    border-style:solid;
+    border-width:thin;
+    margin-left:2%;
+    margin-right:2%;
+    padding:0;
+    text-align:center;
+    width:80%
+}
+table.default th, table.default td {
+    border-collapse:separate;
+    border-style:solid;
+    border-width:thin;
+    text-align:center
+}
+table.rfactor {
+    border-style:none;
+    padding:0;
+    text-align:left;
+    width:100%
+}
+table.rfactor td {
+    border-style:none;
+    text-align:center
+}
+/* Fix Search & Health Topics on Phones */
+ @media (max-width: 500px) {
+    #search ul.alphabet li.topics {
+        display:none;
+    }
+}
+/**********************************
+	Text Resizer Buttons
+ **********************************/
+ #textsizer {
+    margin-bottom: 6px;
+}
+#textsizer p {
+    display: inline;
+}
+ul.textresizer {
+    list-style: none;
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+}
+ul.textresizer li {
+    display: inline;
+    margin: 0px;
+    margin-right: 5px;
+    padding: 0px;
+}
+ul.textresizer a {
+    border: solid 1px #999;
+    padding: 2px 3px;
+    font-weight: bold;
+    text-decoration: none;
+}
+ul.textresizer a:hover {
+    background: #e5e5e5;
+    border: solid 1px #cccccc;
+}
+ul.textresizer .small-text {
+    font-size: 75%;
+}
+ul.textresizer .medium-text {
+    font-size: 100%;
+}
+ul.textresizer .large-text {
+    font-size: 150%;
+}
+ul.textresizer .larger-text {
+    font-size: 200%;
+}
+/* Style of active button */
+ ul.textresizer a.textresizer-active {
+    border: solid 1px #2B562B;
+    background: #496FAB;
+    color: #FFFFFF;
+}

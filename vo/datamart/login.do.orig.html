@@ -1,0 +1,149 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+<script>
+	
+	var skipText = '[[ rsdMenuSkipText ]]';
+	var startFromSummary = false;
+	
+</script>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="../css/login_theme3.orig.css" />
+<script type="text/javascript" src="/datamart/js/JQuery/js/jquery-1.6.2.min.js"></script>
+<script>
+	//Focus on first element on page
+	$(window).load(function () {
+		$(':input:not([readonly]):visible:enabled:first').focus();
+	});
+	//Make the default behavior of the enter key on inputs to trigger the next / continue button
+	 $(document).keypress(function(event){
+		if((event.keyCode ? event.keyCode : event.which) == '13'){
+			if (event.target.tagName.toLowerCase() != "textarea" && (event.target.type == null || (event.target.type.toLowerCase() != "submit"))) {
+				inputs = $("input:not([readonly],:hidden):visible:enabled, textarea:not([readonly]):visible:enabled, select:not([readonly]):visible:enabled");
+				currentIndex = inputs.index($(event.target));
+				if(inputs[currentIndex + 1] != null){
+					event.preventDefault();
+					inputs[currentIndex + 1].focus();
+					if(inputs[currentIndex + 1].type == 'submit' && $(inputs[currentIndex + 1]).val() == 'Sign In'){
+						$(inputs[currentIndex + 1]).click();
+					}
+				}
+				return false;
+			}
+		}
+		return true;
+	});
+</script>
+<title>Online Services</title>
+</head>
+
+<body>
+<form action="login.do" method="POST" class="formListing" >
+<input type="hidden" name="logon" value="1" />
+<div id="wrapper">
+  <div id="hph1">
+   <div class="header">
+    <h1 class="logo"><a href="http://www.dshs.state.tx.us/default.shtm" target="blank_"><img height="72" border="0" src="https://vo.ras.dshs.state.tx.us/images/Color_DSHS_Banner.jpg" alt="Department of State Health Services Home"></a></h1>
+    &nbsp;<!--end pics -->
+    <div id="navbar"> </div>
+    </div>
+    <div class="content">
+		
+      <div class="content-title">
+        <h2>Online Licensing Services</h2>
+      </div>
+      <div class="rightpane info"><ul class="main-nav-horizontal-right">
+          <li><a class="linkborder" href="selSearchTypeTXRAS.do?from=loginPage">License Search</a></li>
+      <!--    <li><a class="linkborder" href="notificationSearchAction.do?from=loginPage">Environmental Notification Search</a></li> -->
+          <li><a class="linkborder" href="http://www.dshs.state.tx.us/Registration/" target="blank_">Who Should Register and FAQs</a></li>
+        </ul></div>
+      <div class="clear"></div>
+      <div class="leftpane-index">
+
+                          <!-- content holder for Product Selector iframe. Integration will need to be non-cross domain call. -->
+                          <div class="divPaddingAll"><span class="leftpane-title"> Returning User</span>
+                            <div class="leftpane-content secondndcontent">"<span class="required">*</span>" are required. <br />
+                              <br />
+                              <tbody>
+                                <tr>
+                                  <td nowrap=""><label for="username" class="label-login"><span class="required">*</span>User ID:</label></td>
+                                  <td class="txtpad"><input type="text" class="txt" name="userid" id="userid"></td>
+                                </tr>
+                                <tr>
+                                  <td nowrap=""><label for="password" class="label-login"><span class="required">*</span>Password:</label></td>
+                                  <td class="txtpad"><input type="password" class="txt" name="password" id="password"></td>
+                                </tr>
+                                <tr>
+
+                                  <td align="left" class="txtpad" colspan="2"><input type="submit" class="btn" value="Sign In"></td>
+                                </tr>
+                              </tbody>
+                              <br /><br />
+                              <a href="askEmailAddr.do">Forgot user ID?</a><br />
+							  <a href="askUserid.do">Forgot password?</a>
+                            </div>
+                            <span class="leftpane-title"> New User</span>
+                            <div class="leftpane-content secondndcontent1">
+								<table>
+									<tr><td class="newuser">
+                              <img src="../images/information24.png" alt="information" width="24" height="24" class="information-img">
+                             Create a new online account as a first time user. Log in with the password emailed to you to access online services.
+ 
+
+									</td></tr>
+									<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="registration.do?from=loginPage">Register as a new user</a></td></tr>
+								</table>
+
+                              <br /><br />
+
+                            </div>
+                          </div>
+                        </div>
+
+      <div class="rightpanewrapper">
+        <div class="rightpane content-right">
+          <h3><em>Log in, manage your licenses/certificates,</em><br />
+or verify a license/certificate.</h3>
+          <p>Welcome to the DSHS Regulatory Online Licensing Servies System.
+If you are a new user and wish to use this system, please register as a new user to create your online account.</p>
+          <p>If you are an existing user, login with your user ID and password.  If you have forgotten your user ID or password, use the links in the 'Returning User' section to help you.</p>
+          <p>It is not necessary to login to verify a license and/or certificate with the License Search.<p>
+          <p>If your email address needs to be changed on your account, login with your user ID and click on Update Profile.  Email addresses and user IDs may be changed by editing your Personal Information.<p>
+          <br />
+        </div>
+
+      </div>
+      <div class="clear"></div>
+      <div class="footer-disclaimer border"><a href="http://www.dshs.state.tx.us/Licensee-Registrant-Permittee.aspx"
+									target="blank_">Contact DSHS Programs</a>&nbsp;<font color="darkblue"><b>|</b></font>
+									<a href="http://www.dshs.state.tx.us/policy.shtm"
+									target="blank_">Internet Policy</a>&nbsp;<font color="darkblue"><b>|</b></font>
+									<a href="http://www.dshs.state.tx.us/policy/regulatorydisclaimer.shtm"
+									target="blank_">Disclaimer</a></font></div>
+    </div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="footer">Last Updated August 27, 2013
+<div class="footer">For technical support: 1.800.399.2969 <a href="mailto:support@texasgovhelpdesk.com"> support@texasgovhelpdesk.com
+<div class="footer-horizontalbar"></div>
+</div>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+	
+

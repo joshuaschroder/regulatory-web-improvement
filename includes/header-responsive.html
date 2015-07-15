@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="/css/bootstrap.css" rel="stylesheet">
+		<link href="/css/custom.css" rel="stylesheet">		
+		<title>
+			<?php echo $title ?>
+		</title>
+		<meta name="keywords" content="" />
+		<meta name="Description" content="" />
+		<meta name="robots" content="noindex" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="Author" content="Texas Department of State Health Services" />
+
+	</head>
+	
+	<body id="bodymain">
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-md-3">
+					<a href="/" accesskey="1">
+						<img src="http://www.dshs.state.tx.us/images/DSHS-Logo.png" alt="Texas Department of State Health Services">
+					</a>
+				</div>
+				
+				<div class="col-md-6">
+					<div id="search">
+						<div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_UxSearch')">
+							
+							<div class="searchBoxes">
+								<input name="ctl00$txtSearchText" type="text" id="ctl00_txtSearchText" accesskey="4" class="searchBox" title="Search">
+								<input type="button" name="ctl00$UxSearch" value="" onclick="javascript:__doPostBack('ctl00$UxSearch','')" id="ctl00_UxSearch" class="searchButton">
+								<div class="advLink">
+									<a id="ctl00_txtAdvanced" class="searchButton" href="javascript:__doPostBack('ctl00$txtAdvanced','')">Advanced</a>
+								</div>
+							</div>
+							
+						</div>
+						<div>
+							
+							<ul class="alphabet">
+								<li class="topics">Topics:</li>
+								<li><a href="/HealthTopics.aspx?alp=A">A</a></li>
+								<li><a href="/HealthTopics.aspx?alp=B">B</a></li>
+								<li><a href="/HealthTopics.aspx?alp=C">C</a></li>
+								<li><a href="/HealthTopics.aspx?alp=D">D</a></li>
+								<li><a href="/HealthTopics.aspx?alp=E">E</a></li>
+								<li><a href="/HealthTopics.aspx?alp=F">F</a></li>
+								<li><a href="/HealthTopics.aspx?alp=G">G</a></li>
+								<li><a href="/HealthTopics.aspx?alp=H">H</a></li>
+								<li><a href="/HealthTopics.aspx?alp=I">I</a></li>
+								<li><a href="/HealthTopics.aspx?alp=J">J</a></li>
+								<li><a href="/HealthTopics.aspx?alp=K">K</a></li>
+								<li><a href="/HealthTopics.aspx?alp=L">L</a></li>
+								<li><a href="/HealthTopics.aspx?alp=M">M</a></li>
+								<li><a href="/HealthTopics.aspx?alp=N">N</a></li>
+								<li><a href="/HealthTopics.aspx?alp=O">O</a></li>
+								<li><a href="/HealthTopics.aspx?alp=P">P</a></li>
+								<li><a href="/HealthTopics.aspx?alp=Q">Q</a></li>
+								<li><a href="/HealthTopics.aspx?alp=R">R</a></li>
+								<li><a href="/HealthTopics.aspx?alp=S">S</a></li>
+								<li><a href="/HealthTopics.aspx?alp=T">T</a></li>
+								<li><a href="/HealthTopics.aspx?alp=U">U</a></li>
+								<li><a href="/HealthTopics.aspx?alp=V">V</a></li>
+								<li><a href="/HealthTopics.aspx?alp=W">W</a></li>
+								<li><a href="/HealthTopics.aspx?alp=X">X</a></li>
+								<li><a href="/HealthTopics.aspx?alp=Y">Y</a></li>
+								<li><a href="/HealthTopics.aspx?alp=Z">Z</a></li>
+							<li><a href="/HealthTopics.aspx?alp=all">All</a></li>
+						</ul>
+						
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="headerLinks pull-1">
+					
+					
+					<a id="ctl00_UxSpanish" href="javascript:__doPostBack('ctl00$UxSpanish','')">Inicio en español</a>
+					<!--| Text Size:
+					
+					
+					<span id="resize">
+						<a id="increase" class="textLg" href="#" title="Font Larger">Font Larger</a>
+						<a id="decrease" class="textSm" href="#" title="Font Smaller">Font Smaller</a>
+					</span-->
+					<div id="textsizer">
+					   <p>Font Size:</p>
+					   <ul class="textresizer">
+						   <li><a href="#nogo">S</a></li>
+						   <li><a href="#nogo">M</a></li>
+						   <li><a href="#nogo">L</a></li>
+						   <li><a href="#nogo">XL</a></li>
+					   </ul>
+					</div>
+					<br>
+					<span id="ctl00_uxLoginMenu_lblWelcomeMessage"></span>
+					<span id="ctl00_uxLoginMenu_logoutBar"></span>
+					
+					<span id="ctl00_uxLoginMenu_accountlinkbar"></span>
+					
+					
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="row">
+			<div id="custom-bootstrap-menu" class="navbar navbar-default " role="navigation">
+				<div class="container-fluid">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<span class="visible-xs navbar-brand">Main Navigation</span>
+				</div>
+				<div class="collapse navbar-collapse navbar-menubuilder">
+					<ul class="nav navbar-nav navbar-left">
+						<li><a href="/">Home</a></li>
+						<li class="dropdown"><a href="/about-us" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Organization Chart</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">News <b class="caret"></b></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Press Office</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">I am a... <b class="caret"></b></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Health Professional</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">I want to... <b class="caret"></b></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Prepare for an Emergency</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Calendar of Events</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Find Services <b class="caret"></b></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Mental Health Services Search</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-3">
+				<div id="sidebar-nav">
+					<div class="navbar navbar-default" role="navigation">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-navbar-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<span class="visible-xs navbar-brand">Program Menu</span>
+						</div>
+						<div class="navbar-collapse collapse sidebar-navbar-collapse">
+							<ul class="nav">
+								<li><a href="default.aspx">Drugs Program Home</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Licensing <b class="caret"></b></a>
+									<ul class="dropdown-menu">
+										<li><a href="licensing.aspx">Licensing Requirements</a></li>
+										<li><a href="guidance.aspx">Guidance Documents</a></li>
+										<li><a href="faq-licensing.aspx">Licensing FAQs</a></li>
+										<li><a href="faq-distributors.aspx">Drug Distributor FAQs</a></li>
+										</ul>
+									</li>
+									<li class="dropdown">
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Laws &amp; Rules <b class="caret"></b></a>
+										<ul class="dropdown-menu">
+											<li><a href="rules.aspx">Current Rules</a></li>
+											<li><a href="draft-rules.aspx">Draft &amp; Proposed Rules</a></li>
+											<li><a href="laws.aspx">State &amp; Federal Laws</a></li>
+											</ul>
+										</li>
+										<li><a href="controlled-substances.aspx">Controlled Substances</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Find a Licensee <b class="caret"></b></a>
+									<ul class="dropdown-menu">
+										<li><a href="find-a-licensee.aspx">Public License Search</a></li>
+										<li><a href="license-verification.aspx">License Verification Request</a></li>
+										</ul>
+									</li>
+									<li><a href="complaints.aspx">File a Complaint</a></li>
+								<li><a href="enforcement.aspx">Enforcement Actions</a></li>
+								<li><a href="open-records.aspx">Open Records</a></li>
+							</ul>
+						</div>
+						<!--/.nav-collapse -->
+					</div>
+				</div>
+				
+			</div>
+			<div id="mainContent" class="col-md-9">
+				<ol class="breadcrumb">
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Regulatory Services</a></li>
+					<li class="active">Drug Manufacturers and Distributors</li>
+				</ol>
+						
