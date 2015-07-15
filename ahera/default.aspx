@@ -12,6 +12,11 @@
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_379"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
 
 <hr/>
+<h2>Applicability</h2>
+<p>The federal Asbestos Hazard Emergency Response Act (AHERA) was implemented under the Toxic Substance Control Act (TSCA) through 40 CFR Part 763, Subpart E regulations to address asbestos hazards in building materials in schools. AHERA regulations affect all public and private non-profit schools offering kindergarten to 12th grade classes. Private for-profit schools are excluded from AHERA requirements.</p>
+<p>Since 1989 the Texas Department of State Health Services (DSHS) has participated in a collaborative agreement with the U.S. Environmental Protection Agency (USEPA) to promote and assure compliance with AHERA requirements in Texas by conducting compliance inspections and investigating complaints of Texas public and private non-profit school facilities.</p>
+
+<hr/>
 <p style="float:right;"><a title="Simple Asbestos Management" href="http://youtu.be/DGwjl-IbqrY"><img title="SAM Video Icon" alt="SAM Video Icon" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/ahera/samplay.jpg" style="width:250px; height:auto; padding-left:20px;"></a></p>
 <h2>Learn More About Simple Asbestos Management for Schools</h2>
 <p>Whether your school is knowledgeable about AHERA or new to the AHERA requirements, get started through the <a title="AHERA Compliance Information" href="/ahera/compliance.aspx">AHERA Compliance Information</a> page.</p>

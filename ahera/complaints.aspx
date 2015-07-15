@@ -1,5 +1,5 @@
 <?php
-	$title= "Complaints Process - Asbestos Program" ;
+	$title= "Complaints Process - AHERA Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/ahera_menu.html'; 
 ?>
@@ -12,7 +12,7 @@
 </ul>
 
 <hr/>
-<h2>Suspected Violation of Regulated Asbestos Work Practices</h2>
+<h2>Suspected Violation of Regulated Asbestos Management Plans for Schools</h2>
 <p>
 	Email: <a title="Tenessa Rodriguez Email" href="mailto:Tenessa.Rodriguez@dshs.state.tx.us">Tenessa Rodriguez</a> <br/>
 	Phone: (512) 834-6787, Ext 2109<br/>
@@ -29,7 +29,7 @@
 </p>
 
 <hr/>
-<h2>Inspections of Asbestos-Related Work Activities</h2>
+<h2>Inspections of Asbestos Management Plans for Schools </h2>
 <p>
 	<a title="Todd Wingler Email" href="mailto:todd.wingler@dshs.state.tx.us">Todd Wingler</a>, Regulatory Environmental Engineer<br/>
 	Phone: (512) 834-6770, Ext 2453<br/>
@@ -39,21 +39,9 @@
 	Phone: (512) 834-6770, Ext 2451<br/>
 </p>
 <p>
-	<a title="Terry Collins Email" href="mailto:TerryW.Collins@dshs.state.tx.us">Terry Collins</a>, Asbestos Inspections Group Manager <br/>
-	Phone: (512) 834-6770, Ext 2454<br/>
+	<a title="Emmanuel Enemkpali Email" href="mailto:emmanuel.enemkpali@dshs.state.tx.us">Emmanuel Enemkpali</a>, Group Manager<br/>
+	Phone: (512) 834-6770, Ext 2431<br/>
 </p>
-<p>
-	<a title="Roxanna B. Guerrero Email" href="mailto:Roxanna.Guerrero@dshs.state.tx.us">Roxanna B. Guerrero</a>, Asbestos Inspections Group Manager<br/>
-	Phone: (512) 834-6770, Ext 2455<br/>
-</p>
-
-<hr/>
-<h2>Processing of Asbestos-Related Licenses</h2>
-<p>
-	Email: <a title="Heather Muehr Email" href="mailto:Heather.Muehr@dshs.state.tx.us">Heather Muehr</a>, Environmental &amp; Sanitation Licensing Group Manager<br/>
-	Phone: (512) 834-6732<br/>
-</p>
-
 
 
 

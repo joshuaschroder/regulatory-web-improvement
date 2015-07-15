@@ -12,13 +12,6 @@
 	Phone: (512) 834-6787<br/>
 </p>
 
-<h3>Compliance Staff Contact</h3>
-
-<p>
-	<a title="Tenessa Rodriguez" href="mailto:Tenessa.Rodriguez@dshs.state.tx.us">Tenessa Rodriguez</a>, AHERA Compliance Specialist<br/>
-	Phone:  (512) 834-6787 Ext. 2583<br/>
-</p>
-
 <h3>To Mail Questions or Management Plans</h3>
 <p>
 	AHERA Compliance<br/>
@@ -45,13 +38,8 @@
 </p>
 
 <p>
-	<a title="Roxanna.Guerrero@dshs.state.tx.us" href="mailto:Roxanna.Guerrero@dshs.state.tx.us">Roxanna B. Guerrero</a>, Asbestos Programs Coordinator<br/>
-	Phone:  (512) 834-6787 Ext. 2198<br/>
-</p>
-
-<p>
-	<a title="andrea.dinieri@dshs.state.tx.us" href="mailto:andrea.dinieri@dshs.state.tx.us">Andrea DiNieri</a>, Asbestos Specialist<br/>
-	Phone:  (512) 834-6787 Ext. 2316<br/>
+	<a title="Tenessa.Rodriguez@dshs.state.tx.us" href="mailto:Tenessa.Rodriguez@dshs.state.tx.us">Tenessa Rodriguez</a>, AHERA Compliance Specialist<br/>
+	Phone:  (512) 834-6787 Ext. 2583<br/>
 </p>
 
 <hr/>
@@ -64,23 +52,18 @@
 <h3>Inspections Staff Contact</h3>
 
 <p>
+	<a title="Ken.Ofunrein@dshs.state.tx.us" href="mailto:Ken.Ofunrein@dshs.state.tx.us">Ken Ofunrein</a>, Manager <br/>
+	Phone: (512) 834-6770 Ext. 2451<br/>
+</p>
+
+<p>
 	<a title="Todd.Wingler@dshs.state.tx.us" href="mailto:Todd.Wingler@dshs.state.tx.us">Todd Wingler</a>, Regulatory Engineer<br/>
 	Phone: (512) 834-6770 Ext. 2453<br/>
 </p>
 
 <p>
-	<a title="TerryW.Collins@dshs.state.tx.us" href="mailto:TerryW.Collins@dshs.state.tx.us">Terry Collins</a>, Group Manager: Regions 2, 3, 4, 5N, 7, 9<br/>
-	Phone: (512) 834-6770 Ext. 2454<br/>
-</p>
-
-<p>
-	<a title="keithi.smith@dshs.state.tx.us" href="mailto:keithi.smith@dshs.state.tx.us">Keith Smith</a>, Group Manager: Regions 1, 10<br/>
-	Phone: (512) 834-6770 Ext. 2455<br/>
-</p>
-
-<p>
-	<a title="Ken.Ofunrein@dshs.state.tx.us" href="mailto:Ken.Ofunrein@dshs.state.tx.us">Ken Ofunrein</a>, Group Manager: Regions 5S, 6, 8, 11<br/>
-	Phone: (512) 834-6770 Ext. 2451<br/>
+	<a title="emmanuel.enemkpali@dshs.state.tx.us" href="mailto:emmanuel.enemkpali@dshs.state.tx.us">Emmanuel Enemkpali</a>, Group Manager<br/>
+	Phone: (512) 834-6770 Ext. 2431<br/>
 </p>
 
 <p>
@@ -111,6 +94,10 @@
 <p>
 	<a title="elizabeth.mcmanus@dshs.state.tx.us" href="mailto:elizabeth.mcmanus@dshs.state.tx.us">Elizabeth McManus</a>, Program Specialist<br/>
 	Phone: (512) 834-6665 Ext. 2430<br/>
+</p>
+<p>
+	<a title="Brenda.Smith@dshs.state.tx.us" href="mailto:Brenda.Smith@dshs.state.tx.us">Brenda Smith</a>, Program Specialist<br/>
+	Phone: (512) 834-6665 Ext. 2838<br/>
 </p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
