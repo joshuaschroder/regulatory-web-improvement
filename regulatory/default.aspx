@@ -172,6 +172,7 @@
 	<a title="Residential Care Facilities, Special" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993680">Residential Care Facilities, Special</a><br/>
 	<a title="Respiratory Care Practitioners Certification Program" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=4558">Respiratory Care Practitioners Certification Program</a><br/>
 	<a title="Restrooms, Public" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589936080">Restrooms, Public</a><br/>
+	<a title="Retail Standardization Program" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589999245">Retail Standardization Program</a><br/>
 	<a title="Retail Food Establishments" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589999238">Retail Food Establishments</a><br/>
 	<a title="Rural Health Clinics" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589993724">Rural Health Clinics</a><br/>
 	<br/>
@@ -195,6 +196,11 @@
 	<a title="Tanning Facilities" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589999182">Tanning Facilities</a><br/>
 	<a title="Tattoo and Body Piercing Studios" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589999215">Tattoo and Body Piercing Studios</a><br/>
 	<a title="Temporary Food Establishments" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589999250#temp">Temporary Food Establishments</a><br/>	
+	<br/>
+	<hr/>
+	<h2>V</h2>
+	
+	<a title="Voluntary National Retail Food Regulatory Program Standards" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589999245">Voluntary National Retail Food Regulatory Program Standards</a><br/>
 	<br/>
 	<hr/>
 	<h2>W</h2>
