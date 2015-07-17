@@ -36,12 +36,18 @@
 </p>
 
 <h3>For Licensing Assistance</h3>
+<h4>Some Department Here</h4>
 <p>
 	Email: <a title="drugs-foodsafety@dshs.state.tx.us" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
 	Phone: (512) 834-6727<br/>
 	Fax: (512) 834-6741<br/> 
 </p>
-	
+<h4>Another Phone Number Here</h4>
+<p>
+	Email: <a title="drugs-foodsafety@dshs.state.tx.us" href="mailto:drugs-foodsafety@dshs.state.tx.us">Drugs and Food Safety Licensing Group</a><br/>
+	Phone: (512) 834-6727<br/>
+	Fax: (512) 834-6741<br/> 
+</p>	
 <p>Mailing addresses may be found on the <a title="contact page" href="/drugs/contact.aspx">contact page</a>.</p>
 
 <?php include '../includes/footer.html' ?>
