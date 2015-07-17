@@ -236,10 +236,7 @@
 			<td headers="table_heading_0">Speech-Language Pathologists</td>
 			<td headers="table_heading_1"><a title="Speech-Language Pathologists Applications and Forms" href="http://www.dshs.state.tx.us/speech/sp_forms.shtm">Applications and Forms</a></td>
 		</tr>
-		<!--tr>
-			<td headers="table_heading_0">Tanning Facilities</td>
-			<td headers="table_heading_1"><a title="Tanning Facilities Applications and Forms" href="/tanning/forms.aspx">Applications and Forms</a></td>
-		</tr-->
+
 		<tr>
 			<td headers="table_heading_0">Tattoo Studios</td>
 			<td headers="table_heading_1"><a title="Tattoo Studios Applications and Forms" href="/tattoo-piercing/forms.aspx">Applications and Forms</a></td>

@@ -21,12 +21,12 @@
 	<li><a title="Tattoo / Body Piercing Studios" href="/tattoo-piercing/">Tattoo / Body Piercing Studios</a></li>
 </ul>
 
-<hr/>
+<hr />
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about important changes to the Drug Manufacturers and Distributors Program. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>
 <p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_333"><img alt="sign up for email updates" src="https://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"/></a><br/><br/></p>
 
-<hr/>
+<hr />
 <h2><a title="Contact Information" class="bookmark" name="contact"></a>Contact Information</h2>
 <h3>For General Program Assistance</h3>
 <p>
