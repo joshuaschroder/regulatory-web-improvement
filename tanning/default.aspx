@@ -18,7 +18,7 @@
 <p>To learn more about Senate Bill 202, please select <a title="http://www.capitol.state.tx.us/Home.aspx" href="http://www.capitol.state.tx.us/Home.aspx">http://www.capitol.state.tx.us/Home.aspx</a> and enter SB202 in the search field.</p>
 <p>DSHS will soon be notifying license holders and interested parties directly of this change in Texas law.  If you have questions, please contact us via e-mail at <a title="drugs-foodsafety@dshs.state.tx.us" href="mailto:drugs-foodsafety@dshs.state.tx.us?subject=Deregulation%20of%20Tanning%20Facilities">drugs-foodsafety@dshs.state.tx.us</a>.</p>
 </div>
-
+<br/>
 <p>The role of the Texas Department of State Health Services Drugs and Medical Devices Group in regards to Tanning Facilities is to:</p>
 <ul>
 	<li>Respond to consumer inquiries and provides technical assistance to tanning facility operators.</li>
