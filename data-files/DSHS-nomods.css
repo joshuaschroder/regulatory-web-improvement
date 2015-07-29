@@ -554,7 +554,7 @@ font-weight:700
 	margin:0
 	}
 	.suppNav ul li{
-	background:url(https://ecology-sandra.codio.io/data-files/bullet.png) no-repeat 0 3px;
+	background:url(http://ecology-sandra.codio.io:3000/data-files/bullet.png) no-repeat 0 3px;
 	padding-left:15px;
 	line-height:1.2;
 	padding-bottom:6px;
@@ -1428,7 +1428,7 @@ font-weight:700
 	text-align:right!important
 	}
 	.moreLink{
-	background:transparent url(https://ecology-sandra.codio.io/data-files/bullet.png) no-repeat scroll right center;
+	background:transparent url(http://ecology-sandra.codio.io:3000/data-files/bullet.png) no-repeat scroll right center;
 	font-family:trebuchet MS,Trebuchet,Tahoma,Sans-Serif;
 	padding-right:17px;
 	text-align:right;

@@ -12,7 +12,7 @@
         animatedefault: false, //Should contents open by default be animated into view?
         persiststate: false, //persist state of opened contents within browser session?
         toggleclass: ["", ""], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
-        togglehtml: ["suffix", "<img src='https:\/\/ecology-sandra.codio.io\/data-files\/bullet.png' class='statusicon' alt='open' />", "<img src='https:\/\/ecology-sandra.codio.io\/data-files\/bulletdown.png' class='statusicon' alt='close'/>"], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+        togglehtml: ["suffix", "<img src='http:\/\/ecology-sandra.codio.io:3000\/data-files\/bullet.png' class='statusicon' alt='open' />", "<img src='http:\/\/ecology-sandra.codio.io:3000\/data-files\/bulletdown.png' class='statusicon' alt='close'/>"], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
         animatespeed: "normal", //speed of animation: "fast", "normal", or "slow"
         oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
                 //do nothing
