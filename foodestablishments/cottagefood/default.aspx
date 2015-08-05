@@ -46,7 +46,7 @@
 
 <h2>Publications</h2>
 <ul>
-	<li><a title="25 TAC §229.661 - Cottage Food Production Operations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589984193">25 TAC §229.661 - Cottage Food Production Operations</a> <span class="small">(PDF, 251KB)</span></li>
+	<li><a title="25 TAC &#167;229.661 - Cottage Food Production Operations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589984193">25 TAC &#167;229.661 - Cottage Food Production Operations</a> <span class="small">(PDF, 251KB)</span></li>
 	<li><a title="Frequently Asked Questions - Cottage Food Production Operations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589982388">Frequently Asked Questions - Cottage Food Production Operations</a> <span class="small">(PDF, 40KB)</span></li>
 	<li><a title="Cottage Food Production Operations Safe Temperatures - English" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589962389">Cottage Food Production Operations Safe Temperatures - English</a> <span class="small">(PDF, 121KB)</span></li> 
 	<li><a title="Cottage Food Production Operations Safe Temperatures - Spanish" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589962390">Cottage Food Production Operations Safe Temperatures - Spanish</a> <span class="small">(PDF, 120KB)</span></li>

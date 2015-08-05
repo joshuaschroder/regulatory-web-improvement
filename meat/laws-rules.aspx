@@ -19,7 +19,7 @@
 <ul>
 	<li><a title="Title 25, Texas Administrative Code, Chapter 221 Subchapter A - Transporting Dead Animals and Rendering" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=221&sch=A&rl=Y">Subchapter A - Transporting Dead Animals and Rendering</a></li>
 	<li><a title="Title 25, Texas Administrative Code, Chapter 221 Subchaper B - Meat and Poultry Inspection" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=221&sch=B&rl=Y">Subchaper B - Meat and Poultry Inspection</a></li>
-	<li><a title="Title 25, Texas Administrative Code, Chapter 221 Subchapter B, §221.11 - Federal Regulations on Meat and Poultry Inspection" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=221&rl=11">Subchapter B, §221.11 - Federal Regulations on Meat and Poultry Inspection</a></li>
+	<li><a title="Title 25, Texas Administrative Code, Chapter 221 Subchapter B, &#167;221.11 - Federal Regulations on Meat and Poultry Inspection" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=221&rl=11">Subchapter B, &#167;221.11 - Federal Regulations on Meat and Poultry Inspection</a></li>
 </ul>
 
 <hr/>

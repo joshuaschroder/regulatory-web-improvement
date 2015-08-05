@@ -9,7 +9,7 @@
 
 <p><strong>1. My food establishment is permitted by the Department of State Health Services; must I obtain food manager certification?</strong></p>
 
-<p>Food establishments, permitted by Department of State Health Services (DSHS) and handling, preparing, or serving exposed potentially hazardous foods, must employ a certified food manager. The manager’s original certificate is required to be posted in the establishment in a location conspicuous to consumers. The manager certification requirement was authorized by §437.0076 of the Texas Health and Safety Code and 25 TAC §229.177(b).</p>
+<p>Food establishments, permitted by Department of State Health Services (DSHS) and handling, preparing, or serving exposed potentially hazardous foods, must employ a certified food manager. The manager’s original certificate is required to be posted in the establishment in a location conspicuous to consumers. The manager certification requirement was authorized by &#167;437.0076 of the Texas Health and Safety Code and 25 TAC &#167;229.177(b).</p>
 
 <p><strong>2. How do I obtain food manager certification?</strong></p>
 
@@ -55,6 +55,6 @@
 <p>County health departments, public health districts, and city health departments must accept certificates issued for passing any DSHS approved examination as meeting the training and testing requirements of the Texas Health and Safety Code, Chapter 438.</p>
 
 <p><strong>3. Are there any additional fees that may be charged by a local health jurisdiction?</strong></p>
-<p>A fee may be charged by a local health jurisdiction for a certificate issued to a certified food manager that has obtained an official certificate. This was authorized under Texas Health and Safety Code §438.046.</p>
+<p>A fee may be charged by a local health jurisdiction for a certificate issued to a certified food manager that has obtained an official certificate. This was authorized under Texas Health and Safety Code &#167;438.046.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

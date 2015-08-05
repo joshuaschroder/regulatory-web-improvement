@@ -25,7 +25,7 @@
 			<td headers="table_heading_0">Marten Etim,<br/>d/b/a Ritecare Medical Supply, Inc.</td>
 			<td headers="table_heading_1">0056215</td>
 			<td headers="table_heading_2">Allen, TX</td>
-			<td headers="table_heading_3">§25 TAC 229.429(a), <br/>§25 TAC 229.429(d)(4)(A),</td>
+			<td headers="table_heading_3">&#167;25 TAC 229.429(a), <br/>&#167;25 TAC 229.429(d)(4)(A),</td>
 			<td headers="table_heading_4">Admin. Penalty of$5,000.00, <br/>Respondent agrees to pay $500.00</td>
 			<td headers="table_heading_5">09/08/2014</td>
 		</tr>

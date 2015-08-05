@@ -136,7 +136,7 @@
 	</li>
 	<li><p>Proposed Staffing Schedule</p></li>
 	<li><p>Proposed Program Schedule</p></li>
-	<li><p>Sample client record reflecting required documentation as outlined in the rules (25 TAC §448.508 and §448.801 - §448.805)</p></li>
+	<li><p>Sample client record reflecting required documentation as outlined in the rules (25 TAC &#167;448.508 and &#167;448.801 - &#167;448.805)</p></li>
 </ul>
 
 <h3 id="residential-inspections">Required Inspections</h3>

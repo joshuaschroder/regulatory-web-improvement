@@ -288,8 +288,8 @@
 <a class="bookmark" title="exemptions" name="exemptions"></a>
 <h2>Exemptions from Licensing Fees</h2>
 <p>Businesses may be exempt from licensing fees if one of the following conditions are met:</p>
-<p>1) The business engages ONLY in the manufacture or distribution of radiation machines which are devices or the manufacture or distribution of devices which contain radioactive materials, and is currently licensed or registered with the Texas Department of State Health Services, Radiation Control under §289.252 or §289.226, 25 Texas Administrative Code.</p>
-<p>2) The business is a charitable organization as described in the Internal Revenue Code of 1986, §501(c)(3), or a nonprofit affiliate of the organization, to the extent otherwise permitted by law.</p>
+<p>1) The business engages ONLY in the manufacture or distribution of radiation machines which are devices or the manufacture or distribution of devices which contain radioactive materials, and is currently licensed or registered with the Texas Department of State Health Services, Radiation Control under &#167;289.252 or &#167;289.226, 25 Texas Administrative Code.</p>
+<p>2) The business is a charitable organization as described in the Internal Revenue Code of 1986, &#167;501(c)(3), or a nonprofit affiliate of the organization, to the extent otherwise permitted by law.</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

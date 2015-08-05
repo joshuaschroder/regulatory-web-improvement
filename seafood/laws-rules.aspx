@@ -16,10 +16,10 @@
 <h2>Rules and Regulations</h2>
 <h3>Texas Administrative Code, Title 25</h3>
 <ul>
-	<li><a title="§§241.1 &#8211; 241.9, Texas Crabmeat - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=241&sch=A&rl=Y">241.1&#8211;9: Texas Crabmeat</a> <span class="small">(HTML)</span></li>
-	<li><a title="§§241.1 &#8211; 241.9, Texas Crabmeat - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20191">241.1&#8211;9: Texas Crabmeat</a> <span class="small">(PDF, 566KB)</span></li>
-	<li><a title="§§241.50 &#8211; 241.71, Molluscan Shellfish - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=241&sch=B&rl=Y">241.50&#8211;71:: Molluscan Shellfish</a> <span class="small">(HTML)</span></li>
-	<li><a title="§§241.50 &#8211; 241.71, Molluscan Shellfish - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20192">241.50&#8211;71: Molluscan Shellfish</a> <span class="small">(PDF, 566KB)</span></li>
+	<li><a title="&#167;&#167;241.1 &#8211; 241.9, Texas Crabmeat - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=241&sch=A&rl=Y">241.1&#8211;9: Texas Crabmeat</a> <span class="small">(HTML)</span></li>
+	<li><a title="&#167;&#167;241.1 &#8211; 241.9, Texas Crabmeat - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20191">241.1&#8211;9: Texas Crabmeat</a> <span class="small">(PDF, 566KB)</span></li>
+	<li><a title="&#167;&#167;241.50 &#8211; 241.71, Molluscan Shellfish - HTML" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=241&sch=B&rl=Y">241.50&#8211;71:: Molluscan Shellfish</a> <span class="small">(HTML)</span></li>
+	<li><a title="&#167;&#167;241.50 &#8211; 241.71, Molluscan Shellfish - PDF" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20192">241.50&#8211;71: Molluscan Shellfish</a> <span class="small">(PDF, 566KB)</span></li>
 </ul>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

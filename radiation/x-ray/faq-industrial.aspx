@@ -42,7 +42,7 @@
 	<li>Industrial accelerators</li>
 	<li>X-ray services and industrial radiographic (IR) operations</li>
 </ul>
-<p>These exceptions can be found in <a title="25 Texas Administrative Code, §289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code, §289.226</a>.</p>
+<p>These exceptions can be found in <a title="25 Texas Administrative Code, &#167;289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code, &#167;289.226</a>.</p>
 
 <hr/>
 <a class="bookmark" title="2" name="2"></a>
@@ -69,7 +69,7 @@
 		<ul>
 			<li><a title="Question: What are the current fee amounts?" href="#14">Question: What are the current fee amounts?</a></li>
 			<li><a title="RC Form 42-3, Radiation Safety Officer Information for Registration" href="/radiation/forms.aspx#423">RC Form 42-3, Radiation Safety Officer Information for Registration</a></li>
-			<li><a title="25 Texas Administrative Code §289.204" href="/radiation/laws-rules.aspx#289204">25 Texas Administrative Code §289.204</a></li>
+			<li><a title="25 Texas Administrative Code &#167;289.204" href="/radiation/laws-rules.aspx#289204">25 Texas Administrative Code &#167;289.204</a></li>
 		</ul>
 	</li>
 </ol>
@@ -99,7 +99,7 @@
 <hr/>
 <a class="bookmark" title="5" name="5"></a>
 <h2>What are the requirements to become a Radiation Safety Officer (RSO)?</h2>
-<p>Requirements for RSOs can be found in <a title="25 Texas Administrative Code §289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code §289.226</a>:</p>
+<p>Requirements for RSOs can be found in <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a>:</p>
 <ul>
 	<li>
 		<ul>All RSOs shall meet the following general requirements in addition to requirements in specific categories, except for industrial radiography (IR) RSOs:
@@ -110,7 +110,7 @@
 	<li>experience in the use and familiarity of the type of equipment used</li>
 </ul>
 <h3>Additional requirements for Industrial Radiography (IR) RSOs</h3>
-<p>Requirements for IR radiation safety officers can be found in <a title="25 Texas Administrative Code §289.255" href="/radiation/laws-rules.aspx#289255">25 Texas Administrative Code §289.255</a>:</p>
+<p>Requirements for IR radiation safety officers can be found in <a title="25 Texas Administrative Code &#167;289.255" href="/radiation/laws-rules.aspx#289255">25 Texas Administrative Code &#167;289.255</a>:</p>
 <ul>
 	<li>possession of a high school diploma or a certificate of high school equivalency based on the GED test;</li>
 	<li>completion of the training and testing requirements; and </li>
@@ -121,7 +121,7 @@
 
 <a class="bookmark" title="6" name="6"></a>
 <h2>What are the responsibilities of a Radiation Safety Officer (RSO)?</h2>
-<p>The responsibilities of the RSO can be found in <a title="25 Texas Administrative Code §289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code §289.226</a>. Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
+<p>The responsibilities of the RSO can be found in <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a>. Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
 <ul>
 	<li>establishing and overseeing operating and safety procedures that maintain radiation exposures as low as reasonably achievable (ALARA), and to review them regularly to ensure that the procedures are current and conform with this chapter;</li>
 	<li>ensuring that individual monitoring devices are properly used by occupationally-exposed personnel, that records are kept of the monitoring results, and that timely notifications are made as required by '289.203 of this title;</li>
@@ -154,7 +154,7 @@
 <hr/>
 <a class="bookmark" title="10" name="10"></a>
 <h2>When do we have to notify the agency of company changes? </h2>
-<p>Notify the agency within 30 days of changes to your registration. According to <a title="25 Texas Administrative Code §289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code §289.226</a> the registrant shall notify the agency in writing of any changes that would render the information contained in the application for registration and/or the certificate of registration inaccurate. </p>
+<p>Notify the agency within 30 days of changes to your registration. According to <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a> the registrant shall notify the agency in writing of any changes that would render the information contained in the application for registration and/or the certificate of registration inaccurate. </p>
 
 <hr/>
 <a class="bookmark" title="11" name="11"></a>
@@ -174,7 +174,7 @@
 <hr/>
 <a class="bookmark" title="14" name="14"></a>
 <h2>What are the current fee amounts?</h2>
-<p>The current fees may be found in <a title="25 Texas Administrative Code §289.204" href="/radiation/laws-rules.aspx#289204">25 Texas Administrative Code §289.204</a> or <a title="RC 204, Fee Schedule" href="/radiation/forms.aspx#204">RC 204, Fee Schedule</a>.</p>
+<p>The current fees may be found in <a title="25 Texas Administrative Code &#167;289.204" href="/radiation/laws-rules.aspx#289204">25 Texas Administrative Code &#167;289.204</a> or <a title="RC 204, Fee Schedule" href="/radiation/forms.aspx#204">RC 204, Fee Schedule</a>.</p>
 
 <h3>Industrial Radiography Fee Schedule</h3>
 <p>
@@ -257,7 +257,7 @@
 <hr/>
 <a class="bookmark" title="21" name="21"></a>
 <h2>What are reporting requirements for x-ray services companies in Texas?</h2>
-<p>According to <a title="25 Texas Administrative Code §289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code §289.226</a>: Any person who sells, leases, lends, disposes, assembles, install, or otherwise transfers radiation machines in the state shall notify the agency of the following information within 30 days of such action: </p>
+<p>According to <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a>: Any person who sells, leases, lends, disposes, assembles, install, or otherwise transfers radiation machines in the state shall notify the agency of the following information within 30 days of such action: </p>
 <p>
 	(A) the name, address, and certificate of registration number, except in the case of initial machine installation, of persons who have received such machines; <br/>
 	(B) the type of radiation machine, the manufacturer’s name, model number, and control panel serial number of each radiation machine; and <br/>

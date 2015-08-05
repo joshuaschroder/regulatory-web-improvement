@@ -24,14 +24,14 @@
 		<tr>
 			<td headers="table_heading_0">d/b/a Little Texas Café</td>
 			<td headers="table_heading_1">San Antonio, TX</td>
-			<td headers="table_heading_2">HSC §433.052<br/> HSC §433.008(a)</td>
+			<td headers="table_heading_2">HSC &#167;433.052<br/> HSC &#167;433.008(a)</td>
 			<td headers="table_heading_3">Admin. Penalty $13,000.00<br/>Respondent shall pay $650.00</td>
 			<td headers="table_heading_4">01/19/13</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">d/b/a Star Meat Company</td>
 			<td headers="table_heading_1">Houston, TX</td>
-			<td headers="table_heading_2">9 CFR §303.1(d), <br/>HSC §433.052, <br/>HSC §433.030 <br/>25 TAC §221.12(C)(1)(A)</td>
+			<td headers="table_heading_2">9 CFR &#167;303.1(d), <br/>HSC &#167;433.052, <br/>HSC &#167;433.030 <br/>25 TAC &#167;221.12(C)(1)(A)</td>
 			<td headers="table_heading_3">Admin. Penalty $7,500.00<br/> Respondent shall pay $4,000.00</td>
 			<td headers="table_heading_4">08/12/13</td>
 		</tr>		

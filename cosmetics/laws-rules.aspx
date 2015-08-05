@@ -13,11 +13,11 @@
 <h2>Rules and Regulations</h2>
 <h3>Title 25, Texas Administrative Code</h3>
 <ul>
-	<li><a title="§229.40 - Purpose" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=40">§229.40 - Purpose</a></li>
-	<li><a title="§229.41 - Applicable Laws and Regulations" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=N&p_rloc=128936&p_tloc=&p_ploc=1&pg=2&p_tac=&ti=25&pt=1&ch=229&rl=40">§229.41 - Applicable Laws and Regulations</a></li>
-	<li><a title="§§229.40-41 - Purpose and Applicable Laws and Regulations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=17168">§§229.40-41 - Purpose and Applicable Laws and Regulations</a> <span class="small">(PDF, 75KB)</span></li>
-	<li><a title="§229.261 - Assessment of Administrative or Civil Penalties" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">§229.261 - Assessment of Administrative or Civil Penalties</a></li>
-	<li><a title="§§229.301-306 - Issuance of Certificates of Free Sale and Sanitation and/or Certificates of Origin" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=R&rl=Y">§229.301-306 - Issuance of Certificates of Free Sale and Sanitation and/or Certificates of Origin</a></li>
+	<li><a title="&#167;229.40 - Purpose" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=40">&#167;229.40 - Purpose</a></li>
+	<li><a title="&#167;229.41 - Applicable Laws and Regulations" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=N&p_rloc=128936&p_tloc=&p_ploc=1&pg=2&p_tac=&ti=25&pt=1&ch=229&rl=40">&#167;229.41 - Applicable Laws and Regulations</a></li>
+	<li><a title="&#167;&#167;229.40-41 - Purpose and Applicable Laws and Regulations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=17168">&#167;&#167;229.40-41 - Purpose and Applicable Laws and Regulations</a> <span class="small">(PDF, 75KB)</span></li>
+	<li><a title="&#167;229.261 - Assessment of Administrative or Civil Penalties" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=229&rl=261">&#167;229.261 - Assessment of Administrative or Civil Penalties</a></li>
+	<li><a title="&#167;&#167;229.301-306 - Issuance of Certificates of Free Sale and Sanitation and/or Certificates of Origin" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=R&rl=Y">&#167;229.301-306 - Issuance of Certificates of Free Sale and Sanitation and/or Certificates of Origin</a></li>
 </ul>
 
 <hr/>

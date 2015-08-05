@@ -57,7 +57,7 @@ If no information is listed,  there are no enforcement actions to report for the
 
 <h2>Resources</h2>
 <ul>
-	<li><a title="Formal Hearing Procedures" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=1&sch=B&rl=Y">Formal Hearing Procedures - 25 TAC §1.21, §1.23, §1.25 and §1.27</a></li>
+	<li><a title="Formal Hearing Procedures" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=1&sch=B&rl=Y">Formal Hearing Procedures - 25 TAC &#167;1.21, &#167;1.23, &#167;1.25 and &#167;1.27</a></li>
 	<li><a title="Office of Attorney General Consumer Protection &amp; Public Health Information" href="https://www.oag.state.tx.us/consumer/health_care.shtml">Office of Attorney General Consumer Protection &amp; Public Health Information</a></li>
 	<li><a title="Health Facility Program Rules" href="/facilities/laws-rules.aspx">Health Facility Program Rules</a></li>
 </ul>

@@ -24,7 +24,7 @@
 			<td headers="table_heading_0">James Wright,<br/>d/b/a Argyle Welding Supply, Inc.</td>
 			<td headers="table_heading_1">1000452</td>
 			<td headers="table_heading_2">El Paso, TX</td>
-			<td headers="table_heading_3">25 TAC §229.429(c) <br/>and 21CFR 211.188</td>
+			<td headers="table_heading_3">25 TAC &#167;229.429(c) <br/>and 21CFR 211.188</td>
 			<td headers="table_heading_4">Respondent paid the penalty of $2,500.00</td>
 			<td headers="table_heading_5"></td>
 		</tr>
@@ -32,7 +32,7 @@
 			<td headers="table_heading_0">Mike Daly, <br/>d/b/a Lincare, Inc.</td>
 			<td headers="table_heading_1">0041636</td>
 			<td headers="table_heading_2">Lubbock, TX</td>
-			<td headers="table_heading_3">§431.111(a)(2)(B),<br/> 25 TAC229.429(c),<br/> 21 CFR §211.188<br/> and 21 CFR §211.192</td>
+			<td headers="table_heading_3">&#167;431.111(a)(2)(B),<br/> 25 TAC229.429(c),<br/> 21 CFR &#167;211.188<br/> and 21 CFR &#167;211.192</td>
 			<td headers="table_heading_4">Admin. Penalty of$5,000.00, <br/>Respondent agrees to pay $500.00</td>
 			<td headers="table_heading_5">09/02/2014</td>
 		</tr>
@@ -40,7 +40,7 @@
 			<td headers="table_heading_0">Marten Etim,<br/>d/b/a Ritecare Medical Supply, Inc.</td>
 			<td headers="table_heading_1">0056215</td>
 			<td headers="table_heading_2">Allen, TX</td>
-			<td headers="table_heading_3">§25 TAC 229.429(a), <br/>§25 TAC 229.429(d)(4)(A),</td>
+			<td headers="table_heading_3">&#167;25 TAC 229.429(a), <br/>&#167;25 TAC 229.429(d)(4)(A),</td>
 			<td headers="table_heading_4">Admin. Penalty of$5,000.00, <br/>Respondent agrees to pay $500.00</td>
 			<td headers="table_heading_5">09/08/2014</td>
 		</tr>
@@ -48,7 +48,7 @@
 			<td headers="table_heading_0">Patrick Murphy, d/b/a Lifegas</td>
 			<td headers="table_heading_1">0098657</td>
 			<td headers="table_heading_2">San Antonio, TX</td>
-			<td headers="table_heading_3">HSC 431.111(a)(2)(B), <br/>§25TAC 229.429(c) and <br/>21 CFR 211.188.</td>
+			<td headers="table_heading_3">HSC 431.111(a)(2)(B), <br/>&#167;25TAC 229.429(c) and <br/>21 CFR 211.188.</td>
 			<td headers="table_heading_4">Admin. Penalty of $2,500.00,<br/> Respondent agrees to pay $1,250.00</td>
 			<td headers="table_heading_5">09/08/2014</td>
 		</tr>

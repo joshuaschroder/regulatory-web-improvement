@@ -99,7 +99,7 @@
 <hr/>
 
 <h2><a title="prescription" class="bookmark" name="prescription"></a>Federal Laws and Regulations Adopted by Reference (Prescription Drugs)</h2>
-<h3><a title="FDC" class="bookmark" name="FDC-prescription"></a>Federal Food, Drug, and Cosmetic Act, 21 United States Code (U.S.C), §301 et seq.</h3>
+<h3><a title="FDC" class="bookmark" name="FDC-prescription"></a>Federal Food, Drug, and Cosmetic Act, 21 United States Code (U.S.C), &#167;301 et seq.</h3>
 <ul>
 	<li><a title="FDA online reference edition of the Food, Drug, and Cosmetic Act" href="http://www.fda.gov/RegulatoryInformation/Legislation/FederalFoodDrugandCosmeticActFDCAct/default.htm">FDA online reference edition of the Food, Drug, and Cosmetic Act</a></li>
 </ul>

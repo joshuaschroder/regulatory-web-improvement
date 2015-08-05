@@ -61,7 +61,7 @@
 			<td headers="table_heading_1"><a title="Radioactive Material License Applications for the Use of Portable Gauging Devices" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20030">Portable Gauging Devices</a> <span class="small">(PDF, 56KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="2.10" name="2.10"></a>2.10<br/><br/></td>
+			<td headers="table_heading_0"><a class="bookmark" title="210" name="210"></a>2.10<br/><br/></td>
 			<td headers="table_heading_1"><a title="Radioactive Material License Applications for Well Logging and Tracer Studies" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981715">Well Logging and Tracer Studies</a> <span class="small">(PDF, 126KB)</span></td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@
 			<td headers="table_heading_1"><a title="Radioactive Material License Applications for the Use of Spinning Pipe Gauging Devices" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20024">Spinning Pipe Gauging Devices</a> <span class="small">(PDF, 55KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="2.18" name="2.18"></a>2.18<br/><br/></td>
+			<td headers="table_heading_0"><a class="bookmark" title="218" name="218"></a>2.18<br/><br/></td>
 			<td headers="table_heading_1"><a title="Radioactive Material License Applications for Decontamination Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981714">Decontamination Services</a> <span class="small">(PDF, 106KB)</span></td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@
 			<td headers="table_heading_1"><a title="License Applications for the Medical Use of Radioactive Material" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968791">Medical Use of Radioactive Material</a> <span class="small">(PDF, 149KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a name="301a"></a>3.1a<br/><br/></td>
+			<td headers="table_heading_0"><a class="bookmark" name="31a" title="31a"></a>3.1a<br/><br/></td>
 			<td headers="table_heading_1"><a title="License Applications for the Medical Diagnostic Use of Radioactive Material (RAM) in Unit Doses or Doses Delivered in Bulk From Radiopharmacies or Suppliers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20036">Medical Diagnostic Use of Radioactive Material</a> <span class="small">(PDF, 678KB)</span></td>
 		</tr>
 		<tr>
@@ -120,7 +120,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="2.19" name="2.19"></a>2.19<br/><br/></td>
+			<td headers="table_heading_0"><a class="bookmark" title="219" name="219"></a>2.19<br/><br/></td>
 			<td headers="table_heading_1"><a title="Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981713">Low Level Radioactive Waste Shippers and Transporters, Submission of Documents and Fees</a> <span class="small">(PDF, 79KB)</span></td>
 		</tr>
 	</tbody>
@@ -189,7 +189,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0">8.1<br/><br/></td>
+			<td headers="table_heading_0"><a class="bookmark" name="81" title="81"></a>8.1<br/><br/></td>
 			<td headers="table_heading_1"><a title="Submitting Applications or Amendment Requests Due to Changes in Licensed Legal Entity" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589955821">Changes in Licensed Legal Entity</a> <span class="small">(PDF, 47KB)</span></td>
 		</tr>
 		<tr>

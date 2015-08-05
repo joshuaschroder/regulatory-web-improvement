@@ -17,7 +17,7 @@
 <hr/>
 <h2>After the Report is Made</h2>
 
-<p>After receiving an allegation, Internal Affairs will conduct the investigation according to the <a title="Texas Administrative Code, Sections 1.201 – 1.207" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&amp;ti=25&amp;pt=1&amp;ch=1&amp;sch=Q&amp;rl=Y">Texas Administrative Code, §§1.201-207</a>, Investigation of Abuse, Neglect, or Exploitation of Children or Elderly or Disabled Persons.</p>
+<p>After receiving an allegation, Internal Affairs will conduct the investigation according to the <a title="Texas Administrative Code, Sections 1.201 – 1.207" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&amp;ti=25&amp;pt=1&amp;ch=1&amp;sch=Q&amp;rl=Y">Texas Administrative Code, &#167;&#167;1.201-207</a>, Investigation of Abuse, Neglect, or Exploitation of Children or Elderly or Disabled Persons.</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

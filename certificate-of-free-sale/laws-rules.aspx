@@ -6,7 +6,7 @@
 <hr/>
 <h2>Texas Laws</h2>
 <ul>
-    <li><a title="Texas Health and Safety Code, Chapter 431, §431.241(g)" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.431.htm#431.241">Texas Health and Safety Code, Chapter 431, §431.241(g)</a></li>
+    <li><a title="Texas Health and Safety Code, Chapter 431, &#167;431.241(g)" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.431.htm#431.241">Texas Health and Safety Code, Chapter 431, &#167;431.241(g)</a></li>
 </ul>
 <hr/>
 
@@ -24,7 +24,7 @@
 <blockquote>
 	<blockquote>
 		<p>
-			<a title="25 Texas Administrative Code, §229.301 – 229.307" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938163">25 Texas Administrative Code, §§229.301 &#8211; 229.307</a> <span class="small">(PDF, 55KB)</span>
+			<a title="25 Texas Administrative Code, &#167;229.301 – 229.307" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938163">25 Texas Administrative Code, &#167;&#167;229.301 &#8211; 229.307</a> <span class="small">(PDF, 55KB)</span>
 		</p>
 	</blockquote>
 </blockquote>

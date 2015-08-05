@@ -18,7 +18,7 @@
 
 <hr/>
 <h2>Where can I obtain Food Handler Program information?</h2>
-<p>Food Handler Program information, applications and <a title="§229.178 Accreditation of Food Handler Education or Training Programs" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&ti=25&ch=229&rl=178">§229.178 Accreditation of Food Handler Education or Training Programs</a> is available on the <a title="Food Handler Program webpage" href="http://www.dshs.state.tx.us/food-handlers/">Food Handler Program webpage</a>.</p>
+<p>Food Handler Program information, applications and <a title="&#167;229.178 Accreditation of Food Handler Education or Training Programs" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&ti=25&ch=229&rl=178">&#167;229.178 Accreditation of Food Handler Education or Training Programs</a> is available on the <a title="Food Handler Program webpage" href="http://www.dshs.state.tx.us/food-handlers/">Food Handler Program webpage</a>.</p>
 
 <hr/>
 <h2>What topics are required in a Food Handler Program course curriculum?</h2>

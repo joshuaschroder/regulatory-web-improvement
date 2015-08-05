@@ -114,7 +114,7 @@
 <hr/>
 <a class="bookmark" title="Is there a required notice that public employers must post in order to comply with the Texas Hazard Communication Act (THCA)?"  name="112"></a>
 <h2>Is there a required notice that public employers must post in order to comply with the Texas Hazard Communication Act (THCA)?</h2>
-<p>Yes. The <a title="THCA" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.502.htm">THCA</a> requires that public employers post copies of a document which is called the "Notice to Employees" in locations where notices are normally posted. The size and wording of the "Notice to Employees" is described in the <a title="Rules for the THCA (Title 25 of the Texas Administrative Code, Section 295.12)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=295&rl=12">Rules for the THCA </a> (25 TAC §295.12).</p>
+<p>Yes. The <a title="THCA" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.502.htm">THCA</a> requires that public employers post copies of a document which is called the "Notice to Employees" in locations where notices are normally posted. The size and wording of the "Notice to Employees" is described in the <a title="Rules for the THCA (Title 25 of the Texas Administrative Code, Section 295.12)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=295&rl=12">Rules for the THCA </a> (25 TAC &#167;295.12).</p>
 
 <p>Copies of the "Notice to Employees" are available from the Program:</p>
 <ul>

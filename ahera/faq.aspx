@@ -33,7 +33,7 @@
 <a class="bookmark" title="TimeFrame" name="TimeFrame"></a>
 <p><strong>3. Is there a time frame for exclusion letters? For example, if a school was built in 2005 and was inspected and found in violation (because the school did not have a valid exclusion letter/statement) by the Department of State Health Services in 2010, can the architect involved in building the school in 2005 write an exclusion letter/statement now? </strong></p>
 
-<p>AHERA regulation §763.99 states that the inspector has 30 days from the time they make their assessment to write an exclusion statement. If an asbestos inspector performs a review of the existing asbestos inspection/survey and any related MSDSs and determines that there is no asbestos containing material in the building, then they have 30 days after making that assessment to write the exclusion statement and submit it to the school's designated person for inclusion in the management plan. An exclusion letter/statement may be written after 30 days but the school district could be cited for a deficiency if they are inspected by DSHS within that timeframe.</p> 
+<p>AHERA regulation &#167;763.99 states that the inspector has 30 days from the time they make their assessment to write an exclusion statement. If an asbestos inspector performs a review of the existing asbestos inspection/survey and any related MSDSs and determines that there is no asbestos containing material in the building, then they have 30 days after making that assessment to write the exclusion statement and submit it to the school's designated person for inclusion in the management plan. An exclusion letter/statement may be written after 30 days but the school district could be cited for a deficiency if they are inspected by DSHS within that timeframe.</p> 
 
 <a class="bookmark" title="Samples" name="Samples"></a>
 <p><strong>4. Are there any samples of what a valid exclusion letter/statement should say? </strong></p>
@@ -41,7 +41,7 @@
 <p>The following is an example of an exclusion letter/statement that would satisfy both the AHERA and TAHPR requirements.</p> 
 
 <p>Example: </p>
-<p>I, John Doe, Professional Engineer (license #12345TX), was involved in the design and construction of the new renovation at ABC Middle School, ABC, TX. I have reviewed all of the MSDS's for the current renovation and the asbestos survey for the pre-existing portion of the building and in my professional opinion all parts of the building affected by the planned renovation do not contain asbestos. This certification, together with copies of the MSDSs and copies of any previous asbestos surveys, may be used as an asbestos survey as described in the Texas Asbestos Health Protection Rules §295.34(c)(1).</p>
+<p>I, John Doe, Professional Engineer (license #12345TX), was involved in the design and construction of the new renovation at ABC Middle School, ABC, TX. I have reviewed all of the MSDS's for the current renovation and the asbestos survey for the pre-existing portion of the building and in my professional opinion all parts of the building affected by the planned renovation do not contain asbestos. This certification, together with copies of the MSDSs and copies of any previous asbestos surveys, may be used as an asbestos survey as described in the Texas Asbestos Health Protection Rules &#167;295.34(c)(1).</p>
 
 
 <a class="bookmark" title="5" name="5"></a>

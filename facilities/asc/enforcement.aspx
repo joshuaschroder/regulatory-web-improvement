@@ -22,7 +22,7 @@
 			<td headers="table_heading_0">Southwest Endoscopy and Surgery Center</td>
 			<td headers="table_heading_1">008364</td>
 			<td headers="table_heading_2">Burleson</td>
-			<td headers="table_heading_3">Allegations related to:<br/>25 TAC §135.4(c)(2)<br/>25 TAC §135.10(c)<br/>25 TAC §135.14(d)<br/>25 TAC §135.15(a)(1), (a)(2)(A)-(E), and (a)(3)(A)-(B)</td>
+			<td headers="table_heading_3">Allegations related to:<br/>25 TAC &#167;135.4(c)(2)<br/>25 TAC &#167;135.10(c)<br/>25 TAC &#167;135.14(d)<br/>25 TAC &#167;135.15(a)(1), (a)(2)(A)-(E), and (a)(3)(A)-(B)</td>
 			<td headers="table_heading_4">Administrative Penalty $7,150</td>
 			<td headers="table_heading_5">12/30/2013</td>
 		</tr>
@@ -30,7 +30,7 @@
 			<td headers="table_heading_0">East Texas Eye Associates Surgery Center</td>
 			<td headers="table_heading_1">000210</td>
 			<td headers="table_heading_2">Lufkin</td>
-			<td headers="table_heading_3">Allegations related to:<br/>25 TAC §135.10(a)(2), (b), (c), (e) and (f)(2)<br/>25 TAC §135.11(a)(5), (b)(11) (A, C, F and G) and (12)<br/>25 TAC §135.4(c)(2)<br/>25 TAC §135.7(a)</td>
+			<td headers="table_heading_3">Allegations related to:<br/>25 TAC &#167;135.10(a)(2), (b), (c), (e) and (f)(2)<br/>25 TAC &#167;135.11(a)(5), (b)(11) (A, C, F and G) and (12)<br/>25 TAC &#167;135.4(c)(2)<br/>25 TAC &#167;135.7(a)</td>
 			<td headers="table_heading_4">Emergency Suspension</td>
 			<td headers="table_heading_5">3/12/2014</td>
 		</tr>
@@ -38,7 +38,7 @@
 			<td headers="table_heading_0">North Texas GI Center</td>
 			<td headers="table_heading_1">007788</td>
 			<td headers="table_heading_2">Arlington</td>
-			<td headers="table_heading_3">Allegations related to:<br/>25 TAC §135.15(a)(2)(A)<br/>25 TAC §135.15(a)(2)(B)<br/>25 TAC §135.15(a)(2)(C)</td>
+			<td headers="table_heading_3">Allegations related to:<br/>25 TAC &#167;135.15(a)(2)(A)<br/>25 TAC &#167;135.15(a)(2)(B)<br/>25 TAC &#167;135.15(a)(2)(C)</td>
 			<td headers="table_heading_4">Administrative Penalty $1,950</td>
 			<td headers="table_heading_5">4/20/2014</td>
 		</tr>
@@ -46,7 +46,7 @@
 			<td headers="table_heading_0">Meah ASC Management LLC, dba "The Endoscopy Center"</td>
 			<td headers="table_heading_1">007865</td>
 			<td headers="table_heading_2">Manvel</td>
-			<td headers="table_heading_3">Allegations related to:<br/>25 TAC §135.9(j)(10)<br/>25 TAC §135.10(c)<br/>25 TAC §135.10(d)</td>
+			<td headers="table_heading_3">Allegations related to:<br/>25 TAC &#167;135.9(j)(10)<br/>25 TAC &#167;135.10(c)<br/>25 TAC &#167;135.10(d)</td>
 			<td headers="table_heading_4">Administrative Penalty $7,600</td>
 			<td headers="table_heading_5">6/8/2014</td>
 		</tr>
@@ -54,7 +54,7 @@
 			<td headers="table_heading_0">International Center for Surgical Science</td>
 			<td headers="table_heading_1">130064</td>
 		<td headers="table_heading_2">Houston</td>
-		<td headers="table_heading_3">Allegations related to:<br/>25 TAC §§135.4(b), (c)(5) and (11), (g), (h),  and (k)<br/>25 TAC §135.8(h)(1)<br/>25 TAC §135.11(b)(12)<br/>25 TAC §135.12(a)</td>
+		<td headers="table_heading_3">Allegations related to:<br/>25 TAC &#167;&#167;135.4(b), (c)(5) and (11), (g), (h),  and (k)<br/>25 TAC &#167;135.8(h)(1)<br/>25 TAC &#167;135.11(b)(12)<br/>25 TAC &#167;135.12(a)</td>
 		<td headers="table_heading_4">Administrative Penalty $6,350</td>
 		<td headers="table_heading_5">8/7/2014</td>
 		</tr>
@@ -84,7 +84,7 @@ If no information is listed,  there are no enforcement actions to report for the
 
 <h2>Resources</h2>
 <ul>
-	<li><a title="Formal Hearing Procedures" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=1&sch=B&rl=Y">Formal Hearing Procedures - 25 TAC §1.21, §1.23, §1.25 and §1.27</a></li>
+	<li><a title="Formal Hearing Procedures" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=1&sch=B&rl=Y">Formal Hearing Procedures - 25 TAC &#167;1.21, &#167;1.23, &#167;1.25 and &#167;1.27</a></li>
 	<li><a title="Office of Attorney General Consumer Protection &amp; Public Health Information" href="https://www.oag.state.tx.us/consumer/health_care.shtml">Office of Attorney General Consumer Protection &amp; Public Health Information</a></li>
 	<li><a title="Health Facility Program Rules" href="/facilities/laws-rules.aspx">Health Facility Program Rules</a></li>
 </ul>

@@ -5,7 +5,7 @@
 ?>
 
 <br/>
-<p>*The definition of a public swimming pool or spa can be found at in the Texas Standards for Public&nbsp;Swimming Pools and Spas, under 25TAC §265.182(99).</p>
+<p>*The definition of a public swimming pool or spa can be found at in the Texas Standards for Public&nbsp;Swimming Pools and Spas, under 25TAC &#167;265.182(99).</p>
 <hr/>
 
 <h2>Table of Contents</h2>
@@ -71,17 +71,17 @@
 <br/>
 <a class="bookmark" title="1" name="1"></a>
 <h3>1. What is the definition of the deep area of a swimming pool?</h3>
-<p>The deep area of a swimming pool is where the normal water level is greater than 5 feet [25 TAC §265.182(44)]. </p>
+<p>The deep area of a swimming pool is where the normal water level is greater than 5 feet [25 TAC &#167;265.182(44)]. </p>
 
 <a class="bookmark" title="2" name="2"></a>
 <br/>
 <h3>2. When does a swimming pool need to have a 4 x 4 line on the bottom of the pool floor?</h3>
-<p>A post-10/01/99 and pre-10/01/99 Class A, Class B, and Class C pool must have a 4 x 4 line on the bottom of the pool floor whenever the depth exceeds 5 feet [25 TAC §265.199(b)(1)(A)].</p>
+<p>A post-10/01/99 and pre-10/01/99 Class A, Class B, and Class C pool must have a 4 x 4 line on the bottom of the pool floor whenever the depth exceeds 5 feet [25 TAC &#167;265.199(b)(1)(A)].</p>
 
 <a class="bookmark" title="3" name="3"></a>
 <br/>
 <h3>3. Where should the 4 x 4 line be located?</h3>
-<p>The 4 x 4 line should be at or just above the point of transition from the shallow area to the deep end [25 TAC §265.199(2)]. </p>
+<p>The 4 x 4 line should be at or just above the point of transition from the shallow area to the deep end [25 TAC &#167;265.199(2)]. </p>
 
 <a class="bookmark" title="4" name="4"></a>
 <br/>
@@ -96,17 +96,17 @@
 <a class="bookmark" title="6" name="6"></a>
 <br/>
 <h3>6. What signs are needed for a public swimming or wade pool?</h3>
-<p>a) At pools where no lifeguard is provided the sign stating “NO DIVING” in letters at least 4 inches high and a 4 inch international warning symbol for no diving shall be posted [25 TAC §265.199(f)(1)(B)]. <br/><br/>b)  At pools where no lifeguard service is <em>required</em>, a warning sign shall be placed in plain view and shall state “WARNING-NO LIFEGUARD ON DUTY” with clearly legible letters at least 4 inches high [25 TAC §265.199(f)(1)(C)].<br/><br/>c) At pools where no lifeguard service is <em>required</em> a sign with letters at least 2 inches high stating “CHILDREN SHOULD NOT USE POOL WITHOUT ADULT SUPERVISION” shall be posted [25 TAC §265.199(f)(1)(C)].<br/><br/>d) If a required telephone is not readily visible from a post-10/01/99 or pre-10/01/99 pool or spa, directions shall be posted regarding its location [25 TAC §265.199(f)(1)(D)].<br/><br/>e) Regardless of where the telephone is located or whether the gate(s) or door(s) are locked, a sign must be installed inside the pool yard or spa yard in plain view of the pool or spa and state in letters at least 1 inch high: “In case of emergency, call 911.” If the telephone is not readily visible from the pool or spa, the sign inside the pool yard or spa yard shall include a concise description of the location of the telephone [25 TAC §265.199(j)(5)].<br/><br/>f) In areas of Texas where a majority of citizens are non-English speaking, in addition to signs in English, signs, and other written warnings required by these standards, may be posted in the predominant language [25 TAC §265.199(f)(2)].<br/><br/>g) If the pool was constructed on or after 10/1/99 the maximum load limit must be posted [25 TAC §265.203(i)].</p>
+<p>a) At pools where no lifeguard is provided the sign stating “NO DIVING” in letters at least 4 inches high and a 4 inch international warning symbol for no diving shall be posted [25 TAC &#167;265.199(f)(1)(B)]. <br/><br/>b)  At pools where no lifeguard service is <em>required</em>, a warning sign shall be placed in plain view and shall state “WARNING-NO LIFEGUARD ON DUTY” with clearly legible letters at least 4 inches high [25 TAC &#167;265.199(f)(1)(C)].<br/><br/>c) At pools where no lifeguard service is <em>required</em> a sign with letters at least 2 inches high stating “CHILDREN SHOULD NOT USE POOL WITHOUT ADULT SUPERVISION” shall be posted [25 TAC &#167;265.199(f)(1)(C)].<br/><br/>d) If a required telephone is not readily visible from a post-10/01/99 or pre-10/01/99 pool or spa, directions shall be posted regarding its location [25 TAC &#167;265.199(f)(1)(D)].<br/><br/>e) Regardless of where the telephone is located or whether the gate(s) or door(s) are locked, a sign must be installed inside the pool yard or spa yard in plain view of the pool or spa and state in letters at least 1 inch high: “In case of emergency, call 911.” If the telephone is not readily visible from the pool or spa, the sign inside the pool yard or spa yard shall include a concise description of the location of the telephone [25 TAC &#167;265.199(j)(5)].<br/><br/>f) In areas of Texas where a majority of citizens are non-English speaking, in addition to signs in English, signs, and other written warnings required by these standards, may be posted in the predominant language [25 TAC &#167;265.199(f)(2)].<br/><br/>g) If the pool was constructed on or after 10/1/99 the maximum load limit must be posted [25 TAC &#167;265.203(i)].</p>
 
 <a class="bookmark" title="7" name="7"></a>
 <br/>
 <h3>7. What signs are needed for a public spa?</h3>
-<p>a) The location of the nearest telephone or emergency-summoning device [25 TAC §265.205(f)(7)(A)].<br/><br/>b) “DO NOT USE THE SPA, IF THE WATER TEMPERATURE IS ABOVE 104 DEGREES FAHRENHEIT (40 DEGREES CENTIGRADE)” in letters at least 1 inch high [25 TAC §265.205(f)(7)(B)].<br/><br/>c) At facilities where no lifeguard service is <u>required</u>, a warning sign shall be placed in plain view and shall state “WARNING-NO LIFEGUARD ON DUTY” with clearly legible letters at least 4 inches high [25 TAC §265.205(f)(7)(C)].<br/><br/>d) At spas where no lifeguard service is <u>required</u> a sign with letters at least 2 inches high stating “CHILDREN SHOULD NOT USE SPA WITHOUT ADULT SUPERVISION” shall be posted [25 TAC §265.205(f)(7)(D)].<br/><br/>e) The maximum load limit of the spa [25 TAC §265.205(f)(7)(E)].<br/><br/>f) Regardless of where the telephone is located or whether the gate(s) or door(s) are locked, a sign must be installed inside the pool yard or spa yard in plain view of the pool or spa and state in letters at least 1 inch high: “In case of emergency, call 911.” If the telephone is not readily visible from the pool or spa, the sign inside the pool yard or spa yard shall include a concise description of the location of the telephone [25 TAC §265.199(j)(5)].<br/><br/>g) In areas of Texas where a majority of citizens are non-English speaking, in addition to signs in English, signs, and other written warnings required by these standards, may be posted in the predominant language [25 TAC §265.199(f)(2)].</p>
+<p>a) The location of the nearest telephone or emergency-summoning device [25 TAC &#167;265.205(f)(7)(A)].<br/><br/>b) “DO NOT USE THE SPA, IF THE WATER TEMPERATURE IS ABOVE 104 DEGREES FAHRENHEIT (40 DEGREES CENTIGRADE)” in letters at least 1 inch high [25 TAC &#167;265.205(f)(7)(B)].<br/><br/>c) At facilities where no lifeguard service is <u>required</u>, a warning sign shall be placed in plain view and shall state “WARNING-NO LIFEGUARD ON DUTY” with clearly legible letters at least 4 inches high [25 TAC &#167;265.205(f)(7)(C)].<br/><br/>d) At spas where no lifeguard service is <u>required</u> a sign with letters at least 2 inches high stating “CHILDREN SHOULD NOT USE SPA WITHOUT ADULT SUPERVISION” shall be posted [25 TAC &#167;265.205(f)(7)(D)].<br/><br/>e) The maximum load limit of the spa [25 TAC &#167;265.205(f)(7)(E)].<br/><br/>f) Regardless of where the telephone is located or whether the gate(s) or door(s) are locked, a sign must be installed inside the pool yard or spa yard in plain view of the pool or spa and state in letters at least 1 inch high: “In case of emergency, call 911.” If the telephone is not readily visible from the pool or spa, the sign inside the pool yard or spa yard shall include a concise description of the location of the telephone [25 TAC &#167;265.199(j)(5)].<br/><br/>g) In areas of Texas where a majority of citizens are non-English speaking, in addition to signs in English, signs, and other written warnings required by these standards, may be posted in the predominant language [25 TAC &#167;265.199(f)(2)].</p>
 
 <a class="bookmark" title="8" name="8"></a>
 <br/>
 <h3>8. When are lifeguards required?</h3>
-<p>A lifeguard and second responder are required to be provided at Class A pools during competitive events and at all Class B pools. A lifeguard and second responder are required at Class C pools that have diving board or a slide that is not locked or chained to prevent use [25 TAC §265.199(g)(9)]. </p>
+<p>A lifeguard and second responder are required to be provided at Class A pools during competitive events and at all Class B pools. A lifeguard and second responder are required at Class C pools that have diving board or a slide that is not locked or chained to prevent use [25 TAC &#167;265.199(g)(9)]. </p>
 
 <a class="bookmark" title="9" name="9"></a>
 <br/>

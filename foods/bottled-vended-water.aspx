@@ -40,7 +40,7 @@
 <hr/>
 <h2>Rules and Regulations</h2>
 <p><a title="Texas Health and Safety Code, Chapter 431" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.431.htm">Texas Health and Safety Code, Chapter 431</a> - Texas Food, Drug, and Cosmetic Act</p>
-<p><a title="25 Texas Administrative Code, §§229.81-91" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=F&rl=Y">25 Texas Administrative Code, 229.81-91</a> - Production, Processing &amp; Distribution of Bottled / Vended Drinking Water</p>
+<p><a title="25 Texas Administrative Code, &#167;&#167;229.81-91" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=229&sch=F&rl=Y">25 Texas Administrative Code, 229.81-91</a> - Production, Processing &amp; Distribution of Bottled / Vended Drinking Water</p>
 <p><a title="21 Code of Federal Regulations, Part 129" href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=129">21 Code of Federal Regulations, Part 129</a> - Processing and Bottling of Bottled Drinking Water</p>
 
 

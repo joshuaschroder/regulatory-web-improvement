@@ -34,7 +34,7 @@
 <h2>Drug Manufacturers</h2>
 <p>Drug manufacturers may <a title="apply for a license online" href="https://vo.ras.dshs.state.tx.us/">apply for a license online</a>, or by completing and returning a <a title="license application form" href="/drugs/forms.aspx">license application form</a>. Licenses are valid for 2 years unless amended, suspended or revoked. For assistance in completing applications, call (512) 834-6727.</p>
 
-<p>“Manufacturer” means a person who manufactures, prepares, propagates, compounds, processes, packages, or repackages drugs, or a person who changes the container, wrapper, or labeling of any drug package. A person licensed or approved by the United States Food and Drug Administration to engage in the manufacture of drugs consistent with the federal agency's definition of "manufacturer" under the agency's regulations and guidances implementing the Prescription Drug Marketing Act of 1987 (Pub. L. No. 100 - 293). The term does not include a pharmacist engaged in compounding that is done within the practice of pharmacy and pursuant to a prescription drug order or initiative from a practitioner for a patient or prepackaging that is done in accordance with Occupations Code, §562.154.</p>
+<p>“Manufacturer” means a person who manufactures, prepares, propagates, compounds, processes, packages, or repackages drugs, or a person who changes the container, wrapper, or labeling of any drug package. A person licensed or approved by the United States Food and Drug Administration to engage in the manufacture of drugs consistent with the federal agency's definition of "manufacturer" under the agency's regulations and guidances implementing the Prescription Drug Marketing Act of 1987 (Pub. L. No. 100 - 293). The term does not include a pharmacist engaged in compounding that is done within the practice of pharmacy and pursuant to a prescription drug order or initiative from a practitioner for a patient or prepackaging that is done in accordance with Occupations Code, &#167;562.154.</p>
 
 <h3>Fee Schedule for In-State Manufacturers of Prescription Drugs</h3>
 
@@ -504,7 +504,7 @@
 <hr/>
 <a class="bookmark" title="exemptions" name="exemptions"></a>
 <h2>Exemptions from Licensing Fees</h2>
-<p>A Drug manufacturer or distributor may be exempt from licensing fees if they are a charitable organization, as described in the Internal Revenue Code of 1986, §501(c)(3), or a nonprofit affiliate of the organization, to the extent otherwise permitted by law.</p>
+<p>A Drug manufacturer or distributor may be exempt from licensing fees if they are a charitable organization, as described in the Internal Revenue Code of 1986, &#167;501(c)(3), or a nonprofit affiliate of the organization, to the extent otherwise permitted by law.</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
