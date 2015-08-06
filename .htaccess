@@ -1,5 +1,5 @@
 AddType application/x-httpd-php .shtm .shtml .html .htm .aspx
-DirectoryIndex default.aspx index.php index.html
+DirectoryIndex default.aspx index.php index.html default.shtm
 
 Options +FollowSymLinks
 RewriteEngine On
