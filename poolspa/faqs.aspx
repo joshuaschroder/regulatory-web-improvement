@@ -1,5 +1,5 @@
 ﻿<?php
-	$title= "" ;
+	$title= "Frequently Asked Questions - Public Swimming Pools and Spas" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/poolspa_menu.html'; 
 ?>
