@@ -26,12 +26,12 @@
 <p>Phone: (512) 834-6787</p>
 
 <h3>Inspections &amp; Notifications</h3>
-<p>Phone: (512) 834-6770</p>
+<p>Phone: (512) 834-6770 Ext. 6747</p>
 
 <h3>Enforcement</h3>
 <p>
 	Phone:  (512) 834-6665 <br/>
-	Fax:  (512) 834-6606	<br/>
+	Fax:  (512) 834-6606<br/>
 </p>
 
 <h3>Training Provider Approval and State Examinations</h3>

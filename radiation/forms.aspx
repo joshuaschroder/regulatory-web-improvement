@@ -143,7 +143,7 @@
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="204" name="204"></a>RC 204</td>
-			<td headers="table_heading_1"><a title="Schedule of Biennial Fees for Medical for Educational/Healing Arts Certificate of Registration for Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">Schedule of Biennial Fees for Medical for Educational/Healing Arts Certificate of Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span></td>
+			<td headers="table_heading_1"><a title="Schedule of Biennial Fees for Registration for Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">Schedule of Biennial Fees for Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>

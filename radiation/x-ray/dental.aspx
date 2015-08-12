@@ -5,6 +5,23 @@
 ?>
 
 <hr/>
+<h2>Table of Contents</h2>
+<ul>
+	<li><a title="Renewal Registrations" href="#renew">Renewal Registrations</a></li>
+	<li><a title="New Registrations" href="#new">New Registrations</a></li>
+	<li><a title="Dental Regulations" href="#regulations">Dental Regulations</a></li>
+	<li><a title="Inspections" href="#inspections">Inspections</a></li>
+	<li><a title="Equipment Performance Evaluations" href="#evaluations">Equipment Performance Evaluations</a></li>
+</ul>
+
+<hr/>
+<a class="bookmark" title="renew" name="renew"></a>
+<h2>Renew a Certificate of Registration</h2>
+<p>Current x-ray machine registrations may be renewed using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a> or by submitting the appropriate <a title="registration application forms" href="/radiation/forms.aspx#x-ray">registration application forms</a>.</p>
+<p>If you need assistance using the online system, please refer to the <a title="online help documentation" href="http://www.dshs.state.tx.us/regulatory/online-licensing/">online help documentation</a> or <a title="contact the Radiation Control Program" href="/radiation/contact.aspx">contact us</a>.</p>
+
+<hr/>
+<a class="bookmark" title="new" name="new"></a>
 <h2>Obtaining a New Certificate of Registration</h2>
 
 <p>For a new Certificate of Registration, the following forms must be completed to register your dental x-ray equipment. Submit the completed forms along with the appropriate fee.</p>
@@ -15,8 +32,42 @@
 	<li><a title="Radiation Safety Officer Information for Registration" href="/radiation/forms.aspx#423">Radiation Safety Officer Information for Registration</a> (RC 42-3)</li>
 </ul>
 
+<a class="bookmark" title="fees" name="fees"></a>
 <h3>Fee Schedule</h3>
-<p>To determine the fee for your facility refer to <a title="25 Texas Administrative Code &#167;289.232" href="/radiation/rules.aspx#289232">25 Texas Administrative Code &#167;289.232</a>, subsection g.</p>
+<p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232" href="/radiation/laws-rules.aspx#289232">25 Texas Administrative Code &#167;289.232</a>, subsection g.</p>
+
+<table class="zebraBorder layout" summary="table not sorted" style="width:70%;">
+	<caption>Schedule of application fees for dental x-ray registration</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0">Fee Type</th>
+			<th id="table_heading_1">Fee Amount</th>
+			<th id="table_heading_2">Frequency</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0">Application Fee</td>
+			<td headers="table_heading_1">$330</td>
+			<td headers="table_heading_2">each application</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Additional Use Location (on a single certificate)</td>
+			<td headers="table_heading_1">$90</td>
+			<td headers="table_heading_2">2 Years</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Reciprocal Recognition</td>
+			<td headers="table_heading_1">$330</td>
+			<td headers="table_heading_2">2 Years</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>Multiple Categories of Use</h4>
+
+<p>In the case of a single certificate of registration that authorizes more than one category of use, the category listed in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a> and assigned the higher fee will be used. If this certificate of registration also has additional authorized use sites, the registrant shall pay an additional 30% of the highest fee category.</p>
+
 
 <h3>Mailing Address</h3>
 <p>Submit the completed forms and appropriate fees to:</p>
@@ -28,10 +79,7 @@
 </p>
 
 <hr/>
-<h2>Renew a Certificate of Registration</h2>
-<p>Current x-ray machine registrations may be renewed using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a> If you need assistance using the online system, please refer to the <a title="online help documentation" href="http://www.dshs.state.tx.us/regulatory/online-licensing/">online help documentation</a>.</p>
-
-<hr/>
+<a class="bookmark" title="regulations" name="regulations"></a>
 <h2>Dental Regulations</h2>
 <p>You should become familiar with <a title="Title 25 Texas Administrative Code &#167;289.232" href="/radiation/laws-rules.aspx#289232">Title 25 Texas Administrative Code &#167;289.232</a>, Radiation Control Regulations for Dental Radiation Machines. This regulation requires you to establish operating and safety procedures for your dental facility</p>
 
@@ -40,10 +88,12 @@
 <p><a title="Regulatory Guide 4.4" href="/radiation/regulatory-guides.aspx#44">Regulatory Guide 4.4 </a> was created to assist x-ray registrants in developing procedures unique to individual facilities. Mobile dental services are also addressed in this guide under Item II(c)(5) - <em>Use of Portable Machines</em>.</p>
 
 <hr/>
+<a class="bookmark" title="inspections" name="inspections"></a>
 <h2>Inspections</h2>
 <p>For more information regarding inspections, please see <a title="Preparing for an Inspection of Medical X-Ray Machines " href="/radiation/x-ray/inspections.aspx">Preparing for an Inspection of Medical X-Ray Machines</a>.</p>
 
 <hr/>
+<a class="bookmark" title="evaluations" name="evaluations"></a>
 <h2>Equipment Performance Evaluations</h2>
 <p>The <a title="Training Guide for X-Ray Service Company (XSC) Personnel Performing Equipment Performance Evaluations (EPE)" href="https://www.dshs.state.tx.us/radiation/pdffiles/SvcCoTrainMan.pdf">Training Guide for X-Ray Service Company (XSC) Personnel Performing Equipment Performance Evaluations (EPE)</a> <span class="small">(PDF, 229KB)</span> has been developed to assist x-ray service companies in training their personnel to assure the equipment and associated reports meet regulatory requirements. It should also:</p>
 <ul>
