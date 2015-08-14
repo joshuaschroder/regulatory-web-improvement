@@ -163,7 +163,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2268" name="2268"></a>RC 226-8</td>
-			<td headers="table_heading_1"><a title="Registration of Mobile Services Used in the Healing Arts and Veterinary Medicine" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938358">Registration of Mobile Services Used in the Healing Arts and Veterinary Medicine</a> <span class="small">(PDF, 41KB)</span></td>
+			<td headers="table_heading_1"><a title="Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(w)(4). Screening Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938358">Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(w)(4). Screening Information</a> <span class="small">(PDF, 41KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2269" name="2269"></a>RC 226-9</td>

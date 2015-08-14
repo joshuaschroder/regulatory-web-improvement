@@ -6,6 +6,12 @@
 <p>The Texas Department of State Health Services, Radiation Control Program, has the important mission to protect and promote the physical and environmental health of the people of Texas. We strive to prevent unnecessary radiation exposure to the public through effective licensing, registration, inspection, enforcement, and emergency response.</p>
 
 <hr/>
+<h2>Program Authorization and Scope</h2>
+<p>Regulation of radioactive material fuel sources in nuclear reactors and the byproduct materials that result from the nuclear fission is regulated by the U.S. Nuclear Regulatory Commission (NRC) under the Atomic Energy Act of 1954. States with Agreement State status can maintain authority over byproduct material. However, in States without Agreement State status, the NRC retains authority over byproduct material.</p>
+<p>States become an Agreement States by establishing programs to assume NRC regulatory authority under the Atomic Energy Act of 1954, as amended. Section 274 of the Act provides a statutory basis under which NRC relinquishes to the States portions of its regulatory authority to license and regulate byproduct materials (radioisotopes); source materials (uranium and thorium); and certain quantities of special nuclear materials. The mechanism for the transfer of NRC's authority to a State is an agreement signed by the Governor of the State and the Chairman of the Commission, in accordance with section 274b of the Act.  Agreement States are required to maintain compatibility with NRC's program and are routinely reviewed every four years for adequacy and compatibility by NRC's Management Review Board.</p>
+<p>Texas became an Agreement State in 1963 and has regulated these radioactive materials since. Texas had previously regulated Naturally Occurring Radioactive Materials over which NRC did not have authority to regulate. In addition, Texas regulates sources of radiation from lasers and x-ray machines including mammography, over which NRC does not have regulatory authority.  </p>
+
+<hr/>
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about important changes to the Meat Safety Program. This feature will serve as a tool to increase communication with customers regarding new information added to the website.</p>
 <p><a title="sign up for email updates" href="http://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_XXXXXXX"><img alt="sign up for email updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a><br/><br/></p>

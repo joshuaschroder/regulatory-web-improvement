@@ -4,14 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
 ?>
 <hr/>
-<h2>Table of Contents</h2>
-<ul>
-	<li><a title="Renewal Registration" href="#renew">Renewal Registration</a></li>
-	<li><a title="Initial Registration" href="#initial">Initial Registration</a></li>
-	<li><a title="Amending a Certificate of Registration" href="#amend">Amending a Certificate of Registration</a></li>
-	<li><a title="Terminate a Certificate of Registration" href="#terminate">Terminate a Certificate of Registration</a></li>
-	<li><a title="Transfer or Disposal of of X-Ray Machines" href="#disposition">Transfer or Disposal of of X-Ray Machines</a></li>
-</ul>
+<p>The following registration procedures are generally applicable to all types of radiation machines, including mammography certification, mammography accreditation, and registration of laser devices:</p>
 <hr/>
 
 <a class="bookmark" title="renew" name="renew"></a>
@@ -53,50 +46,7 @@
 </ul>
 
 <h3>2. Submit the Applications with Appropriate Fees</h3>
-<h4>Industrial Radiography Fee Schedule</h4>
-<p>
-	(A) Fixed Facility: $1,960.00 <br/>
-	(B) Temporary Job Sites: $3,280.00 (includes Open Vision machines used for non- destructive testing/fluoroscopy) 
-</p>
-
-<h4>Other Industrial Machines: $670.00</h4>
-<p>
-	(A) Portable/Handheld Fluorescence X-Ray (Open Beam) <br/>
-	(B) Portable/Handheld Intensified Fluoroscopy X-Ray (Open Beam) <br/>
-	(C) Fluoroscopy X-ray <br/>
-	(D) Industrial Accelerator <br/>
-	(E) Spectrography X-Ray <br/>
-	(F) Flash X-Ray: Stationary or Portable (includes Open Vision machines used for bomb detection) <br/>
-	(G) Educational: Medical, Dental or Veterinary <br/>
-	(H) Research (x-ray for non-human/ not live animal use) <br/>
-	(I) Morgues/Forensics <br/>
-	(J) X-Ray Diffraction (Open Beam) 	
-</p>
-
-<h4>Minimal Threat Machines: $290.00 </h4>
-<p>
-	(A) Fluorescence X-Ray (Closed Beam) <br/>
-	(B) X-Ray Diffraction (Closed Beam) <br/>
-	(C) X-Ray Gauge <br/>
-	(D) Certified Cabinet X-Ray <br/>
-	(E) Package X-Ray <br/>
-	(F) Electron Bean Welding <br/>
-	(G) Particle Size Analyzer <br/>
-	(H) Ion-Implant <br/>
-	(I) Cathodoluminescence
-</p>
-
-<h4>Reciprocity </h4>
-<p>Fee is charged according to applicable category.</p>
-
-<h4>X-Ray Services: $290.00 </h4>
-<p>
-	(A) Demonstration/Sales <br/>
-	(B) Assembly, Installation or Repair <br/>
-	(C) Provider of Equipment <br/>
-	(D) Consultation performed by a Licensed Medical Physicist or Certified Health Physicist <br/>
-	(E) Agency-Accepted Training Courses
-</p>
+<p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232(g)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=F&p_rloc=138324&p_tloc=29728&p_ploc=14870&pg=3&p_tac=&ti=25&pt=1&ch=289&rl=232">25 Texas Administrative Code &#167;289.232(g)</a>, and in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=F&p_rloc=168975&p_tloc=14572&p_ploc=1&pg=2&p_tac=&ti=25&pt=1&ch=289&rl=204">25 TAC, &#167;289.204(j)</a>.</p>
 
 <p>Additional authorized use location where radiation machines or services are authorized under the same registration will be 30% of applicable fee.</p>
 <p>A registration covering more than one machine category shall be accompanied by the prescribed fee for the highest category.</p>
@@ -151,17 +101,17 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0">Dental</td>
-			<td headers="table_heading_1"><a title="Form RC 17-R, Request For Termination of Registration" href="/radiation/forms.aspx#17R">Request for Termination of Registration</a></td>
+			<td headers="table_heading_1"><a title="Form RC 17-R, Request For Termination of Registration (Dental)" href="/radiation/forms.aspx#17R">Request for Termination of Registration (Dental)</a></td>
 			<td headers="table_heading_2">RC 17-R</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Industrial</td>
-			<td headers="table_heading_1"><a title="Form RC 17-R, Request For Termination of Registration" href="/radiation/forms.aspx#17R">Request for Termination of Registration</a></td>
+			<td headers="table_heading_1"><a title="Form RC 17-R, Request For Termination of Registration (Industrial)" href="/radiation/forms.aspx#17R">Request for Termination of Registration (Industrial)</a></td>
 			<td headers="table_heading_2">RC 17-R</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Laser</td>
-			<td headers="table_heading_1"><a title="Form RC 17-L, Request for Termination of Laser Registration" href="/radiation/forms.aspx#17L">Request for Termination of Laser Registration</a></td>
+			<td headers="table_heading_1"><a title="Form RC 17-L, Request for Termination of Registration (Laser)" href="/radiation/forms.aspx#17L">Request for Termination of Registration (Laser)</a></td>
 			<td headers="table_heading_2">RC 17-L</td>
 		</tr>
 		<tr>
@@ -171,7 +121,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Medical</td>
-			<td headers="table_heading_1"><a title="Form RC 17-R, Request For Termination of Registration" href="/radiation/forms.aspx#17R">Request for Termination of Registration</a></td>
+			<td headers="table_heading_1"><a title="Form RC 17-R, Request For Termination of Registration (Medical)" href="/radiation/forms.aspx#17R">Request for Termination of Registration (Medical)</a></td>
 			<td headers="table_heading_2">RC 17-R</td>
 		</tr>
 	</tbody>
@@ -192,12 +142,12 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0">Dental</td>
-			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal Form</a></td>
+			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form (Dental)" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal Form (Dental)</a></td>
 			<td headers="table_heading_2">RC 18-R</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Industrial</td>
-			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal Form</a></td>
+			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form (Industrial)" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal Form (Industrial)</a></td>
 			<td headers="table_heading_2">RC 18-R</td>
 		</tr>		
 		<tr>
@@ -212,7 +162,7 @@
 		</tr>		
 		<tr>
 			<td headers="table_heading_0">Medical</td>
-			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal Form</a></td>
+			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form (Medical)" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal Form (Medical)</a></td>
 			<td headers="table_heading_2">RC 18-R</td>
 		</tr>
 	</tbody>
