@@ -7,8 +7,7 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="Renewal Registrations" href="#renew">Renewal Registrations</a></li>
-	<li><a title="New Registrations" href="#new">New Registrations</a></li>
+	<li><a title="Obtaining a Certificate of Registration" href="#register">Obtaining a Certificate of Registration</a></li>
 	<li><a title="Amending a Certificate of Registration" href="#amend">Amending a Certificate of Registration</a></li>
 	<li><a title="Fee Schedule" href="#fees">Fee Schedule</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
@@ -20,16 +19,9 @@
 </ul>
 
 <hr/>
-<a class="bookmark" title="renew" name="renew"></a>
-<h2>Renew a Certificate of Registration</h2>
-<p>Current dental X-ray machine registrations may be renewed using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a> or by submitting the appropriate <a title="registration application forms" href="/radiation/forms.aspx#X-ray">registration application forms</a>.</p>
-<p>An additional online licensing fee will be charged for all applications, whether submitted online or via paper form, to recover costs associated with application processing through the <a title="Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Online Licensing System</a>.</p>
-<p>If you need assistance using the online system, please refer to the <a title="online help documentation" href="http://www.dshs.state.tx.us/regulatory/online-licensing/">online help documentation</a> or <a title="contact the Radiation Control Program" href="/radiation/contact.aspx">contact us</a>.</p>
-
-<hr/>
-<a class="bookmark" title="new" name="new"></a>
-<h2>Obtaining a New Certificate of Registration</h2>
-<p>For a new Certificate of Registration for dental radiation machines, the following forms must be completed to register your dental X-ray equipment. Submit the completed forms along with the appropriate fee.</p>
+<a class="bookmark" title="register" name="register"></a>
+<h2>Obtaining a Certificate of Registration</h2>
+<p>For a Certificate of Registration for dental radiation machines, the following forms must be completed to register your dental X-ray equipment. Submit the completed forms along with the appropriate fee.</p>
 
 <ul>
 	<li><a title="Registration Application for Users of Radiation Machines in Healing Arts" href="/radiation/forms.aspx#2262">Registration Application for Users of Radiation Machines in Healing Arts</a> (RC 226-2)</li>
@@ -51,7 +43,6 @@
 <h2>Fee Schedule</h2>
 <p>The table below outlines fees pertaining to the issuance of a single certificate of registration for use in dental radiography.</p>
 <p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232(g)" href="/radiation/laws-rules.aspx#289232">25 Texas Administrative Code &#167;289.232(g)</a>, and in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a>.</p>
-<p>An additional online licensing fee will be charged for all applications, whether submitted online or via paper form, to recover costs associated with application processing through the <a title="Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Online Licensing System</a>.</p>
 
 <table class="zebraBorder layout" summary="table not sorted" style="width:70%;">
 	<caption>Schedule of application fees for dental X-ray registration</caption>

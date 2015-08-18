@@ -6,15 +6,8 @@
 <hr/>
 <p>The following registration procedures are generally applicable to all types of radiation machines, including mammography certification, mammography accreditation, and registration of laser devices:</p>
 <hr/>
-
-<a class="bookmark" title="renew" name="renew"></a>
-<h2>Renewal Registration</h2>
-<p>Current x-ray machine registrations may be renewed using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">Regulatory Services Online Licensing System</a> or by submitting the appropriate <a title="registration application forms" href="/radiation/forms.aspx#x-ray">registration application forms</a>.</p>
-<p>If you need assistance using the online system, please refer to the <a title="online help documentation" href="http://www.dshs.state.tx.us/regulatory/online-licensing/">online help documentation</a> or <a title="contact the Radiation Control Program" href="/radiation/contact.aspx">contact us</a>.</p>
-
-<hr/>
-<a class="bookmark" title="initial" name="initial"></a>
-<h2>Initial Registration</h2>
+<a class="bookmark" title="register" name="register"></a>
+<h2>Obtaining a Certificate of Registration</h2>
 <p>Please read all appropriate rules and guides for radiation control. You may download this information from the <a title="Laws/Rules page" href="/radiation/laws-rules.aspx">Laws/Rules page</a> and the <a title="Regulatory Guides page" href="/radiation/regulatory-guides.aspx">Regulatory Guides page</a>. For your convenience, some of the rules have been referenced on this page.</p>
 
 <h3>1. Obtain the Appropriate Forms</h3>
