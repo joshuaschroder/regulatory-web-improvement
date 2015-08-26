@@ -1,5 +1,5 @@
 <?php
-	$title= "Frequently Asked Questions about Medical X-Ray Registration - Radiation Control Program" ;
+	$title= "Frequently Asked Questions about Medical X-Ray Registration" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
 ?>

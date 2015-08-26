@@ -1,5 +1,5 @@
 <?php
-	$title= "Dental X-Ray Machine Registration - Radiation Control Program" ;
+	$title= "Dental X-Ray Machine Registration" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
 ?>

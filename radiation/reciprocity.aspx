@@ -1,5 +1,5 @@
 <?php
-	$title= "Reciprocity - Radiation Control Program" ;
+	$title= "Licensing Reciprocity - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_menu.html'; 
 ?>
@@ -7,13 +7,16 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
+	<li><a title="Overview" href="#overview">Overview</a></li>
 	<li><a title="Information Required for Reciprocity" href="#info">Information Required for Reciprocity</a></li>
 	<li><a title="Conditions of Reciprocity" href="#conditions">Conditions of Reciprocity</a></li>
-	<li><a title="Who to Contact" href="#contacts">Who to Contact</a></li>
-	<li><a title="Mailing Address" href="#address">Mailing Address</a></li>
+	<li><a title="Contact Information" href="#contacts">Contact Information</a></li>
+	<li><a title="Mailing Addresses" href="#address">Mailing Addresses</a></li>
 </ul>
 
 <hr/>
+<a class="bookmark" title="overview" name="overview"></a>
+<h2>Overview</h2>
 <p>Reciprocity, also known as reciprocal recognition, is a required authorization to perform licensed activities in Texas for any person who holds a valid specific radioactive material license or certificate of registration. The license must be from the Nuclear Regulatory Commission, or any other agreement state or licensing state from the jurisdiction where you maintain an office and conduct the licensed activity.</p>
 <p>In other words, we will accept or recognize a license or certificate of registration from another jurisdiction as meeting our licensing/registration requirements and allow the licensee/registrant to work in Texas once all the following requirements are met.</p>
 
@@ -45,35 +48,35 @@
 
 <h3>Reciprocity for Radioactive Material</h3>
 <p>
-	Email: <a title="Keith.Smith@dshs.state.tx.us" href="mailto:Keith.Smith@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Keith.Smith@dshs.state.tx.us</a> <br/>
+	Email: <a title="Keith.Smith@dshs.state.tx.us" href="mailto:Keith.Smith@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Keith Smith</a> <br/>
 	Phone: (512) 834-6688 ext. 2215<br/>
 	Fax: (512) 834-6690 
 </p>
 
 <h3>Fees</h3>
 <p>
-	<a title="Jackie.Pursley@dshs.state.tx.us" href="mailto:Jackie.Pursley@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Jackie.Pursley@dshs.state.tx.us </a><br/>
+	Email: <a title="Jackie.Pursley@dshs.state.tx.us" href="mailto:Jackie.Pursley@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Jackie Pursley</a><br/>
 	Phone: (512) 834-6688 ext. 2060<br/>
 	Fax: (512) 834-6716 
 </p>
 
 <h3>Notifications of Intent to Work in Texas</h3>
 <p>
-	Email: <a title="Patricia.Mackey@dshs.state.tx.us" href="mailto:Patricia.Mackey@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Patricia.Mackey@dshs.state.tx.us</a> <br/>
+	Email: <a title="Patricia.Mackey@dshs.state.tx.us" href="mailto:Patricia.Mackey@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Patricia Mackey</a> <br/>
 	Phone: (512) 834-6770 ext. 2000<br/>
 	Fax: (512) 834-6654<br/>
 </p>
 
 <h3>Reciprocity for X-Ray Machines</h3>
 <p>
-	<a title="Shannon.Dove-Edson@dshs.state.tx.us" href="mailto:Shannon.Dove-Edson@dshs.state.tx.us">Shannon.Dove-Edson@dshs.state.tx.us</a> <br/>
+	Email: <a title="Shannon.Dove-Edson@dshs.state.tx.us" href="mailto:Shannon.Dove-Edson@dshs.state.tx.us">Shannon Dove-Edson</a> <br/>
 	Phone: (512) 834-6688 ext. 2243 <br/>
 	Fax: (512) 834-6716 
 </p>
 
 <hr/>
 <a class="bookmark" title="address" name="address"></a>
-<h2>Where to Send Your Request for Licensing and Reciprocity Issues</h2>
+<h2>Mailing Addresses</h2>
 
 <h3>Regular Mailing Address:</h3>
 <p>

@@ -1,5 +1,5 @@
 <?php
-	$title= "Mobile Services and Healing Arts Screening - Radiation Control Program" ;
+	$title= "Mobile Services and Healing Arts Screening - X-Ray Registration" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
 ?>

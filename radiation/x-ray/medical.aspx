@@ -1,5 +1,5 @@
 <?php
-	$title= "Medical, Academic and Veterinary X-Ray Machines - Radiation Control Program" ;
+	$title= "Medical, Academic and Veterinary X-Ray Machine Registration" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
 ?>

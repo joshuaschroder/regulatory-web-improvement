@@ -69,7 +69,7 @@
 </table>
 <hr/>
 
-<a class="bookmark" title="Radioactive Materials" name="RAM"></a>
+<a class="bookmark" title="Radioactive Materials" name="RAM" id="license"></a>
 <h2>Radioactive Materials</h2>
 
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
@@ -82,10 +82,6 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="RC 252-1" name="2521"></a>RC 252-1</td>
-			<td headers="table_heading_1"><a title="Business Information Form - License" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992452">Business Information Form - License</a> <span class="small">(PDF, 54KB)</span></td>
-		</tr>
-		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2511" name="2511"></a>RC 251-1</td>
 			<td headers="table_heading_1"><a title="Acknowledgement to Use the General License for In Vitro Clinical or Laboratory Testing" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992449">Acknowledgement to Use the General License for In Vitro Clinical or Laboratory Testing</a> <span class="small">(PDF, 64KB)</span></td>
 		</tr>		
@@ -93,6 +89,10 @@
 			<td headers="table_heading_0"><a class="bookmark" title="2512" name="2512"></a>RC 251-2</td>
 			<td headers="table_heading_1"><a title="General License Acknowledgement of Devices Containing Radioactive Material" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589995642">General License Acknowledgement of Devices Containing Radioactive Material</a> <span class="small">(PDF, 92KB)</span></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="RC 252-1" name="2521"></a>RC 252-1</td>
+			<td headers="table_heading_1"><a title="Business Information Form - License" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992452">Business Information Form - License</a> <span class="small">(PDF, 54KB)</span></td>
+		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2522" name="2522"></a>RC 252-2</td>
 			<td headers="table_heading_1"><a title="Radioactive Material License" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992450">Radioactive Material License</a> <span class="small">(PDF, 67KB)</span></td>
@@ -109,7 +109,7 @@
 </table>
 <hr/>
 
-<a class="bookmark" title="X-Ray Machines" name="x-ray"></a>
+<a class="bookmark" title="X-Ray Machines" name="x-ray" id="registration"></a>
 <h2>X-Ray Machines</h2>
 
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
@@ -314,7 +314,7 @@
 </table>
 <hr/>
 
-<a class="bookmark" title="Equipment Performance Evaluation Forms" name="equipment"></a>
+<a class="bookmark" title="Equipment Performance Evaluation Forms" name="equipment" id="Equipment"></a>
 <h2>Equipment Performance Evaluation</h2>
 <p>Please contact <a title="Jerry.Cogburn@dshs.state.tx.us" href="mailto:Jerry.Cogburn@dshs.state.tx.us">Jerry Cogburn</a> via email or telephone at 512-834-6770 extension 2037, about any other inspection forms.</p>
 

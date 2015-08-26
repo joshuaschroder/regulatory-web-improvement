@@ -1,5 +1,5 @@
 <?php
-	$title= "Industrial X-ray Registration FAQs - Radiation Control Program" ;
+	$title= "Industrial X-Ray Registration FAQs" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
 ?>

@@ -41,6 +41,13 @@
 </ul>
 
 <hr/>
+<a class="bookmark" title="training" name="training"></a>
+<h2>Training Courses</h2>
+<ul>
+	<li><a title="Accepted Radiation Safety Training Courses." href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993780">Accepted Radiation Safety Training Courses.</a> <span class="small">(PDF, 353KB)</span><br/>List is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</li>
+</ul>
+
+<hr/>
 <a class="bookmark" title="Environmental" name="Environmental"></a>
 <h2>Environmental Monitoring Summaries</h2>
 <ul>

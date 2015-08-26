@@ -221,6 +221,16 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a title="Texas Administrative Code, Title 25, &#167;289.202 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">&#167;289.202 <span class="small">(HTML)</span></a><br/>
+					<a title="Texas Administrative Code, Title 25, &#167;289.202 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996538">&#167;289.202 <span class="small">(PDF, 391KB)</span></a>
+					<a class="bookmark" title="289202" name="289202"></a>					
+				</td>
+				<td headers="table_heading_1">Standards for Protection Against Radiation from Radioactive Material</td>
+				<td headers="table_heading_2">03/22/15</td>
+				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202" href="#289.202">See Note 289.202</a></span></td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, &#167;289.202(ggg)(2)(F) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589996539">&#167;289.202(ggg)(2)(F) <span class="small">(PDF, 862KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg2F"></a>
 				</td>
@@ -331,7 +341,7 @@
 			&#167;289.202 - If you maintain hard copy access of the Radiation Control rules, there is NO need to print all 6 separate rule files in their entirety for &#167;289.202 since ONLY the pages as listed below had actual text changes made during the 2015 revision unless otherwise noted. <br/><br/>
 			PDF File 202-a fn 3.2015 = Table of Contents and pages 1, 18, 19, 27, 31, 32, 36, 38, 49-53, 55, 57-58 (page # only), 59, 60-63 (page # only), and 64<br/><br/>
 			However, please print pages 18-21 and 49-64, inclusively, as the text has shifted due to the addition and deletion of text throughout the subsections. <br/><br/>
-			25 TAC &#167;289.202(ddd)(2)(B) – (D) is new text relating to radiological requirements for unrestricted use.
+			&#167;289.202(ddd)(2)(B) – (D) is new text relating to radiological requirements for unrestricted use.
 		</p>
 		<hr/>
 		<p>
