@@ -3,16 +3,6 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_menu.html'; 
 ?>
-<!--hr/>
-<h2>Table of Contents</h2>
-<ul>
-	<li><a title="Laser Hair Removal" href="#LHR">Laser Hair Removal</a></li>
-	<li><a title="Radioactive Materials (RAM)" href="#RAM">Radioactive Materials (RAM)</a></li>
-	<li><a title="Indoor Radon" href="#Radon">Indoor Radon</a></li>
-	<li><a title="Environmental Monitoring Summaries" href="#Environmental">Environmental Monitoring Summaries</a></li>
-	<li><a title="2014 Texas Radiation Regulatory Conference Slides" href="#Conf-2014">2014 Texas Radiation Regulatory Conference Slides</a></li>
-	<li><a title="2010 Texas Radiation Regulatory Conference Slides" href="#Conf-2010">2010 Texas Radiation Regulatory Conference Slides</a></li>
-</ul-->
 
 <hr/>
 <a class="bookmark" title="LHR" name="LHR"></a>
@@ -38,13 +28,6 @@
 <h2>Indoor Radon</h2>
 <ul>
 	<li><a title="Final Report of the Texas Indoor Radon Survey, June 1994" href="https://www.dshs.state.tx.us/radiation/pdffiles/RADONsrvy.pdf">Final Report of the Texas Indoor Radon Survey, June 1994</a> <span class="small">(PDF, 4.5MB)</span><br/>Results of a statewide radon survey conducted in 1991.</li>
-</ul>
-
-<hr/>
-<a class="bookmark" title="training" name="training"></a>
-<h2>Training Courses</h2>
-<ul>
-	<li><a title="Accepted Radiation Safety Training Courses." href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993780">Accepted Radiation Safety Training Courses.</a> <span class="small">(PDF, 353KB)</span><br/>List is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</li>
 </ul>
 
 <hr/>
