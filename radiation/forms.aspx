@@ -153,50 +153,50 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0">2016 Exam Schedule</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2016-exam" name="2016-exam"></a>2016 Exam Schedule</td>
 			<td headers="table_heading_1"><a title="2016 Industrial Radiography Examination Schedule" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000321">2016 Industrial Radiography Examination Schedule</a> <span class="small">(PDF, 345KB)</span></td>
 		</tr>		
 		<tr>
-			<td headers="table_heading_0">2015 Exam Schedule</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2015-exam" name="2015-exam"></a>2015 Exam Schedule</td>
 			<td headers="table_heading_1"><a title="2015 Industrial Radiography Examination Schedule" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589994660">2015 Industrial Radiography Examination Schedule</a> <span class="small">(PDF, 171KB)</span></td>
 		</tr>	
 		<tr>
-			<td headers="table_heading_0">RC IR-1</td>
+			<td headers="table_heading_0"><a class="bookmark" title="IR1" name="IR1"></a>RC IR-1</td>
 			<td headers="table_heading_1">
 				<a title="Industrial Radiographer Replacement ID Card Application" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982194">Industrial Radiographer Replacement ID Card Application</a> <span class="small">(PDF, 29KB)</span><br/>
 				<a title="Instructions for Industrial Radiographer Replacement ID Card Application" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982192">Instructions for Industrial Radiographer Replacement ID Card Application</a> <span class="small">(PDF, 46KB)</span>
 			</td>
 		</tr>		
 		<tr>
-			<td headers="table_heading_0">RC IR-2</td>
+			<td headers="table_heading_0"><a class="bookmark" title="IR2" name="IR2"></a>RC IR-2</td>
 			<td headers="table_heading_1"><a title="Industrial Radiographer Second Certification ID Card Procedures" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982196">Industrial Radiographer Second Certification ID Card Procedures</a> <span class="small">(PDF, 27KB)</span></td>
 		</tr>	
 		<tr>
-			<td headers="table_heading_0">RC 255-1</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2551" name="2551"></a>RC 255-1</td>
 			<td headers="table_heading_1"><a title="Request for Disability Accommodation for IR Exam" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982203">Request for Disability Accommodation for IR Exam</a> <span class="small">(PDF, 73KB)</span></td>
 		</tr>		
 		<tr>
-			<td headers="table_heading_0">RC 255-3</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2553" name="2553"></a>RC 255-3</td>
 			<td headers="table_heading_1"><a title="Application for IR Exam" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982182">Application for Industrial Radiographer Exam</a> <span class="small">(PDF, 30KB)</span></td>
 		</tr>		
 		<tr>
-			<td headers="table_heading_0">RC 255-C</td>
+			<td headers="table_heading_0"><a class="bookmark" title="255C" name="255C"></a>RC 255-C</td>
 			<td headers="table_heading_1"><a class="bookmark" title="255C" name="255C"></a><a title="Accepted Radiation Safety Training Courses" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993780">Accepted Radiation Safety Training Courses</a> <span class="small">(PDF, 66KB)</span></td>
 		</tr>		
 		<tr>
-			<td headers="table_heading_0">RC 255-E</td>
+			<td headers="table_heading_0"><a class="bookmark" title="255E" name="255E"></a>RC 255-E</td>
 			<td headers="table_heading_1"><a title="Trainee Qualification Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982187">Trainee Qualification Form</a> <span class="small">(PDF, 27KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">RC 255-OS</td>
+			<td headers="table_heading_0"><a class="bookmark" title="255OS" name="255OS"></a>RC 255-OS</td>
 			<td headers="table_heading_1"><a title="Radiographer Qualification - OJT (Years)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982185">Radiographer Qualification - OJT (Years)</a> <span class="small">(PDF, 35KB)</span></td>
 		</tr>				
 		<tr>
-			<td headers="table_heading_0">RC 255-R</td>
+			<td headers="table_heading_0"><a class="bookmark" title="255R" name="255R"></a>RC 255-R</td>
 			<td headers="table_heading_1"><a title="Radiographer Qualification - OJT (Hours)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982188">Radiographer Qualification - OJT (Hours)</a> <span class="small">(PDF, 36KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">RC 255-T</td>
+			<td headers="table_heading_0"><a class="bookmark" title="255T" name="255T"></a>RC 255-T</td>
 			<td headers="table_heading_1"><a title="Trainer Qualification" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982190">Trainer Qualification</a> <span class="small">(PDF, 65KB)</span></td>
 		</tr>
 	</tbody>
