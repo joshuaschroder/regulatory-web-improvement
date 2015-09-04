@@ -287,6 +287,14 @@
 			<td headers="table_heading_0"><a class="bookmark" title="3028" name="3028"></a>RC 302-8</td>
 			<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Professional" href="http://www.dshs.state.tx.us/radiation/pdffiles/laserhair/RC302-8LHR-PAPP.pdf">Registration Application for Laser Hair Removal Professional</a> <span class="small">(PDF, 53KB)</span></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">None<a class="bookmark" title="LHR-confidentiality" name="LHR-confidentiality"></a></td>
+			<td headers="table_heading_1"><a title="Confidentiality of Contract between LHR Facility and Consulting Physician" href="http://www.dshs.state.tx.us/radiation/pdffiles/laserhair/LHRConforSampleContractFacilityandConsultingPhys.pdf">Confidentiality of Contract between LHR Facility and Consulting Physician</a> <span class="small">(PDF, 16KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">None<a class="bookmark" title="LHR-sample-contract" name="LHR-sample-contract"></a></td>
+			<td headers="table_heading_1"><a title="Sample Consulting Physician Contract" href="http://www.dshs.state.tx.us/radiation/Files/laserhair/LHRSampleContract2013.doc">Sample Consulting Physician Contract</a> <span class="small">(DOC, 44KB)</span></td>
+		</tr>
 	</tbody>
 </table>
 <hr/>
@@ -353,23 +361,23 @@
 			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/pdffiles/Mammo/RC18-M.pdf">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
 		</tr>		
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="230R1" name="230R1"></a>RC 230-1</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2301" name="2301"></a>RC 230-1</td>
 			<td headers="table_heading_1"><a title="Application for Mammography Certification - New Facility or Renewal" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-1-CertNewRenewal(fillable).pdf">Application for Mammography Certification - New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="230R1B" name="230R1B"></a>RC 230-2</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2302" name="2302"></a>RC 230-2</td>
 			<td headers="table_heading_1"><a title="Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-2CertAmend(fillable).pdf">Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">RC 230-3</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2303" name="2303"></a>RC 230-3</td>
 			<td headers="table_heading_1"><a title="Application for Interventional Breast Radiography - New Facility or Renewal" href="/radiation/pdffiles/Mammo/RC230-3BiopsyNewRenewal(fillable).pdf">Application for Interventional Breast Radiography - New Facility or Renewal</a> <span class="small">(PDF, 73KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="230R1F" name="230R1F"></a>RC 230-4</td>
+			<td headers="table_heading_0"><a class="bookmark" title="2304" name="2304"></a>RC 230-4</td>
 			<td headers="table_heading_1"><a title="Amendment Application for Interventional Breast Radiography" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-4BiopsyAmendment(fillable).pdf">Amendment Application for Interventional Breast Radiography</a> <span class="small">(PDF, 77KB)</span></td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0">RC 230-43</td>
+			<td headers="table_heading_0"><a class="bookmark" title="23043" name="23043"></a>RC 230-43</td>
 			<td headers="table_heading_1"><a title="Lead interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-43-M_LIP.pdf">Lead interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span></td>
 		</tr>
 	</tbody>

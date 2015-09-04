@@ -3,15 +3,17 @@
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/asbestos_menu.html'; 
 ?>
-<hr/>
-<h2>Map of Public Health Regions</h2>
-<img alt="DSHS Regions" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/asbestos/images/25x23RegionMap.gif" style="width:442px; height:auto;"/>
+<p><a title="Locate Your Region by County" href="/asbestos/inspectors-list.aspx">Locate Your Region by County</a></p>
+
+
+<a title="map of public health regions by county" href="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/asbestos/images/25x23RegionMap.gif"><img alt="DSHS Regions" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/asbestos/images/25x23RegionMap.gif" style="width:442px; height:auto;padding:20px 0;"/></a>
 <p><a title="Download Map" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=16516">Download Map</a> <span class="small">(PDF, 142KB)</span></p>
 
 <hr/>
 <h2>Public Health Region Contacts</h2>
 <hr/>
 
+<a class="bookmark" title="region-1" name="region-1"></a>
 <h3>Public Health Region 1</h3>
 
 <h4><strong><em>Region 1 Asbestos</em></strong></h4>
@@ -33,35 +35,37 @@
 </p>
 <hr/>
 
+<a class="bookmark" title="region-23" name="region-23"></a>
 <h3>Public Health Region 2/3</h3>
 
 <h4><strong><em>Region 2/3 Asbestos</em></strong></h4>
 <p>
-	Vacant<br/>
+	<a class="bookmark" title="region-2" name="region-2"></a>
+	<a title="Wayne Clever" href="Wayne.Clever@dshs.state.tx.us">Wayne Clever</a> (Region 2)<br/>
 	4601 S. 1st. Street<br/>
 	Abilene, TX 79605<br/>
 	Phone: (325) 795-5861<br/>
 	Fax: (325) 795-5853<br/>
-	Contact: Terry Collins<br/>
-	Asbestos Inspection Group Manager<br/>
-	(512) 834-6770 ext. 2454<br/>
 </p>
 <p>
-	<a title="Robert Aguirre" href="mailto:Robertb.Aguirre@dshs.state.tx.us">Robert Aguirre</a><br/>
+	<a class="bookmark" title="region-3R" name="region-3R"></a>
+	<a title="Robert Aguirre" href="mailto:Robertb.Aguirre@dshs.state.tx.us">Robert Aguirre</a> (Region 3R)<br/>
 	1301 S. Bowen Road<br/>
 	Arlington, TX 76013-2262<br/>
 	Phone: (817) 264-4675<br/>
 	Fax: (817) 264-4719<br/>
 </p>
 <p>
-	<a title="Frank J. Rodriguez" href="mailto:FrankJ.Rodriguez@dshs.state.tx.us">Frank J. Rodriguez</a><br/>
+	<a class="bookmark" title="region-3F" name="region-3F"></a>
+	<a title="Frank J. Rodriguez" href="mailto:FrankJ.Rodriguez@dshs.state.tx.us">Frank J. Rodriguez</a> (Region 3F)<br/>
 	1301 S. Bowen Road<br/>
 	Arlington, TX 76013-2262<br/>
 	Phone: (817) 264-4513<br/>
 	Fax: (817) 264-4719<br/>
 </p>
 <p>
-	<a title="Ted Wyman" href="mailto:Ted.Wyman@dshs.state.tx.us">Ted Wyman</a><br/>
+	<a class="bookmark" title="region-3T" name="region-3T"></a>
+	<a title="Ted Wyman" href="mailto:Ted.Wyman@dshs.state.tx.us">Ted Wyman</a> (Region 3T)<br/>
 	1301 S. Bowen Road<br/>
 	Arlington, TX 76013-2262<br/>
 	Phone: (817) 264-4738<br/>
@@ -85,6 +89,7 @@
 </p>
 
 <hr/>
+<a class="bookmark" title="region-45N" name="region-45N"></a>
 <h3>Public Health Region 4/5 North</h3>
 
 <h4><strong><em>Region 4/5 North Asbestos</em></strong></h4>
@@ -111,6 +116,7 @@
 </p>
 
 <hr/>
+<a class="bookmark" title="region-65S" name="region-65S"></a>
 <h3>Public Health Region 6/5 South</h3>
 
 <h4><strong><em>Region 6/5 South Asbestos</em></strong></h4>
@@ -161,18 +167,21 @@
 </p>
 
 <hr/>
+<a class="bookmark" title="region-7" name="region-7"></a>
 <h3>Public Health Region 7</h3>
 
 <h4><strong><em>Region 7 Asbestos</em></strong></h4>
 <p>
-	<a title="Jorge Montemayor" href="mailto:Jorge.Montemayor@dshs.state.tx.us">Jorge Montemayor</a><br/>
+	<a class="bookmark" title="region-7J" name="region-7J"></a>
+	<a title="Jorge Montemayor" href="mailto:Jorge.Montemayor@dshs.state.tx.us">Jorge Montemayor</a> (Region 7J)<br/>
 	8407 Wall Street, Cube Y<br/>
 	Austin, TX 78754<br/>
 	Phone: (512) 834-6770 ext. 2169<br/>
 	Fax: (512) 837-6644<br/>
 </p>
 <p>
-	<a title="Don Wyrick" href="mailto:Don.Wyrick@dshs.state.tx.us">Don Wyrick</a><br/>
+	<a class="bookmark" title="region-7D" name="region-7D"></a>
+	<a title="Don Wyrick" href="mailto:Don.Wyrick@dshs.state.tx.us">Don Wyrick</a> (Region 7D)<br/>
 	801 Austin Avenue, Ste. B30F<br/>
 	Waco, TX 76701<br/>
 	Phone: (254) 750-9370<br/>
@@ -191,6 +200,7 @@
 
 
 <hr/>
+<a class="bookmark" title="region-8" name="region-8"></a>
 <h3>Public Health Region 8</h3>
 
 <h4><strong><em>Region 8 Asbestos</em></strong></h4>
@@ -229,6 +239,7 @@
 </p>
 
 <hr/>
+<a class="bookmark" title="region-910" name="region-910"></a>
 <h3>Public Health Region 9/10</h3>
 
 <h4><strong><em>Region 9/10 Asbestos</em></strong></h4>
@@ -257,6 +268,7 @@
 </p>
 
 <hr/>
+<a class="bookmark" title="region-11" name="region-11"></a>
 <h3>Public Health Region 11</h3>
 
 <h4><strong><em>Region 11 Asbestos</em></strong></h4>
