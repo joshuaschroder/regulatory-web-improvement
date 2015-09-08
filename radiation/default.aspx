@@ -7,7 +7,7 @@
 
 <hr/>
 <h2>Email Updates</h2>
-<p>Sign up to receive email updates about important changes to the Meat Safety Program. This feature will serve as a tool to increase communication with customers regarding new information added to the website.</p>
+<p>Sign up to receive email updates about important changes to the Radiation Control Program. This feature will serve as a tool to increase communication with customers regarding new information added to the website.</p>
 <p><a title="sign up for email updates" href="/radiation/Sign-up-for-Email-Updates/"><img alt="sign up for email updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a><br/><br/></p>
 
 <hr/>
