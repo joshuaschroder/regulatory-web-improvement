@@ -1,0 +1,24 @@
+<?php
+	$title= "NORM Licensing (Naturally Occuring Radioactive Material)" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+?>
+
+<hr/>
+<h2>Agencies Regulating NORM</h2>
+<p>There are three agencies responsible for regulating different aspects of NORM. The following is an attempt to clarify each agency's role, what regulations apply and whom to contact for more information or questions.</p>
+
+<h3>1. Texas Department of State Health Services, Radiation Control Program, Radiation Safety Licensing Branch</h3>
+<p>DSHS regulates receipt, possession, storage, use and treatment of NORM under <a title="25 Texas Administrative Code §289.259" href="/radiation/laws-rules.aspx#289259">25 Texas Administrative Code §289.259</a> "Licensing of Naturally Occurring Radioactive Material."</p>
+
+<h3>2. Railroad Commission of Texas</h3>
+<p><a title="Railroad Commission of Texas" href="http://www.rrc.state.tx.us/">Railroad Commission of Texas</a> regulates the disposal of oil and gas NORM waste under <a title="16 Texas Administrative Code, Part 1, Chapter 4, Subchapter F" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=16&pt=1&ch=4&sch=F&rl=Y">16 Texas Administrative Code, Part 1, Chapter 4, Subchapter F</a> "Oil and Gas NORM."</p> 
+<p>Performance of NORM decontamination, and disposal by the owner through on-site land farming and/or injection well disposal is under the RRC’s purview.</p>
+
+<h3>3. Texas Commission on Environmental Quality (TCEQ)</h3>
+<p><a title="TCEQ" href="http://www.tceq.state.tx.us/">TCEQ</a> regulates disposal of all NORM, except oil and gas. Their rules are currently in the developmental stage.</p>
+
+<hr/>
+<h2></h2>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>
