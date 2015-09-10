@@ -35,7 +35,7 @@
 </p>
 <hr/>
 
-<a class="bookmark" title="region-23" name="region-23"></a>
+<a class="bookmark" title="region-2-3" name="region-2-3"></a>
 <h3>Public Health Region 2/3</h3>
 
 <h4><strong><em>Region 2/3 Asbestos</em></strong></h4>
@@ -89,7 +89,7 @@
 </p>
 
 <hr/>
-<a class="bookmark" title="region-45N" name="region-45N"></a>
+<a class="bookmark" title="region-45-N" name="region-4-5N"></a>
 <h3>Public Health Region 4/5 North</h3>
 
 <h4><strong><em>Region 4/5 North Asbestos</em></strong></h4>
@@ -116,7 +116,7 @@
 </p>
 
 <hr/>
-<a class="bookmark" title="region-65S" name="region-65S"></a>
+<a class="bookmark" title="region-6-5S" name="region-6-5S"></a>
 <h3>Public Health Region 6/5 South</h3>
 
 <h4><strong><em>Region 6/5 South Asbestos</em></strong></h4>
@@ -239,7 +239,7 @@
 </p>
 
 <hr/>
-<a class="bookmark" title="region-910" name="region-910"></a>
+<a class="bookmark" title="region-9-10" name="region-9-10"></a>
 <h3>Public Health Region 9/10</h3>
 
 <h4><strong><em>Region 9/10 Asbestos</em></strong></h4>

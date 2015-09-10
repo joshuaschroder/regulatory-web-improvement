@@ -9,6 +9,7 @@
 	ol li {margin-bottom:15px;}
 </style>
 
+<hr/>
 <div class="section" id="TOC">
 	<h2>Table of Contents</h2>
 	<ul>
@@ -32,6 +33,7 @@
 		</li>
 	</ul>
 </div>
+<hr/>
 
 <div class="section" id="Laws">
 	<a class="bookmark" title="laws" name="laws"></a>
@@ -444,7 +446,8 @@
 			</tr>
 		</tbody>
 	</table>
-	</div>
+	
+</div>
 
 <div class="section" id="Veterinary">
 	<br/>
