@@ -74,7 +74,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="31" title="31"></a>3.1<br/><br/></td>
-			<td headers="table_heading_1"><a title="License Applications for the Medical Use of Radioactive Material" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968791">Medical Use of Radioactive Material</a> <span class="small">(PDF, 149KB)</span></td>
+			<td headers="table_heading_1"><a title="License Applications for the Medical Use of Radioactive Material" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968791">Medical Use of Radioactive Material</a> <span class="small">(PDF, 149KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="31a" title="31a"></a>3.1a<br/><br/></td>

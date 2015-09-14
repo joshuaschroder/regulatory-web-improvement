@@ -80,7 +80,7 @@
 <hr/>
 <a class="bookmark" title="12" name="12"></a>
 <h2>Whom do I contact with technical difficulties in operating the site? </h2>
-<p>Please see the <a title="Contact Information" href="http://www.dshs.state.tx.us/regulatory/online-licensing/contact.aspx">Contact Information</a> page on the Online Licensing Help Center for detailed information on how to contact support.</p>
+<p>Please refer to the <a title="Online Licensing Help Center" href="http://www.dshs.state.tx.us/regulatory/online-licensing/">Online Licensing Help Center</a> to see if your question is addressed in the help topics. If your cannot find the answer to your question, see the  <a title="Contact Information" href="http://www.dshs.state.tx.us/regulatory/online-licensing/contact.aspx">Contact Information</a> page for detailed information on how to contact support.</p>
 
 <hr/>
 <a class="bookmark" title="13" name="13"></a>

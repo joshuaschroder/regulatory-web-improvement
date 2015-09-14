@@ -13,6 +13,7 @@
 	<li><a title="Trainer Qualifications" href="#trainer">Trainer Qualifications</a></li>
 	<li><a title="Other Accepted Certifications" href="#other">Other Accepted Certifications</a></li>
 	<li><a title="Exam Schedule, Information and Forms" href="#exam">Exam Schedule, Information and Forms</a></li>
+	<li><a title="Contacts for Industrial Radiographer Certification" href="#contacts">Contacts for Industrial Radiographer Certification</a></li>
 </ul>
 
 <hr/>
@@ -52,7 +53,7 @@
 <hr/>
 <a class="bookmark" title="other" name="other"></a>
 <h2>Other Accepted Certifications</h2>
-<p>Texas will accept an individual's radiographer certification if the individual or company submits a clear, legible copy (front and back) of the valid certification from an entity recognized by Texas in accordance with 25 TAC §289.255(h)(5). No forms need to be completed. For more information, please see the <a title="List of Accepted Certifications" href="/radiation/forms.aspx#255C">List of Accepted Certifications</a>.</p>
+<p>Texas will accept an individual's radiographer certification if the individual or company submits a clear, legible copy (front and back) of the valid certification from an entity recognized by Texas in accordance with 25 TAC §289.255(h)(5). No forms need to be completed. For more information, please see the <a title="List of Accepted Certifications" href="/radiation/radiographers-other.aspx">List of Accepted Certifications</a>.</p>
 
 <hr/>
 <a class="bookmark" title="exam" name="exam"></a>
@@ -116,5 +117,37 @@
 </tr>
 </tbody>
 </table>
+
+<hr/>
+<a class="bookmark" title="contacts" name="contacts"></a>
+<h2>Contacts for Industrial Radiographer Certification</h2>
+
+<h3>Exam Applications, Scheduling and Information</h3>
+<p>
+	Email: <a title="joyce.wilson@dshs.state.tx.us" href="mailto:joyce.wilson@dshs.state.tx.us">Joyce Wilson</a><br/>
+	Phone: (512) 834-6688 ext. 2236<br/>
+	Fax: (512) 834-6690
+</p>
+
+<h3>Certification ID Cards, Replacement Cards and Re-Certifications </h3>
+<p>
+	Email: <a title="joyce.wilson@dshs.state.tx.us" href="mailto:joyce.wilson@dshs.state.tx.us">Joyce Wilson</a><br/>
+	Phone: (512) 834-6688 ext. 2236<br/>
+	Fax: (512) 834-6690
+</p>
+
+<h3>Radioactive Material and/or X-Ray Machine Qualification Review </h3>
+<p>
+	Email: <a title="jackie.pursley@dshs.state.tx.us" href="mailto:jackie.pursley@dshs.state.tx.us">Jackie Pursley</a><br/>
+	Phone: (512) 834-6688 ext. 2863<br/>
+	Fax: (512) 834-6690
+</p>
+
+<h3>Exam Schedules for Other Certifying States</h3>
+<p>
+	Email: <a title="bridget.stephens@dshs.state.tx.us" href="mailto:bridget.stephens@dshs.state.tx.us">Bridget Stephens</a><br/>
+	Phone: (512) 834-6688 ext. 2229<br/>
+	Fax: (512) 834-6690
+</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

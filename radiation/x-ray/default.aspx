@@ -52,7 +52,7 @@
 <p>Some registrations will have special requirements:</p>
 <ul>
 	<li><a title="Requirements for conducting screening for healing arts" href="/radiation/laws-rules.aspx#289227">Requirements for conducting screening for healing arts</a> - 25 TAC 289.227 (cc)</li>
-	<li><a title="Special requirements and exemptions for osteoporosis screening" href="/radiation/special-requirements.aspx">Special requirements and exemptions for osteoporosis screening</a></li>
+	<li><a title="Special requirements and exemptions for osteoporosis screening" href="/radiation/x-ray/special-requirements.aspx">Special requirements and exemptions for osteoporosis screening</a></li>
 	<li><a title="Additional information for accelerator registrants (Form LRS-35)" href="/radiation/forms.aspx#35">Additional information for accelerator registrants (Form LRS-35)</a></li>
 	<li><a title="Mobile use in healing arts and veterinary medicine" href="/radiation/laws-rules.aspx#289226">Mobile use in healing arts and veterinary medicine</a> - 25 TAC 289.226 (g)</li>
 </ul>

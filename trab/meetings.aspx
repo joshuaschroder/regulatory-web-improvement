@@ -25,7 +25,7 @@
 		<td>Description:</td>
 		<td>
 			The HHSC/MHMR facility is a three-story building which faces 45th Street between Guadalupe Street and Lamar Blvd. Visitor parking is on the east side of the building. There are two entrances to Building 2 either of which lead you directly to the main lobby. Please check in with the security guard on arrival.<br/><br/>
-			<a title="Map and directions to HHSC MHMR Center" href="http://www.hhsc.state.tx.us/about_hhsc/contact/directions.shtml#mhmr">Map and directions to HHSC MHMR Center</a>
+			<a title="Map and directions to HHSC MHMR Center" href="http://www.hhsc.state.tx.us/about_hhsc/contact/directions.shtml">Map and directions to HHSC MHMR Center</a>
 		</td>
 	</tr>	
 </table>

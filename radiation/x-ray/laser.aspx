@@ -75,7 +75,7 @@
 
 <hr/>
 <h2>Laser Services</h2>
-<p>For Laser Services, please submit the following forms along with the appropriate <a title="fees for laser services registration" href="#services-fees">fees for laser services registration</a>:</p>
+<p>For Laser Services, please submit the following forms along with the appropriate fees for laser services registration:</p>
 
 <table class="zebraBorder layout" summary="sorted by form number, ascending">
 	<caption>Forms for Registration of Laser Services</caption>

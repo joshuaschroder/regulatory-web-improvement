@@ -1,7 +1,7 @@
 <?php
 	$title= "Dirty Bomb and Potassium Iodide Information - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad_ep_menu.html'; 
 ?>
 <hr/>
 <h2>Dirty Bomb Information</h2>

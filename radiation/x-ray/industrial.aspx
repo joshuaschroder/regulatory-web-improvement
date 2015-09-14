@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	$title= "Industrial X-Ray Machine Registration" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
@@ -165,7 +165,7 @@
 </table>
 
 <p><strong>Notes:</strong></p>
-<p>1) Minimal Threat Radiation Machines are defined  in <a title="25 TAC &#0167;289.231(c)(42)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(c)(42)</a> and <a title="25 TAC &#0167;289.231(11)(3)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(11)(3)</a>.</p>
+<p><a class="1" name="1"></a>1) Minimal Threat Radiation Machines are defined  in <a title="25 TAC &#0167;289.231(c)(42)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(c)(42)</a> and <a title="25 TAC &#0167;289.231(11)(3)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(11)(3)</a>.</p>
 
 <h3>Multiple Categories of Use</h3>
 
@@ -206,7 +206,7 @@
 <a class="bookmark" title="help" name="help"></a>
 <h2>Further Help and Information</h2>
 
-<p>For a list of frequent questions, please see the <a title="Industrial X-Ray Registration FAQs" href="/radiation/X-ray/industrial-faq.aspx">Industrial X-Ray Registration FAQs</a> page.</p>
+<p>For a list of frequent questions, please see the <a title="Industrial X-Ray Registration FAQs" href="/radiation/x-ray/industrial-faq.aspx">Industrial X-Ray Registration FAQs</a> page.</p>
 
 <p>If you have further questions regarding registration procedures or fees, please <a title="contact the Radiation Control program" href="/radiation/contact.aspx">contact us</a>.</p>
 

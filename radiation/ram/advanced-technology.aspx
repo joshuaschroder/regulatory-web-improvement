@@ -117,7 +117,7 @@
 <h2>Contact Information</h2>
 <p>For questions, please contact:</p>
 <p>
-	<a title="Ray Fleming, Program Coordinator" href="ray.fleming@dshs.state.tx.us">Ray Fleming, Program Coordinator</a> <br/>
+	<a title="Ray Fleming, Program Coordinator" href="mailto:ray.fleming@dshs.state.tx.us">Ray Fleming, Program Coordinator</a> <br/>
 	(512) 834-6688 ext. 2206
 </p>
 <p>For general licensing information refer to the <a title="Radioactive Material Licensing Information" href="/radiation/ram/">Radioactive Material Licensing Information</a> page.</p>

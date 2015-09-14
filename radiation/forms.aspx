@@ -370,7 +370,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2303" name="2303"></a>RC 230-3</td>
-			<td headers="table_heading_1"><a title="Application for Interventional Breast Radiography - New Facility or Renewal" href="/radiation/pdffiles/Mammo/RC230-3BiopsyNewRenewal(fillable).pdf">Application for Interventional Breast Radiography - New Facility or Renewal</a> <span class="small">(PDF, 73KB)</span></td>
+			<td headers="table_heading_1"><a title="Application for Interventional Breast Radiography - New Facility or Renewal" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-3BiopsyNewRenewal(fillable).pdf">Application for Interventional Breast Radiography - New Facility or Renewal</a> <span class="small">(PDF, 73KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2304" name="2304"></a>RC 230-4</td>

@@ -1,7 +1,7 @@
 <?php
 	$title= "Pantex Nuclear Weapons Plant" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad_ep_menu.html'; 
 ?>
 
 <hr/>

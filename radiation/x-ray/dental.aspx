@@ -111,7 +111,7 @@
 <hr/>
 <a class="bookmark" title="inspections" name="inspections"></a>
 <h2>Inspections</h2>
-<p>For more information regarding inspections, please see <a title="Preparing for an Inspection of Medical X-Ray Machines " href="/radiation/X-ray/inspections.aspx">Preparing for an Inspection of Medical X-Ray Machines</a>.</p>
+<p>For more information regarding inspections, please see <a title="Preparing for an Inspection of Medical X-Ray Machines " href="/radiation/x-ray/inspections.aspx">Preparing for an Inspection of Medical X-Ray Machines</a>.</p>
 
 <hr/>
 <a class="bookmark" title="evaluations" name="evaluations"></a>

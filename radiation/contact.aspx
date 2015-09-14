@@ -46,8 +46,9 @@
 <hr/>
 <h2>Other Contact Information</h2>
 <ul>
-	<li><a title="Radiological Emergency Contact Information" href="">Radiological Emergency Contact Information</a></li>
-	<li><a title="Inspectors Thoughout Texas" href="">Inspectors Thoughout Texas</a></li>
+	<li><a title="Radiological Emergency Contact Information" href="/radiation/emergency-preparedness/phone.aspx">Radiological Emergency Contact Information</a></li>
+	<li><a title="Inspectors Thoughout Texas" href="/radiation/inspectors.aspx">Inspectors Thoughout Texas</a></li>
+	<li><a title="Industrial Radiographer Certification Contacts" href="/radiation/industrial-radiographers.aspx#contact">Industrial Radiographer Certification Contacts</a></li>
 </ul>
 
 <hr/>

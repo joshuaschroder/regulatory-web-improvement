@@ -132,7 +132,7 @@
 </p><br/>
 
 <p>
-	<a title="Texas Laser Institute " href="http://www.texaslasers.com">Texas Laser Institute </a><br/>
+	<a title="Texas Laser Institute" href="http://www.texaslasers.com">Texas Laser Institute </a><br/>
 	4201 Wingren Drive, Ste. 202<br/>
 	Irving, TX 75062<br/>
 	Email: <a title="contact@texaslasers.com" href="mailto:contact@texaslasers.com">contact@texaslasers.com</a><br/>
@@ -186,7 +186,7 @@
 </p><br/>
 
 <p>
-	<a title="http://www.texaslasers.org" href="Texas Laser Institute">Texas Laser Institute</a><br/>
+	<a title="Texas Laser Institute" href="http://www.texaslasers.org">Texas Laser Institute</a><br/>
 	2201 West Holcomb Blvd., Suite 225<br/>
 	Houston, TX 77030<br/>
 	Phone: (832) 767-0977<br/>

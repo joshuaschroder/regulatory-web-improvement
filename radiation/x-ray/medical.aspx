@@ -149,7 +149,7 @@
 <a class="bookmark" title="help" name="help"></a>
 <h2>Further Help and Information</h2>
 
-<p>For a list of frequent questions, please see the <a title="Medical X-Ray Registration FAQs" href="/radiation/X-ray/medical-faq.aspx">Medical X-Ray Registration FAQs</a> page.</p>
+<p>For a list of frequent questions, please see the <a title="Medical X-Ray Registration FAQs" href="/radiation/x-ray/medical-faq.aspx">Medical X-Ray Registration FAQs</a> page.</p>
 
 <p>If you have further questions regarding registration procedures or fees, please <a title="contact the Radiation Control program" href="/radiation/contact.aspx">contact us</a>.</p>
 

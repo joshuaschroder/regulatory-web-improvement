@@ -19,7 +19,6 @@
 			<li><a title="2015 Correspondence, Resolutions and Reports" href="#reports-2015">2015 Correspondence, Resolutions and Reports</a></li>
 			<li><a title="2014 Correspondence, Resolutions and Reports" href="#reports-2014">2014 Correspondence, Resolutions and Reports</a></li>
 			<li><a title="2013 Correspondence, Resolutions and Reports" href="#reports-2013">2013 Correspondence, Resolutions and Reports</a></li>
-			<li><a title="2012 Correspondence, Resolutions and Reports" href="#reports-2012">2012 Correspondence, Resolutions and Reports</a></li>
 			<li><a title="2011 and Prior Correspondence, Resolutions and Reports" href="#reports-2011">2011 and Prior Correspondence, Resolutions and Reports</a></li>
 		</ul>
 	</li>		
@@ -30,6 +29,16 @@
 	<a class="bookmark" title="meetings" name="meetings"></a>
 	<h2>Agendas and Minutes of Radiation Advisory Board Meetings</h2>
 	<a class="bookmark" title="agendas-2015" name="agendas-2015"></a>
+	
+	<h3>September 18, 2015</h3>
+	<h4>Agendas</h4>
+	<ul>
+		<li><a title="Topic Research Committee Agenda" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001386">Topic Research Committee Agenda</a> <span class="small">(PDF, 201KB)</span></li>
+		<li><a title="Medical Committee Agenda" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001387">Medical Committee Agenda</a> <span class="small">(PDF, 209KB)</span></li>
+		<li><a title="INUW Committee Agenda" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001388">INUW Committee Agenda</a> <span class="small">(PDF, 203KB)</span></li>
+		<li><a title="Advisory Board Meeting Agenda" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001385">Advisory Board Meeting Agenda</a> <span class="small">(PDF, 202KB)</span></li>
+	</ul>
+		
 	<h3>June 12, 2015</h3>
 	<h4>Agendas</h4>
 	<ul>

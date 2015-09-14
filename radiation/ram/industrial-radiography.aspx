@@ -24,7 +24,7 @@
 
 <ol>
 	<li>A high school diploma or a certificate of high school equivalency based on the GED test. Acceptable alternate documentation of the educational requirement would be a college transcript, resume or other written statement affirming high school graduation or formal education beyond high school.<br/><br/></li>
-	<li>Completion of the <a title="training and testing requirements" href="/radiation/industrial-radiography.aspx">training and testing requirements</a> of TAC §289.255(m)(1)(A), (m)(2)(A)(iii) and (n)(1)(B).<br/><br/></li>
+	<li>Completion of the <a title="training and testing requirements" href="/radiation/industrial-radiographers.aspx">training and testing requirements</a> of TAC §289.255(m)(1)(A), (m)(2)(A)(iii) and (n)(1)(B).<br/><br/></li>
 	<li>Provide documentation that the designated individual has two years of radiation protection experience with radioactive materials necessary to supervise the radiation safety aspects of the licensed activity.<br/><br/></li>
 </ol>
 
