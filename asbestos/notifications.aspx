@@ -4,7 +4,8 @@
     include '/home/codio/workspace/includes/menus/asbestos_menu.html'; 
 ?>
 
-<hr/>
+<br /><div class="suggResults"><strong>Attention:</strong> You may now <a title="submit your asbestos/demolition notification online" href="https://vo.ras.dshs.state.tx.us/datamart/login.do">submit your asbestos/demolition notification online</a>. </div><br /><hr />
+
 <h2>Requirements</h2>
 <p>Regulations require that notification be made to the Department of State Health Services before beginning renovation projects which include the disturbance of any asbestos-containing material (ACM) in a building or facility or before the demolition of a building or facility, <strong><em>even when no asbestos is present</em></strong>.</p>
 

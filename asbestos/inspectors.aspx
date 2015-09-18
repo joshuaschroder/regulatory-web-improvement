@@ -245,14 +245,14 @@
 <h4><strong><em>Region 9/10 Asbestos</em></strong></h4>
 
 <p>
-	<a title="Roman Zarate" href="mailto:Roman.Zarate@dshs.state.tx.us">Roman Zarate</a><br/>
+	<a title="Roman Zarate" href="mailto:Roman.Zarate@dshs.state.tx.us">Roman Zarate</a> (Region 9)<br/>
 	2301 N. Big Spring St., Ste.200<br/>
 	Midland, TX 79705<br/>
 	Phone: (432) 571-4114<br/>
 	Fax: (432) 684-3932<br/>
 </p>
 <p>
-	<a title="Elizabeth Dembicky" href="mailto:Elizabeth.Dembicky@dshs.state.tx.us">Elizabeth Dembicky</a><br/>
+	<a title="Elizabeth Dembicky" href="mailto:Elizabeth.Dembicky@dshs.state.tx.us">Elizabeth Dembicky</a> (Region 10)<br/>
 	11295 Edgemere<br/>
 	El Paso, TX 79936<br/>
 	Phone: (915) 629-3235<br/>
