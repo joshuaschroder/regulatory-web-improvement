@@ -24,7 +24,7 @@
 <h3>Inspections</h3>
 <p>
 	Phone: (512) 834-6770<br/>
-	Email: <a title="" href="">Email Address TBD</a><br/>
+	Email: <a title="RadiationXRayInspections@dshs.state.tx.us" href="mailto:RadiationXRayInspections@dshs.state.tx.us">RadiationXRayInspections@dshs.state.tx.us</a><br/>
 	Fax: (512) 834-6654<br/>
 	Mammography Fax: (512) 834-6622<br/>
 </p>
@@ -32,7 +32,7 @@
 <h3>Licensing</h3>
 <p>
 	Phone: (512) 834-6688<br/>
-	Email: <a title="" href="">Email Address TBD</a><br/>
+	Email: <a title="RAMLicensing@dshs.state.tx.us" href="mailto:RAMLicensing@dshs.state.tx.us">RAMLicensing@dshs.state.tx.us</a><br/>
 	Fax: (512) 834-6690<br/>
 </p>
 
