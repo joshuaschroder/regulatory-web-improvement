@@ -4,12 +4,32 @@
     include '/home/codio/workspace/includes/menus/seafood_menu.html'; 
 ?>
 
+<hr/>
+<h2>Table of Contents</h2>
+<ul>
+	<li><a title="Benefits and Risks of Consuming Fish and Crabs" href="#benefits">Benefits and Risks of Consuming Fish and Crabs</a></li>
+	<li><a title="Fish Consumption by Children and Pregnant Women" href="#women-children">Fish Consumption by Children and Pregnant Women</a></li>
+	<li><a title="Fish Consumption Guides and Documents" href="#guides">Fish Consumption Guides and Documents</a></li>
+	<li><a title="Contaminants of Concern" href="#contaminants">Contaminants of Concern</a></li>
+	<li><a title="Sources of Information" href="#sources">Sources of Information</a></li>
+</ul>
+
+<hr/>
+<a class="bookmark" title="benefits" name="benefits"></a>
 <h2>Benefits and Risks of Consuming Fish and Crabs</h2>
 <p>Fish and shellfish are healthful foods that provide a diet high in protein and low in saturated fat and contain nutrients that are important for proper growth and development. Studies have shown that omega-3 fatty acids in fish may reduce the risk of heart disease and stroke and many doctors suggest that eating one to two fish meals each week is helpful in preventing heart disease. However, fish and shellfish can accumulate contaminants from the water in which they live or from the food they eat. These contaminants may accumulate to levels that can be harmful to people who eat fish or shellfish. </p>
 <p><a title="Consumption advisories" href="/seafood/advisories-bans.aspx">Consumption advisories</a> are not intended to discourage people from eating fish or shellfish; they are intended to help people make informed decisions on whether they or their families should eat fish or shellfish from specific water bodies. Fish and shellfish consumption advisories recommend consumption guidelines for people based on potential human health risks. People should also use these guidelines to choose fish and shellfish species and water bodies that contain lower levels of contaminants.</p>
 
 <hr/>
-<h2>Informational and Reference Documents</h2>
+<a class="bookmark" title="women-children" name="women-children"></a>
+<h2>Fish Consumption by Children and Pregnant Women</h2>
+<p>The US Food and Drug Administration (FDA) recommends that young children and women who are pregnant or breastfeeding should eat 2-3 servings each week of fish from choices that are lower in mercury. Recent reports show that the nutritional value of fish is highly beneficial for the growth and development of infants and children. </p>
+<p>Most fish commonly eaten, which include salmon, tuna (light canned), tilapia, cod, pollock, and catfish are lower in mercury. Fish types to avoid include tilefish from the Gulf of Mexico, shark, swordfish, and king mackerel.</p>
+<p>For more information, please see the FDA page entitled: <a title="Fish: What Pregnant Women and Parents Should Know" href="http://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm393070.htm">Fish: What Pregnant Women and Parents Should Know</a></p>
+
+<hr/>
+<a class="bookmark" title="guides" name="guides"></a>
+<h2>DSHS Fish Consumption Guides and Documents</h2>
 <ul>
 	<li><a title="Guide to Eating Texas Fish and Crabs 2009 Edition" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51708">Guide to Eating Texas Fish and Crabs 2009 Edition</a> <span class="small">(PDF, 11.65MB)</span></li>
 	<li><a title="Clean and Cook Fish Properly to Reduce Exposure" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20226">Clean and Cook Fish Properly to Reduce Exposure</a> <span class="small">(PDF, 85KB)</span></li>
@@ -20,6 +40,7 @@
 </ul>
 
 <hr/>
+<a class="bookmark" title="contaminants" name="contaminants"></a>
 <h2>Contaminants of Concern </h2>
 <h3>Mercury </h3>
 <p>Mercury is a naturally occurring element distributed throughout the environment by natural processes and human activities. Mercury is released into the air when rocks erode, soils decompose, and volcanoes erupt. However, 70% of the total annual mercury releases to the environment are from human activities. Most mercury releases to the air occur when people burn fossil fuels or incinerate solid waste. Other sources of environmental mercury include mining, smelting, chlor-alkali and cement production, and other industrial processes that use mercury. Mercury is also released to surface waters from pulp and paper mills, leather tanning, electroplating, chemical manufacturing, and wastewater treatment facilities. Airborne mercury is an indirect source of mercury, reaching surface waters and soils through precipitation. Mercury also enters surface waters through disturbed lake or river sediments (e.g. flooding, dredging). Sources of mercury in soil include fertilizers, fungicides, solid waste (e.g. batteries, electrical switches, thermometers, fluorescent light bulbs), municipal incinerator ash placed in landfills, and from application of sewage sludge to cropland. Microorganisms in the aquatic environment convert inorganic mercury to methyl mercury. This chemical change occurs more readily in acidic waters with high levels of organic matter. Methyl mercury accumulates in fish and is passed up the food chain: small fish eat methyl mercury in insects and microscopic animals; larger fish then eat methyl mercury in the smaller fish, and finally people consume methyl mercury when they eat larger fish. Fish at the top of the aquatic food chain (e.g. freshwater fishes largemouth bass, freshwater drum, gar, pike, and walleye and marine fishes such as king mackerel, shark, and swordfish) may contain methyl mercury levels 1 to 10 million times greater than those found in the surrounding water. Eating fish that contain methyl mercury can damage the brain and other parts of the nervous system. The greatest health risk from methyl mercury may be to the unborn baby. The unborn baby may be at particular risk of irreversible nervous system damage from mercury. Unborn babies, infants, and children are more sensitive to methyl mercury than adults because the brain and other parts of the nervous system are not completely developed. Symptoms of prolonged exposure to high levels of methyl mercury may include tingling of the skin, loss of coordination, visual and hearing impairment, and slurred speech. Infants and children exposed to very high levels of methyl mercury may exhibit neurological symptoms similar to those of cerebral palsy, but most of the neurological developmental effects of low level exposure to methyl mercury are, in all likelihood, subtle effects. </p>
@@ -39,6 +60,7 @@
 <p>VOCs are used to make many products, especially plastics and solvents. Generally, these compounds do not accumulate in fish and animals. VOCs are usually found in fish at the same levels as those in the surrounding waters. Most VOC contamination is due to a direct discharge of these compounds to surface waters. Eating fish containing VOCs may cause cancer in animals and humans. </p>
 
 <hr/>
+<a class="bookmark" title="sources" name="sources"></a>
 <h2>Sources of Information </h2>
 <ul>
 	<li><a href="http://www.epa.gov/waterscience/fish/chemfacts.html">United States Environmental Protection Agency (EPA) Chemical Fact Sheets</a></li>
@@ -47,6 +69,7 @@
 </ul>
 
 <hr/>
+<a class="bookmark" title="guidance" name="guidance"></a>
 <h2>General Fish Consumption Guidance for Texas Waters </h2>
 <ul>
 	<li>Eat smaller, younger fish. These fish generally contain lower levels of contaminants than larger, older fish.</li>

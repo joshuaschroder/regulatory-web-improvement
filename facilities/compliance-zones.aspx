@@ -7,11 +7,11 @@
 ?>
 <p><a href="/facilities/compliance-contact.aspx" title="Contact the Facility Compliance Group">Contact the Facility Compliance Group</a></p>
 <h2>Map of Compliance Zones</h2>
-<a href="http://www.dshs.state.tx.us/assets/0/76/110/789/3121/1052d5e0-68f2-46af-9b35-efd3f4a3954b.jpg">
-	<img style="" src="http://www.dshs.state.tx.us/assets/0/76/110/789/3121/f4ef215c-2763-4e88-9886-cbe8baee3478.jpg" alt="graphical representation of the data found in the table below: Alphabetical List of Compliance Zones"/>
+<a href="http://www.dshs.state.tx.us/assets/0/76/110/8589938759/8589938836/f4ef215c-2763-4e88-9886-cbe8baee3478.jpg">
+	<img style="width:100%; height:auto;" src="http://www.dshs.state.tx.us/assets/0/76/110/8589938759/8589938836/f4ef215c-2763-4e88-9886-cbe8baee3478.jpg" alt="graphical representation of the data found in the table below: Alphabetical List of Compliance Zones"/>
 </a>
 <p>
-	<span class="small"><a href="http://www.dshs.state.tx.us/assets/0/76/110/789/3121/1052d5e0-68f2-46af-9b35-efd3f4a3954b.jpg">view larger image</a></span>
+	<span class="small"><a href="http://www.dshs.state.tx.us/assets/0/76/110/8589938759/8589938836/f4ef215c-2763-4e88-9886-cbe8baee3478.jpg">view larger image</a></span>
 	<br/><span class="small"><a href="http://www.dshs.state.tx.us/hfp/PDF/HFCZMap.pdf">download map</a> PDF (82K)</span>
 </p>
 
