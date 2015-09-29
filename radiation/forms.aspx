@@ -82,10 +82,6 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="40" name="40"></a>CI-40</td>
-			<td headers="table_heading_1"><a title="General License Acknowledgement Self-Evaluation Form" href="https://www.dshs.state.tx.us/radiation/pdffiles/AppsLicPDF/CI-40Rev7_2013.pdf">General License Acknowledgement Self-Evaluation Form</a> <span class="small">(PDF, 103KB)</span></td>
-		</tr>		
-		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="35" name="35"></a>LRS-35</td>
 			<td headers="table_heading_1"><a title="Additional Information for Accelerator Registration, Includes Shielding Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/LRS35.pdf">Additional Information for Accelerator Registration, Includes Shielding Form</a> <span class="small">(PDF, 21KB)</span></td>
 		</tr>		
@@ -123,7 +119,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2268" name="2268"></a>RC 226-8</td>
-			<td headers="table_heading_1"><a title="Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(w)(4). Screening Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938358">Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(w)(4). Screening Information</a> <span class="small">(PDF, 41KB)</span></td>
+			<td headers="table_heading_1"><a title="Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(g). Mobile Service Operation" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938358">Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(g). Mobile Service Operation</a> <span class="small">(PDF, 41KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2269" name="2269"></a>RC 226-9</td>
@@ -133,10 +129,6 @@
 			<td headers="table_heading_0"><a class="bookmark" title="22610" name="22610"></a>RC 226-10</td>
 			<td headers="table_heading_1"><a title="Healing Arts Screening Requirements for Osteoporosis" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59244">Healing Arts Screening Requirements for Osteoporosis</a> <span class="small">(PDF, 18KB)</span></td>
 		</tr>		
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="2512" name="2512"></a>RC 251-2</td>
-			<td headers="table_heading_1"><a title="General License Acknowledgement of Devices Containing Radioactive Material" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589995642">General License Acknowledgement of Devices Containing Radioactive Material</a> <span class="small">(PDF, 92KB)</span></td>
-		</tr>
 	</tbody>
 </table>
 <hr/>
@@ -312,6 +304,11 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="40" name="40"></a>CI-40</td>
+			<td headers="table_heading_1"><a title="General License Acknowledgement Self-Evaluation Form" href="https://www.dshs.state.tx.us/radiation/pdffiles/AppsLicPDF/CI-40Rev7_2013.pdf">General License Acknowledgement Self-Evaluation Form</a> <span class="small">(PDF, 103KB)</span></td>
+		</tr>		
+		
+		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2511" name="2511"></a>RC 251-1</td>
 			<td headers="table_heading_1"><a title="Acknowledgement to Use the General License for In Vitro Clinical or Laboratory Testing" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992449">Acknowledgement to Use the General License for In Vitro Clinical or Laboratory Testing</a> <span class="small">(PDF, 64KB)</span></td>
 		</tr>		
@@ -354,11 +351,11 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a title="17M" class="bookmark" name="17M"></a>RC 17-M</td>
-			<td headers="table_heading_1"><a title="Termination of Certification of Mammography Systems" href="http://www.dshs.state.tx.us/pdffiles/Mammo/RC17-M.pdf">Termination of Certification of Mammography Systems</a> <span class="small">(PDF, 17KB)</span></td>
+			<td headers="table_heading_1"><a title="Termination of Certification of Mammography Systems" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC17-M.pdf">Termination of Certification of Mammography Systems</a> <span class="small">(PDF, 17KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="18M" name="18M"></a>RC 18-M</td>
-			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/pdffiles/Mammo/RC18-M.pdf">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
+			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC18-M.pdf">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2301" name="2301"></a>RC 230-1</td>

@@ -8,34 +8,34 @@
 <p>The statutes state the membership requirements for the Texas Radiation Advisory Board's 18 members, based on categories each member is to represent. Member serve 6 year terms. The board is composed of:</p>
 
 <ul>
-	<li>one representative from industry who is trained in nuclear physics, science or nuclear engineering </li>
-	<li>one representative from labor </li>
-	<li>one representative from agriculture </li>
-	<li>one representative from the insurance industry </li>
-	<li>one individual who is engaged in the use and application of nuclear physics in medicine </li>
-	<li>one hospital administrator </li>
-	<li>one individual licensed by the Texas State Board of Medical Examiners who specializes in nuclear medicine </li>
-	<li>one individual licensed by the Texas State Board of Medical Examiners who specializes in pathology </li>
-	<li>one individual licensed by the Texas State Board of Medical Examiners who specializes in radiology </li>
-	<li>one representative from the nuclear utility industry </li>
-	<li>one representative from the radioactive waste processing industry </li>
-	<li>one representative from the petroleum well-servicing industry </li>
-	<li>one health physicist </li>
-	<li>one individual licensed by the State Board of Dental Examiners </li>
-	<li>one representative from the uranium mining industry </li>
-	<li>three representatives of the public</li>
+	<li>One representative from industry who is trained in nuclear physics, science or nuclear engineering </li>
+	<li>One representative from labor </li>
+	<li>One representative from agriculture </li>
+	<li>One representative from the insurance industry </li>
+	<li>One individual who is engaged in the use and application of nuclear physics in medicine </li>
+	<li>One hospital administrator </li>
+	<li>One individual licensed by the Texas State Board of Medical Examiners who specializes in nuclear medicine </li>
+	<li>One individual licensed by the Texas State Board of Medical Examiners who specializes in pathology </li>
+	<li>One individual licensed by the Texas State Board of Medical Examiners who specializes in radiology </li>
+	<li>One representative from the nuclear utility industry </li>
+	<li>One representative from the radioactive waste processing industry </li>
+	<li>One representative from the petroleum well-servicing industry </li>
+	<li>One health physicist </li>
+	<li>One individual licensed by the State Board of Dental Examiners </li>
+	<li>One representative from the uranium mining industry </li>
+	<li>Three representatives of the public</li>
 </ul>
 
 <p>For more detailed information on board membership requirements, required training, standards of conduct, duties, and powers, please see <a title="Texas Health and Safety Code Chapter 401" href="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.401.htm">Texas Health and Safety Code Chapter 401</a>.</p>
 
 <hr/>
 <h2>Current Board Members</h2>
-<table class="zebraBorder layout" summary="sorted alphabetically by member last name ">
+<table class="zebraBorder layout" summary="sorted alphabetically by board member last name ">
 	<caption>Texas Radiation Advisory Board - TRAB Members</caption>
 	<thead>
 		<tr>
-			<th id="table_heading_0">Name</th>
-			<th id="table_heading_1">Field Representing</th>
+			<th id="table_heading_0">Board Member Name</th>
+			<th id="table_heading_1">Background</th>
 			<th id="table_heading_2">Term Expiration</th>
 			<th id="table_heading_3">Address and Telephone</th>
 		</tr>

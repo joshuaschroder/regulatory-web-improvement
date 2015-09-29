@@ -110,9 +110,14 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">X-Ray</td>
+				<td headers="table_heading_1"><a title="Connie.Gibson2@dshs.state.tx.us" href="mailto:Connie.Gibson2@dshs.state.tx.us">Connie Gibson</a></td>
+				<td headers="table_heading_2">(817) 264-4729</td>
+			</tr>			
+			<tr>
+				<td headers="table_heading_0">X-Ray</td>
 				<td headers="table_heading_1"><a title="Vickie.Hurst@dshs.state.tx.us" href="mailto:Vickie.Hurst@dshs.state.tx.us">Vickie Hurst</a></td>
 				<td headers="table_heading_2">(817) 264-4932</td>
-			</tr>
+			</tr>			
 			<tr>
 				<td headers="table_heading_0">X-Ray</td>
 				<td headers="table_heading_1"><a title="Maria.Kelley@dshs.state.tx.us" href="mailto:Maria.Kelley@dshs.state.tx.us">Maria Kelley</a></td>
@@ -132,11 +137,6 @@
 				<td headers="table_heading_0">X-Ray</td>
 				<td headers="table_heading_1"><a title="shawna.scarr@dshs.state.tx.us" href="mailto:shawna.scarr@dshs.state.tx.us">Shawna Scarr</a></td>
 				<td headers="table_heading_2">(817)264-4704</td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">X-Ray</td>
-				<td headers="table_heading_1"><a title="DD.Stiles@dshs.state.tx.us" href="mailto:DD.Stiles@dshs.state.tx.us">D.D. Stiles</a></td>
-				<td headers="table_heading_2">(817) 264-4618</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">X-Ray</td>

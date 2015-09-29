@@ -9,37 +9,35 @@
 
 <h3>General Questions about Regulations <br/>(Policy, Standards and Quality Assurance)</h3>
 <p>
-	Phone: (512) 834-6770<br/>
 	Email: <a title="PSQARad@dshs.state.tx.us" href="mailto:PSQARad@dshs.state.tx.us">PSQARad@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6770<br/>
 	Fax: (512) 834-6708<br/>
 </p>
 
 <h3>Enforcement</h3>
 <p>
 	Phone: (512) 834-6665<br/>
-	Email: <a title="" href="">Email Address TBD</a><br/>
 	Fax: (512) 834-6625<br/>
 </p>
 
 <h3>Inspections</h3>
 <p>
-	Phone: (512) 834-6770<br/>
 	Email: <a title="RadiationXRayInspections@dshs.state.tx.us" href="mailto:RadiationXRayInspections@dshs.state.tx.us">RadiationXRayInspections@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6770<br/>
 	Fax: (512) 834-6654<br/>
 	Mammography Fax: (512) 834-6622<br/>
 </p>
 
 <h3>Licensing</h3>
 <p>
-	Phone: (512) 834-6688<br/>
 	Email: <a title="RAMLicensing@dshs.state.tx.us" href="mailto:RAMLicensing@dshs.state.tx.us">RAMLicensing@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6688<br/>
 	Fax: (512) 834-6690<br/>
 </p>
 
 <h3>X-Ray and Laser Machine Registration</h3>
 <p>
 	Phone: (512) 834-6688<br/>
-	Email: <a title="" href="">Email Address TBD</a><br/>
 	Fax: (512) 834-6716<br/>
 </p>
 
