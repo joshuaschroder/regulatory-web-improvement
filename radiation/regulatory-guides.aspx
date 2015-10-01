@@ -140,19 +140,19 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="43" title="43"></a>4.3<br/><br/></td>
-			<td headers="table_heading_1"><a title="Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20039">Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic</a> <span class="small">(PDF, 85KB)</span></td>
+			<td headers="table_heading_1"><a title="Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic" href="https://www.dshs.state.tx.us/radiation/Files/RegGuides/Reguide4_3.doc">Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic</a> <span class="small">(DOC, 121KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="44" title="44"></a>4.4<br/><br/></td>
-			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Dental Facilities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20040">Operating and Safety Procedures for Dental Facilities</a> <span class="small">(PDF, 491KB)</span></td>
+			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Dental Facilities" href="https://www.dshs.state.tx.us/radiation/Files/RegGuides/Reguide4_4.doc">Operating and Safety Procedures for Dental Facilities</a> <span class="small">(DOC, 83KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="45" title="45"></a>4.5<br/><br/></td>
-			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Veterinary Medicine Facilities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20041">Operating and Safety Procedures for Veterinary Medicine Facilities</a> <span class="small">(PDF, 95KB)</span></td>
+			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Veterinary Medicine Facilities" href="https://www.dshs.state.tx.us/radiation/Files/RegGuides/Reguide4_5.doc">Operating and Safety Procedures for Veterinary Medicine Facilities</a> <span class="small">(DOC, 91KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="46" title="46"></a>4.6<br/><br/></td>
-			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20042">Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators </a> <span class="small">(PDF, 54KB)</span></td>
+			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators " href="https://www.dshs.state.tx.us/radiation/Files/RegGuides/Reguide4_6.doc">Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators </a> <span class="small">(DOC, 82KB)</span></td>
 		</tr>
 	</tbody>
 </table>
