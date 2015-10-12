@@ -327,6 +327,11 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">X-Ray</td>
+				<td headers="table_heading_1"><a title="Carley.Cardwell@dshs.state.tx.us" href="mailto:Carley.Cardwell@dshs.state.tx.us">Carley Cardwell</a></td>
+				<td headers="table_heading_2">(512) 834-6770 ext. 2208</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">X-Ray</td>
 				<td headers="table_heading_1"><a title="sherri.cogburn@dshs.state.tx.us" href="mailto:sherri.cogburn@dshs.state.tx.us">Sherri Cogburn</a></td>
 				<td headers="table_heading_2">(512) 834-6770 ext. 2027</td>
 			</tr>

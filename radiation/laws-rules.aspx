@@ -39,15 +39,7 @@
 	<li><a title="Mammography" href="#mammography">Mammography Rules</a></li>
 	<li><a title="Laser and Laser Services Registration" href="#laser-services">Laser and Laser Services Registration Rules</a></li>
 	<li><a title="Laser Hair Removal Rules" href="#laser-hair-removal">Laser Hair Removal Rules</a></li>
-	<li><a title="Radioactive Materials License Rules" href="#ram">Radioactive Materials License Rules</a>
-		<ul>
-			<li><a title="Standard Radioactive Materials Licenses" href="#ram-standard">Standard Licenses</a></li>
-			<li><a title="Well Logging Radioactive Materials Licenses" href="#well-logging">Well Logging Licenses</a></li>
-			<li><a title="Radiography Radioactive Materials Licenses" href="#radiography">Radiography Licenses</a></li>
-			<li><a title="Medical and Veterinary Radioactive Materials Licenses" href="#ram-medical">Medical and Veterinary Licenses</a></li>
-			<li><a title="General License Acknowledgements (GLA)" href="#gla">General License Acknowledgements (GLA)</a></li>
-		</ul>
-	</li>
+	<li><a title="Radioactive Materials License Rules" href="#ram">Radioactive Materials License Rules</a></li>
 </ul>
 </div>
 
@@ -1113,6 +1105,16 @@
 				<td headers="table_heading_1">General Provisions and Standards for Protection Against Machine-Produced Radiation</td>
 				<td headers="table_heading_2">12/29/11</td>
 				<td headers="table_heading_3">none</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a class="bookmark" title="289234" name="289234"></a>
+					<a title="Texas Administrative Code, Title 25, §289.234 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=234">§289.234 <span class="small">(HTML)</span></a><br>
+					<a title="Texas Administrative Code, Title 25, §289.234 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965953">§289.234 <span class="small">(PDF, 113KB)</span></a>
+				</td>
+				<td headers="table_heading_1">Mammography Accreditation </td>
+				<td headers="table_heading_2">04/29/12</td>
+				<td headers="table_heading_3">none</td>
 			</tr>			
 		</tbody>
 	</table>
@@ -1186,9 +1188,6 @@
 	<a class="bookmark" title="ram" name="ram"></a>
 	<hr/>
 	<h2>Radioactive Materials License Rules - Title 25, Texas Administrative Code</h2>
-	<a class="bookmark" title="ram-standard" name="ram-standard"></a>
-	<br/>
-	<h3>Standard Radioactive Materials Licenses</h3>
 	<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 		<caption>Rules Covering Medical Licenses for Radioactive Material</caption>
 		<thead>
@@ -1315,443 +1314,24 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 947KB)</span></a>
-					<a class="bookmark" title="289257" name="289257"></a>
-				</td>
-				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.257" href="#289.257">See Note 289.257</a></span></td>
-			</tr>			
-		</tbody>
-	</table>
-	
-	<a class="bookmark" title="well-logging" name="well-logging"></a>
-	<br/>
-	<h3>Well Logging Radioactive Materials Licenses</h3>
-	<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
-		<caption>Rules Covering Well Logging Licenses for Radioactive Material</caption>
-		<thead>
-			<tr>
-				<th id="table_heading_0" style="width:20%;">Rule</th>
-				<th id="table_heading_1" style="width:60%;">Title</th>
-				<th id="table_heading_2" style="width:10%;">Revision Date</th>
-				<th id="table_heading_3" style="width:10%;">Notes</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.201 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=201">§289.201 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.201 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996542">§289.201 <span class="small">(PDF, 200KB)</span></a>
-					<a class="bookmark" title="289201" name="289201"></a>
-				</td>
-				<td headers="table_heading_1">General Provisions for Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.201" href="#289.201">See Note 289.201</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996538">§289.202 <span class="small">(PDF, 391KB)</span></a>
-					<a class="bookmark" title="289202" name="289202"></a>					
-				</td>
-				<td headers="table_heading_1">Standards for Protection Against Radiation from Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202" href="#289.202">See Note 289.202</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(2)(F) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996539">§289.202(ggg)(2)(F) <span class="small">(PDF, 862KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg2F"></a>
-				</td>
-				<td headers="table_heading_1">DAC and ALI Table (Figure)</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg2f" href="#289.202ggg2f">See Note 289.202(ggg)(2)(f)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
-				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg37" href="#289.202ggg37">See Note 289.202(ggg)(3)(7)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&amp;app=9&amp;p_dir=F&amp;p_rloc=171931&amp;p_tloc=163250&amp;p_ploc=148263&amp;pg=12&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202(hhh) <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996541">§289.202(hhh)<br><span class="small">(PDF, 101KB)</span></a>
-					<a class="bookmark" title="289202hhh" name="289202hhh"></a>
-				</td>
-				<td headers="table_heading_1">Requirements for Nationally Tracked Sources</td>
-				<td headers="table_heading_2">03/22/2015</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202hhh" href="#289.202hhh">See Note 289.202(hhh)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
-					<a class="bookmark" title="2022" name="2022"></a>
-				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
-				<td headers="table_heading_2">06/05/97</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202-2" href="#289.202-2">See Note 202-2</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.203 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958449">§289.203 <span class="small">(PDF, 109KB)</span></a>
-					<a class="bookmark" title="289203" name="289203"></a>
-				</td>
-				<td headers="table_heading_1">Notices, Instructions, and Reports To Workers; Inspections</td>
-				<td headers="table_heading_2">10/01/11</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.203" href="#289.203">See Note 289.203</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
-				<td headers="table_heading_2">10/01/11</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 203-1" href="#203-1">See Note 203-1</a></span></td>
-			</tr>			
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
-					<a class="bookmark" title="289204" name="289204"></a>
-				</td>
-				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
-				<td headers="table_heading_2">09/07/14</td>
-				<td headers="table_heading_3">none</td>
-			</tr>	
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.205 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=205">§289.205 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.205 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946007">§289.205 <span class="small">(PDF, 91KB)</span></a>
-					<a class="bookmark" title="289205" name="289205"></a>
-				</td>
-				<td headers="table_heading_1">Hearing and Enforcement Procedures</td>
-				<td headers="table_heading_2">12/27/07</td>
-				<td headers="table_heading_3">none</td>
-			</tr>	
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.251 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=251">§289.251 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.251 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996543">§289.251 <span class="small">(PDF, 346KB)</span></a>
-					<a class="bookmark" title="289251" name="289251"></a>
-				</td>
-				<td headers="table_heading_1">Exemptions, General Licenses, and General Licenses Acknowledgements</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.251" href="#289.251">See Note 289.251</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.252 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=252">§289.252 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.252 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996544">§289.252 <span class="small">(PDF, 421KB)</span></a>
-					<a class="bookmark" title="289252" name="289252"></a>
-				</td>
-				<td headers="table_heading_1">Licensing of Radioactive Material</td>
-				<td headers="table_heading_2">03/22/2015</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.252" href="#289.252">See Note 289.252</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.253 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=253">§289.253 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.253 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996545">§289.253 <span class="small">(PDF, 112KB)</span></a>
 					<a class="bookmark" title="289253" name="289253"></a>
+					<a title="Texas Administrative Code, Title 25, §289.253 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=253">§289.253 <span class="small">(HTML)</span></a><br>
+					<a title="Texas Administrative Code, Title 25, §289.253 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996545">§289.253 <span class="small">(PDF, 125KB)</span></a>
 				</td>
 				<td headers="table_heading_1">Radiation Safety Requirements for Well Logging Service Operations and Tracer Studies</td>
 				<td headers="table_heading_2">03/22/15</td>
 				<td headers="table_heading_3"><span class="small"><a title="See Note 289.253" href="#289.253">See Note 289.253</a></span></td>
-			</tr>					
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 947KB)</span></a>
-					<a class="bookmark" title="289257" name="289257"></a>
-				</td>
-				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.257" href="#289.257">See Note 289.257</a></span></td>
-			</tr>			
-		</tbody>
-	</table>
-	
-	<a class="bookmark" title="radiography" name="radiography"></a>
-	<br/>
-	<h3>Radiography Radioactive Materials Licenses</h3>
-	<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
-		<caption>Rules Covering Radiography Licenses for Radioactive Material</caption>
-		<thead>
-			<tr>
-				<th id="table_heading_0" style="width:20%;">Rule</th>
-				<th id="table_heading_1" style="width:60%;">Title</th>
-				<th id="table_heading_2" style="width:10%;">Revision Date</th>
-				<th id="table_heading_3" style="width:10%;">Notes</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.201 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=201">§289.201 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.201 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996542">§289.201 <span class="small">(PDF, 200KB)</span></a>
-					<a class="bookmark" title="289201" name="289201"></a>
-				</td>
-				<td headers="table_heading_1">General Provisions for Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.201" href="#289.201">See Note 289.201</a></span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996538">§289.202 <span class="small">(PDF, 391KB)</span></a>
-					<a class="bookmark" title="289202" name="289202"></a>					
-				</td>
-				<td headers="table_heading_1">Standards for Protection Against Radiation from Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202" href="#289.202">See Note 289.202</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(2)(F) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996539">§289.202(ggg)(2)(F) <span class="small">(PDF, 862KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg2F"></a>
-				</td>
-				<td headers="table_heading_1">DAC and ALI Table (Figure)</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg2f" href="#289.202ggg2f">See Note 289.202(ggg)(2)(f)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
-				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg37" href="#289.202ggg37">See Note 289.202(ggg)(3)(7)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&amp;app=9&amp;p_dir=F&amp;p_rloc=171931&amp;p_tloc=163250&amp;p_ploc=148263&amp;pg=12&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202(hhh) <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996541">§289.202(hhh)<br><span class="small">(PDF, 101KB)</span></a>
-					<a class="bookmark" title="289202hhh" name="289202hhh"></a>
-				</td>
-				<td headers="table_heading_1">Requirements for Nationally Tracked Sources</td>
-				<td headers="table_heading_2">03/22/2015</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202hhh" href="#289.202hhh">See Note 289.202(hhh)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
-					<a class="bookmark" title="2022" name="2022"></a>
-				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
-				<td headers="table_heading_2">06/05/97</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202-2" href="#289.202-2">See Note 202-2</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.203 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958449">§289.203 <span class="small">(PDF, 109KB)</span></a>
-					<a class="bookmark" title="289203" name="289203"></a>
-				</td>
-				<td headers="table_heading_1">Notices, Instructions, and Reports To Workers; Inspections</td>
-				<td headers="table_heading_2">10/01/11</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.203" href="#289.203">See Note 289.203</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
-				<td headers="table_heading_2">10/01/11</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 203-1" href="#203-1">See Note 203-1</a></span></td>
-			</tr>			
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
-					<a class="bookmark" title="289204" name="289204"></a>
-				</td>
-				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
-				<td headers="table_heading_2">09/07/14</td>
-				<td headers="table_heading_3">none</td>
-			</tr>	
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.205 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=205">§289.205 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.205 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946007">§289.205 <span class="small">(PDF, 91KB)</span></a>
-					<a class="bookmark" title="289205" name="289205"></a>
-				</td>
-				<td headers="table_heading_1">Hearing and Enforcement Procedures</td>
-				<td headers="table_heading_2">12/27/07</td>
-				<td headers="table_heading_3">none</td>
-			</tr>	
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.251 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=251">§289.251 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.251 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996543">§289.251 <span class="small">(PDF, 346KB)</span></a>
-					<a class="bookmark" title="289251" name="289251"></a>
-				</td>
-				<td headers="table_heading_1">Exemptions, General Licenses, and General Licenses Acknowledgements</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.251" href="#289.251">See Note 289.251</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.252 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=252">§289.252 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.252 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996544">§289.252 <span class="small">(PDF, 421KB)</span></a>
-					<a class="bookmark" title="289252" name="289252"></a>
-				</td>
-				<td headers="table_heading_1">Licensing of Radioactive Material</td>
-				<td headers="table_heading_2">03/22/2015</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.252" href="#289.252">See Note 289.252</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.255 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=255">§289.255 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.255 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996546">§289.255 <span class="small">(PDF, 217KB)</span></a>
 					<a class="bookmark" title="289255" name="289255"></a>
+					<a title="Texas Administrative Code, Title 25, §289.255 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=255">§289.255 <span class="small">(HTML)</span></a><br>
+					<a title="Texas Administrative Code, Title 25, §289.255 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996546">§289.255 <span class="small">(PDF, 253KB)</span></a>
 				</td>
 				<td headers="table_heading_1">Radiation Safety Requirements and Licensing and Registration Procedures for Industrial Radiography</td>
 				<td headers="table_heading_2">03/22/15</td>
 				<td headers="table_heading_3"><span class="small"><a title="See Note 289.255" href="#289.255">See Note 289.255</a></span></td>
 			</tr>			
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 947KB)</span></a>
-					<a class="bookmark" title="289257" name="289257"></a>
-				</td>
-				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.257" href="#289.257">See Note 289.257</a></span></td>
-			</tr>			
-		</tbody>
-	</table>
-	
-	<a class="bookmark" name="ram-medical">
-		<h3>Medical and Veterinary Radioactive Materials Licenses</h3>
-	<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
-		<caption>Rules Covering Medical Usage Licenses for Radioactive Material</caption>
-		<thead>
-			<tr>
-				<th id="table_heading_0" style="width:20%;">Rule</th>
-				<th id="table_heading_1" style="width:60%;">Title</th>
-				<th id="table_heading_2" style="width:10%;">Revision Date</th>
-				<th id="table_heading_3" style="width:10%;">Notes</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.201 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=201">§289.201 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.201 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996542">§289.201 <span class="small">(PDF, 200KB)</span></a>
-					<a class="bookmark" title="289201" name="289201"></a>
-				</td>
-				<td headers="table_heading_1">General Provisions for Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.201" href="#289.201">See Note 289.201</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996538">§289.202 <span class="small">(PDF, 391KB)</span></a>
-					<a class="bookmark" title="289202" name="289202"></a>					
-				</td>
-				<td headers="table_heading_1">Standards for Protection Against Radiation from Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202" href="#289.202">See Note 289.202</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(2)(F) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996539">§289.202(ggg)(2)(F) <span class="small">(PDF, 862KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg2F"></a>
-				</td>
-				<td headers="table_heading_1">DAC and ALI Table (Figure)</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg2f" href="#289.202ggg2f">See Note 289.202(ggg)(2)(f)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
-				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg37" href="#289.202ggg37">See Note 289.202(ggg)(3)(7)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&amp;app=9&amp;p_dir=F&amp;p_rloc=171931&amp;p_tloc=163250&amp;p_ploc=148263&amp;pg=12&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202(hhh) <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996541">§289.202(hhh)<br><span class="small">(PDF, 101KB)</span></a>
-					<a class="bookmark" title="289202hhh" name="289202hhh"></a>
-				</td>
-				<td headers="table_heading_1">Requirements for Nationally Tracked Sources</td>
-				<td headers="table_heading_2">03/22/2015</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202hhh" href="#289.202hhh">See Note 289.202(hhh)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
-					<a class="bookmark" title="2022" name="2022"></a>
-				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
-				<td headers="table_heading_2">06/05/97</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202-2" href="#289.202-2">See Note 202-2</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.203 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958449">§289.203 <span class="small">(PDF, 109KB)</span></a>
-					<a class="bookmark" title="289203" name="289203"></a>
-				</td>
-				<td headers="table_heading_1">Notices, Instructions, and Reports To Workers; Inspections</td>
-				<td headers="table_heading_2">10/01/11</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.203" href="#289.203">See Note 289.203</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
-				<td headers="table_heading_2">10/01/11</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 203-1" href="#203-1">See Note 203-1</a></span></td>
-			</tr>			
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
-					<a class="bookmark" title="289204" name="289204"></a>
-				</td>
-				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
-				<td headers="table_heading_2">09/07/14</td>
-				<td headers="table_heading_3">none</td>
-			</tr>	
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.205 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=205">§289.205 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.205 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946007">§289.205 <span class="small">(PDF, 91KB)</span></a>
-					<a class="bookmark" title="289205" name="289205"></a>
-				</td>
-				<td headers="table_heading_1">Hearing and Enforcement Procedures</td>
-				<td headers="table_heading_2">12/27/07</td>
-				<td headers="table_heading_3">none</td>
-			</tr>	
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.251 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=251">§289.251 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.251 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996543">§289.251 <span class="small">(PDF, 346KB)</span></a>
-					<a class="bookmark" title="289251" name="289251"></a>
-				</td>
-				<td headers="table_heading_1">Exemptions, General Licenses, and General Licenses Acknowledgements</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.251" href="#289.251">See Note 289.251</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.252 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=252">§289.252 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.252 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996544">§289.252 <span class="small">(PDF, 421KB)</span></a>
-					<a class="bookmark" title="289252" name="289252"></a>
-				</td>
-				<td headers="table_heading_1">Licensing of Radioactive Material</td>
-				<td headers="table_heading_2">03/22/2015</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.252" href="#289.252">See Note 289.252</a></span></td>
-			</tr>
 			<tr>
 				<td headers="table_heading_0">
 					<a class="bookmark" title="289256" name="289256"></a>
@@ -1771,124 +1351,31 @@
 				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
 				<td headers="table_heading_2">03/22/15</td>
 				<td headers="table_heading_3"><span class="small"><a title="See Note 289.257" href="#289.257">See Note 289.257</a></span></td>
-			</tr>			
-		</tbody>
-	</table>
-	
-	
-	<a class="bookmark" title="gla" name="gla"></a>
-	<br/>
-	<h3>General License Acknowledgements (GLA) for Radioactive Materials Licenses</h3>
-	<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
-		<caption>Rules Covering General License Acknowledgements for Radioactive Materials Licenses</caption>
-		<thead>
-			<tr>
-				<th id="table_heading_0" style="width:20%;">Rule</th>
-				<th id="table_heading_1" style="width:60%;">Title</th>
-				<th id="table_heading_2" style="width:10%;">Revision Date</th>
-				<th id="table_heading_3" style="width:10%;">Notes</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.201 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=201">§289.201 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.201 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996542">§289.201 <span class="small">(PDF, 200KB)</span></a>
-					<a class="bookmark" title="289201" name="289201"></a>
-				</td>
-				<td headers="table_heading_1">General Provisions for Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.201" href="#289.201">See Note 289.201</a></span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996538">§289.202 <span class="small">(PDF, 391KB)</span></a>
-					<a class="bookmark" title="289202" name="289202"></a>					
+					<a class="bookmark" title="289258" name="289258"></a>
+					<a title="Texas Administrative Code, Title 25, §289.258 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=258">§289.258 <span class="small">(HTML)</span></a><br>
+					<a title="Texas Administrative Code, Title 25, §289.258 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946024">§289.258 <span class="small">(PDF, 153KB)</span></a>
 				</td>
-				<td headers="table_heading_1">Standards for Protection Against Radiation from Radioactive Material</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202" href="#289.202">See Note 289.202</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(2)(F) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996539">§289.202(ggg)(2)(F) <span class="small">(PDF, 862KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg2F"></a>
-				</td>
-				<td headers="table_heading_1">DAC and ALI Table (Figure)</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg2f" href="#289.202ggg2f">See Note 289.202(ggg)(2)(f)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
-					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
-				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202ggg37" href="#289.202ggg37">See Note 289.202(ggg)(3)(7)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&amp;app=9&amp;p_dir=F&amp;p_rloc=171931&amp;p_tloc=163250&amp;p_ploc=148263&amp;pg=12&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=202">§289.202(hhh) <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.202(hhh) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996541">§289.202(hhh)<br><span class="small">(PDF, 101KB)</span></a>
-					<a class="bookmark" title="289202hhh" name="289202hhh"></a>
-				</td>
-				<td headers="table_heading_1">Requirements for Nationally Tracked Sources</td>
-				<td headers="table_heading_2">03/22/2015</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202hhh" href="#289.202hhh">See Note 289.202(hhh)</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
-					<a class="bookmark" title="2022" name="2022"></a>
-				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
-				<td headers="table_heading_2">06/05/97</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.202-2" href="#289.202-2">See Note 202-2</a></span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
-					<a class="bookmark" title="289204" name="289204"></a>
-				</td>
-				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
-				<td headers="table_heading_2">09/07/14</td>
+				<td headers="table_heading_1">Licensing and Radiation Safety Requirements for Irradiators</td>
+				<td headers="table_heading_2">05/01/08</td>
 				<td headers="table_heading_3">none</td>
 			</tr>	
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.205 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=205">§289.205 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.205 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946007">§289.205 <span class="small">(PDF, 91KB)</span></a>
-					<a class="bookmark" title="289205" name="289205"></a>
+					<a class="bookmark" title="289259" name="289259"></a>
+					<a title="Texas Administrative Code, Title 25, §289.259 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=259">§289.259 <span class="small">(HTML)</span></a><br>
+					<a title="Texas Administrative Code, Title 25, §289.259 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946025">§289.259 <span class="small">(PDF, 186KB)</span></a>
 				</td>
-				<td headers="table_heading_1">Hearing and Enforcement Procedures</td>
-				<td headers="table_heading_2">12/27/07</td>
+				<td headers="table_heading_1">Licensing of Naturally Occurring Radioactive Material (NORM)</td>
+				<td headers="table_heading_2">04/11/99</td>
 				<td headers="table_heading_3">none</td>
-			</tr>				
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.251 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=251">§289.251 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.251 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996543">§289.251 <span class="small">(PDF, 346KB)</span></a>
-					<a class="bookmark" title="289251" name="289251"></a>
-				</td>
-				<td headers="table_heading_1">Exemptions, General Licenses, and General Licenses Acknowledgements</td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.251" href="#289.251">See Note 289.251</a></span></td>
 			</tr>
-			<tr>
-				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 947KB)</span></a>
-					<a class="bookmark" title="289257" name="289257"></a>
-				</td>
-				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
-				<td headers="table_heading_2">03/22/15</td>
-				<td headers="table_heading_3"><span class="small"><a title="See Note 289.257" href="#289.257">See Note 289.257</a></span></td>
-			</tr>			
 		</tbody>
 	</table>
+	
+	
 	
 </div>
 
