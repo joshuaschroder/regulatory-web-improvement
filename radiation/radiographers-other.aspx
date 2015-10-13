@@ -68,8 +68,8 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a title="Alabama Public Health" href="http://www.adph.org/radiation">Alabama Public Health</a></td>
-			<td headers="table_heading_1"><a title="dturberville@adph.state.al.us" href="mailto:dturberville@adph.state.al.us">David Turberville</a></td>
-			<td headers="table_heading_2">(334) 206-5401</td>
+			<td headers="table_heading_1"><a title="myron.riley@adph.state.al.us" href="mailto:myron.riley@adph.state.al.us">Myron Riley</a></td>
+			<td headers="table_heading_2">(334) 206-5399</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="American Society for Nondestructive Testing" href="http://www.asnt.org/">American Society for Nondestructive Testing (ASNT)</a></td>
@@ -78,8 +78,8 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="Georgia Dept. of Natural Resources" href="http://www.gadnr.org/">Georgia Dept. of Natural Resources</a></td>
-			<td headers="table_heading_1"><a title="ejameson@dnr.state.ga.us" href="mailto:ejameson@dnr.state.ga.us">Eric Jameson</a></td>
-			<td headers="table_heading_2">(404) 362-2650</td>
+			<td headers="table_heading_1"><a title="yoshika.eason@dnr.ga.gov" href="mailto:yoshika.eason@dnr.ga.gov">Yoshika Eason</a></td>
+			<td headers="table_heading_2">(404) 362-4844</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="Illinois Emergency Management Agency" href="http://www.illinois.gov/iema/Pages/default.aspx">Illinois Emergency Management Agency</a></td>
@@ -88,18 +88,18 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="Iowa Dept. of Public Health" href="http://www.idph.state.ia.us/eh/radioactive_materials.asp">Iowa Dept. of Public Health</a></td>
-			<td headers="table_heading_1"><a title="Amanda.moore@idph.iowa.gov" href="mailto:Amanda.moore@idph.iowa.gov">Amanda M. Moore</a></td>
+			<td headers="table_heading_1"><a title="stuart.jordan@idph.iowa.gov" href="mailto:stuart.jordan@idph.iowa.gov">Stuart Jordan</a></td>
 			<td headers="table_heading_2">(515) 281-0403</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="Louisiana Dept. of Environmental Quality" href="http://www.deq.louisiana.gov/portal/">Louisiana Dept. of Environmental Quality</a></td>
-			<td headers="table_heading_1"><a title="Ziad.Fahd@la.gov" href="mailto:Ziad.Fahd@la.gov">Ziad Fahd</a></td>
-			<td headers="table_heading_2">(225) 219-3691</td>
+			<td headers="table_heading_1"><a title="tiffany.white@la.gov" href="mailto:tiffany.white@la.gov">Tiffany White</a></td>
+			<td headers="table_heading_2">(225) 219-3680</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="Maine Division of Environmental Health" href="http://www.maine.gov/dhhs/mecdc/environmental-health/rad/">Maine Division of Environmental Health</a></td>
-			<td headers="table_heading_1"><a title="shawn.seeley@maine.gov" href="mailto:shawn.seeley@maine.gov">Shawn Seeley</a></td>
-			<td headers="table_heading_2">(207) 287-5696</td>
+			<td headers="table_heading_1"><a title="tom.hillman@maine.gov" href="mailto:tom.hillman@maine.gov">Thomas Hillman</a></td>
+			<td headers="table_heading_2">(207) 287-8401</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="North Dakota Dept. of Health" href="http://www.ndhealth.gov/aq/rad/irexam.htm">North Dakota Dept. of Health</a></td>
@@ -107,9 +107,9 @@
 			<td headers="table_heading_2">(701) 328-5188</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a title="" href="http://www.deq.state.ok.us/lpdnew/radindex.html">Oklahoma Dept. of Environmental Quality</a></td>
-			<td headers="table_heading_1"><a title="julia.ralston@deq.state.ok.us" href="mailto:julia.ralston@deq.state.ok.us">Julia Ralston</a></td>
-			<td headers="table_heading_2">(405) 702-5168</td>
+			<td headers="table_heading_0"><a title="Oklahoma Dept. of Environmental Quality" href="http://www.deq.state.ok.us/lpdnew/radindex.html">Oklahoma Dept. of Environmental Quality</a></td>
+			<td headers="table_heading_1"><a title="kristie.valtierra@deq.ok.gov" href="mailto:kristie.valtierra@deq.ok.gov">Kristie Valtierra</a></td>
+			<td headers="table_heading_2">(405) 702-5222</td>
 		</tr>
 	</tbody>
 </table>

@@ -59,9 +59,9 @@
 <hr/>
 <a class="bookmark" title="fees" name="fees"></a>
 <h2>Fee Schedule</h2>
-<p>Fees are established in <a title="25 TAC, &#167;289.204(j)" href="/radiation/laws-rules.aspx#289204">25 TAC, &#167;289.204(j)</a>. Each application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate annual fee. Please note, we are not able to accept applications or payments by email.</p>
+<p>Fees are established in <a title="25 TAC, &#167;289.204(j)" href="/radiation/laws-rules.aspx#289204j">25 TAC, &#167;289.204(j)</a>. Each application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate annual fee. Please note, we are not able to accept applications or payments by email.</p>
 
-<table class="zebraBorder layout" summary="sorted alphabetically by category first, then by type of use" style="width:100%;">
+<!--table class="zebraBorder layout" summary="sorted alphabetically by category first, then by type of use" style="width:100%;">
 	<caption>Schedule of Application Fees for Industrial X-Ray Registration</caption>
 	<thead>
 		<tr>
@@ -162,10 +162,10 @@
 			<td headers="table_heading_2">Fee of Applicable Category</td>
 		</tr>
 	</tbody>
-</table>
+</table-->
 
-<p><strong>Notes:</strong></p>
-<p><a class="1" name="1"></a>1) Minimal Threat Radiation Machines are defined  in <a title="25 TAC &#0167;289.231(c)(42)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(c)(42)</a> and <a title="25 TAC &#0167;289.231(11)(3)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(11)(3)</a>.</p>
+<!--p><strong>Notes:</strong></p>
+<p><a class="1" name="1"></a>1) Minimal Threat Radiation Machines are defined  in <a title="25 TAC &#0167;289.231(c)(42)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(c)(42)</a> and <a title="25 TAC &#0167;289.231(11)(3)" href="/radiation/laws-rules.aspx#289231">25 TAC &#0167;289.231(11)(3)</a>.</p-->
 
 <h3>Multiple Categories of Use</h3>
 

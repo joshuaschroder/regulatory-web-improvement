@@ -138,7 +138,7 @@
 
 <h3>Radioactive Material and/or X-Ray Machine Qualification Review </h3>
 <p>
-	Email: <a title="jackie.pursley@dshs.state.tx.us" href="mailto:jackie.pursley@dshs.state.tx.us">Jackie Pursley</a><br/>
+	Email: <a title="Veronica.Barnes@dshs.state.tx.us" href="mailto:Veronica.Barnes@dshs.state.tx.us">Veronica Barnes</a><br/>
 	Phone: (512) 834-6688 ext. 2863<br/>
 	Fax: (512) 834-6690
 </p>
