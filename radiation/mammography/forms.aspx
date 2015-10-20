@@ -21,11 +21,11 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a title="17M" class="bookmark" name="17M"></a>RC 17-M</td>
-			<td headers="table_heading_1"><a title="Termination of Certification of Mammography Systems" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC17-M.pdf">Termination of Certification of Mammography Systems</a> <span class="small">(PDF, 17KB)</span></td>
+			<td headers="table_heading_1"><a title="Termination of Certification of Mammography Systems" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20003">Termination of Certification of Mammography Systems</a> <span class="small">(PDF, 17KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="18M" name="18M"></a>RC 18-M</td>
-			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC18-M.pdf">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
+			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20004">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2301" name="2301"></a>RC 230-1</td>
@@ -45,7 +45,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="23043" name="23043"></a>RC 230-43</td>
-			<td headers="table_heading_1"><a title="Lead interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-43-M_LIP.pdf">Lead interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span></td>
+			<td headers="table_heading_1"><a title="Lead interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991090">Lead interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -70,11 +70,11 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2321" name="2321"></a>RC 232-1</td>
-			<td headers="table_heading_1"><a title="Notice to Employees (Dentists Only)" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/232-1.pdf">Notice to Employees (Dentists Only)</a> <span class="small">(PDF, 9KB)</span></td>
+			<td headers="table_heading_1"><a title="Notice to Employees (Dentists Only)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19911">Notice to Employees (Dentists Only)</a> <span class="small">(PDF, 9KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2332" name="2332"></a>RC 233-2</td>
-			<td headers="table_heading_1"><a title="Notice to Employees (Vets Only)" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/233-2.pdf">Notice to Employees (Vets Only)</a> <span class="small">(PDF, 64KB)</span></td>
+			<td headers="table_heading_1"><a title="Notice to Employees (Vets Only)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19912">Notice to Employees (Vets Only)</a> <span class="small">(PDF, 64KB)</span></td>
 		</tr>
 	</tbody>
 </table>

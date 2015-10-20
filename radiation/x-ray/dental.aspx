@@ -116,7 +116,7 @@
 <hr/>
 <a class="bookmark" title="evaluations" name="evaluations"></a>
 <h2>Equipment Performance Evaluations</h2>
-<p>The <a title="Training Guide for X-Ray Service Company (XSC) Personnel Performing Equipment Performance Evaluations (EPE)" href="https://www.dshs.state.tx.us/radiation/pdffiles/SvcCoTrainMan.pdf">Training Guide for X-Ray Service Company (XSC) Personnel Performing Equipment Performance Evaluations (EPE)</a> <span class="small">(PDF, 229KB)</span> has been developed to assist X-ray service companies in training their personnel to assure the equipment and associated reports meet regulatory requirements. It should also:</p>
+<p>The <a title="Training Guide for X-Ray Service Company (XSC) Personnel Performing Equipment Performance Evaluations (EPE)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20088">Training Guide for X-Ray Service Company (XSC) Personnel Performing Equipment Performance Evaluations (EPE)</a> <span class="small">(PDF, 229KB)</span> has been developed to assist X-ray service companies in training their personnel to assure the equipment and associated reports meet regulatory requirements. It should also:</p>
 <ul>
 	<li>Improve understanding of rules and regulations</li>
 	<li>Promote uniform testing procedures</li>

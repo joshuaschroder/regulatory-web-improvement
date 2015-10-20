@@ -48,7 +48,7 @@
 	<hr/>
 	<a title="1" class="bookmark" name="1"></a>
 	<p><strong>Who can be a Radiation Safety Officer (RSO)?</strong></p>
-	<p>Requirements for radiation safety officers can be found in <a title="&#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">&#0167;289.226</a> Registration of Radiation Machine Use and Services. Form: <a title="RC 42-3 RSO form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC42-3.pdf">RC 42-3 RSO form</a> <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a></p>
+	<p>Requirements for radiation safety officers can be found in <a title="&#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">&#0167;289.226</a> Registration of Radiation Machine Use and Services. Form: <a title="RC 42-3 RSO form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3 RSO form</a> <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a></p>
 	<ul>
 		<li>Requirements for RSOs for registrants. <ul>
 			<li>All RSOs shall meet the following general requirements in addition to requirements in specific categories, except for industrial radiography RSOs: <ul>
@@ -239,7 +239,7 @@
 	<hr/>
 	<a title="20" class="bookmark" name="20"></a>
 	<p><strong>What is the process for terminating a site?</strong></p>
-	<p>The registrant will need to submit a letter requesting termination indicating which site(s) to terminate &amp; disposition of equipment or complete the <a title="RC-18 Radiation Machine Transfer &amp;amp; Disposal form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC18-R.pdf">RC-18 Radiation Machine Transfer &amp; Disposal form</a>. The letter or form must be signed and dated by the appropriate person.</p>
+	<p>The registrant will need to submit a letter requesting termination indicating which site(s) to terminate &amp; disposition of equipment or complete the <a title="RC-18 Radiation Machine Transfer &amp;amp; Disposal form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18 Radiation Machine Transfer &amp; Disposal form</a>. The letter or form must be signed and dated by the appropriate person.</p>
 </div>
 
 <div class="section">

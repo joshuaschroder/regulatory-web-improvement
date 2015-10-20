@@ -100,7 +100,7 @@
 				<em>Please do not schedule exam until after you have received your senior technician certificate.</em><br/>
 				Applicants are required to submit a <a title="LHR Personal Information Release Form" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589959924">LHR Personal Information Release Form</a> <span class="small">(DOC, 84KB)</span>.<br/><br/>
 				For a list of accepted Texas training programs, please see the <a title="Training Programs" href="/radiation/laser-hair-removal/training.aspx">Training Programs</a> page.<br/>
-				For a list of registered LHR Professionals in Texas, refer to <a title="Registered Texas Professionals List" href="https://www.dshs.state.tx.us/radiation/pdffiles/laserhair/ProfessionalContactList4-30-2014Rev.pdf">Registered Texas Professionals List</a> <span class="small">(PDF, 91KB)</span>. 
+				For a list of registered LHR Professionals in Texas, refer to <a title="Registered Texas Professionals List" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589988281">Registered Texas Professionals List</a> <span class="small">(PDF, 91KB)</span>. 
 			</p>
 		</li>
 		<li>

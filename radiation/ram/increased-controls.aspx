@@ -148,7 +148,7 @@
 	<h2>Helpful Links &amp; Resources</h2>
 	<a class="bookmark" title="links" name="links"></a>
 	<ul>
-		<li><a title="Printable Brochure - Compliance with Increased Controls Requirements" href="http://www.dshs.state.tx.us/radiation/pdffiles/IRICbrochurePrint.pdf">Printable Brochure - Compliance with Increased Controls Requirements</a> <span class="small">(PDF, 71KB)</span></li>
+		<li><a title="Printable Brochure - Compliance with Increased Controls Requirements" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19980">Printable Brochure - Compliance with Increased Controls Requirements</a> <span class="small">(PDF, 71KB)</span></li>
 		<li><a title="U.S. Nuclear Regulatory Commission - Supplemental Q&amp;A Regarding Increased Controls" href="http://www.nrc.gov/reading-rm/doc-collections/enforcement/security/2007/supplemental.pdf">U.S. Nuclear Regulatory Commission - Supplemental Q&amp;A Regarding Increased Controls</a> <span class="small">(PDF, 137KB)</span></li>
 		<li><a title="U.S. Nuclear Regulatory Commission - Radionuclides of Concern Table" href="http://www.nrc.gov/security/byproduct/table1.pdf">U.S. Nuclear Regulatory Commission - Radionuclides of Concern Table</a> <span class="small">(PDF, 18KB)</span></li>
 	</ul>

@@ -33,7 +33,7 @@
 <h3>Assistance with Forms</h3>
 <p>When applying for a mobile NORM decontamination license, please see <a title="" href="/radiation/regulatory-guides.aspx#218">Regulatory Guide 2.18 - Preparation of Radioactive Material License Applications
 for Decontamination Services</a>.</p>
-<p>When applying for a fixed site NORM decontamination license follow <a title="Preparation of an Application for Processing of Naturally Occurring Radioactive Material (NORM)" href="https://www.dshs.state.tx.us/radiation/pdffiles/NORMLicenseAppGuidance.pdf">Preparation of an Application for Processing of Naturally Occurring Radioactive Material (NORM)</a> <span class="small">(PDF, 151KB)</span>.</p>
+<p>When applying for a fixed site NORM decontamination license follow <a title="Preparation of an Application for Processing of Naturally Occurring Radioactive Material (NORM)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981717">Preparation of an Application for Processing of Naturally Occurring Radioactive Material (NORM)</a> <span class="small">(PDF, 151KB)</span>.</p>
 
 <h3>Applicable Regulations</h3>
 <ul>

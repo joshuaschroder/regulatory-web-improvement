@@ -39,11 +39,11 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2321" name="2321"></a>RC 232-1</td>
-			<td headers="table_heading_1"><a title="Notice to Employees (Dentists Only)" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/232-1.pdf">Notice to Employees (Dentists Only)</a> <span class="small">(PDF, 9KB)</span></td>
+			<td headers="table_heading_1"><a title="Notice to Employees (Dentists Only)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19911">Notice to Employees (Dentists Only)</a> <span class="small">(PDF, 9KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2332" name="2332"></a>RC 233-2</td>
-			<td headers="table_heading_1"><a title="Notice to Employees (Vets Only)" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/233-2.pdf">Notice to Employees (Vets Only)</a> <span class="small">(PDF, 64KB)</span></td>
+			<td headers="table_heading_1"><a title="Notice to Employees (Vets Only)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19912">Notice to Employees (Vets Only)</a> <span class="small">(PDF, 64KB)</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -63,7 +63,7 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2523" name="2523"></a>RC 252-3</td>
-			<td headers="table_heading_1"><a title="Notice of Intent to Work in Texas Under Reciprocity" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsLicPDF/RC-252-3_2014.pdf">Notice of Intent to Work in Texas Under Reciprocity </a> <span class="small">(PDF, 27KB)</span><br/>Submit by FAX only. Please review the “Sensitive Information” notice on the form</td>
+			<td headers="table_heading_1"><a title="Notice of Intent to Work in Texas Under Reciprocity" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589990149">Notice of Intent to Work in Texas Under Reciprocity </a> <span class="small">(PDF, 27KB)</span><br/>Submit by FAX only. Please review the “Sensitive Information” notice on the form</td>
 		</tr>
 	</tbody>
 </table>
@@ -83,15 +83,15 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="35" name="35"></a>LRS-35</td>
-			<td headers="table_heading_1"><a title="Additional Information for Accelerator Registration, Includes Shielding Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/LRS35.pdf">Additional Information for Accelerator Registration, Includes Shielding Form</a> <span class="small">(PDF, 21KB)</span></td>
+			<td headers="table_heading_1"><a title="Additional Information for Accelerator Registration, Includes Shielding Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19918">Additional Information for Accelerator Registration, Includes Shielding Form</a> <span class="small">(PDF, 21KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="17R" name="17R"></a>RC 17-R</td>
-			<td headers="table_heading_1"><a title="Termination of a Certificate of Registration" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC17--R.pdf">Termination of a Certificate of Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			<td headers="table_heading_1"><a title="Termination of a Certificate of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Termination of a Certificate of Registration</a> <span class="small">(PDF, 24KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="18R" name="18R"></a>RC 18-R</td>
-			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC18-R.pdf">Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span></td>
+			<td headers="table_heading_1"><a title="Radiation Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="423" name="423"></a>RC 42-3</td>
@@ -103,15 +103,15 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
-			<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC226-1REG.pdf">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2262" name="2262"></a>RC 226-2</td>
-			<td headers="table_heading_1"><a title="Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC226-2.pdf">Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span></td>
+			<td headers="table_heading_1"><a title="Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2263" name="2263"></a>RC 226-3</td>
-			<td headers="table_heading_1"><a title="Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span><br/><br/><a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC226-3IndustrialRegInstRev2014.pdf">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span></td>
+			<td headers="table_heading_1"><a title="Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span><br/><br/><a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2265" name="2265"></a>RC 226-5</td>
@@ -148,15 +148,15 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="230R1" name="230R1"></a>EPEDent-1</td>
-			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Dental Radiographic Unit" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPEDent-1.pdf">Equipment Performance Evaluation, Dental Radiographic Unit</a> <span class="small">(PDF, 90KB)</span></td>
+			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Dental Radiographic Unit" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589957239">Equipment Performance Evaluation, Dental Radiographic Unit</a> <span class="small">(PDF, 90KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="230R1B" name="230R1B"></a>EPERad-1</td>
-			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Radiographic Unit" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPERad-1.pdf">Equipment Performance Evaluation, Radiographic Unit</a> <span class="small">(PDF, 92KB)</span></td>
+			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Radiographic Unit" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589957241">Equipment Performance Evaluation, Radiographic Unit</a> <span class="small">(PDF, 92KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="230R1A" name="230R1A"></a>EPEVet-1</td>
-			<td headers="table_heading_1"><a title="Veterinary Equipment Performance Evaluation" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPEVet-1.pdf">Veterinary Equipment Performance Evaluation</a> <span class="small">(PDF, 72KB)</span></td>
+			<td headers="table_heading_1"><a title="Veterinary Equipment Performance Evaluation" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589957240">Veterinary Equipment Performance Evaluation</a> <span class="small">(PDF, 72KB)</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -238,19 +238,19 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="17L" name="17L"></a>RC 17-L</td>
-			<td headers="table_heading_1"><a title="Termination of Laser Registration" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC17-L.pdf">Termination of Laser Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			<td headers="table_heading_1"><a title="Termination of Laser Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19920">Termination of Laser Registration</a> <span class="small">(PDF, 24KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="18L" name="18L"></a>RC 18-L</td>
-			<td headers="table_heading_1"><a title="Laser Transfer/Disposal Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC18-L.pdf">Laser Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span></td>
+			<td headers="table_heading_1"><a title="Laser Transfer/Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19921">Laser Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="42L" name="42L"></a>RC 42-L</td>
-			<td headers="table_heading_1"><a title="Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/radiation/pdffiles/laserhair/RC42-LSO.pdf">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
+			<td headers="table_heading_1"><a title="Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
-			<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC226-1REG.pdf">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="3012" name="3012"></a>RC 301-2</td>
@@ -302,19 +302,19 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="3027" name="3027"></a>RC 302-7</td>
-			<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Senior Technician" href="http://www.dshs.state.tx.us/radiation/pdffiles/laserhair/RC302-7LHR-SRAPP.pdf">Registration Application for Laser Hair Removal Senior Technician</a> <span class="small">(PDF, 541KB)</span></td>
+			<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Senior Technician" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975898">Registration Application for Laser Hair Removal Senior Technician</a> <span class="small">(PDF, 541KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="3028" name="3028"></a>RC 302-8</td>
-			<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Professional" href="http://www.dshs.state.tx.us/radiation/pdffiles/laserhair/RC302-8LHR-PAPP.pdf">Registration Application for Laser Hair Removal Professional</a> <span class="small">(PDF, 53KB)</span></td>
+			<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Professional" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975899">Registration Application for Laser Hair Removal Professional</a> <span class="small">(PDF, 53KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">None<a class="bookmark" title="LHR-confidentiality" name="LHR-confidentiality"></a></td>
-			<td headers="table_heading_1"><a title="Confidentiality of Contract between LHR Facility and Consulting Physician" href="http://www.dshs.state.tx.us/radiation/pdffiles/laserhair/LHRConforSampleContractFacilityandConsultingPhys.pdf">Confidentiality of Contract between LHR Facility and Consulting Physician</a> <span class="small">(PDF, 16KB)</span></td>
+			<td headers="table_heading_1"><a title="Confidentiality of Contract between LHR Facility and Consulting Physician" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953638">Confidentiality of Contract between LHR Facility and Consulting Physician</a> <span class="small">(PDF, 16KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">None<a class="bookmark" title="LHR-sample-contract" name="LHR-sample-contract"></a></td>
-			<td headers="table_heading_1"><a title="Sample Consulting Physician Contract" href="http://www.dshs.state.tx.us/radiation/Files/laserhair/LHRSampleContract2013.doc">Sample Consulting Physician Contract</a> <span class="small">(DOC, 44KB)</span></td>
+			<td headers="table_heading_1"><a title="Sample Consulting Physician Contract" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589983531">Sample Consulting Physician Contract</a> <span class="small">(DOC, 44KB)</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -334,7 +334,7 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="40" name="40"></a>CI-40</td>
-			<td headers="table_heading_1"><a title="General License Acknowledgement Self-Evaluation Form" href="https://www.dshs.state.tx.us/radiation/pdffiles/AppsLicPDF/CI-40Rev7_2013.pdf">General License Acknowledgement Self-Evaluation Form</a> <span class="small">(PDF, 103KB)</span></td>
+			<td headers="table_heading_1"><a title="General License Acknowledgement Self-Evaluation Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978776">General License Acknowledgement Self-Evaluation Form</a> <span class="small">(PDF, 103KB)</span></td>
 		</tr>		
 		
 		<tr>
@@ -380,11 +380,11 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a title="17M" class="bookmark" name="17M"></a>RC 17-M</td>
-			<td headers="table_heading_1"><a title="Termination of Certification of Mammography Systems" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC17-M.pdf">Termination of Certification of Mammography Systems</a> <span class="small">(PDF, 17KB)</span></td>
+			<td headers="table_heading_1"><a title="Termination of Certification of Mammography Systems" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20003">Termination of Certification of Mammography Systems</a> <span class="small">(PDF, 17KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="18M" name="18M"></a>RC 18-M</td>
-			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC18-M.pdf">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
+			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20004">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2301" name="2301"></a>RC 230-1</td>
@@ -404,7 +404,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="23043" name="23043"></a>RC 230-43</td>
-			<td headers="table_heading_1"><a title="Lead interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-43-M_LIP.pdf">Lead interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span></td>
+			<td headers="table_heading_1"><a title="Lead interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991090">Lead interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span></td>
 		</tr>
 	</tbody>
 </table>

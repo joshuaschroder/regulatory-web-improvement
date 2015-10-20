@@ -54,13 +54,13 @@
 <a class="bookmark" title="survey" name="survey"></a>
 <h2>The Texas Indoor Radon Survey</h2>
 <p>In 1991, the Texas Department of Health, Bureau of Radiation Control (BRC) commissioned a statewide survey of indoor residential radon to determine the extent of the problem in Texas, and to identify potential "hot spots." When viewed on a statewide basis, the radon measurements from nearly 2,700 randomly selected Texas homes were relatively low -- averaging 1.0 pCi/l of air. The threshold of concern, according to the Environmental Protection Agency (EPA) guidelines is 4.0 pCi/l air.</p>
-<p><a title="Final Report of the Texas Indoor Radon Survey, June 1994" href="https://www.dshs.state.tx.us/radiation/pdffiles/RADONsrvy.pdf">Final Report of the Texas Indoor Radon Survey, June 1994</a> <span class="small">(PDF, 4.5MB)</span></p>
+<p><a title="Final Report of the Texas Indoor Radon Survey, June 1994" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20015">Final Report of the Texas Indoor Radon Survey, June 1994</a> <span class="small">(PDF, 4.5MB)</span></p>
 
 <hr/>
 <a class="bookmark" title="problem" name="problem"></a>
 <h2>Is Radon a Problem in Texas?</h2>
 <figure  style="float:right; padding:0 0 15px 15px;">
-	<a title="Texas map of radon zones by county" href="http://www.dshs.state.tx.us/radiation/pdffiles/TXCOUNTI.pdf">
+	<a title="Texas map of radon zones by county" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20089">
 		<img alt="Texas map of radon zones by county, showing that Texas is in either the low to moderate zone for radon potential " src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/radiation/images/TXCOUNTI.gif" style="width:186px; height:185px; margin-bottom:15px;" />
 	</a>
 	<figcaption>Click on map for larger image</figcaption>
@@ -94,7 +94,7 @@
 <a class="bookmark" title="publications" name="publications"></a>
 <h2>Radon Publications</h2>
 <ul>
-	<li><a title="Final Report of the Texas Indoor Radon Survey, June 1994" href="https://www.dshs.state.tx.us/radiation/pdffiles/RADONsrvy.pdf">Final Report of the Texas Indoor Radon Survey - June 1994</a> <span class="small">(PDF, 4.5MB)</span><br/>Results of a statewide radon survey conducted in 1991.</li>	
+	<li><a title="Final Report of the Texas Indoor Radon Survey, June 1994" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20015">Final Report of the Texas Indoor Radon Survey - June 1994</a> <span class="small">(PDF, 4.5MB)</span><br/>Results of a statewide radon survey conducted in 1991.</li>	
 </ul>
 
 <hr/>
