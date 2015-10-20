@@ -1,7 +1,7 @@
 <?php
 	$title= "Frequently Asked Questions about Radiation Machine Registration" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 
 <hr/>
@@ -25,7 +25,7 @@
 <hr/>
 <a class="bookmark" title="1" name="1"></a>
 <h2>What is an administrative renewal?</h2>
-<p>An administrative renewal is a fee that must be paid in order to continue operating x-ray and laser devices. The fee is required every two years. Think of an administrative renewal as what happens when you pay your two-year registration fee. For information on fee payment see <a title="25 TAC §289.204" href="/radiation/laws-rules.aspx#289204">25 TAC §289.204</a> of the rules.</p>
+<p>An administrative renewal is a fee that must be paid in order to continue operating x-ray and laser devices. The fee is required every two years. Think of an administrative renewal as what happens when you pay your two-year registration fee. For information on fee payment see <a title="25 TAC §289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC §289.204</a> of the rules.</p>
 
 <hr/>
 <a class="bookmark" title="2" name="2"></a>

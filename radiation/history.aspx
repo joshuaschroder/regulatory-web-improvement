@@ -1,7 +1,7 @@
 <?php
 	$title= "History of the Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 <div style="float:right;padding:20px; margin:0 0 15px 15px;width:180px; border:1px solid #CCC;">
 	<img src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/radiation/images/ShoeFlr.gif" alt="shoe-fitting fluoroscope" style="width:167px;height:226px;"/>

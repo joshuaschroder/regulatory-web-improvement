@@ -1,8 +1,9 @@
 <?php
 	$title= "Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
+
 <p>The Texas Department of State Health Services, Radiation Control Program, has the important mission to protect and promote the physical and environmental health of the people of Texas. We strive to prevent unnecessary radiation exposure to the public through effective licensing, registration, inspection, enforcement, and emergency response.</p>
 
 <hr/>
@@ -13,8 +14,8 @@
 <hr/>
 <h2>Contact Information</h2>
 <p>
-	Phone: (512) 834-6688 <br/>
 	Email: <a title="PSQARAD@dshs.state.tx.us" href="mailto:PSQARAD@dshs.state.tx.us">PSQARAD@dshs.state.tx.us</a><br/>
+	Phone: (512) 834-6688 <br/>
 	Fax: (512) 834-6690
 </p>
 <p>Please see the <a title="contact information page" href="/radiation/contact.aspx">contact information page</a> for additional contacts and mailing addresses.</p>

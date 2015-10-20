@@ -1,7 +1,7 @@
 <?php
 	$title= "Comanche Peak Nuclear Power Plant" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ep_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 <hr/>
 <p>Comanche Peak Nuclear Power Plant is a two-unit nuclear-fueled power plant located four and a half miles northwest of Glen Rose, Texas, in Somervell County and about 80 miles southwest of downtown Dallas, Texas. The plant is owned and operated by Luminant.</p>

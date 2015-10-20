@@ -1,7 +1,7 @@
 <?php
 	$title= "Links and Resources - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
 <p>This page provides links directing you to outside sources of information. These links will take you away from the Radiation Control (RC) Web site and are provided as a service. These links do not necessarily imply any official endorsement of or responsibility for the opinions, ideas, data, or products presented at locations provided through the links on the RC Web site. Radiation Control cannot guarantee the validity of the information provided at links to other sites.</p>

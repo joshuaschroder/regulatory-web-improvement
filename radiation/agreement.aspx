@@ -1,7 +1,7 @@
 <?php
 	$title= "Agreement Information - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
 <p>On January 10, 1963, during a ceremony at the State Capitol, the State of Texas and the United States Atomic Energy Commission (now the U.S. Nuclear Regulatory Commission) signed an agreement that gave Texas licensing and regulatory authority over radioactive materials in the state, with the exception of special nuclear material in excess of a critical mass and radioactive material utilized by federal agencies.</p>

@@ -1,7 +1,7 @@
 <?php
 	$title= "Tips for Answering a Notice of Violation - X-Ray Registration" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 
 <hr/>

@@ -1,7 +1,7 @@
 <?php
 	$title= "Frequently Asked Questions about Mammography Certification" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_mam_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>
 <style type="text/css">#toc li {padding-bottom:7px;} #answers h3{padding-top:20px;}</style>
 <hr/>

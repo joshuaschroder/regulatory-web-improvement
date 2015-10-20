@@ -1,7 +1,7 @@
 <?php
 	$title= "Computed Tomography (CT) - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
 <p>As part of our ongoing mission to ensure health and safety, the Texas Department of State Health Services, Radiation Control Program is bringing information regarding excess radiation exposure during brain perfusion Computed Tomography (CT) imaging to your attention.</p>

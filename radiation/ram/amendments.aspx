@@ -1,7 +1,7 @@
 <?php
 	$title= "Tips for Amendment Requests - Radioactive Materials" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 <hr/>
 <h2>General Guidance</h2>

@@ -1,7 +1,7 @@
 <?php
 	$title= "Advanced Technology Licensing - Radioactive Materials" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 
 <hr/>
@@ -39,11 +39,11 @@
 <h3>Submit the Required Forms</h3>
 <p>Complete, sign, and submit the following forms:</p>
 <ul>
-	<li><a title="Application for Radioactive Material License (RC Form 252-2)" href="/radiation/forms.aspx#2522">Application for Radioactive Material License (RC Form 252-2)</a>.</li>
-	<li><a title="Business Information Form (RC Form 252-1)" href="/radiation/forms.aspx#2521">Business Information Form (RC Form 252-1)</a>.</li>
+	<li><a title="Application for Radioactive Material License (RC Form 252-2)" href="/radiation/ram/forms.aspx#2522">Application for Radioactive Material License (RC Form 252-2)</a>.</li>
+	<li><a title="Business Information Form (RC Form 252-1)" href="/radiation/ram/forms.aspx#2521">Business Information Form (RC Form 252-1)</a>.</li>
 </ul>
 <h3>Submit the Appropriate Fee</h3>
-<p>A nonrefundable fee shall be submitted with each new application. Refer to <a title="25 TAC §289.204" href="/radiation/laws-rules.aspx#289204">25 TAC §289.204</a> to determine the fee that should accompany the new application. Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.</p>
+<p>A nonrefundable fee shall be submitted with each new application. Refer to <a title="25 TAC §289.204" href="/radiation/ram/laws-rules.aspx#289204">25 TAC §289.204</a> to determine the fee that should accompany the new application. Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.</p>
 
 <hr/>
 <a class="bookmark" title="amend" name="amend"></a>
@@ -86,7 +86,7 @@
 <p>Provide a written statement requesting termination of a license or specific authorized site, <em><strong>prior</strong></em> to vacating the premises.</p>
 <p>If radioactive material stored at the site listed on the license, was transferred to an authorized recipient, provide records documenting the transfer. Each transfer record must indicate the isotope, the activity of each source, model number of each device and/or sealed source, and serial number of each device and/or sealed source. The transfer record must also indicate the name, address and license number of the transferor and transferee, the signatures of a representative of the transferor and transferee and the date of transfer of the radioactive material.</p>
 <p>A closeout survey for the facility where radioactive material was stored and/or used must be submitted.</p>
-<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="/radiation/laws-rules.aspx#289202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
+<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
 
 <hr/>
 <a class="bookmark" title="guidance" name="guidance"></a>

@@ -1,9 +1,9 @@
 <?php
 	$title= "Termination of a Storage Location or Radioactive Material License" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
-<p>Before an area can be released for unrestricted use, you are required to submit survey and/or sample results verifying compliance with <a title="Title 25 Texas Administrative Code §289.202(eee)" href="/radiation/laws-rules.aspx#289202">Title 25 Texas Administrative Code §289.202(eee)</a>. Provide the following information:</p>
+<p>Before an area can be released for unrestricted use, you are required to submit survey and/or sample results verifying compliance with <a title="Title 25 Texas Administrative Code §289.202(eee)" href="/radiation/ram/laws-rules.aspx#289202">Title 25 Texas Administrative Code §289.202(eee)</a>. Provide the following information:</p>
 
 <hr/>
 <h2>Written Request</h2>

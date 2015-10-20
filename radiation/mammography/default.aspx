@@ -1,7 +1,7 @@
 <?php
 	$title= "State of Texas Mammography Accreditation Program (TMAP)" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_mam_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>
 
 <p>In April 1998, the State of Texas, Department of State Health Services, was approved by the U.S. Food and Drug Administration (FDA), Division of Mammography Quality and Radiation Programs (DMQRP) as an accreditation body and joined three other approved accrediting bodies - the State of Iowa, the State of Arkansas and the American College of Radiology.</p>

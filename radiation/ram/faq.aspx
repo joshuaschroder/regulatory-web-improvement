@@ -1,7 +1,7 @@
 <?php
 	$title= "Frequently Asked Questions about Radioactive Material" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 <style type="text/css">
 	ol.toc li {margin-bottom:7px;}

@@ -1,7 +1,7 @@
 <?php
 	$title= "Frequently Asked Questions about Medical X-Ray Registration" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 <ul>
 	<li><a title="Radiation Safety Training Requirement Delayed Indefinitely" href="#RadSafetyTrainingDelayed">What is the deadline date for implementation of the radiation safety awareness training requirement specified in 25 TAC &#0167;289.227(m)(9)(E)?</a></li>
@@ -48,7 +48,7 @@
 	<hr/>
 	<a title="1" class="bookmark" name="1"></a>
 	<p><strong>Who can be a Radiation Safety Officer (RSO)?</strong></p>
-	<p>Requirements for radiation safety officers can be found in <a title="&#0167;289.226" href="/radiation/laws-rules.aspx#289226">&#0167;289.226</a> Registration of Radiation Machine Use and Services. Form: <a title="RC 42-3 RSO form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC42-3.pdf">RC 42-3 RSO form</a> <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a></p>
+	<p>Requirements for radiation safety officers can be found in <a title="&#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">&#0167;289.226</a> Registration of Radiation Machine Use and Services. Form: <a title="RC 42-3 RSO form" href="http://www.dshs.state.tx.us/radiation/pdffiles/AppsRegPDF/RC42-3.pdf">RC 42-3 RSO form</a> <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a></p>
 	<ul>
 		<li>Requirements for RSOs for registrants. <ul>
 			<li>All RSOs shall meet the following general requirements in addition to requirements in specific categories, except for industrial radiography RSOs: <ul>
@@ -104,7 +104,7 @@
 		<strong>What are the responsibilities of the RSO?</strong>
 	</p>
 	<p>
-	The responsibilities of the RSO can be found in <a title="&#0167;289.226" href="/radiation/laws-rules.aspx#289226">&#0167;289.226</a>-Registration of Radiation Machine Use and Services. <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a> <br/>Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
+	The responsibilities of the RSO can be found in <a title="&#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">&#0167;289.226</a>-Registration of Radiation Machine Use and Services. <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a> <br/>Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
 	<ul>
 		<li>establishing and overseeing operating and safety procedures that maintain radiation exposures as low as reasonably achievable (ALARA), and to review them regularly to ensure that the procedures are current and conform with this chapter;</li>
 		<li>ensuring that individual monitoring devices are properly used by occupationally-exposed personnel, that records are kept of the monitoring results, and that timely notifications are made as required by '289.203 of this title;</li>
@@ -120,7 +120,7 @@
 	<hr/>
 	<a title="3" class="bookmark" name="3"></a>
 	<p><strong>How do I change the Radiation Safety Officer (RSO) RSO?</strong></p>
-	<p>Notify the Agency in writing within 30 days by completing and submitting <a title="RC 42-3, Radiation Safety Officer" href="/radiation/forms.aspx#423">RC 42-3, Radiation Safety Officer</a> form. Forms not completed or signed will delay the amendment process.</p>
+	<p>Notify the Agency in writing within 30 days by completing and submitting <a title="RC 42-3, Radiation Safety Officer" href="/radiation/x-ray/forms.aspx#423">RC 42-3, Radiation Safety Officer</a> form. Forms not completed or signed will delay the amendment process.</p>
 </div>
 
 <div class="section">
@@ -134,7 +134,7 @@
 	<hr/>
 	<a title="5" class="bookmark" name="5"></a>
 	<p><strong>What name(s) are we supposed to put on the Business Information Form?</strong></p>
-	<p>The form should state the 'Legal Name' and 'Doing Business As' name, if applicable, as filed with Texas Secretary of State Office. Form: <a title="RC 226-1 Business Information" href="/radiation/forms.aspx#2261">RC 226-1 Business Information</a></p>
+	<p>The form should state the 'Legal Name' and 'Doing Business As' name, if applicable, as filed with Texas Secretary of State Office. Form: <a title="RC 226-1 Business Information" href="/radiation/x-ray/forms.aspx#2261">RC 226-1 Business Information</a></p>
 </div>
 
 <div class="section">
@@ -176,14 +176,14 @@
 	<hr/>
 	<a title="11" class="bookmark" name="11"></a>
 	<p><strong>We are adding a new location to our company, what do we need to do?</strong></p>
-	<p>You can add an additional use location (subsite) to an existing registration if the new site operates under the same legal entity name the same tax identification number. Complete form <a title="RC 226-2, Medical Application" href="/radiation/forms.aspx#2262">RC 226-2, Medical Application</a>. </p>
+	<p>You can add an additional use location (subsite) to an existing registration if the new site operates under the same legal entity name the same tax identification number. Complete form <a title="RC 226-2, Medical Application" href="/radiation/x-ray/forms.aspx#2262">RC 226-2, Medical Application</a>. </p>
 </div>
 
 <div class="section">
 	<hr/>
 	<a title="12" class="bookmark" name="12"></a>
 	<p><strong>What are the current fee amounts?</strong></p>
-	<p>The current fees may be found in <a title="25 Texas Administrative Code &#0167;289.204" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 Texas Administrative Code &#0167;289.204(j)</a> or <a title="RC 204 Fee Schedule" href="/radiation/forms.aspx#204">RC 204 Fee Schedule</a>.</p>
+	<p>The current fees may be found in <a title="25 Texas Administrative Code &#0167;289.204" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 Texas Administrative Code &#0167;289.204(j)</a> or <a title="RC 204 Fee Schedule" href="/radiation/x-ray/forms.aspx#204">RC 204 Fee Schedule</a>.</p>
 </div>	
 
 <div class="section">
@@ -246,7 +246,7 @@
 	<hr/>
 	<a title="21" class="bookmark" name="21"></a>
 	<p><strong>What is the process for terminating a registration?</strong></p>
-	<p>The registrant will need to submit a completed <a title="RC- 17R Termination Form for X-ray machines" href="/radiation/forms.aspx#17R">RC- 17R Termination Form for X-ray machines</a> or <a title="RC- 17L Termination Form for lasers" href="/radiation/forms.aspx#17L">RC- 17L Termination Form for lasers</a> indicating disposition of equipment. The form must be signed and dated by the appropriate person. </p>
+	<p>The registrant will need to submit a completed <a title="RC- 17R Termination Form for X-ray machines" href="/radiation/x-ray/forms.aspx#17R">RC- 17R Termination Form for X-ray machines</a> or <a title="RC- 17L Termination Form for lasers" href="/radiation/x-ray/forms.aspx#17L">RC- 17L Termination Form for lasers</a> indicating disposition of equipment. The form must be signed and dated by the appropriate person. </p>
 </div>
 
 <div class="section">
@@ -260,7 +260,7 @@
 	<hr/>
 	<a title="23" class="bookmark" name="23"></a>
 	<p><strong>Can dental assistant students or any other students “practice” taking x-rays on each other?</strong></p>
-	<p>No, students can not practice on individuals for training purposes. The requirements can be found in <a title="25 Texas Administrative Code &#0167;289.227" href="/radiation/laws-rules.aspx#289227">25 Texas Administrative Code &#0167;289.227</a></p>
+	<p>No, students can not practice on individuals for training purposes. The requirements can be found in <a title="25 Texas Administrative Code &#0167;289.227" href="/radiation/x-ray/laws-rules.aspx#289227">25 Texas Administrative Code &#0167;289.227</a></p>
 	<p>Individuals shall not be exposed to the useful beam except for healing arts purposes and unless such exposure has been authorized by a licensed practitioner of the healing arts. This provision specifically prohibits intentional exposure of an individual for training, demonstration, or other non-healing arts purposes.</p>
 </div>
 

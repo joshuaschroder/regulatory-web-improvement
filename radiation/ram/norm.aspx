@@ -1,7 +1,7 @@
 <?php
 	$title= "NORM Licensing (Naturally Occuring Radioactive Material)" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 
 <hr/>
@@ -9,7 +9,7 @@
 <p>There are three agencies responsible for regulating different aspects of NORM. The following is an attempt to clarify each agency's role, what regulations apply and whom to contact for more information or questions.</p>
 
 <h3>1. Texas Department of State Health Services, Radiation Control Program, Radiation Safety Licensing Branch</h3>
-<p>DSHS regulates receipt, possession, storage, use and treatment of NORM under <a title="25 Texas Administrative Code §289.259" href="/radiation/laws-rules.aspx#289259">25 Texas Administrative Code §289.259</a> "Licensing of Naturally Occurring Radioactive Material."</p>
+<p>DSHS regulates receipt, possession, storage, use and treatment of NORM under <a title="25 Texas Administrative Code §289.259" href="/radiation/ram/laws-rules.aspx#289259">25 Texas Administrative Code §289.259</a> "Licensing of Naturally Occurring Radioactive Material."</p>
 
 <h3>2. Railroad Commission of Texas</h3>
 <p><a title="Railroad Commission of Texas" href="http://www.rrc.state.tx.us/">Railroad Commission of Texas</a> regulates the disposal of oil and gas NORM waste under <a title="16 Texas Administrative Code, Part 1, Chapter 4, Subchapter F" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=16&pt=1&ch=4&sch=F&rl=Y">16 Texas Administrative Code, Part 1, Chapter 4, Subchapter F</a> "Oil and Gas NORM."</p> 
@@ -23,8 +23,8 @@
 
 <h3>Required Forms</h3>
 <ul>
-	<li><a title="Radioactive Material License Application (RC Form 252-2)" href="/radiation/forms.aspx#2522">Radioactive Material License Application (RC Form 252-2)</a></li>
-	<li><a title="Business Information form for Radioactive Material Licenses (RC Form 252-1)" href="/radiation/forms.aspx#2521">Business Information form for Radioactive Material Licenses (RC Form 252-1)</a></li>
+	<li><a title="Radioactive Material License Application (RC Form 252-2)" href="/radiation/ram/forms.aspx#2522">Radioactive Material License Application (RC Form 252-2)</a></li>
+	<li><a title="Business Information form for Radioactive Material Licenses (RC Form 252-1)" href="/radiation/ram/forms.aspx#2521">Business Information form for Radioactive Material Licenses (RC Form 252-1)</a></li>
 </ul>
 
 <h3>Application Fees</h3>
@@ -37,14 +37,14 @@ for Decontamination Services</a>.</p>
 
 <h3>Applicable Regulations</h3>
 <ul>
-	<li><a title="Licensing of Naturally Occurring Radioactive Material (NORM)" href="/radiation/laws-rules.aspx#289259">Licensing of Naturally Occurring Radioactive Material (NORM)</a></li>
-	<li><a title="Licensing of Radioactive Material" href="/radiation/laws-rules.aspx#289252">Licensing of Radioactive Material</a></li>
-	<li><a title="Standards for Protection Against Radiation from Radioactive Material" href="/radiation/laws-rules.aspx#289202">Standards for Protection Against Radiation from Radioactive Material</a></li>
-	<li><a title="Packaging and Transportation of Radioactive Material" href="/radiation/laws-rules.aspx#289257">Packaging and Transportation of Radioactive Material</a></li>
-	<li><a title="General Provisions for Radioactive Material" href="/radiation/laws-rules.aspx#289201">General Provisions for Radioactive Material</a></li>
-	<li><a title="Fees for Radioactive Material Licenses" href="/radiation/laws-rules.aspx#289204">Fees for Radioactive Material Licenses</a></li>
-	<li><a title="Notices, Instructions, and Reports To Workers; Inspections" href="/radiation/laws-rules.aspx#289203">Notices, Instructions, and Reports To Workers; Inspections</a></li>
-	<li><a title="Hearing and Enforcement Procedures" href="/radiation/laws-rules.aspx#289205">Hearing and Enforcement Procedures</a></li>
+	<li><a title="Licensing of Naturally Occurring Radioactive Material (NORM)" href="/radiation/ram/laws-rules.aspx#289259">Licensing of Naturally Occurring Radioactive Material (NORM)</a></li>
+	<li><a title="Licensing of Radioactive Material" href="/radiation/ram/laws-rules.aspx#289252">Licensing of Radioactive Material</a></li>
+	<li><a title="Standards for Protection Against Radiation from Radioactive Material" href="/radiation/ram/laws-rules.aspx#289202">Standards for Protection Against Radiation from Radioactive Material</a></li>
+	<li><a title="Packaging and Transportation of Radioactive Material" href="/radiation/ram/laws-rules.aspx#289257">Packaging and Transportation of Radioactive Material</a></li>
+	<li><a title="General Provisions for Radioactive Material" href="/radiation/ram/laws-rules.aspx#289201">General Provisions for Radioactive Material</a></li>
+	<li><a title="Fees for Radioactive Material Licenses" href="/radiation/ram/laws-rules.aspx#289204">Fees for Radioactive Material Licenses</a></li>
+	<li><a title="Notices, Instructions, and Reports To Workers; Inspections" href="/radiation/ram/laws-rules.aspx#289203">Notices, Instructions, and Reports To Workers; Inspections</a></li>
+	<li><a title="Hearing and Enforcement Procedures" href="/radiation/ram/laws-rules.aspx#289205">Hearing and Enforcement Procedures</a></li>
 </ul>
 
 <hr/>

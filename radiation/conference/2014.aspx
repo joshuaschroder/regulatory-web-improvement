@@ -1,7 +1,7 @@
 <?php
 	$title= "Texas Radiation Regulatory Conference 2014" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
 
@@ -14,7 +14,7 @@
 
 <hr/>
 <h2>Slide Presentations</h2>
-<p>Please see the publications page on this website for a <a title="list of presentation slides" href="/radiation/publications.aspx#Conf-2014">list of presentation slides</a> from the conference.</p>
+<p>Please see the publications page on this website for a <a title="list of presentation slides" href="/radiation/conference/presentations.aspx">list of presentation slides</a> from the conference.</p>
 
 <hr/>
 <h2>Date and Location</h2>

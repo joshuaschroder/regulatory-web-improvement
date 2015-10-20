@@ -1,15 +1,15 @@
 <?php
 	$title= "Medical and Academic Licensing of Radioactive Materials" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 
 <hr/>
 <h2>Instructions to Apply for a License for Human Use of Radioactive Material</h2>
 <p>The following forms should be used when applying for a new license or renewing an existing license or if adding a new authorized physician user:</p>
 <ul>
-	<li><a title="License Application for Human Use of Radioactive Materials - RC Form 252-2a" href="/radiation/forms.aspx#2522a">License Application for Human Use of Radioactive Materials (RC Form 252-2a)</a></li>
-	<li><a title="Preceptor Statement For License Application - RC Form 252-2b" href="/radiation/forms.aspx#2522b">Preceptor Statement For License Application (RC Form 252-2b)</a></li>
+	<li><a title="License Application for Human Use of Radioactive Materials - RC Form 252-2a" href="/radiation/ram/forms.aspx#2522a">License Application for Human Use of Radioactive Materials (RC Form 252-2a)</a></li>
+	<li><a title="Preceptor Statement For License Application - RC Form 252-2b" href="/radiation/ram/forms.aspx#2522b">Preceptor Statement For License Application (RC Form 252-2b)</a></li>
 	<li><a title="Guide for the Preparation of License Applications for the Medical Use of Radioactive Material" href="/radiation/regulatory-guides.aspx#31">Guide for the Preparation of License Applications for the Medical Use of Radioactive Material</a></li>
 </ul>
 

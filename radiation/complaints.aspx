@@ -1,7 +1,7 @@
 <?php
 	$title= "Complaint Process - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
 <p>The Incident Investigation Program responds to radiological incident reports, complaints, technical assistance requests, and close-out requests. For more information, please contact <a title="Robert.Free@dshs.state.tx.us" href="mailto:Robert.Free@dshs.state.tx.us">Robert.Free@dshs.state.tx.us</a>.</p>

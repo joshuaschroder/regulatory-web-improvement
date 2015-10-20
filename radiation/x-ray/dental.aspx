@@ -1,7 +1,7 @@
 <?php
 	$title= "Dental X-Ray Machine Registration" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 
 <hr/>
@@ -24,25 +24,25 @@
 <p>For a Certificate of Registration for dental radiation machines, the following forms must be completed to register your dental X-ray equipment. Submit the completed forms along with the appropriate fee.</p>
 
 <ul>
-	<li><a title="Registration Application for Users of Radiation Machines in Healing Arts" href="/radiation/forms.aspx#2262">Registration Application for Users of Radiation Machines in Healing Arts</a> (RC 226-2)</li>
-	<li><a title="Business Information Form - Registration" href="/radiation/forms.aspx#2261">Business Information Form - Registration</a> (RC 226-1)</li>
-	<li><a title="Radiation Safety Officer Information for Registration" href="/radiation/forms.aspx#423">Radiation Safety Officer Information for Registration</a> (RC 42-3)</li>
+	<li><a title="Registration Application for Users of Radiation Machines in Healing Arts" href="/radiation/x-ray/forms.aspx#2262">Registration Application for Users of Radiation Machines in Healing Arts</a> (RC 226-2)</li>
+	<li><a title="Business Information Form - Registration" href="/radiation/x-ray/forms.aspx#2261">Business Information Form - Registration</a> (RC 226-1)</li>
+	<li><a title="Radiation Safety Officer Information for Registration" href="/radiation/x-ray/forms.aspx#423">Radiation Safety Officer Information for Registration</a> (RC 42-3)</li>
 </ul>
 
 <hr/>
 <a class="bookmark" title="amend" name="amend"></a>
 <h2>Amending a Certificate of Registration</h2>
-<p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="/radiation/forms.aspx#2262">RC Form 226-2</a>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
+<p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="/radiation/x-ray/forms.aspx#2262">RC Form 226-2</a>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
 
 <p><strong>Name and/or Ownership Change</strong> - See Regulatory Guide 8.2:  <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="/radiation/regulatory-guides.aspx#82">Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a></p>
 
-<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="/radiation/forms.aspx#423">RC Form 42-3</a></p>
+<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="/radiation/x-ray/forms.aspx#423">RC Form 42-3</a></p>
 
 <hr/>
 <a class="bookmark" title="fees" name="fees"></a>
 <h2>Fee Schedule</h2>
 <p>The table below outlines fees pertaining to the issuance of a single certificate of registration for use in dental radiography.</p>
-<p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232(g)" href="/radiation/laws-rules.aspx#289232">25 Texas Administrative Code &#167;289.232(g)</a>, and in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a>.</p>
+<p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232(g)" href="/radiation/x-ray/laws-rules.aspx#289232">25 Texas Administrative Code &#167;289.232(g)</a>, and in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a>.</p>
 
 <table class="zebraBorder layout" summary="table not sorted" style="width:70%;">
 	<caption>Schedule of application fees for dental X-ray registration</caption>
@@ -81,12 +81,12 @@
 <hr/>
 <a class="bookmark" title="terminate" name="terminate"></a>
 <h2>Terminating a Certificate of Registration</h2>
-<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="/radiation/forms.aspx#17R">Request For Termination of Registration</a> form RC-17R.</p>
+<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="/radiation/x-ray/forms.aspx#17R">Request For Termination of Registration</a> form RC-17R.</p>
 
 <hr/>
 <a class="bookmark" title="delete" name="delete"></a>
 <h2>Deleting or Transferring a Machine</h2>
-<p>To delete or transfer a medical X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal</a> form RC-18R.</p>
+<p>To delete or transfer a medical X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="/radiation/x-ray/forms.aspx#18R">Radiation Machine Transfer/Disposal</a> form RC-18R.</p>
 
 <hr/>
 <a class="bookmark" title="address" name="address"></a>
@@ -102,7 +102,7 @@
 <hr/>
 <a class="bookmark" title="regulations" name="regulations"></a>
 <h2>Dental Regulations</h2>
-<p>You should become familiar with <a title="Title 25 Texas Administrative Code &#167;289.232" href="/radiation/laws-rules.aspx#289232">Title 25 Texas Administrative Code &#167;289.232</a>, Radiation Control Regulations for Dental Radiation Machines. This regulation requires you to establish operating and safety procedures for your dental facility</p>
+<p>You should become familiar with <a title="Title 25 Texas Administrative Code &#167;289.232" href="/radiation/x-ray/laws-rules.aspx#289232">Title 25 Texas Administrative Code &#167;289.232</a>, Radiation Control Regulations for Dental Radiation Machines. This regulation requires you to establish operating and safety procedures for your dental facility</p>
 
 <p>Employers are also required to post the <a title="Notice To Employees" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589946014">Notice To Employees</a> poster in every establishment where employees are employed in activities registered.</p>
 

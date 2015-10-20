@@ -1,10 +1,10 @@
 <?php
 	$title= "Applications and Forms - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 <style type="text/css">
-	td {padding: 10px 5px !important;}
+	#body td {vertical-align:middle; padding:10px 5px !important;}
 </style>
 <hr/>
 <h2>Table of Contents</h2>
@@ -12,12 +12,12 @@
 	<li><a title="Notice to Employees" href="#notice">Notice to Employees</a></li>
 	<li><a title="Licensing Reciprocity" href="#reciprocity">Licensing Reciprocity</a></li>
 	<li><a title="X-Ray Machines" href="#x-ray">X-Ray Machines</a></li>
+	<li><a title="Equipment Performance Evaluation" href="#equipment">Equipment Performance Evaluation</a></li>	
 	<li><a title="Industrial Radiographer Certification" href="#IR">Industrial Radiographer Certification</a></li>
 	<li><a title="Laser Registration" href="#laser">Laser Registration</a></li>
 	<li><a title="Laser Hair Removal" href="#LHR">Laser Hair Removal</a></li>
 	<li><a title="Radioactive Materials" href="#RAM">Radioactive Materials</a></li>
 	<li><a title="Mammography" href="#mammo">Mammography</a></li>
-	<li><a title="Equipment Performance Evaluation" href="#equipment">Equipment Performance Evaluation</a></li>
 </ul>
 
 <hr/>
@@ -129,6 +129,35 @@
 			<td headers="table_heading_0"><a class="bookmark" title="22610" name="22610"></a>RC 226-10</td>
 			<td headers="table_heading_1"><a title="Healing Arts Screening Requirements for Osteoporosis" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59244">Healing Arts Screening Requirements for Osteoporosis</a> <span class="small">(PDF, 18KB)</span></td>
 		</tr>		
+	</tbody>
+</table>
+<hr/>
+
+<a class="bookmark" title="Equipment Performance Evaluation Forms" name="equipment" id="Equipment"></a>
+<h2>Equipment Performance Evaluation</h2>
+<p>Please contact <a title="Jerry.Cogburn@dshs.state.tx.us" href="mailto:Jerry.Cogburn@dshs.state.tx.us">Jerry Cogburn</a> via email or telephone at 512-834-6770 extension 2037, about any other inspection forms.</p>
+
+<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+	<caption>Equipment Performance Evaluation Forms</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:20%;">Document Number</th>
+			<th id="table_heading_1" style="width:80%;">Title</th>		
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="230R1" name="230R1"></a>EPEDent-1</td>
+			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Dental Radiographic Unit" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPEDent-1.pdf">Equipment Performance Evaluation, Dental Radiographic Unit</a> <span class="small">(PDF, 90KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="230R1B" name="230R1B"></a>EPERad-1</td>
+			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Radiographic Unit" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPERad-1.pdf">Equipment Performance Evaluation, Radiographic Unit</a> <span class="small">(PDF, 92KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="230R1A" name="230R1A"></a>EPEVet-1</td>
+			<td headers="table_heading_1"><a title="Veterinary Equipment Performance Evaluation" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPEVet-1.pdf">Veterinary Equipment Performance Evaluation</a> <span class="small">(PDF, 72KB)</span></td>
+		</tr>
 	</tbody>
 </table>
 <hr/>
@@ -380,35 +409,5 @@
 	</tbody>
 </table>
 <hr/>
-
-<a class="bookmark" title="Equipment Performance Evaluation Forms" name="equipment" id="Equipment"></a>
-<h2>Equipment Performance Evaluation</h2>
-<p>Please contact <a title="Jerry.Cogburn@dshs.state.tx.us" href="mailto:Jerry.Cogburn@dshs.state.tx.us">Jerry Cogburn</a> via email or telephone at 512-834-6770 extension 2037, about any other inspection forms.</p>
-
-<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
-	<caption>Equipment Performance Evaluation Forms</caption>
-	<thead>
-		<tr>
-			<th id="table_heading_0" style="width:20%;">Document Number</th>
-			<th id="table_heading_1" style="width:80%;">Title</th>		
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="230R1" name="230R1"></a>EPEDent-1</td>
-			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Dental Radiographic Unit" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPEDent-1.pdf">Equipment Performance Evaluation, Dental Radiographic Unit</a> <span class="small">(PDF, 90KB)</span></td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="230R1B" name="230R1B"></a>EPERad-1</td>
-			<td headers="table_heading_1"><a title="Equipment Performance Evaluation, Radiographic Unit" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPERad-1.pdf">Equipment Performance Evaluation, Radiographic Unit</a> <span class="small">(PDF, 92KB)</span></td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="230R1A" name="230R1A"></a>EPEVet-1</td>
-			<td headers="table_heading_1"><a title="Veterinary Equipment Performance Evaluation" href="http://www.dshs.state.tx.us/radiation/pdffiles/InspRegFormsPDF/EPEVet-1.pdf">Veterinary Equipment Performance Evaluation</a> <span class="small">(PDF, 72KB)</span></td>
-		</tr>
-	</tbody>
-</table>
-<hr/>
-
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

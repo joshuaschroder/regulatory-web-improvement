@@ -1,7 +1,7 @@
 <?php
 	$title= "Current Emergency Plans & Procedures" ;
 	include '/home/codio/workspace/includes/header.html';
- include '/home/codio/workspace/includes/menus/rad_rem_menu.html'; 
+ include '/home/codio/workspace/includes/menus/rad2_rem_menu.html'; 
 ?>
 <hr/>
 <h2>Instructions</h2>

@@ -1,7 +1,7 @@
 <?php
 	$title= "Summary of Incidents and Complaints - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
 <p>Any complaints and or incidents involving hospitals on or after August 30, 1999, are not releasable under the Texas Public Information Act &amp; The Health and Safety Code Chapter 241.051 (d). The text of these summaries will not appear in these reports.</p>

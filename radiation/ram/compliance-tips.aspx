@@ -1,7 +1,7 @@
 <?php
 	$title= "How to Avoid Compliance Problems Relating to Radioactive Material Licenses" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 <br/>
 <p>1. READ YOUR LICENSE</p>

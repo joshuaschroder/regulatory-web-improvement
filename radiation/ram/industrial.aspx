@@ -1,7 +1,7 @@
 <?php
 	$title= "Industrial Licensing - Radioactive Materials" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 <hr/>
 <h2>Table of Contents</h2>
@@ -41,10 +41,10 @@
 <a class="bookmark" title="new" name="new"></a>
 <h2>How to Apply for a New License</h2>
 <ul>
-	<li>Submit a completed and signed <a title="Application for Radioactive Material License (RC 252-2)" href="/radiation/forms.aspx#2522">Application for Radioactive Material License (RC 252-2)</a>.<br/><br/></li>
-	<li>Submit a completed and signed <a title="Business Information Form (RC 252-1)" href="/radiation/forms.aspx#2521">Business Information Form (RC 252-1)</a>.<br/><br/></li>
+	<li>Submit a completed and signed <a title="Application for Radioactive Material License (RC 252-2)" href="/radiation/ram/forms.aspx#2522">Application for Radioactive Material License (RC 252-2)</a>.<br/><br/></li>
+	<li>Submit a completed and signed <a title="Business Information Form (RC 252-1)" href="/radiation/ram/forms.aspx#2521">Business Information Form (RC 252-1)</a>.<br/><br/></li>
 	<li>Provide detailed operating, safety and emergency (O,S &amp; E) procedures appropriate for your use of radioactive material. Please refer to <a title="Regulatory Guide 2.1" href="/radiation/regulatory-guides.aspx#21">Regulatory Guide 2.1</a> for more detailed information.<br/><br/></li>
-	<li>Submit appropriate fee. A nonrefundable fee shall be submitted with each new application. Refer to <a title="§289.204" href="/radiation/laws-rules.aspx#289204">§289.204</a> to determine the fee that should accompany the new application.<br/><br/>Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.<br/><br/></li>
+	<li>Submit appropriate fee. A nonrefundable fee shall be submitted with each new application. Refer to <a title="§289.204" href="/radiation/ram/laws-rules.aspx#289204">§289.204</a> to determine the fee that should accompany the new application.<br/><br/>Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.<br/><br/></li>
 </ul>
 
 <hr/>
@@ -93,12 +93,12 @@
 	<li>If radioactive material stored at the site listed on the license, was transferred to an authorized recipient, provide records documenting the transfer. Each transfer record must indicate the isotope, the activity of each source, model number of each device and/or sealed source, and serial number of each device and/or sealed source. The transfer record must also indicate the name, address and license number of the transferor and transferee, the signatures of a representative of the transferor and transferee and the date of transfer of the radioactive material.<br/><br/></li>
 	<li>Provide a copy of the most recent leak test record for each sealed source that was stored at the facility, if only sealed sources were used. Otherwise, a closeout survey for the facility where radioactive material was stored and/or used must be submitted.<br/><br/></li>
 </ul>
-<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="/radiation/laws-rules.aspx#289202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
+<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
 
 <hr/>
 <a class="bookmark" title="training" name="training"></a>
 <h2>Agency Accepted Radiation Safety Training Course List</h2>
 <p>A list of accepted radiation safety training courses is available as a courtesy to you. We do not recommend one course over another. It is a resource for you to use to find the course that best suits your needs or used to verify previous training documentation for new employees.</p>
-<p>The list of <a title="Accepted Radiation Safety Training Courses" href="/radiation/forms.aspx#255C">Accepted Radiation Safety Training Courses</a> is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</p>
+<p>The list of <a title="Accepted Radiation Safety Training Courses" href="/radiation/ram/forms.aspx#255C">Accepted Radiation Safety Training Courses</a> is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

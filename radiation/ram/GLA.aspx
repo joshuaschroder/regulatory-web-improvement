@@ -1,9 +1,9 @@
 <?php
 	$title= "General License Acknowledgements - Radioactive Materials" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_ram_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
-<p>There are two categories, listed below, of radioactive material that require the submission of an application for the possession of radioactive material for use under a general license acknowledgement (GLA). The general license is granted by <a title="Title 25 Texas Administrative Code (TAC) §289.251(g)" href="/radiation/laws-rules.aspx#289251">Title 25 Texas Administrative Code (TAC) §289.251(g)</a>.</p>
+<p>There are two categories, listed below, of radioactive material that require the submission of an application for the possession of radioactive material for use under a general license acknowledgement (GLA). The general license is granted by <a title="Title 25 Texas Administrative Code (TAC) §289.251(g)" href="/radiation/ram/laws-rules.aspx#289251">Title 25 Texas Administrative Code (TAC) §289.251(g)</a>.</p>
 
 <hr/>
 <h2>1. Certain Detecting, Measuring, Gauging, or Controlling Devices</h2>
@@ -17,21 +17,21 @@
 </ul>
 
 <h3>Application Process</h3>
-<p>To apply for a GLA for these devices, an <a title="Application for a General License Acknowledgement (RC Form 251-2)" href="/radiation/forms.aspx#2512">Application for a General License Acknowledgement (RC Form 251-2)</a> and <a title="Business Information Form (RC Form 252-1)" href="/radiation/forms.aspx#2521">Business Information Form (RC Form 252-1)</a> must be completed and submitted, along with the appropriate fee, within 30 days of receipt of the device.</p>
+<p>To apply for a GLA for these devices, an <a title="Application for a General License Acknowledgement (RC Form 251-2)" href="/radiation/ram/forms.aspx#2512">Application for a General License Acknowledgement (RC Form 251-2)</a> and <a title="Business Information Form (RC Form 252-1)" href="/radiation/ram/forms.aspx#2521">Business Information Form (RC Form 252-1)</a> must be completed and submitted, along with the appropriate fee, within 30 days of receipt of the device.</p>
 
 <hr/>
 <h2>2. In Vitro Clinical or Laboratory Testing</h2>
-<p>The second category involves radioactive material that is used for <em>in vitro</em> clinical or laboratory testing specified in <a title="25 TAC 289.251(f)(4)(G)" href="/radiation/laws-rules.aspx#289251">25 TAC 289.251(f)(4)(G)</a>.</p>
+<p>The second category involves radioactive material that is used for <em>in vitro</em> clinical or laboratory testing specified in <a title="25 TAC 289.251(f)(4)(G)" href="/radiation/ram/laws-rules.aspx#289251">25 TAC 289.251(f)(4)(G)</a>.</p>
 
 <h3>Application Process</h3>
-<p>To apply for a GLA for <em>in vitro</em> use, an <a title="Application for Acknowledgement to use the General License for in vitro Clinical or Laboratory Testing (RC Form 251-1)" href="/radiation/forms.aspx#2511">Application for Acknowledgement to use the General License for <em>in vitro</em> Clinical or Laboratory Testing (RC Form 251-1)</a> and <a title="Business Information Form (RC Form 252-1)" href="/radiation/forms.aspx#2521">Business Information Form (RC Form 252-1)</a> must be completed and submitted along with the appropriate fee. The GLA must be issued to your facility before the radioactive material can be possessed. </p>
+<p>To apply for a GLA for <em>in vitro</em> use, an <a title="Application for Acknowledgement to use the General License for in vitro Clinical or Laboratory Testing (RC Form 251-1)" href="/radiation/ram/forms.aspx#2511">Application for Acknowledgement to use the General License for <em>in vitro</em> Clinical or Laboratory Testing (RC Form 251-1)</a> and <a title="Business Information Form (RC Form 252-1)" href="/radiation/ram/forms.aspx#2521">Business Information Form (RC Form 252-1)</a> must be completed and submitted along with the appropriate fee. The GLA must be issued to your facility before the radioactive material can be possessed. </p>
 
 <hr/>
 <h2>Contact Information</h2>
 <p>Contact us with questions regarding General License Acknowledgements.</p>
 <p>
 	<strong>Application and Acknowledgement Issues</strong><br/>
-	Email: <a title="Sonia Hille" href="mailto:sonia.hille@dshs.state.tx.us ">Sonia Hille</a><br/>
+	Email: <a title="Sonia Hille" href="mailto:sonia.hille@dshs.state.tx.us">Sonia Hille</a><br/>
 	Phone: (512) 834-6688 ext. 2067
 </p>
 <p>

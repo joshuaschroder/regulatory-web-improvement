@@ -1,7 +1,7 @@
 <?php
 	$title= "Indoor Radon - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
 <hr/>
@@ -16,6 +16,7 @@
 	<li><a title="How Can I Test for Radon?" href="#test">How Can I Test for Radon?</a></li>
 	<li><a title="Where Do I Get a Radon Test Kit?" href="#kit">Where Do I Get a Radon Test Kit?</a></li>
 	<li><a title="Questions or Concerns" href="#questions">Questions or Concerns</a></li>
+	<li><a title="Radon Publications" href="#publications">Radon Publications</a></li>
 	<li><a title="Radon Links" href="#links">Radon Links</a></li>
 </ul>
 
@@ -88,6 +89,13 @@
 	Local Phone: (512) 834-6770 ext. 2004<br/>
 	Email: <a title="radon@dshs.state.tx.us" href="mailto:radon@dshs.state.tx.us">radon@dshs.state.tx.us</a>
 </p>
+
+<hr/>
+<a class="bookmark" title="publications" name="publications"></a>
+<h2>Radon Publications</h2>
+<ul>
+	<li><a title="Final Report of the Texas Indoor Radon Survey, June 1994" href="https://www.dshs.state.tx.us/radiation/pdffiles/RADONsrvy.pdf">Final Report of the Texas Indoor Radon Survey - June 1994</a> <span class="small">(PDF, 4.5MB)</span><br/>Results of a statewide radon survey conducted in 1991.</li>	
+</ul>
 
 <hr/>
 <a class="bookmark" title="links" name="links"></a>

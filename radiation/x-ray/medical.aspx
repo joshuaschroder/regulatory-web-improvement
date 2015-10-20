@@ -1,7 +1,7 @@
 <?php
 	$title= "Medical, Academic and Veterinary X-Ray Machine Registration" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 <hr/>
 <h2>Table of Contents</h2>
@@ -22,18 +22,18 @@
 <p>For a medical, academic, or veterinary Certificate of Registration, the following forms must be completed to register your medical or academic facility. Submit the completed forms along with the <a title="appropriate fee" href="#fees">appropriate fee</a>.</p>
 
 <ul>
-	<li><a title="RC Form 226-2 " href="/radiation/forms.aspx#2262">RC Form 226-2 </a>- Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities.</li>
-	<li><a title="RC Form 226-1" href="/radiation/forms.aspx#2261">RC Form 226-1</a> - Business Information Form</li>
-	<li><a title="RC Form 42-3" href="/radiation/forms.aspx#423">RC Form 42-3</a> - Radiation Safety Officer Information</li>
+	<li><a title="RC Form 226-2 " href="/radiation/x-ray/forms.aspx#2262">RC Form 226-2 </a>- Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities.</li>
+	<li><a title="RC Form 226-1" href="/radiation/x-ray/forms.aspx#2261">RC Form 226-1</a> - Business Information Form</li>
+	<li><a title="RC Form 42-3" href="/radiation/x-ray/forms.aspx#423">RC Form 42-3</a> - Radiation Safety Officer Information</li>
 </ul>
 
 <hr/>
 <a class="bookmark" title="amend" name="amend"></a>
 <h2>Amending a Certificate of Registration</h2>
-<p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="/radiation/forms.aspx#2262">RC Form 226-2</a>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
+<p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="/radiation/x-ray/forms.aspx#2262">RC Form 226-2</a>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
 
 <p><strong>Name and/or Ownership Change</strong> - See Regulatory Guide 8.2:  <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="/radiation/regulatory-guides.aspx#82">Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a></p>
-<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="/radiation/forms.aspx#423">RC Form 42-3</a></p>
+<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="/radiation/x-ray/forms.aspx#423">RC Form 42-3</a></p>
 
 <hr/>
 <a class="bookmark" title="fees" name="fees"></a>
@@ -107,12 +107,12 @@
 <hr/>
 <a class="bookmark" title="terminate" name="terminate"></a>
 <h2>Terminating a Certificate of Registration</h2>
-<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="/radiation/forms.aspx#17R">Request For Termination of Registration</a> form RC-17R.</p>
+<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="/radiation/x-ray/forms.aspx#17R">Request For Termination of Registration</a> form RC-17R.</p>
 
 <hr/>
 <a class="bookmark" title="delete" name="delete"></a>
 <h2>Deleting or Transferring a Machine</h2>
-<p>To delete or transfer a medical X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="/radiation/forms.aspx#18R">Radiation Machine Transfer/Disposal</a> form RC-18R.</p>
+<p>To delete or transfer a medical X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="/radiation/x-ray/forms.aspx#18R">Radiation Machine Transfer/Disposal</a> form RC-18R.</p>
 
 <hr/>
 <a class="bookmark" title="address" name="address"></a>
@@ -128,13 +128,13 @@
 <hr/>
 <a class="bookmark" title="procedures" name="procedures"></a>
 <h2>Operating and Safety Procedures</h2>
-<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227(i)" href="/radiation/laws-rules.aspx#289227">&#0167;289.227(i)</a> and <a title="&#0167;289.229" href="/radiation/laws-rules.aspx#289229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help you develop procedures unique to your facility. Choose the guide that addresses your type of facility:</p>
+<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227(i)" href="/radiation/x-ray/laws-rules.aspx#289227">&#0167;289.227(i)</a> and <a title="&#0167;289.229" href="/radiation/x-ray/laws-rules.aspx#289229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help you develop procedures unique to your facility. Choose the guide that addresses your type of facility:</p>
 <ul>
 	<li><a title="Regulatory Guide 4.3" href="/radiation/regulatory-guides.aspx#43">Regulatory Guide 4.3 - Healing Arts of Medicine, Podiatry and Chiropractic</a></li>
 	<li><a title="Regulatory Guide 4.5" href="/radiation/regulatory-guides.aspx#45">Regulatory Guide 4.5 - Veterinary Medicine</a></li>
 	<li><a title="Regulatory Guide 4.6" href="/radiation/regulatory-guides.aspx#46">Regulatory Guide 4.6 - Accelerators, Therapeutic Radiation Machines and Simulators</a></li>
 </ul>
-<p>For registrants with an accelerator, <a title="Form LRS-35" href="/radiation/forms.aspx#35">Form LRS-35</a> will help you in providing the necessary shielding and room design information.</p>
+<p>For registrants with an accelerator, <a title="Form LRS-35" href="/radiation/x-ray/forms.aspx#35">Form LRS-35</a> will help you in providing the necessary shielding and room design information.</p>
 
 <hr/>
 <a class="bookmark" title="screening" name="screening"></a>

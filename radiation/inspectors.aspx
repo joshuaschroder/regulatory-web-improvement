@@ -1,7 +1,7 @@
 <?php
 	$title= "Inspectors - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 <style type="text/css">
 	#TOC {text-align:center;}
@@ -368,7 +368,7 @@
 		<tbody>
 			<tr>
 				<td headers="table_heading_0">Mammography</td>
-				<td headers="table_heading_1"><a title="Nina.Fassell@dshs.state.tx.us " href="mailto:Nina.Fassell@dshs.state.tx.us ">Nina Fassell</a></td>
+				<td headers="table_heading_1"><a title="Nina.Fassell@dshs.state.tx.us" href="mailto:Nina.Fassell@dshs.state.tx.us">Nina Fassell</a></td>
 				<td headers="table_heading_2">(210) 619-8269</td>
 			</tr>
 			<tr>

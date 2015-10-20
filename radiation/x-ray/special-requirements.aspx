@@ -1,7 +1,7 @@
 <?php
 	$title= "Special Requirements and Exemptions - X-Ray Registration" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/rad_xray_menu.html'; 
+    include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 
 <hr/>
@@ -21,7 +21,7 @@
 	</ul>
 	<br/>
 	</li>
-	<li>In addition, the facility must submit operating procedures for bone densitometers and the manufacturer's evaluation of the system to be used in the screening program.  The evaluation shall show that such systems do satisfy the requirements of <a title="25 TAC &#1067;289.227" href="/radiation/laws-rules.aspx#289227">25 TAC &#0167;289.227</a>.</li>
+	<li>In addition, the facility must submit operating procedures for bone densitometers and the manufacturer's evaluation of the system to be used in the screening program.  The evaluation shall show that such systems do satisfy the requirements of <a title="25 TAC &#1067;289.227" href="/radiation/x-ray/laws-rules.aspx#289227">25 TAC &#0167;289.227</a>.</li>
 </ol>
 
 <p>A certificate of registration authorizing self referred osteoporosis screening must be obtained prior to providing this service.</p>
