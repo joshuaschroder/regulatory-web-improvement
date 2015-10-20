@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad_menu.html'; 
 ?>
 <style type="text/css">
-	td {padding: 10px 5px !important;}
+	td {padding: 10px 5px !important; vertical-align:middle;}
 </style>
 <hr/>
 <h2>Table of Contents</h2>

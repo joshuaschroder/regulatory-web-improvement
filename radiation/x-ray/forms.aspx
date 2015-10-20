@@ -43,7 +43,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="423" name="423"></a>RC 42-3</td>
-			<td headers="table_heading_1"><a title="Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">Radiation Safety Officer Information for Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			<td headers="table_heading_1"><a title="Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">Radiation Safety Officer Information for Registration</a> <span class="small">(PDF, 301KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="204" name="204"></a>RC 204</td>

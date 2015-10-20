@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/trab_menu.html'; 
 ?>
 
-<p>Texas Health and Safety Code, &#1067;401.0181, effective September 1, 1999, states:</p>
+<p>Texas Health and Safety Code, &#0167;401.0181, effective September 1, 1999, states:</p>
 <blockquote cite="http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.401.htm">
 	The advisory board shall develop and implement policies that provide the public with a reasonable opportunity to appear before the advisory board and to speak on any issue under the jurisdiction of the advisory board
 </blockquote>

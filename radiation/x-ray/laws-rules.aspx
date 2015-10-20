@@ -1,5 +1,5 @@
 <?php
-	$title= "Rules and Regulations - X-Ray Machines and Services" ;
+	$title= "Laws and Rules - X-Ray Machines and Services" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>

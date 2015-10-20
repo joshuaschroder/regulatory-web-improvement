@@ -1,5 +1,5 @@
 <?php
-	$title= "Frequently Asked Questions about Radiation Machine Registration" ;
+	$title= "Frequently Asked Questions about Renewal and Payment" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
