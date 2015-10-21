@@ -42,7 +42,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="289101" name="289101"></a><a title="Texas Administrative Code, Title 25, §289.101 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=101">§289.101 <span class="small">(HTML)</span></a><br /><a title="Texas Administrative Code, Title 25, §289.101 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/101-fn-9-2014.pdf">§289.101 <span class="small">(PDF, 26KB)</span></a></td>
+			<td headers="table_heading_0"><a class="bookmark" title="289101" name="289101"></a><a title="Texas Administrative Code, Title 25, §289.101 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=101">§289.101 <span class="small">(HTML)</span></a><br /><a title="Texas Administrative Code, Title 25, §289.101 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991117">§289.101 <span class="small">(PDF, 26KB)</span></a></td>
 			<td headers="table_heading_1">Memorandum of Understanding Between the Department of State Health Services and the Texas Commission on Environmental Quality Regarding Radiation Control Functions</td>
 			<td headers="table_heading_2">09/07/14</td>
 		</tr>
@@ -102,7 +102,7 @@
 			<td headers="table_heading_2">10/01/11</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="289204" name="289204"></a><a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 129KB) </span></a><a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br /></td>
+			<td headers="table_heading_0"><a class="bookmark" title="289204" name="289204"></a><a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 129KB) </span></a><a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br /></td>
 			<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
 			<td headers="table_heading_2">09/07/14</td>
 		</tr>
@@ -112,7 +112,7 @@
 			<td headers="table_heading_2">12/27/07</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="289226" name="289226"></a><a title="Texas Administrative Code, Title 25, §289.226 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=226">§289.226 <span class="small">(HTML)</span></a><br /><a title="Texas Administrative Code, Title 25, §289.226 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/226-fn-12-2013.pdf">§289.226 <span class="small">(PDF, 217KB)</span></a></td>
+			<td headers="table_heading_0"><a class="bookmark" title="289226" name="289226"></a><a title="Texas Administrative Code, Title 25, §289.226 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=226">§289.226 <span class="small">(HTML)</span></a><br /><a title="Texas Administrative Code, Title 25, §289.226 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589983446">§289.226 <span class="small">(PDF, 217KB)</span></a></td>
 			<td headers="table_heading_1">Registration of Radiation Machine Use and Services</td>
 			<td headers="table_heading_2">12/17/13</td>
 		</tr>
@@ -132,7 +132,7 @@
 			<td headers="table_heading_2">12/29/11</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="289230" name="289230"></a><a title="Texas Administrative Code, Title 25, §289.230 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=230">§289.230 <span class="small">(HTML)</span></a><br /><a title="Texas Administrative Code, Title 25, §289.230 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/230fn_4_2012Rev713pdf.pdf">§289.230 <span class="small">(PDF, 378KB)</span></a></td>
+			<td headers="table_heading_0"><a class="bookmark" title="289230" name="289230"></a><a title="Texas Administrative Code, Title 25, §289.230 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=230">§289.230 <span class="small">(HTML)</span></a><br /><a title="Texas Administrative Code, Title 25, §289.230 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589979239">§289.230 <span class="small">(PDF, 378KB)</span></a></td>
 			<td headers="table_heading_1">Certification of Mammography Systems and Mammography Machines Used for Interventional Breast Radiography</td>
 			<td headers="table_heading_2">04/29/12</td>
 		</tr>

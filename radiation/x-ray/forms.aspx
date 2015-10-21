@@ -71,11 +71,15 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2269" name="2269"></a>RC 226-9</td>
-			<td headers="table_heading_1"><a title="Healing Arts Screening Requirements for Atherosclerosis" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59245">Healing Arts Screening Requirements for Atherosclerosis</a> <span class="small">(PDF, 18KB)</span></td>
+			<td headers="table_heading_1"><a title="Authorization for Self-Referred CT Coronary Calcium Screening" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59245">Authorization for Self-Referred CT Coronary Calcium Screening</a> <span class="small">(PDF, 48KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="22610" name="22610"></a>RC 226-10</td>
 			<td headers="table_heading_1"><a title="Healing Arts Screening Requirements for Osteoporosis" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59244">Healing Arts Screening Requirements for Osteoporosis</a> <span class="small">(PDF, 18KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="22611" name="22611"></a>RC 226-11</td>
+			<td headers="table_heading_1"><a title="Authorization for Self-Referred Low Dosage CT Lung Cancer Screening" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002526">Authorization for Self-Referred Low Dosage CT Lung Cancer Screening</a> <span class="small">(PDF, 35KB)</span></td>
 		</tr>		
 	</tbody>
 </table>

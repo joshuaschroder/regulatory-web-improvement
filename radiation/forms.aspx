@@ -123,11 +123,15 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2269" name="2269"></a>RC 226-9</td>
-			<td headers="table_heading_1"><a title="Healing Arts Screening Requirements for Atherosclerosis" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59245">Healing Arts Screening Requirements for Atherosclerosis</a> <span class="small">(PDF, 18KB)</span></td>
+			<td headers="table_heading_1"><a title="Authorization for Self-Referred CT Coronary Calcium Screening" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59245">Authorization for Self-Referred CT Coronary Calcium Screening</a> <span class="small">(PDF, 48KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="22610" name="22610"></a>RC 226-10</td>
 			<td headers="table_heading_1"><a title="Healing Arts Screening Requirements for Osteoporosis" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=59244">Healing Arts Screening Requirements for Osteoporosis</a> <span class="small">(PDF, 18KB)</span></td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="22611" name="22611"></a>RC 226-11</td>
+			<td headers="table_heading_1"><a title="Authorization for Self-Referred Low Dosage CT Lung Cancer Screening" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002526">Authorization for Self-Referred Low Dosage CT Lung Cancer Screening</a> <span class="small">(PDF, 35KB)</span></td>
 		</tr>		
 	</tbody>
 </table>
@@ -388,19 +392,19 @@
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2301" name="2301"></a>RC 230-1</td>
-			<td headers="table_heading_1"><a title="Application for Mammography Certification - New Facility or Renewal" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-1-CertNewRenewal(fillable).pdf">Application for Mammography Certification - New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span></td>
+			<td headers="table_heading_1"><a title="Application for Mammography Certification - New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981247">Application for Mammography Certification - New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2302" name="2302"></a>RC 230-2</td>
-			<td headers="table_heading_1"><a title="Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-2CertAmend(fillable).pdf">Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></td>
+			<td headers="table_heading_1"><a title="Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981246">Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2303" name="2303"></a>RC 230-3</td>
-			<td headers="table_heading_1"><a title="Application for Interventional Breast Radiography - New Facility or Renewal" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-3BiopsyNewRenewal(fillable).pdf">Application for Interventional Breast Radiography - New Facility or Renewal</a> <span class="small">(PDF, 73KB)</span></td>
+			<td headers="table_heading_1"><a title="Application for Interventional Breast Radiography - New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981244">Application for Interventional Breast Radiography - New Facility or Renewal</a> <span class="small">(PDF, 73KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2304" name="2304"></a>RC 230-4</td>
-			<td headers="table_heading_1"><a title="Amendment Application for Interventional Breast Radiography" href="http://www.dshs.state.tx.us/radiation/pdffiles/Mammo/RC230-4BiopsyAmendment(fillable).pdf">Amendment Application for Interventional Breast Radiography</a> <span class="small">(PDF, 77KB)</span></td>
+			<td headers="table_heading_1"><a title="Amendment Application for Interventional Breast Radiography" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981248">Amendment Application for Interventional Breast Radiography</a> <span class="small">(PDF, 77KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="23043" name="23043"></a>RC 230-43</td>
