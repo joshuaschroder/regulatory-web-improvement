@@ -36,7 +36,7 @@
 	</tr>
 	<tr>
 		<td style="vertical-align:middle; width:26%; text-align:center;"><img alt="epa logo" src="http://www.dshs.state.tx.us/uploadedImages/Content/Prevention_and_Preparedness/comprep/images/eap.gif" width="140" height="111" /></td>
-		<td style="vertical-align:middle; width:74%;"><strong><a title="EPA WIPP Program Page" href="http://www.epa.gov/radiation/wipp/">EPA WIPP Program Page</a> -- Federal Regulatory Agency for radioactive waste disposal at WIPP</strong><br /></td>
+		<td style="vertical-align:middle; width:74%;"><strong><a title="EPA WIPP Program Page" href="http://www2.epa.gov/radiation/waste-isolation-pilot-plant-wipp">EPA WIPP Program Page</a> -- Federal Regulatory Agency for radioactive waste disposal at WIPP</strong><br /></td>
 	</tr>
 </table>
 

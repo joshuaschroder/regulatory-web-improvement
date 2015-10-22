@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
 ?>
 
-<p>The <a title="South Texas Project Electric Generating Station (STPEGS)" href="http://www.stpnoc.com/">South Texas Project Electric Generating Station (STPEGS)</a> is located in Matagorda County, Texas. The plant site is approximately 13 miles south-southwest of Bay City, 12 miles northeast of Palacios, Texas, and 90 miles southwest of Houston, Texas.</p>
+<p>The <a title="South Texas Project Electric Generating Station (STPEGS)" href="http://www.stpegs.com/">South Texas Project Electric Generating Station (STPEGS)</a> is located in Matagorda County, Texas. The plant site is approximately 13 miles south-southwest of Bay City, 12 miles northeast of Palacios, Texas, and 90 miles southwest of Houston, Texas.</p>
 
 <hr/>
 <h2>Radiation Control's Role</h2>
