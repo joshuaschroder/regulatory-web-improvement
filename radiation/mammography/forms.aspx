@@ -26,7 +26,20 @@
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="18M" name="18M"></a>RC 18-M</td>
 			<td headers="table_heading_1"><a title="Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20004">Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="423" name="423"></a>RC 42-3</td>
+			<td headers="table_heading_1"><a title="Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">Radiation Safety Officer Information for Registration</a> <span class="small">(PDF, 301KB)</span></td>
 		</tr>		
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="204" name="204"></a>RC 204</td>
+			<td headers="table_heading_1"><a title="Schedule of Biennial Fees for Registration for Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">Schedule of Biennial Fees for Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
+			<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
+		</tr>
+		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2301" name="2301"></a>RC 230-1</td>
 			<td headers="table_heading_1"><a title="Application for Mammography Certification - New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981247">Application for Mammography Certification - New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span></td>

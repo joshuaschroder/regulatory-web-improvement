@@ -24,11 +24,14 @@
 
 <p>For a new Certificate of Registration for industrial radiation machines, please submit the following along with the appropriate fee:</p>
 <ul>
-	<li><a title="RC Form 226-3" href="/radiation/x-ray/forms.aspx#2263">RC Form 226-3</a> - Application for Registration of Industrial Radiation Machines. </li>
+	<li>
+		<a title="RC Form 226-3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">RC Form 226-3 - Application for Registration of Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span>.<br/> 
+		Also see: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>.
+	</li>
 	<li>Radiation Safety Officer (RSO) qualifications -- submit documentation of experience, education, and/or training. </li>
-	<li><a title="RC Form 226-1" href="/radiation/x-ray/forms.aspx#2261">RC Form 226-1</a> - Business Information Form. </li>
-	<li>To determine the fee for your facility refer to <a title="Title 25 Texas Administrative Code (TAC) §289.204." href="/radiation/x-ray/laws-rules.aspx#289204">Title 25 Texas Administrative Code (TAC) §289.204.</a> </li>
-	<li>For registration and radiation safety requirements for industrial X-ray equipment please refer to <a title="25 TAC §289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 TAC §289.226</a> and <a title="25 TAC §289.228" href="/radiation/x-ray/laws-rules.aspx#289228">§289.228</a>. </li>
+	<li><a title="RC Form 226-1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">RC Form 226-1 - Business Information Form</a> <span class="small">(PDF, 24KB)</span>. </li>
+	<li>To determine the fee for your facility refer to <a title="Title 25 Texas Administrative Code (TAC) §289.204." href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">Title 25 Texas Administrative Code (TAC) §289.204.</a> </li>
+	<li>For registration and radiation safety requirements for industrial X-ray equipment please refer to <a title="25 TAC §289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 TAC §289.226</a> and <a title="25 TAC §289.228" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=228">§289.228</a>. </li>
 </ul>
 
 <p>For information please contact <a title="Karen Verser" href="mailto:karen.verser@dshs.state.tx.us?subject=Industrial%20X-Ray%20Equipment%20Registration">Karen Verser</a> at (512) 834-6688, ext. 2233, or <a title="Elisabeth Gerber" href="mailto:elisabeth.gerber@dshs.state.tx.us?subject=Industrial%20X-Ray%20Equipment%20Registration">Elisabeth Gerber</a> at (512) 834-6688, ext. 2248.</p>
@@ -39,12 +42,15 @@
 <p>For a new Certificate of Registration for Radiation Machines Services, please submit the following along with the appropriate fee:</p>
 
 <ul>
-	<li><a title="RC Form 226-5" href="/radiation/x-ray/forms.aspx#2265">RC Form 226-5</a> - Application for Registration of Radiation Machine Services. </li>
+	<li>
+		<a title="RC Form 226-5" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">RC Form 226-5 - Application for Registration of Radiation Machine Services</a><br/>. 
+		Also see: <a title="Instructions for Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975467">Instructions for Radiation Machine Services Application</a> <span class="small">(PDF, 67KB)</span>.
+	</li>
 	<li>Radiation Safety Officer (RSO) qualifications -- submit documentation of experience, education, and/or training. </li>
-	<li>Qualifications for persons performing radiation machine assembly, installation, or repair, according to <a title="25 TAC §289.226(t)(3)" href="/radiation/x-ray/laws-rules.aspx#289226">25 TAC §289.226(t)(3)</a>. </li>
-	<li><a title="RC Form 226-1" href="/radiation/x-ray/forms.aspx#2261">RC Form 226-1</a> – Business Information Form. </li>
-	<li>Include a fee of $290.00 according to <a title="25 TAC §289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC §289.204</a>. </li>
-	<li>For registration and radiation safety requirements for X-ray radiation machine services, please refer to <a title="25 TAC §289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 TAC §289.226</a>. </li>
+	<li>Qualifications for persons performing radiation machine assembly, installation, or repair, according to <a title="25 TAC §289.226(t)(3)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 TAC §289.226(t)(3)</a>. </li>
+	<li><a title="RC Form 226-1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">RC Form 226-1 – Business Information Form</a> <span class="small">(PDF, 24KB)</span>. </li>
+	<li>Include a fee of $290.00 according to <a title="25 TAC §289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">25 TAC §289.204</a>. </li>
+	<li>For registration and radiation safety requirements for X-ray radiation machine services, please refer to <a title="25 TAC §289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 TAC §289.226</a>. </li>
 </ul>
 
 <p>For information please contact <a title="Karen Verser" href="mailto:karen.verser@dshs.state.tx.us?subject=X-Ray%20Radiation%20Machine%20Service%20Company%20Registration">Karen Verser</a> at (512) 834-6688, ext. 2233, or <a title="Elisabeth Gerber" href="mailto:elisabeth.gerber@dshs.state.tx.us?subject=X-Ray%20Radiation%20Machine%20Service%20Company%20Registration">Elisabeth Gerber</a> at (512) 834-6688, ext. 2248.</p>
@@ -52,14 +58,14 @@
 <hr/>
 <a class="bookmark" title="amend" name="amend"></a>
 <h2>Amending a Certificate of Registration</h2>
-<p>When submitting a request to amend your industrial registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-3" href="/radiation/x-ray/forms.aspx#2263">RC Form 226-3</a>, indicating the change in item 9. Always reference your registration number and include any additional information needed to process your request.</p>
+<p>When submitting a request to amend your industrial registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">RC Form 226-3</a> <span class="small">(PDF, 32KB)</span>, indicating the change in item 9. Always reference your registration number and include any additional information needed to process your request. Also see <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span></p>
 
 <p><strong>Radiation Safety Officer Change</strong> - Submit a letter requesting the change with documentation of training and experience with the type of X-ray equipment you are registered for.</p>
 
 <hr/>
 <a class="bookmark" title="fees" name="fees"></a>
 <h2>Fee Schedule</h2>
-<p>Fees are established in <a title="25 TAC, &#167;289.204(j)" href="/radiation/x-ray/laws-rules.aspx#289204j">25 TAC, &#167;289.204(j)</a>. Each application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate annual fee. Please note, we are not able to accept applications or payments by email.</p>
+<p>Fees are established in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a>. Each application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate annual fee. Please note, we are not able to accept applications or payments by email.</p>
 
 <!--table class="zebraBorder layout" summary="sorted alphabetically by category first, then by type of use" style="width:100%;">
 	<caption>Schedule of Application Fees for Industrial X-Ray Registration</caption>
@@ -174,12 +180,12 @@
 <hr/>
 <a class="bookmark" title="termination" name="termination"></a>
 <h2>Terminating a Certificate of Registration</h2>
-<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="/radiation/x-ray/forms.aspx#17R">Request For Termination of Registration</a> form RC-17R.</p>
+<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Form RC-17R, Request For Termination of Registration</a> <span class="small">(PDF, 24KB)</span>.</p>
 
 <hr/>
 <a class="bookmark" title="delete" name="delete"></a>
 <h2>Deleting or Transferring a Machine</h2>
-<p>To delete or transfer an industrial X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="/radiation/x-ray/forms.aspx#18R">Radiation Machine Transfer/Disposal</a> form RC-18R.</p>
+<p>To delete or transfer an industrial X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">Form RC-18R, Radiation Machine Transfer/Disposal</a> <span class="small">(PDF, 16KB)</span>.</p>
 
 <hr/>
 <a class="bookmark" title="addresses" name="addresses"></a>

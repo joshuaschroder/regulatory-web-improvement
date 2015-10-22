@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
 <style type="text/css">
-	td {padding: 10px 5px !important; vertical-align:middle;}
+	#body td {padding: 10px 5px !important; vertical-align:middle;}
 </style>
 <hr/>
 <a class="bookmark" title="Radioactive Materials" name="RAM" id="license"></a>
@@ -79,6 +79,25 @@
 		</tr>
 	</tbody>
 </table>
+
+<a class="bookmark" title="training" name="training"></a>
+<h2>Training and Qualification</h2>
+<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+	<caption>Training and Qualification Documents</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:20%;">Document Number</th>
+			<th id="table_heading_1" style="width:80%;">Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="255C" name="255C"></a>RC 255-C</td>
+			<td headers="table_heading_1"><a class="bookmark" title="255C" name="255C"></a><a title="Accepted Radiation Safety Training Courses" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993780">Accepted Radiation Safety Training Courses</a> <span class="small">(PDF, 66KB)</span></td>
+		</tr>		
+	</tbody>
+</table>
+
 
 <hr/>
 <a class="bookmark" title="Licensing Reciprocity" name="reciprocity"></a>

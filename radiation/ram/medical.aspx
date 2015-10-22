@@ -3,15 +3,36 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
-
+<style type="text/css">
+	#body td {padding: 10px 5px !important; vertical-align:middle;}
+</style>
 <hr/>
 <h2>Instructions to Apply for a License for Human Use of Radioactive Material</h2>
-<p>The following forms should be used when applying for a new license or renewing an existing license or if adding a new authorized physician user:</p>
-<ul>
-	<li><a title="License Application for Human Use of Radioactive Materials - RC Form 252-2a" href="/radiation/ram/forms.aspx#2522a">License Application for Human Use of Radioactive Materials (RC Form 252-2a)</a></li>
-	<li><a title="Preceptor Statement For License Application - RC Form 252-2b" href="/radiation/ram/forms.aspx#2522b">Preceptor Statement For License Application (RC Form 252-2b)</a></li>
-	<li><a title="Guide for the Preparation of License Applications for the Medical Use of Radioactive Material" href="/radiation/regulatory-guides.aspx#31">Guide for the Preparation of License Applications for the Medical Use of Radioactive Material</a></li>
-</ul>
+<p>The following documents should be used when applying for a new license or renewing an existing license or if adding a new authorized physician user:</p>
+
+<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+	<caption>Medical and Academic Radioactive Materials License Documents</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:20%;">Document Number</th>
+			<th id="table_heading_1" style="width:80%;">Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="2522a" name="2522a"></a>RC 252-2a</td>
+			<td headers="table_heading_1"><a title="Radioactive Material License - Medical Uses" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992453">Radioactive Material License -- Medical Uses</a> <span class="small">(PDF, 95KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="2522b" name="2522b"></a>RC 252-2b</td>
+			<td headers="table_heading_1"><a title="Preceptor Statement for License Application - Medical" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992451">Preceptor Statement for License Application -- Medical</a> <span class="small">(PDF, 93KB)</span></td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" name="31" title="31"></a>Regulatory Guide 3.1</td>
+			<td headers="table_heading_1"><a title="Preparation of License Applications for the Medical Use of Radioactive Material" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968791">Preparation of License Applications for the Medical Use of Radioactive Material</a> <span class="small">(PDF, 149KB)</span></td>
+		</tr>
+	</tbody>
+</table>
 
 <hr/>
 <h2>Other Guidance Information</h2>

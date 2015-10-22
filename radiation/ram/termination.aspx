@@ -3,7 +3,7 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
-<p>Before an area can be released for unrestricted use, you are required to submit survey and/or sample results verifying compliance with <a title="Title 25 Texas Administrative Code §289.202(eee)" href="/radiation/ram/laws-rules.aspx#289202">Title 25 Texas Administrative Code §289.202(eee)</a>. Provide the following information:</p>
+<p>Before an area can be released for unrestricted use, you are required to submit survey and/or sample results verifying compliance with <a title="Title 25 Texas Administrative Code §289.202(eee)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">Title 25 Texas Administrative Code §289.202(eee)</a>. Provide the following information:</p>
 
 <hr/>
 <h2>Written Request</h2>

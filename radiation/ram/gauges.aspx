@@ -18,38 +18,38 @@
 <hr/>
 <a class="bookmark" title="RSO" name="RSO"></a>
 <h2>General Radiation Safety Officer (RSO) Qualifications</h2>
-<p>For most industrial uses, the following documentation of qualifications must be submitted for the RSO. General <strong><em>minimum</em></strong> qualifications are outlined in <a title="Title 25 Texas Administrative Code §289.252(f)" href="/radiation/ram/laws-rules.aspx#289252">Title 25 Texas Administrative Code §289.252(f)</a>:</p>
+<p>For most industrial uses, the following documentation of qualifications must be submitted for the RSO. General <strong><em>minimum</em></strong> qualifications are outlined in <a title="Title 25 Texas Administrative Code §289.252(f)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">Title 25 Texas Administrative Code §289.252(f)</a>:</p>
 <ul>
 	<li>High school diploma or GED</li>
 	<li>Training <em>and</em> experience appropriate for the authorized use on the license</li>
 </ul>
 <h3>Radiation Control Accepted Radiation Safety Training Course List</h3>
 <p>A list of accepted radiation safety training courses is available as a courtesy to you. We do not recommend one course over another. It is a resource for you to use to find the course that best suits your needs or used to verify previous training documentation for new radiography employees.</p>
-<p>The list of <a title="Accepted Radiation Safety Training Courses" href="/radiation/ram/forms.aspx#255C">Accepted Radiation Safety Training Courses</a> is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</p>
+<p>The list of <a title="Accepted Radiation Safety Training Courses" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993780">Accepted Radiation Safety Training Courses</a> <span class="small">(PDF, 66KB)</span> is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</p>
 
 <hr/>
 <a class="bookmark" title="regulations" name="regulations"></a>
 <h2>Applicable Regulations</h2>
 <p>The requirements of the following sections of Title 25, Texas Administrative Code (TAC), Chapter 289 apply to the use of radioactive material in moisture/density, spinning pipe and fixed gauge operations and X-ray fluorescence analyzers:</p>
 <ul>
-	<li><a title="§289.201 General Provisions for Radioactive Material " href="/radiation/ram/laws-rules.aspx#289201">§289.201 General Provisions for Radioactive Material </a></li>
-	<li><a title="§289.202 Standards for Protection Against Radiation from Radioactive Material " href="/radiation/ram/laws-rules.aspx#289202">§289.202 Standards for Protection Against Radiation from Radioactive Material </a></li>
-	<li><a title="§289.203 Notices, Instructions, and Reports to Workers; Inspections " href="/radiation/ram/laws-rules.aspx#289203">§289.203 Notices, Instructions, and Reports to Workers; Inspections </a></li>
-	<li><a title="§289.204 Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services " href="/radiation/ram/laws-rules.aspx#289204">§289.204 Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</a></li>
-	<li><a title="§289.205 Hearing and Enforcement Procedures" href="/radiation/ram/laws-rules.aspx#289205">§289.205 Hearing and Enforcement Procedures</a></li>
-	<li><a title="§289.251 Exemptions, General Licenses, and General License Acknowledgements" href="/radiation/ram/laws-rules.aspx#289251">§289.251 Exemptions, General Licenses, and General License Acknowledgements</a></li>
-	<li><a title="§289.252 Licensing of Radioactive Material" href="/radiation/ram/laws-rules.aspx#289252">§289.252 Licensing of Radioactive Material</a></li>
-	<li><a title="§289.257 Packaging and Transportation of Radioactive Material (applicable if the device you are licensing will be used at temporary job sites)" href="/radiation/ram/laws-rules.aspx#289257">§289.257 Packaging and Transportation of Radioactive Material </a><br/>(applicable if the device you are licensing will be used at temporary job sites)</li>
+	<li><a title="§289.201 General Provisions for Radioactive Material " href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=201">§289.201 General Provisions for Radioactive Material </a></li>
+	<li><a title="§289.202 Standards for Protection Against Radiation from Radioactive Material " href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">§289.202 Standards for Protection Against Radiation from Radioactive Material </a></li>
+	<li><a title="§289.203 Notices, Instructions, and Reports to Workers; Inspections " href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=203">§289.203 Notices, Instructions, and Reports to Workers; Inspections </a></li>
+	<li><a title="§289.204 Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services " href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">§289.204 Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</a></li>
+	<li><a title="§289.205 Hearing and Enforcement Procedures" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=205">§289.205 Hearing and Enforcement Procedures</a></li>
+	<li><a title="§289.251 Exemptions, General Licenses, and General License Acknowledgements" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=251">§289.251 Exemptions, General Licenses, and General License Acknowledgements</a></li>
+	<li><a title="§289.252 Licensing of Radioactive Material" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">§289.252 Licensing of Radioactive Material</a></li>
+	<li><a title="§289.257 Packaging and Transportation of Radioactive Material (applicable if the device you are licensing will be used at temporary job sites)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=257">§289.257 Packaging and Transportation of Radioactive Material </a><br/>(applicable if the device you are licensing will be used at temporary job sites)</li>
 </ul>
 <p>Radiation Control will provide one printed copy of the applicable sections of the rules. It is the licensee's responsibility to ensure that its facility and any additional authorized sites are provided with copies of the applicable rules. These rules may be duplicated or can be downloaded from this site. For a charge, you may request rules on disk or additional hard copies.</p>
 
 <hr/>
 <a class="bookmark" title="application" name="application"></a>
 <h2>Completing the Application</h2>
-<p>See the Applications and Forms page for a downloadable copy of the <a title="Radioactive Material License Application (RC Form 252-2)" href="/radiation/ram/forms.aspx#2522">Radioactive Material License Application (RC 252-2)</a>.</p>
+<p>Complete and submit <a title="Radioactive Material License Application (RC Form 252-2)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992450">RC 252-2, Radioactive Material License Application</a> <span class="small">(PDF, 67KB)</span>.</p>
 
 <h3>Item 1. Legal Business Name and Mailing Address of Applicant</h3>
-<p>Enter the company name and mailing address. The name (or DBA) should correspond to the name on <a title="Radiation Control Form 252-1" href="/radiation/ram/forms.aspx#2521">Radiation Control Form 252-1</a>. The applicant is the organization or person legally responsible for the possession and use of the radioactive material. The address specified here must be your mailing address for correspondence. This may or may not be the same as the address where the material will be stored or used.</p>
+<p>Enter the company name and mailing address. The name (or DBA) should correspond to the name on <a title="Radiation Control Form 252-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992452">RC 252-1, Business Information Form</a> <span class="small">(PDF, 54KB)</span>. The applicant is the organization or person legally responsible for the possession and use of the radioactive material. The address specified here must be your mailing address for correspondence. This may or may not be the same as the address where the material will be stored or used.</p>
 
 <p>NOTE: Radiation Control will not issue a license addressed to a company or person residing outside the state of Texas.</p>
 
@@ -87,7 +87,7 @@
 		<br/>
 	</li>
 	<li>Indicate security precautions taken to prevent theft or unauthorized use or removal of the radioactive materials.<br/><br/></li>
-	<li>In accordance with <a title="25 TAC §289.252" href="/radiation/ram/laws-rules.aspx#289252">25 TAC §289.252</a>, if the proposed storage facility is not owned by your company, provide a copy of a letter from the owner or authorized agent of the property stating that the individual is aware that you are storing devices containing radioactive material on the property.</li>
+	<li>In accordance with <a title="25 TAC §289.252" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">25 TAC §289.252</a>, if the proposed storage facility is not owned by your company, provide a copy of a letter from the owner or authorized agent of the property stating that the individual is aware that you are storing devices containing radioactive material on the property.</li>
 </ol>
 
 <h3>Temporary Jobsite Storage</h3>
@@ -102,21 +102,21 @@
 <hr/>
 <a class="bookmark" title="OSE" name="OSE"></a>
 <h2>Operating, Safety, and Emergency Procedures (O, S, &amp; E)</h2>
-<p>The purpose of O, S, &amp; E procedures is to provide radioactive material users with clear and specific guidance and instructions for all radioactive material handling operations they will perform. O, S, &amp; E procedures must be written and submitted to Radiation Control for approval as part of your application in accordance with <a title="§289.252(e)(7)" href="/radiation/ram/laws-rules.aspx#289252">§289.252(e)(7)</a>. The manual should include, but not be limited to the following topics:</p>
+<p>The purpose of O, S, &amp; E procedures is to provide radioactive material users with clear and specific guidance and instructions for all radioactive material handling operations they will perform. O, S, &amp; E procedures must be written and submitted to Radiation Control for approval as part of your application in accordance with <a title="§289.252(e)(7)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">§289.252(e)(7)</a>. The manual should include, but not be limited to the following topics:</p>
 
 <h3>Management Structure and Its Responsibilities</h3>
 <p>Provide a description of the management structure, and the RSO's position in that structure. Describe the company's policy with respect to maintaining exposure As Low As Reasonably Achievable (ALARA).</p>
 
 <h3>Radiation Safety Officer Duties</h3>
-<p>Explain the RSO's duties in the company with emphasis on overseeing the radiation safety program. Describe records of administration, radiation surveys, periodic field inspections, etc. that will be performed by the RSO. A listing of the duties and responsibilities of the RSO is given in <a title="25 TAC §289.252" href="/radiation/ram/laws-rules.aspx#289252">25 TAC §289.252</a>.</p>
+<p>Explain the RSO's duties in the company with emphasis on overseeing the radiation safety program. Describe records of administration, radiation surveys, periodic field inspections, etc. that will be performed by the RSO. A listing of the duties and responsibilities of the RSO is given in <a title="25 TAC §289.252" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">25 TAC §289.252</a>.</p>
 
 <h3>Individual Monitoring Devices</h3>
-<p>Individual monitoring is required in accordance with <a title="25 TAC §289.202(q)" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202(q)</a>. Individual monitoring devices shall meet the requirements of <a title="25 TAC §289.202(p)(3)" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202(p)(3)</a>.</p>
+<p>Individual monitoring is required in accordance with <a title="25 TAC §289.202(q)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">25 TAC §289.202(q)</a>. Individual monitoring devices shall meet the requirements of <a title="25 TAC §289.202(p)(3)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">25 TAC §289.202(p)(3)</a>.</p>
 <p>Describe the type of individual monitoring device (e.g. film badge, thermoluminescence dosimeter (TLD), optically stimulated luminescence dosimeter (OSL), electronic personal dosimeter, etc.) to be used and the name of the supplier. Outline the procedures for how, where, and when to wear the individual monitoring device, including the exchange frequency of the devices and where the reports will be posted.</p>
 <p>Provide a description of what measures will be taken to ensure that occupational exposures will be maintained within regulatory limits. Indicate what steps will be taken during maintenance and cleaning operations and emergency conditions to minimize personnel exposure.</p>
 
 <h3>Posting and Labeling Requirements</h3>
-<p>Specify where 25 TAC <a title="§289.202" href="/radiation/ram/laws-rules.aspx#289202">§289.202</a> and <a title="§289.203" href="/radiation/ram/laws-rules.aspx#289203">§289.203</a>, the radioactive material license, operating and emergency procedures and any notices of violation issued by Radiation Control will be posted in your facility.</p>
+<p>Specify where 25 TAC <a title="§289.202" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">§289.202</a> and <a title="§289.203" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=203">§289.203</a>, the radioactive material license, operating and emergency procedures and any notices of violation issued by Radiation Control will be posted in your facility.</p>
 <p>Discuss in your procedures instructions for the routine inspection of all required postings and labels, including provisions for inspection frequency, identification and location of each label and posting, condition of each, replacement, and the date and identification of the person conducting the inspection.</p>
 
 <h3>Handling Procedures</h3>
@@ -125,7 +125,7 @@
 <p>Describe the safety precautions to be taken by the user when operating the gauge in the field. Reference to the manufacturer's instruction manual will be sufficient to describe actual use of the gauge.</p>
 
 <h3>Transportation Procedures</h3>
-<p>Describe the procedures for packaging the gauge in the transport container and the appropriate location for securing the transport container to the vehicle. The transport container must comply with the applicable U.S. Department of Transportation regulations. This includes providing security seals, bracing packages during transport, and labeling requirements of <a title="25 TAC §289.257" href="/radiation/ram/laws-rules.aspx#289257">25 TAC §289.257</a>. Radiation Control requires that the devices be secured against unauthorized removal in accordance with <a title="25 TAC §289.202(y)" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202(y)</a>.</p>
+<p>Describe the procedures for packaging the gauge in the transport container and the appropriate location for securing the transport container to the vehicle. The transport container must comply with the applicable U.S. Department of Transportation regulations. This includes providing security seals, bracing packages during transport, and labeling requirements of <a title="25 TAC §289.257" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=257">25 TAC §289.257</a>. Radiation Control requires that the devices be secured against unauthorized removal in accordance with <a title="25 TAC §289.202(y)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">25 TAC §289.202(y)</a>.</p>
 <p>Describe the documentation that will accompany drivers during the transport of radioactive materials. Provide instructions for completing the forms. Attach examples of each form.</p>
 
 <h3>Emergency Procedures</h3>
@@ -150,18 +150,18 @@
 <hr/>
 <a class="bookmark" title="instruments" name="instruments"></a>
 <h2>Radiation Detection Instrumentation</h2>
-<p>Radiation survey meters shall be available for the applicant to perform surveys and demonstrate compliance with <a title="25 TAC §289.202(p)" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202(p)</a> and for accident response. Procedures should be written providing personnel with instructions on the proper use and maintenance of radiation detection instrumentation.</p>
+<p>Radiation survey meters shall be available for the applicant to perform surveys and demonstrate compliance with <a title="25 TAC §289.202(p)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">25 TAC §289.202(p)</a> and for accident response. Procedures should be written providing personnel with instructions on the proper use and maintenance of radiation detection instrumentation.</p>
 <p>The applicant must provide the manufacturer, model number, range, and types of each survey instrument to be possessed. Indicate who will be calibrating the instrument and at what interval.</p>
 <p>If a survey instrument is to be calibrated by a service firm, the firm should be licensed or registered by Radiation Control, the United States Nuclear Regulatory Commission, or another agreement state.</p>
 <p>If the applicant wants to calibrate their own survey instrument at the their facility, a detailed description of the instrument calibration procedures for all meter ranges must be provided.</p>
 
 <h3>Leak Testing</h3>
-<p>Sealed sources shall be leak tested every six months in accordance with <a title="25 TAC §289.201(g)" href="/radiation/ram/laws-rules.aspx#289201">25 TAC §289.201(g)</a>. Indicate what option you will follow. Options for your leak testing program are:</p>
+<p>Sealed sources shall be leak tested every six months in accordance with <a title="25 TAC §289.201(g)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=201">25 TAC §289.201(g)</a>. Indicate what option you will follow. Options for your leak testing program are:</p>
 
 <p>1. Using a commercial leak test provider licensed by Radiation Control, the United States Nuclear Regulatory Commission, or another agreement state, provide the name of the leak test provider.</p>
 <p>Identify who will use the commercial leak test kits to perform leak tests. If the applicant performs the leak tests, include specific instructions in the operating, safety, and emergency procedures on how the tests are to be performed. Including precautions for cross-contamination prevention and procedures for preparing the kit for shipment.</p>
 <p>2. Request authorization to perform leak test analysis for your facility. If you intend on performing analysis of your own leak tests, you must submit detailed information requested by Regulatory Guide 5.1, "Guide for the Preparation of Leak Test Applications"</p>
-<p>Records indicating that leak tests have been performed and the results of the leak tests must be maintained for inspection by Radiation Control in accordance with <a title="25 TAC §289.201(g)(7)" href="/radiation/ram/laws-rules.aspx#289201">25 TAC §289.201(g)(7)</a>.
+<p>Records indicating that leak tests have been performed and the results of the leak tests must be maintained for inspection by Radiation Control in accordance with <a title="25 TAC §289.201(g)(7)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=201">25 TAC §289.201(g)(7)</a>.
 </p>
 
 <h3>Training And Experience</h3>
@@ -169,7 +169,7 @@
 <p>Provide the name of an appropriate training provider, as an example, and describe the on-the-job training program. Describe how the RSO will verify and document that the radiation safety and on-the-job training is completed.</p>
 
 <h3>Waste Disposal</h3>
-<p>The applicant must describe how the radioactive material will be disposed of when it is no longer needed or can no longer be used. Disposal of radioactive material shall satisfy the general requirements in <a title="25 TAC §289.252(cc)" href="/radiation/ram/laws-rules.aspx#289252">25 TAC §289.252(cc)</a>.</p>
+<p>The applicant must describe how the radioactive material will be disposed of when it is no longer needed or can no longer be used. Disposal of radioactive material shall satisfy the general requirements in <a title="25 TAC §289.252(cc)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">25 TAC §289.252(cc)</a>.</p>
 <p>Waste disposal can usually be accomplished by returning all depleted sources devices containing radioactive material to the manufacturer. Authorized recipients are the original supplier, a commercial firm licensed by Radiation Control, NRC or an agreement state to accept radioactive waste from other persons, or another specific licensee authorized to possess the radioactive material.</p>
 <p>All records of receipt, transfer, and disposal as well as all survey records pertaining to these actions shall be retained for Radiation Control inspection.</p>
 

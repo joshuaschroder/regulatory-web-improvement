@@ -422,6 +422,12 @@
 				<td headers="table_heading_1"><a title="elizabeth.sanders@dshs.state.tx.us" href="mailto:elizabeth.sanders@dshs.state.tx.us">Elizabeth Sanders</a><br/>(Lubbock office)</td>
 				<td headers="table_heading_2">(806) 783-6489</td>
 			</tr>
+			<tr>
+				<td headers="table_heading_0">X-Ray</td>
+				<td headers="table_heading_1"><a title="Candice.Martin@dshs.state.tx.us" href="mailto:Candice.Martin@dshs.state.tx.us">Candice Martin</a></td>
+				<td headers="table_heading_2">(432) 571-4121</td>
+			</tr>
+			
 		</tbody>
 	</table>
 	

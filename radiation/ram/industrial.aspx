@@ -40,12 +40,36 @@
 <hr/>
 <a class="bookmark" title="new" name="new"></a>
 <h2>How to Apply for a New License</h2>
-<ul>
-	<li>Submit a completed and signed <a title="Application for Radioactive Material License (RC 252-2)" href="/radiation/ram/forms.aspx#2522">Application for Radioactive Material License (RC 252-2)</a>.<br/><br/></li>
-	<li>Submit a completed and signed <a title="Business Information Form (RC 252-1)" href="/radiation/ram/forms.aspx#2521">Business Information Form (RC 252-1)</a>.<br/><br/></li>
-	<li>Provide detailed operating, safety and emergency (O,S &amp; E) procedures appropriate for your use of radioactive material. Please refer to <a title="Regulatory Guide 2.1" href="/radiation/regulatory-guides.aspx#21">Regulatory Guide 2.1</a> for more detailed information.<br/><br/></li>
-	<li>Submit appropriate fee. A nonrefundable fee shall be submitted with each new application. Refer to <a title="§289.204" href="/radiation/ram/laws-rules.aspx#289204">§289.204</a> to determine the fee that should accompany the new application.<br/><br/>Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.<br/><br/></li>
-</ul>
+
+<h3>1. Complete and submit the necessary forms</h3>
+<p>The following forms are required for the application of a new Radioactive Materials License.</p>
+<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
+	<caption>Applications and Forms Required for New Industrial Radiography Licenses</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:20%;">Document Number</th>
+			<th id="table_heading_1" style="width:80%;">Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="2522" name="2522"></a>RC 252-2</td>
+			<td headers="table_heading_1"><a title="Radioactive Material License" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992450">Radioactive Material License</a> <span class="small">(PDF, 67KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="RC 252-1" name="2521"></a>RC 252-1</td>
+			<td headers="table_heading_1"><a title="Business Information Form - License" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992452">Business Information Form - License</a> <span class="small">(PDF, 54KB)</span></td>
+		</tr>		
+	</tbody>
+</table>
+
+<h3>2. Provide detailed operating, safety and emergency (O,S &amp; E) procedures</h3>
+
+<p><a title="Regulatory Guide 2.1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20023">Regulatory Guide 2.1, Industrial Radiographic Exposure Devices</a> <span class="small">(PDF, 71KB)</span> should be used for guidance in completing the application and additional information on what should be included in your O, S &amp; E procedures.</p>
+
+<h3>3. Submit the appropriate fee</h3>
+<p>A nonrefundable fee shall be submitted with each new application. Refer to <a title="§289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">§289.204</a> to determine the fee that should accompany the new application.</p>
+<p>Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.</p>
 
 <hr/>
 <a class="bookmark" title="amend" name="amend"></a>
@@ -93,12 +117,12 @@
 	<li>If radioactive material stored at the site listed on the license, was transferred to an authorized recipient, provide records documenting the transfer. Each transfer record must indicate the isotope, the activity of each source, model number of each device and/or sealed source, and serial number of each device and/or sealed source. The transfer record must also indicate the name, address and license number of the transferor and transferee, the signatures of a representative of the transferor and transferee and the date of transfer of the radioactive material.<br/><br/></li>
 	<li>Provide a copy of the most recent leak test record for each sealed source that was stored at the facility, if only sealed sources were used. Otherwise, a closeout survey for the facility where radioactive material was stored and/or used must be submitted.<br/><br/></li>
 </ul>
-<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
+<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
 
 <hr/>
 <a class="bookmark" title="training" name="training"></a>
 <h2>Agency Accepted Radiation Safety Training Course List</h2>
 <p>A list of accepted radiation safety training courses is available as a courtesy to you. We do not recommend one course over another. It is a resource for you to use to find the course that best suits your needs or used to verify previous training documentation for new employees.</p>
-<p>The list of <a title="Accepted Radiation Safety Training Courses" href="/radiation/ram/forms.aspx#255C">Accepted Radiation Safety Training Courses</a> is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</p>
+<p>The list of <a title="Accepted Radiation Safety Training Courses" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993780">Accepted Radiation Safety Training Courses</a>  <span class="small">(PDF, 66KB)</span> is divided into use categories; Industrial Radiography, Well Logging and Tracer Studies, Well Logging Only, Portable Gauge, Fixed Gauge, Spinning Pipe and X-ray Fluorescence.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

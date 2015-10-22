@@ -42,7 +42,7 @@
 	<li>Industrial accelerators</li>
 	<li>X-ray services and industrial radiographic (IR) operations</li>
 </ul>
-<p>These exceptions can be found in <a title="25 Texas Administrative Code, &#167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code, &#167;289.226</a>.</p>
+<p>These exceptions can be found in <a title="25 Texas Administrative Code, &#167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 Texas Administrative Code, &#167;289.226</a>.</p>
 
 <hr/>
 <a class="bookmark" title="2" name="2"></a>
@@ -51,8 +51,11 @@
 	For a new certificate of registration for Industrial Radiation Machines, please submit the following:
 </p>
 <ol>
-	<li><a title="RC Form 226-3, Application for Registration of Industrial Radiation Machines " href="/radiation/x-ray/forms.aspx#2263">RC Form 226-3, Application for Registration of Industrial Radiation Machines </a></li>
-	<li><a title="RC Form 226-1, Business Information Form - Registration" href="/radiation/x-ray/forms.aspx#2261">RC Form 226-1, Business Information Form - Registration</a></li>
+	<li>
+		<a title="RC Form 226-3, Application for Registration of Industrial Radiation Machines " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">RC Form 226-3, Application for Registration of Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span> <br/>
+		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
+	</li>
+	<li><a title="RC Form 226-1, Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">RC Form 226-1, Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></li>
 	<li>Radiation Safety Officer (RSO) qualifications:
 		<ul>
 			<li>Submit documentation of experience, education, and/or training</li>
@@ -60,7 +63,7 @@
 				<ul>
 					<li><a title="Question: What are the requirements to become a Radiation Safety Officer (RSO)? " href="#5">Question: What are the requirements to become a Radiation Safety Officer (RSO)? </a></li>
 					<li><a title="Question: What are the responsibilities of a Radiation Safety Officer (RSO)? " href="#6">Question: What are the responsibilities of a Radiation Safety Officer (RSO)? </a></li>
-					<li><a title="RC Form 42-3, Radiation Safety Officer (RSO) Information for Registration" href="/radiation/x-ray/forms.aspx#423">RC Form 42-3, Radiation Safety Officer (RSO) Information for Registration</a></li>
+					<li><a title="RC Form 42-3, Radiation Safety Officer (RSO) Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC Form 42-3, Radiation Safety Officer (RSO) Information for Registration</a> <span class="small">(PDF, 301KB)</span></li>
 				</ul>
 			</li>
 		</ul>
@@ -68,8 +71,8 @@
 	<li>Appropriate fee. To determine the fee for your facility refer to:
 		<ul>
 			<li><a title="Question: What are the current fee amounts?" href="#14">Question: What are the current fee amounts?</a></li>
-			<li><a title="RC Form 42-3, Radiation Safety Officer Information for Registration" href="/radiation/x-ray/forms.aspx#423">RC Form 42-3, Radiation Safety Officer Information for Registration</a></li>
-			<li><a title="25 Texas Administrative Code &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 Texas Administrative Code &#167;289.204</a></li>
+			<li><a title="RC Form 42-3, Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC Form 42-3, Radiation Safety Officer Information for Registration</a> <span class="small">(PDF, 301KB)</span></li>
+			<li><a title="25 Texas Administrative Code &#167;289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">25 Texas Administrative Code &#167;289.204</a></li>
 		</ul>
 	</li>
 </ol>
@@ -99,7 +102,7 @@
 <hr/>
 <a class="bookmark" title="5" name="5"></a>
 <h2>What are the requirements to become a Radiation Safety Officer (RSO)?</h2>
-<p>Requirements for RSOs can be found in <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a>:</p>
+<p>Requirements for RSOs can be found in <a title="25 Texas Administrative Code &#167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 Texas Administrative Code &#167;289.226</a>:</p>
 <ul>
 	<li>
 		<ul>All RSOs shall meet the following general requirements in addition to requirements in specific categories, except for industrial radiography (IR) RSOs:
@@ -110,7 +113,7 @@
 	<li>experience in the use and familiarity of the type of equipment used</li>
 </ul>
 <h3>Additional requirements for Industrial Radiography (IR) RSOs</h3>
-<p>Requirements for IR radiation safety officers can be found in <a title="25 Texas Administrative Code &#167;289.255" href="/radiation/x-ray/laws-rules.aspx#289255">25 Texas Administrative Code &#167;289.255</a>:</p>
+<p>Requirements for IR radiation safety officers can be found in <a title="25 Texas Administrative Code &#167;289.255" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=255">25 Texas Administrative Code &#167;289.255</a>:</p>
 <ul>
 	<li>possession of a high school diploma or a certificate of high school equivalency based on the GED test;</li>
 	<li>completion of the training and testing requirements; and </li>
@@ -121,7 +124,7 @@
 
 <a class="bookmark" title="6" name="6"></a>
 <h2>What are the responsibilities of a Radiation Safety Officer (RSO)?</h2>
-<p>The responsibilities of the RSO can be found in <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a>. Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
+<p>The responsibilities of the RSO can be found in <a title="25 Texas Administrative Code &#167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 Texas Administrative Code &#167;289.226</a>. Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
 <ul>
 	<li>establishing and overseeing operating and safety procedures that maintain radiation exposures as low as reasonably achievable (ALARA), and to review them regularly to ensure that the procedures are current and conform with this chapter;</li>
 	<li>ensuring that individual monitoring devices are properly used by occupationally-exposed personnel, that records are kept of the monitoring results, and that timely notifications are made as required by '289.203 of this title;</li>
@@ -137,8 +140,14 @@
 <h2>How do we change our Radiation Safety Officer (RSO)?</h2>
 <p>Notify the agency in writing within 30 days by completing and submitting one of the following forms along with RSO qualifications:</p>
 <ul>
-	<li><a title="RC 226-3, Registration Application for Industrial Radiation Machines" href="/radiation/x-ray/forms.aspx#2263">RC 226-3, Registration Application for Industrial Radiation Machines</a></li>
-	<li><a title="RC 226-5, Radiation Machine Services Application" href="/radiation/x-ray/forms.aspx#2265">RC 226-5, Radiation Machine Services Application</a></li>
+	<li>
+		<a title="RC 226-3, Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">RC 226-3, Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span><br/>
+		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
+	</li>
+	<li>
+		<a title="RC 226-5, Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">RC 226-5, Radiation Machine Services Application</a> <span class="small">(PDF, 320KB)</span><br/>
+		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
+	</li>
 </ul>
 
 <hr/>
@@ -149,12 +158,12 @@
 <hr/>
 <a class="bookmark" title="9" name="9"></a>
 <h2>What name(s) are we supposed to put on the Business Information Form? </h2>
-<p>The legal name and doing business as name (if applicable), as filed with the Texas Secretary of State (SOS) Office, should be entered on <a title="RC 226-1, Business Information Form" href="/radiation/x-ray/forms.aspx#2261">RC 226-1, Business Information Form</a>. The SOS office can be reached at 1-800-252-1381 or <a title="http://www.sos.state.tx.us" href="http://www.sos.state.tx.us">http://www.sos.state.tx.us</a>. </p>
+<p>The legal name and doing business as name (if applicable), as filed with the Texas Secretary of State (SOS) Office, should be entered on <a title="RC 226-1, Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">RC 226-1, Business Information Form</a> <span class="small">(PDF, 24KB)</span>. The SOS office can be reached at (800) 252-1381 or <a title="http://www.sos.state.tx.us" href="http://www.sos.state.tx.us">http://www.sos.state.tx.us</a>. </p>
 
 <hr/>
 <a class="bookmark" title="10" name="10"></a>
 <h2>When do we have to notify the agency of company changes? </h2>
-<p>Notify the agency within 30 days of changes to your registration. According to <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a> the registrant shall notify the agency in writing of any changes that would render the information contained in the application for registration and/or the certificate of registration inaccurate. </p>
+<p>Notify the agency within 30 days of changes to your registration. According to <a title="25 Texas Administrative Code &#167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 Texas Administrative Code &#167;289.226</a> the registrant shall notify the agency in writing of any changes that would render the information contained in the application for registration and/or the certificate of registration inaccurate. </p>
 
 <hr/>
 <a class="bookmark" title="11" name="11"></a>
@@ -174,7 +183,7 @@
 <hr/>
 <a class="bookmark" title="14" name="14"></a>
 <h2>What are the current fee amounts?</h2>
-<p>The current fees may be found in <a title="25 Texas Administrative Code &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 Texas Administrative Code &#167;289.204</a> or <a title="RC 204, Fee Schedule" href="/radiation/x-ray/forms.aspx#204">RC 204, Fee Schedule</a>.</p>
+<p>The current fees may be found in <a title="25 Texas Administrative Code &#167;289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">25 Texas Administrative Code &#167;289.204</a> or <a title="RC 204, Fee Schedule" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">RC 204, Fee Schedule</a> <span class="small">(PDF, 21KB)</span>.</p>
 
 <h3>Industrial Radiography Fee Schedule</h3>
 <p>
@@ -257,7 +266,7 @@
 <hr/>
 <a class="bookmark" title="21" name="21"></a>
 <h2>What are reporting requirements for x-ray services companies in Texas?</h2>
-<p>According to <a title="25 Texas Administrative Code &#167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#167;289.226</a>: Any person who sells, leases, lends, disposes, assembles, install, or otherwise transfers radiation machines in the state shall notify the agency of the following information within 30 days of such action: </p>
+<p>According to <a title="25 Texas Administrative Code &#167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 Texas Administrative Code &#167;289.226</a>: Any person who sells, leases, lends, disposes, assembles, install, or otherwise transfers radiation machines in the state shall notify the agency of the following information within 30 days of such action: </p>
 <p>
 	(A) the name, address, and certificate of registration number, except in the case of initial machine installation, of persons who have received such machines; <br/>
 	(B) the type of radiation machine, the manufacturer’s name, model number, and control panel serial number of each radiation machine; and <br/>
@@ -267,18 +276,21 @@
 <hr/>
 <a class="bookmark" title="22" name="22"></a>
 <h2>What is the process for transferring, disposing of, or storing a piece of equipment?</h2>
-<p>The registrant will need to submit a completed <a title="RC-18R, Radiation Machine Transfer &amp; Disposal Form" href="/radiation/x-ray/forms.aspx#18R">RC-18R, Radiation Machine Transfer &amp; Disposal Form</a> indicating disposition of equipment. The form must be signed and dated by the appropriate person.</p>
+<p>The registrant will need to submit a completed <a title="RC-18R, Radiation Machine Transfer &amp; Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer &amp; Disposal Form</a> <span class="small">(PDF, 16KB)</span> indicating disposition of equipment. The form must be signed and dated by the appropriate person.</p>
 <p>The Texas Commission on Environmental Quality also provides resources on <a title="Disposing of X-Ray Equipment in Texas" href="http://www.tceq.state.tx.us/permitting/radmat/licensing/xray_disposal.html">disposing of x-ray equipment in Texas</a>.</p>
 
 <hr/>
 <a class="bookmark" title="23" name="23"></a>
 <h2>What is the process for terminating a site?</h2>
-<p>The registrant will need to submit a <a title="Form RC 226-3, Registration Application for Industrial Radiation Machines" href="/radiation/x-ray/forms.aspx#2263">Form RC 226-3, Registration Application for Industrial Radiation Machines</a> indicating which site(s) to terminate. For disposition of equipment complete the <a title="RC-18R, Radiation Machine Transfer &amp; Disposal Form" href="/radiation/x-ray/forms.aspx#18R">RC-18R, Radiation Machine Transfer &amp; Disposal Form</a>. The form must be signed by the appropriate person. </p>
+<p>The registrant will need to submit <a title="Form RC 226-3, Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">Form RC 226-3, Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span> indicating which site(s) to terminate.</p> 
+<p>Also see the <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span></p>
+	
+<p>For disposition of equipment complete the <a title="RC-18R, Radiation Machine Transfer &amp; Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer &amp; Disposal Form</a> <span class="small">(PDF, 16KB)</span>. The form must be signed by the appropriate person. </p>
 
 <hr/>
 <a class="bookmark" title="24" name="24"></a>
 <h2>What is the process for terminating a registration?</h2>
-<p>The registrant will need to submit a completed <a title="Form RC 17-R Termination of a Certificate of Registration" href="/radiation/x-ray/forms.aspx#17R">Form RC 17-R Termination of a Certificate of Registration</a>. Disposition of equipment must be disclosed. The form must be signed by the appropriate person (applicant or person duly authorized).</p>
+<p>The registrant will need to submit a completed <a title="Form RC 17-R Termination of a Certificate of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Form RC 17-R Termination of a Certificate of Registration</a> <span class="small">(PDF, 24KB)</span>. Disposition of equipment must be disclosed. The form must be signed by the appropriate person (applicant or person duly authorized).</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

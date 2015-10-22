@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad2_ir_menu.html'; 
 ?>
 
-<p>Texas will accept an individual's radiographer certification if the individual or company submits a clear, legible copy (front and back) of the valid certification from an entity recognized by Texas in accordance with <a title="25 TAC §289.255(l)(2)-(4)" href="/radiation/laws-rules.aspx#289255">25 TAC §289.255(l)(2)-(4)</a>. No forms need to be completed.</p>
+<p>Texas will accept an individual's radiographer certification if the individual or company submits a clear, legible copy (front and back) of the valid certification from an entity recognized by Texas in accordance with <a title="25 TAC §289.255(l)(2)-(4)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=255">25 TAC §289.255(l)(2)-(4)</a>. No forms need to be completed.</p>
 <p>Texas accepts the certifications issued by the following States:</p>
 
 <table class="zebraBorder layout" summary="sorted alphabetically by state" style="width:70%;">

@@ -3,6 +3,9 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
+<style>
+	#body td {vertical-align:middle; padding:10px 5px !important;}
+</style>
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
@@ -21,19 +24,37 @@
 <h2>Obtaining a Certificate of Registration</h2>
 <p>For a medical, academic, or veterinary Certificate of Registration, the following forms must be completed to register your medical or academic facility. Submit the completed forms along with the <a title="appropriate fee" href="#fees">appropriate fee</a>.</p>
 
-<ul>
-	<li><a title="RC Form 226-2 " href="/radiation/x-ray/forms.aspx#2262">RC Form 226-2 </a>- Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities.</li>
-	<li><a title="RC Form 226-1" href="/radiation/x-ray/forms.aspx#2261">RC Form 226-1</a> - Business Information Form</li>
-	<li><a title="RC Form 42-3" href="/radiation/x-ray/forms.aspx#423">RC Form 42-3</a> - Radiation Safety Officer Information</li>
-</ul>
+<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+	<caption>Medical, Academic, and Veterinary X-Ray Machine Applications and Forms</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:20%;">Document Number</th>
+			<th id="table_heading_1" style="width:80%;">Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="2262" name="2262"></a>RC 226-2</td>
+			<td headers="table_heading_1"><a title="Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span></td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
+			<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="423" name="423"></a>RC 42-3</td>
+			<td headers="table_heading_1"><a title="Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">Radiation Safety Officer Information for Registration</a> <span class="small">(PDF, 301KB)</span></td>
+		</tr>
+	</tbody>
+</table>
 
 <hr/>
 <a class="bookmark" title="amend" name="amend"></a>
 <h2>Amending a Certificate of Registration</h2>
-<p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="/radiation/x-ray/forms.aspx#2262">RC Form 226-2</a>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
+<p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC Form 226-2</a>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
 
-<p><strong>Name and/or Ownership Change</strong> - See Regulatory Guide 8.2:  <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="/radiation/regulatory-guides.aspx#82">Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a></p>
-<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="/radiation/x-ray/forms.aspx#423">RC Form 42-3</a></p>
+<p><strong>Name and/or Ownership Change</strong> - See <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span>.</p>
+<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC Form 42-3</a> <span class="small">(PDF, 301KB)</span>.</p>
 
 <hr/>
 <a class="bookmark" title="fees" name="fees"></a>
@@ -47,8 +68,8 @@
 	<thead>
 		<tr>
 			<th id="table_heading_0" style="width:20%;">Category</th>
-			<th id="table_heading_1" style="width:70%;">Type of Use</th>
-			<th id="table_heading_2" style="width:10%;">Base Fee</th>
+			<th id="table_heading_1" style="width:65%;">Type of Use</th>
+			<th id="table_heading_2" style="width:15%;">Base Fee</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -107,12 +128,12 @@
 <hr/>
 <a class="bookmark" title="terminate" name="terminate"></a>
 <h2>Terminating a Certificate of Registration</h2>
-<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="/radiation/x-ray/forms.aspx#17R">Request For Termination of Registration</a> form RC-17R.</p>
+<p>To terminate an industrial registration, please complete and submit the <a title="Request For Termination of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Form RC-17R, Request For Termination of Registration</a> <span class="small">(PDF, 24KB)</span>.</p>
 
 <hr/>
 <a class="bookmark" title="delete" name="delete"></a>
 <h2>Deleting or Transferring a Machine</h2>
-<p>To delete or transfer a medical X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="/radiation/x-ray/forms.aspx#18R">Radiation Machine Transfer/Disposal</a> form RC-18R.</p>
+<p>To delete or transfer a medical X-ray or laser machine, please complete and submit the <a title="Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span>.</p>
 
 <hr/>
 <a class="bookmark" title="address" name="address"></a>
@@ -128,13 +149,34 @@
 <hr/>
 <a class="bookmark" title="procedures" name="procedures"></a>
 <h2>Operating and Safety Procedures</h2>
-<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227(i)" href="/radiation/x-ray/laws-rules.aspx#289227">&#0167;289.227(i)</a> and <a title="&#0167;289.229" href="/radiation/x-ray/laws-rules.aspx#289229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help you develop procedures unique to your facility. Choose the guide that addresses your type of facility:</p>
-<ul>
-	<li><a title="Regulatory Guide 4.3" href="/radiation/regulatory-guides.aspx#43">Regulatory Guide 4.3 - Healing Arts of Medicine, Podiatry and Chiropractic</a></li>
-	<li><a title="Regulatory Guide 4.5" href="/radiation/regulatory-guides.aspx#45">Regulatory Guide 4.5 - Veterinary Medicine</a></li>
-	<li><a title="Regulatory Guide 4.6" href="/radiation/regulatory-guides.aspx#46">Regulatory Guide 4.6 - Accelerators, Therapeutic Radiation Machines and Simulators</a></li>
-</ul>
-<p>For registrants with an accelerator, <a title="Form LRS-35" href="/radiation/x-ray/forms.aspx#35">Form LRS-35</a> will help you in providing the necessary shielding and room design information.</p>
+<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227(i)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=227">&#0167;289.227(i)</a> and <a title="&#0167;289.229" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help you develop procedures unique to your facility. Choose the guide that addresses your type of facility:</p>
+
+<br/>
+<table class="zebraBorder layout" summary="sorted by guide number, ascending">
+	<caption>Operating and Safety Procedures</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:10%;">Document Number</th>
+			<th id="table_heading_1" style="width:90%;">Regulatory Guide Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" name="43" title="43"></a>4.3</td>
+			<td headers="table_heading_1"><a title="Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19879">Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic</a> <span class="small">(DOC, 121KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" name="45" title="45"></a>4.5</td>
+			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Veterinary Medicine Facilities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19881">Operating and Safety Procedures for Veterinary Medicine Facilities</a> <span class="small">(DOC, 91KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" name="46" title="46"></a>4.6</td>
+			<td headers="table_heading_1"><a title="Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19882">Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators </a> <span class="small">(DOC, 82KB)</span></td>
+		</tr>
+	</tbody>
+</table>
+<br/>
+<p>For registrants with an accelerator, <a title="Form LRS-35" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19918">Form LRS-35, Additional Information for Accelerator Registration, Includes Shielding Form</a> <span class="small">(PDF, 21KB)</span> will help you in providing the necessary shielding and room design information.</p>
 
 <hr/>
 <a class="bookmark" title="screening" name="screening"></a>

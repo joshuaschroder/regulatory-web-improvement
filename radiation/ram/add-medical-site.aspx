@@ -9,7 +9,7 @@
 <p>Moving to a new location will require a request with varying information depending on whether the location is within the same building, ownership of the facility and the type of use planned.</p>
 <p>Interior remodeling of an authorized diagnostic room without changing walls, access or ventilation scheme would not require an amendment to your license. Additionally, no discussion of survey locations and safety procedures is needed unless there is a change in those procedures of practices.</p>
 <p>Only use locations that are fully described will be authorized by the license. Therefore, areas such as nuclear stress labs, storage areas, or operating rooms used for implants, etc., will need to be described even if radioactive material is only periodically used in the area.</p>
-<p>It is suggested that designs of a proposed facility be submitted to the BRC for approval while in the planning stage. This will prevent expensive remodeling should any recommendations be made prior to approval of the design. Bureau of Radiation Control guidance can be found in Appendix E of <a title="Regulatory Guide 3.1" href="/radiation/regulatory-guides.aspx#31">Regulatory Guide 3.1</a>.</p>
+<p>It is suggested that designs of a proposed facility be submitted to the BRC for approval while in the planning stage. This will prevent expensive remodeling should any recommendations be made prior to approval of the design. Bureau of Radiation Control guidance can be found in Appendix E of <a title="Regulatory Guide 3.1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589968791">Regulatory Guide 3.1 - Medical Use of Radioactive Material</a> <span class="small">(PDF, 149KB)</span>.</p>
 
 <hr/>
 <h2>Required Information to Add a New Site</h2>

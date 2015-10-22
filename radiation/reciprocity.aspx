@@ -26,18 +26,18 @@
 <p>Do not wait until the last minute to request reciprocity. If you know you have a job in Texas give yourself, and us, enough time to process your request. We are aware that there are situations in which the time between the notification of a job and start date of a job is short. We will try to process your request, in as timely a manner as possible. </p>
 <p>To help us process your request quickly, be sure to include <em>all</em> of the following information and submit it together. <a title="Where to mail info" href="#address">Where to mail info.</a> </p>
 <ul>
-	<li>Check or money order for the appropriate fee, in accordance with <a title="Title 25 Texas Administrative Code Chapter &#167;289.204" href="/radiation/laws-rules.aspx#289204">Title 25 Texas Administrative Code Chapter &#167;289.204</a>. The reciprocity fee is equal to what is charged Texas licensee's authorized for the same use;<br/><br/></li>
+	<li>Check or money order for the appropriate fee, in accordance with <a title="Title 25 Texas Administrative Code Chapter &#167;289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">Title 25 Texas Administrative Code Chapter &#167;289.204</a>. The reciprocity fee is equal to what is charged Texas licensee's authorized for the same use;<br/><br/></li>
 	<li>A copy of a valid license or certificate of registration which authorizes the use of radioactive material/radiation machines at temporary job sites;<br/><br/></li>
 	<li>Current operating, safety and emergency procedures used to establish your license or registration; <br/><br/></li>
-	<li>Licensee/registrant is required to notify this Agency three days prior to entering Texas by completing and submitting the <a title="Notification of Intent to Work in Texas Form (RC 252-3)" href="/radiation/forms.aspx#2523">Notification of Intent to Work in Texas Form (RC 252-3)</a>. This form can be faxed if details of the job are not know at the time of application; and <br/><br/></li>
-	<li>Complete the front <em>and</em> back of the <a title="Business Information Form (RC 252-1)" href="/radiation/forms.aspx#2521">Business Information Form (RC 252-1)</a> being sure to sign the front.</li>
+	<li>Licensee/registrant is required to notify this Agency three days prior to entering Texas by completing and submitting the <a title="Notification of Intent to Work in Texas Form (RC 252-3)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589990149">Notification of Intent to Work in Texas Form (RC 252-3)</a> <span class="small">(PDF, 27KB)</span>. This form can be faxed if details of the job are not know at the time of application; and <br/><br/></li>
+	<li>Complete the front <em>and</em> back of the <a title="Business Information Form (RC 252-1)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589992452">Business Information Form (RC 252-1)</a> <span class="small">(PDF, 54KB)</span> being sure to sign the front.</li>
 </ul>
 
 <hr/>
 <a class="bookmark" title="conditions" name="conditions"></a>
 <h2>Conditions of Reciprocity</h2>
 <ul>
-	<li>Licensee/registrant is required to notify this Agency three days prior to entering Texas by completing and submitting the <a title="Notification of Intent to Work in Texas Form (RC 252-3)" href="/radiation/forms.aspx#2523">Notification of Intent to Work in Texas Form (RC 252-3)</a>. <br/><br/></li>
+	<li>Licensee/registrant is required to notify this Agency three days prior to entering Texas by completing and submitting the <a title="Notification of Intent to Work in Texas Form (RC 252-3)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589990149">Notification of Intent to Work in Texas Form (RC 252-3)</a> <span class="small">(PDF, 27KB)</span>. <br/><br/></li>
 	<li>Reciprocity is valid for two years from the month you were granted the authorization. Authorization must be renewed every two years. <br/><br/></li>
 	<li>There is no limit to the number of days you can work in Texas during the year. However, if you establish a permanent location or site in Texas, you will need to apply for a Texas Radioactive Material License.</li>
 </ul>

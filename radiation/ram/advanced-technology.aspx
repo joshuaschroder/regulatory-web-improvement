@@ -3,7 +3,9 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_ram_menu.html'; 
 ?>
-
+<style type="text/css">
+	td {padding: 10px 5px !important; vertical-align:middle;}
+</style>
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
@@ -38,12 +40,29 @@
 <h2>How to Apply for a New License</h2>
 <h3>Submit the Required Forms</h3>
 <p>Complete, sign, and submit the following forms:</p>
-<ul>
-	<li><a title="Application for Radioactive Material License (RC Form 252-2)" href="/radiation/ram/forms.aspx#2522">Application for Radioactive Material License (RC Form 252-2)</a>.</li>
-	<li><a title="Business Information Form (RC Form 252-1)" href="/radiation/ram/forms.aspx#2521">Business Information Form (RC Form 252-1)</a>.</li>
-</ul>
+
+<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
+	<caption>Applications and Forms Required for a New Advanced Technology License</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:20%;">Document Number</th>
+			<th id="table_heading_1" style="width:80%;">Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="2522" name="2522"></a>RC 252-2</td>
+			<td headers="table_heading_1"><a title="Radioactive Material License" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992450">Radioactive Material License</a> <span class="small">(PDF, 67KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="RC 252-1" name="2521"></a>RC 252-1</td>
+			<td headers="table_heading_1"><a title="Business Information Form - License" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992452">Business Information Form - License</a> <span class="small">(PDF, 54KB)</span></td>
+		</tr>		
+	</tbody>
+</table>
+
 <h3>Submit the Appropriate Fee</h3>
-<p>A nonrefundable fee shall be submitted with each new application. Refer to <a title="25 TAC §289.204" href="/radiation/ram/laws-rules.aspx#289204">25 TAC §289.204</a> to determine the fee that should accompany the new application. Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.</p>
+<p>A nonrefundable fee shall be submitted with each new application. Refer to <a title="25 TAC §289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">25 TAC §289.204</a> to determine the fee that should accompany the new application. Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to: <em>Texas Department of State Health Services</em>.</p>
 
 <hr/>
 <a class="bookmark" title="amend" name="amend"></a>
@@ -86,7 +105,7 @@
 <p>Provide a written statement requesting termination of a license or specific authorized site, <em><strong>prior</strong></em> to vacating the premises.</p>
 <p>If radioactive material stored at the site listed on the license, was transferred to an authorized recipient, provide records documenting the transfer. Each transfer record must indicate the isotope, the activity of each source, model number of each device and/or sealed source, and serial number of each device and/or sealed source. The transfer record must also indicate the name, address and license number of the transferor and transferee, the signatures of a representative of the transferor and transferee and the date of transfer of the radioactive material.</p>
 <p>A closeout survey for the facility where radioactive material was stored and/or used must be submitted.</p>
-<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
+<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
 
 <hr/>
 <a class="bookmark" title="guidance" name="guidance"></a>
