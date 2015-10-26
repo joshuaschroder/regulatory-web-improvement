@@ -1,8 +1,11 @@
 <?php
-	$title= "Certification - Mammography Accreditation Program" ;
+	$title= "Certification - Mammography Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>
+<style type="text/css">
+	#body .Section li {margin:6px 0;}
+</style>
 
 <hr/>
 <h2>Table of Contents</h2>
@@ -11,15 +14,15 @@
 	<li><a title="Fee Schedule for Mammography Certification" href="#fee-schedule">Fee Schedule for Mammography Certification</a></li>
 	<li><a title="Name and/or Ownership Changes" href="#name-ownership-changes">Name and/or Ownership Changes</a></li>
 	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#location-change">To Change a Mailing and/or Physical Use Location Address(s)</a></li>
-	<li><a title="" href="#equipment-changes">Making Mammography Equipment Changes</a></li>
-	<li><a title="" href="#">Adding Digital Breast Tomosynthesis (to a Mammography Unit Already Listed on the Certification)</a></li>
-	<li><a title="" href="#">Personnel Changes (Including RSO, LIP and Other Personnel Changes)</a></li>
-	<li><a title="" href="#">Self-Referral Authorization</a></li>
-	<li><a title="" href="#">Mobile Services Authorization</a></li>
-	<li><a title="" href="#">Mammography Certification Renewals</a></li>
-	<li><a title="" href="#">Terminating a Mammography Certification</a></li>
-	<li><a title="" href="#">Agency Contact Information</a></li>
-	<li><a title="" href="#">Operating and Safety Procedures</a></li>
+	<li><a title="Making Mammography Equipment Changes" href="#equipment-changes">Making Mammography Equipment Changes</a></li>
+	<li><a title="Adding Digital Breast Tomosynthesis (to a Mammography Unit Already Listed on the Certification)" href="#tomosynthesis">Adding Digital Breast Tomosynthesis (to a Mammography Unit Already Listed on the Certification)</a></li>
+	<li><a title="Personnel Changes (Including RSO, LIP and Other Personnel Changes)" href="#personnel-changes">Personnel Changes (Including RSO, LIP and Other Personnel Changes)</a></li>
+	<li><a title="Self-Referral Authorization" href="#self-referral-authorization">Self-Referral Authorization</a></li>
+	<li><a title="Mobile Services Authorization" href="#mobile-services-authorization">Mobile Services Authorization</a></li>
+	<li><a title="Mammography Certification Renewals" href="#renewals">Mammography Certification Renewals</a></li>
+	<li><a title="Terminating a Mammography Certification" href="#terminating">Terminating a Mammography Certification</a></li>
+	<li><a title="Agency Contact Information" href="#contact">Agency Contact Information</a></li>
+	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
 	<li><a title="" href="#">Further Help and Information</a></li>
 </ul>
 
@@ -36,26 +39,25 @@
 	<ul>
 		<li>Contact the American College of Radiology (<a title="ACR Mammography Accreditation" href="http://www.acr.org/Quality-Safety/Accreditation/Mammography">ACR Mammography Accreditation</a>)</li>
 		<li>
-			<p>Also complete and submit to the Department of State Health Services Mammography Certification Program the following forms along with the appropriate fee at least two weeks prior to the date the facility plans to start performing mammography.</p> 
-			<p>To determine your fee, see the <a title="Schedule of Biennial Fees for Registration for Radiation Machines " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589938357">Schedule of Biennial Fees for Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span>.</p>
+			Also complete and submit to the Department of State Health Services Mammography Certification Program the following forms along with the appropriate fee at least two weeks prior to the date the facility plans to start performing mammography. To determine your fee, see the <a title="Schedule of Biennial Fees for Registration for Radiation Machines " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">Schedule of Biennial Fees for Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span>.
 			<ul>
 				<li>
-					<p><a title="RC 230-1, Application for Mammography Certification &ndash; New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981247">RC 230-1, Application for Mammography Certification &ndash; New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span>.</p> 
-					<p>As indicated on the application also submit:</p>
+					<a title="RC 230-1, Application for Mammography Certification &ndash; New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981247">RC 230-1, Application for Mammography Certification &ndash; New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span>.<br/><br/>
+					As indicated on the application also submit:
 					<ul>
-						<li>The applicable policies/procedures requested in Sections 2 of the application (see the <a title="Operating and Safety Procedures" href="/radiation/x-ray/medical.aspx#procedures">Operating and Safety Procedures</a> section below for more information)</li>
+						<li>The applicable policies/procedures requested in Sections 2 of the application (see the <a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a> section below for more information)</li>
 						<li>Personnel credentials requested in Section 3 - As an option the following forms may be used for guidance for acceptable documents of personnel credentialing:
 							<ul>
-								<li><a title="Accept Doc for I P s" href="Accept%20Documents%20-%20Credentials/Accept%20Doc%20for%20I%20P%20s.doc">Accept Doc for I P s</a> &ndash; for Interpreting Physicians</li>
-								<li><a title="Accept Doc for M P s" href="Accept%20Documents%20-%20Credentials/Accept%20Doc%20for%20M%20P%20s.doc">Accept Doc for M P s</a> &ndash; for Medical Physicists</li>
-								<li><a title="Accept Doc for RTs" href="Accept%20Documents%20-%20Credentials/Accept%20Doc%20for%20RTs.docx">Accept Doc for RTs</a> &ndash; for Radiologic Technologists</li>
+								<li><a title="Accept Doc for I P s" href="#">Accept Doc for I P s</a> &ndash; for Interpreting Physicians</li>
+								<li><a title="Accept Doc for M P s" href="#">Accept Doc for M P s</a> &ndash; for Medical Physicists</li>
+								<li><a title="Accept Doc for RTs" href="#">Accept Doc for RTs</a> &ndash; for Radiologic Technologists</li>
 							</ul>
 						</li>
 						<li>The physicist's survey report requested in Section 4.</li>
 					</ul>
 				</li>
-				<li><a title="RC 226-1, Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=51597">RC 226-1, Business Information Form</a> <span class="small">(PDF, 24KB)</span></li>
-				<li><a title="RC 42-3, Radiation Safety Officer (RSO) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=19926">RC 42-3, Radiation Safety Officer (RSO) Form</a> <span class="small">(PDF, 301KB)</span><br/>(this form is not needed if the RSO is a physician or a licensed medical physicist)</li>
+				<li><a title="RC 226-1, Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">RC 226-1, Business Information Form</a> <span class="small">(PDF, 24KB)</span></li>
+				<li><a title="RC 42-3, Radiation Safety Officer (RSO) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3, Radiation Safety Officer (RSO) Form</a> <span class="small">(PDF, 301KB)</span><br/>(this form is not needed if the RSO is a physician or a licensed medical physicist)</li>
 			</ul>
 		</li>
 	</ul>
@@ -63,8 +65,8 @@
 	<p>If the mammography unit will be used to perform digital breast tomosynthesis:</p>
 	<ul>
 		<li>
-			<p>Contact the FDA at the following link for Digital Breast Tomosynthesis approval. <strong><em>(The facility must receive approval from the FDA prior to using the digital breast tomosynthesis portion of the mammography unit.)</em></strong></p>
-			<p> FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></p>		
+			Contact the FDA at the following link for Digital Breast Tomosynthesis approval. <strong><em>(The facility must receive approval from the FDA prior to using the digital breast tomosynthesis portion of the mammography unit.)</em></strong><br/><br/>
+			FDA Certification Extension Program - <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a>
 		</li>
 		<li>When the FDA Tomosynthesis Approval Letter is received the facility may begin to use the Digital Breast Tomosynthesis portion of the unit.</li>
 		<li>As soon as the FDA Tomosynthesis Approval Letter is received submit a copy to the Department of State Health Services Mammography Certification Program.</li>
@@ -77,8 +79,7 @@
 	<h2>Fee Schedule for Mammography Certification</h2>
 	<p>Each application for a New Mammography Certification shall be accompanied by a one-year non-refundable fee. An invoice will be mailed annually for the mammography certification fee. Fee payments by check or money order shall be made payable to <em>Texas Department of State Health Services</em>.</p>
 	
-	<p>Certification of Mammography Systems (screening &amp; diagnostic mammography)</p>
-	<table class="zebraBorder layout" summary="sorted by order of machine addition to certification">
+	<table class="zebraBorder layout" summary="sorted by order of machine addition to certification" style="width:70%;">
 		<caption>Fee Schedule for Certification of Mammography Systems (screening &amp; diagnostic mammography)</caption>
 		<thead>
 			<tr>
@@ -89,7 +90,7 @@
 		<tbody>
 			<tr>
 				<td headers="table_heading_0">First machine</td>
-				<td headers="table_heading_1">$ 2,010</td>
+				<td headers="table_heading_1">$2,010</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Each additional machine listed on certification</td>
@@ -112,7 +113,10 @@
 	<h2>To Change a Mailing and/or Physical Use Location Address(s)</h2>
 	<ul>
 		<li>Contact the facility's accreditation body prior to the address change.</li>
-		<li>Complete and submit <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>. Complete the required application sections for the amendment(s) being requested.</li>
+		<li>
+			Complete and submit <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>.<br/>
+			Complete the required application sections for the amendment(s) being requested.
+		</li>
 	</ul>
 </div>
 
@@ -131,108 +135,133 @@
 		<li>Contact the ACR prior to installation of the mammography unit.</li>
 		
 		<li>
-			<p>Also complete and submit <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></p>
-			<p>Complete the required application sections for the amendment(s) being requested.  Submit a copy of the physicist's survey report for the new unit. </p>
+			Also complete and submit <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>.<br/>
+			Complete the required application sections for the amendment(s) being requested.  Submit a copy of the physicist's survey report for the new unit.
 		</li>
 	</ul>
 	<p>If the mammography unit will be used to perform digital breast tomosynthesis also contact the FDA at the following link for Digital Breast Tomosynthesis Approval.</p>
-	<p>    FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></p>
+	<p>FDA Certification Extension Program - <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></p>
 	<ul>
 		<li>When the FDA Tomosynthesis Approval Letter is received the facility may begin to use the Digital Breast Tomosynthesis portion of the unit.</li>
 		<li>As soon as the FDA Tomosynthesis Approval Letter is received submit a copy to the Department of State Health Services Mammography Certification Program.</li>
 	</ul>
-	<h3>To delete a mammography unit</h3>
+	<h3>To Delete a Mammography Unit</h3>
 	<ul>
 		<li>Contact the facility's accreditation body.</li>
-		<li>Complete and submit <a title="RC 18-M, Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=20004">RC 18-M, Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span>.</li>
-		<li>Submit information to the FDA to receive approval to use Digital Breast Tomosynthesis (DBT). The following link will take you to the FDA web page for Digital Breast Tomosynthesis:</li>
+		<li>Complete and submit <a title="RC 18-M, Mammography Machine Transfer/Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20004">RC 18-M, Mammography Machine Transfer/Disposal Form</a> <span class="small">(PDF, 17KB)</span>.</li>
 	</ul>
 </div>
 
-<div class="Section" id="">
-	<a class="bookmark" title="" name=""></a>
+<div class="Section" id="Tomosynthesis">
+	<a class="bookmark" title="tomosynthesis" name="tomosynthesis"></a>
 	<hr/>
 	<h2>Adding Digital Breast Tomosynthesis (to a Mammography Unit Already Listed on the Certification)</h2>
-	<p> FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></p>
 	<ul>
+		<li>
+			Submit information to the FDA to receive approval to use Digital Breast Tomosynthesis (DBT).  The following link will take you to the FDA web page for Digital Breast Tomosynthesis:<br/><br/>
+			FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a>
+		</li>
 		<li>When the FDA Tomosynthesis Approval Letter is received the facility may begin to use the Digital Breast Tomosynthesis portion of the unit.</li>
-		
-		<li>Submit <a title="RC 230-2" href="../Registration%20Forms/RC%20230-2%20Cert%20Amendment.pdf">RC 230-2</a> Amendment Application for Mammography Certification. Complete the required application sections for the amendment(s) being requested.  Also submit the physicist's survey report that was completed after tomosynthesis was added to the unit and a copy of the FDA Tomosynthesis Approval Letter. </li>
-		<li><strong><em>Radiation Safety Officer (RSO)</em></strong> &ndash; Notify the Agency in writing within 30 days by completing and submitting either the RC 230-2 Amendment Application for Mammography Certification or the <a title="RC 42-3" href="FORMS/OTHER%20FORMS%20-%20FILLABLE/RC%2042-3%20RSO%20Form%2010-2015%20%20fillable%20.pdf">RC 42-3</a> Radiation Safety Officer (RSO) Form. If submitting the RC 230-2 Amendment Application for Mammography Certification, check the box for Radiation Safety Officer Change.  Complete the required application sections and submit documentation of qualifications as required in 25 Texas Administrative Code (TAC) &sect;289.226.</li>
+		<li>
+			Submit <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>.<br/>
+			Complete the required application sections for the amendment(s) being requested.  Also submit the physicist's survey report that was completed after tomosynthesis was added to the unit and a copy of the FDA Tomosynthesis Approval Letter.
+		</li>
 	</ul>
 </div>
 
-<div class="Section" id="">
-	<a class="bookmark" title="" name=""></a>
+<div class="Section" id="Personnel-Changes">
+	<a class="bookmark" title="personnel-changes" name="personnel-changes"></a>
 	<hr/>
 	<h2>Personnel Changes (Including RSO, LIP and Other Personnel Changes)</h2>
 	<ul>
-		<li><strong><em>Lead Interpreting Physician (LIP</em></strong>) &ndash; Notify the Agency in writing within 30 days by completing and submitting either the RC 230-2 Amendment Application for Mammography Certification or the <a title="RC 230 43-M" href="../Registration%20Forms/RC%20230%2043-M%20LIP%20Form%20-%20fillable.pdf">RC 230 43-M</a> Lead Interpreting Physician (LIP) Form. If submitting the RC 230-2 Amendment Application for Mammography Certification, check the box for Lead Interpreting Physician Change and complete the indicated sections.</li>
-		<li><strong><em>Other Personnel Changes</em></strong> (Interpreting Physicians, Mammography Technologists and/or Medical Physicists) &ndash; Notify the Agency in writing within 30 days by submitting a signed letter indicating the name(s) of the individual(s) and if the facility would like to add or delete these individuals. Do not submitted credentials with the request. However, prior to employing the individual(s), facilities must verify and maintain qualifications for review at the time of their annual inspection. Always reference the facility's mammography certification number and include any additional information needed to process the request.</li>
+		<li>
+			<strong><em>Radiation Safety Officer (RSO)</em></strong> - Notify the Agency in writing within 30 days by completing and submitting either the <a title="RC 230-2 Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2 Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span> or the <a title="RC 42-3, Radiation Safety Officer (RSO) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=19926">RC 42-3, Radiation Safety Officer (RSO) Form</a> <span class="small">(PDF, 301KB)</span>.<br/><br/>
+			If submitting the RC 230-2 Amendment Application for Mammography Certification, check the box for Radiation Safety Officer Change.  Complete the required application sections and submit documentation of qualifications as required in 25 Texas Administrative Code (TAC) &#0167;289.226.<br/><br/>
+		</li>		
+		<li>
+			<strong><em>Lead Interpreting Physician (LIP</em></strong>) &ndash; Notify the Agency in writing within 30 days by completing and submitting either the <a title="RC 230-2 Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2 Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span> or the <a title="RC 230 43-M, Lead Interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589991090">RC 230 43-M, Lead Interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span>.<br/><br/>
+			If submitting the RC 230-2 Amendment Application for Mammography Certification, check the box for Lead Interpreting Physician Change and complete the indicated sections.<br/><br/>
+		</li>
+		<li>
+			<strong><em>Other Personnel Changes</em></strong> (Interpreting Physicians, Mammography Technologists and/or Medical Physicists) &ndash; Notify the Agency in writing within 30 days by submitting a signed letter indicating the name(s) of the individual(s) and if the facility would like to add or delete these individuals. Do not submitted credentials with the request. However, prior to employing the individual(s), facilities must verify and maintain qualifications for review at the time of their annual inspection. Always reference the facility's mammography certification number and include any additional information needed to process the request.
+		</li>
 	</ul>
 </div>
 
-<div class="Section" id="">
-	<a class="bookmark" title="" name=""></a>
+<div class="Section" id="Self-Referral-Authorization">
+	<a class="bookmark" title="self-referral-authorization" name="self-referral-authorization"></a>
 	<hr/>
 	<h2>Self-Referral Authorization</h2>
-	<p>To add Self-Referral Authorization to the certification complete and submit <a title="RC 230-2" href="../Registration%20Forms/RC%20230-2%20Cert%20Amendment.pdf">RC 230-2</a> Amendment Application for Mammography Certification.  Check the box to the left of "Add Self-Referral Authorization", complete sections 1, 2 &amp; 4 of the application and submit the required procedures that are listed in the self-referral authorization section of the application.</p>
+	<p>To add Self-Referral Authorization to the certification complete and submit <a title="RC 230-2 Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2 Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>.</p>
+	<p>Check the box to the left of "Add Self-Referral Authorization", complete sections 1, 2 &amp; 4 of the application and submit the required procedures that are listed in the self-referral authorization section of the application.</p>
 	<p>To remove Self-Referral Authorization notify the Agency in writing by submitting a signed letter requesting removal of Self-Referral Authorization.  Always reference the facility's mammography certification number and include any additional information needed to process the request.</p>
 </div>
 
-<div class="Section" id="">
-		<a class="bookmark" title="" name=""></a>
-		<hr/>
+<div class="Section" id="Mobile-Services-Authorization">
+	<a class="bookmark" title="mobile-services-authorization" name="mobile-services-authorization"></a>
+	<hr/>
 	<h2>Mobile Services Authorization</h2>
-	<p>To add Mobile Service Authorization to the certification complete and submit RC 230-2 Amendment Application for Mammography Certification.  Check the box to the left of "Add Mobile Service Authorization", complete sections 1, 2 &amp; 4 of the application and submit the required documents and procedures that are listed in the mobile service authorization section of the application.</p>
+	<p>To add Mobile Service Authorization to the certification complete and submit <a title="RC 230-2 Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2 Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>.</p>
+	<p>Check the box to the left of "Add Mobile Service Authorization", complete sections 1, 2 &amp; 4 of the application and submit the required documents and procedures that are listed in the mobile service authorization section of the application.</p>
 	<p>To remove Mobile Service Authorization - Notify the Agency in writing by submitting a signed letter requesting removal of Mobile Service Authorization.  Always reference the facility's mammography certification number and include any additional information needed to process the request.</p>
 </div>
 
-<div class="Section" id="">
-	<a class="bookmark" title="" name=""></a>
+<div class="Section" id="Renewals">
+	<a class="bookmark" title="renewals" name="renewals"></a>
 	<hr/>
 	<h2>Mammography Certification Renewals</h2>
 	<p>A certification for a mammography system is valid for three years from the date of issuance unless the certification is suspended or revoked prior to such deadlines.  A mammography certification renewal shall be requested at least every three years to verify the mammography certification file information. </p>
 	<p><strong><em>Facilities accredited with the State of Texas</em></strong> will receive the renewal paperwork from the State of Texas Mammography Accreditation Program approximately 8 months prior to the expiration date on the current mammography certification.</p>
 	<p><strong><em>Facilities accredited with the American College of Radiology (ACR)</em></strong> will receive a renewal reminder letter and the required renewal documents by mail 2-3 months prior to the expiration date of the mammography certification.  If the facility passes accreditation prior to the date the renewal reminder letters are mailed the Agency will contact the facility by phone or email to request the required renewal paperwork.  The items requested for a mammography certification renewal are:</p>
 	<ul>
-		<li><a title="RC 230-1" href="../Registration%20Forms/RC%20230-1%20Cert%20New%20&amp;%20%20Renewal.pdf">RC 230-1</a> Application for Mammography Certification &ndash; New Facility or Renewal. Also submit:</li>
-		<li>the applicable policies/procedures requested in Sections 2 of the application,</li>
-		<li>the most recent physicist's survey report (requested in Section 4 of the application).</li>
-		<li><a title="RC Form 226-1" href="/radiation/forms.aspx#2261">RC Form 226-1</a>Business Information Form</li>
+		<li>
+			<a title="RC 230-1, Application for Mammography Certification &ndash; New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981247">RC 230-1, Application for Mammography Certification &ndash; New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span>.<br/><br/>
+			Also submit:
+			<ul>
+					<li>the applicable policies/procedures requested in Sections 2 of the application,</li>
+					<li>the most recent physicist's survey report (requested in Section 4 of the application).</li>
+					<li><a title="RC 226-1, Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=51597">RC 226-1, Business Information Form</a> <span class="small">(PDF, 24KB)</span></li>
+			</ul>
+		</li>
 	</ul>
-	</div>
-	<div class="Section" id="">
-		<a class="bookmark" title="" name=""></a>
-		<hr/>
+</div>
+
+<div class="Section" id="Terminating">
+	<a class="bookmark" title="terminating" name="terminating"></a>
+	<hr/>
 	<h2>Terminating a Mammography Certification</h2>
 	<p>To terminate a mammography certification:</p>
 	<ul>
 		<li>Contact the facilities mammography accreditation body (State of Texas Mammography Accreditation Program or the American College of Radiology &ndash; ACR).</li>
-		
-		<li>Complete and submit the <a title="Request for Mammography Certification Termination" href="FORMS/OTHER%20FORMS%20-%20FILLABLE/RC%2017-M%20Termination%2005-2015%20-%20fillable.pdf">RC 17-M</a> <a href="/radiation/forms.aspx#17R">Request for Mammography Certification Termination</a>.</li>
+		<li>Complete and submit the <a title="RC 17-M, Request for Mammography Certification Termination" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=20003">RC 17-M, Request for Mammography Certification Termination</a> <span class="small">(PDF, 17KB)</span>.</li>
 	</ul>
 </div>
 
-<div class="Section" id="">
-	<a class="bookmark" title="" name=""></a>
+<div class="Section" id="Contact">
+	<a class="bookmark" title="contact" name="contact"></a>
 	<hr/>
 	<h2>Mammography Certification Contact Information</h2>
-	<p>Mailing Address: Department of State Health Services</p>
-	<p>Radiation Safety Licensing Branch</p>
-	<p>Mail Code 2003</p>
-	<ol>
-		<li>O. Box 149347 <br /> Austin, Texas 78714-9347</li>
-	</ol>
-	<p>Phone Number: 512-834-6688 extension 2225</p>
-	<p>Fax Number: 512-834-6716</p>
+
+	<p>
+		Phone: (512) 834-6688 ext. 2225<br/>
+		Fax: (512) 834-6716
+	</p>
+	
+	<p><strong>Mailing Address</strong></p>
+	<p>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2003<br/>
+		P.O. Box 149347 <br /> 
+		Austin, Texas 78714-9347
+	</p>
 </div>
 
-<div class="Section" id="">
-	<a class="bookmark" title="" name=""></a>
+<div class="Section" id="Operating-and-Safety-Procedures">
+	<a class="bookmark" title="procedures" name="procedures"></a>
 	<hr/>
 	<h2>Operating and Safety Procedures</h2>
-	<p>Title 25 of the Texas Administrative Code (TAC) &sect;289.230(hh)(3) requires each registrant to have and implement written operating and safety procedures to include the following.</p>
+	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.230(hh)(3)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=203">&#0167;289.230(hh)(3)</a> requires each registrant to have and implement written operating and safety procedures to include the following.</p>
 	<p>Rules to view for required policies that need to be submitted with new facility, and renewal applications:</p>
 	<ul>
 		<li>Image quality, corrective for poor quality, and process for feedback from interpreting physicians: 289.230 (u) &amp; (u)(1)(B)(i)</li>
@@ -257,11 +286,11 @@
 	</ul>
 </div>
 
-<div class="Section" id="">
-	<a class="bookmark" title="" name=""></a>
+<div class="Section" id="Additional-Information">
+	<a class="bookmark" title="additional-information" name="additional-information"></a>
 	<hr/>
 	<h2>Additional Information</h2>
-	<p>For additional information see "Frequently Asked Questions &ndash; FAQs" or contact the mammography certification program at 512-834-6688 extension 2225.</p>																
+	<p>For additional information see <a title="Frequently Asked Questions" href="/radiation/mammography/faq.aspx">Frequently Asked Questions &ndash; FAQs</a> or contact the mammography certification program at 512-834-6688 extension 2225.</p>																
 </div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

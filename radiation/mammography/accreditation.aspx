@@ -1,5 +1,5 @@
 <?php
-	$title= "Accreditation Process - Mammography Accreditation Program" ;
+	$title= "Accreditation Process - Mammography Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>

@@ -1,14 +1,19 @@
 <?php
-	$title= "State of Texas Mammography Accreditation Program (TMAP)" ;
+	$title= "Mammography Program - Radiation Control" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>
 
-<p>In April 1998, the State of Texas, Department of State Health Services, was approved by the U.S. Food and Drug Administration (FDA), Division of Mammography Quality and Radiation Programs (DMQRP) as an accreditation body and joined three other approved accrediting bodies - the State of Iowa, the State of Arkansas and the American College of Radiology.</p>
+<p>In 1993, the Texas Legislature passed House Bill 63 which amended the Texas Health and Safety Code requiring that Texas becomes an Accrediting Body and to apply to the U.S. Food and Drug Administration (FDA), Center for Devices and Radiological Health (CDRH), Division of Mammography Quality Radiation Program (DMQRP) be a Certifying Agency. </p>
 
-<p>Mammography facilities in Texas may choose the State of Texas or the American College of Radiology as their accreditation body. Both accreditation bodies have been approved to accredit all film screen, full field digital, and CR mammography units currently approved by the US Food and Drug Administration (FDA), Office of Device Evaluations (ODE).</p>
+<p>In April 1998, the State of Texas was approved by the U.S. Food and Drug Administration (FDA) as an accreditation body and joined three other approved accrediting bodies - the State of Iowa, the State of Arkansas and the American College of Radiology.</p>
 
-<p>To provide mammography services in the Texas, a facility must be certified by DSHS, an FDA approved Certifying Agency. To receive a Certified Mammography Facility certificate, a facility must apply for and achieve accreditation through the accrediting body of their choice.</p>
+<p>On September 1, 2008, the State of Texas was approved as a Certifying Agency by the U.S. Food and Drug Administration (FDA) and carries out the certification functions for all facilities located within Texas.</p>
+
+<p>To legally perform mammography in Texas, a facility must be certified. To obtain a certification, the facility must apply for and achieve accreditation by an FDA approved accreditation body and meet applicable requirements established by the <a title="Mammography Quality Standards Act (MQSA)" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/default.htm">Mammography Quality Standards Act (MQSA)</a> and the accreditation body of choice. Mammography facilities may choose to be accredited through the Department of State Health Services (DSHS) or the <a title="American College of Radiology (ACR)" href="http://www.acr.org/">American College of Radiology (ACR)</a>.</p>
+
+<p>All facilities that perform interventional breast radiography must apply for and receive a Certificate of Mammography Systems. Machines used exclusively for interventional breast radiography are not required to be accredited by an FDA approved accrediting body.</p>
+
 
 <hr/>
 <h2>Email Updates</h2>
@@ -21,7 +26,7 @@
 <p>
 	For more information about the State of Texas accreditation program, please contact us. <br/><br/>
 	Email: <a title="Kaye.jividen@dshs.state.tx.us" href="mailto:Kaye.jividen@dshs.state.tx.us">Kaye Jividen</a><br/>
-	Phone: (512) 834-6688 Ext. 2246
+	Phone: (512) 834-6688 Ext. 2245
 </p>
 
 

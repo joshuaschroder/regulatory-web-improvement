@@ -30,6 +30,12 @@
 	<h2>Agendas and Minutes of Radiation Advisory Board Meetings</h2>
 	<a class="bookmark" title="agendas-2015" name="agendas-2015"></a>
 	
+	<h3>October 29, 2015</h3>
+	<h4>Agendas</h4>
+	<ul>
+		<li><a title="Advisory Board Meeting Agenda" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002514">Advisory Board Meeting Agenda</a> <span class="small">(PDF, 132KB)</span></li>
+	</ul>
+	
 	<h3>September 18, 2015</h3>
 	<h4>Agendas</h4>
 	<ul>
@@ -1694,7 +1700,7 @@
 			</tr>
 			<tr>
 				<th>Documents:</th>
-				<td><a title="Pantex Resolution " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589966800">Pantex Resolution </a> <span class="small">(PDF, 6KB)</span></td>
+				<td><a title="Pantex Resolution" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589966800">Pantex Resolution </a> <span class="small">(PDF, 6KB)</span></td>
 			</tr>
 		</tbody>
 	</table>	

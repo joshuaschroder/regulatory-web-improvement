@@ -1,5 +1,5 @@
 <?php
-	$title= "Applications and Forms - Laser and Laser Services Registration" ;
+	$title= "Applications and Forms - Laser and Laser Device Services Registration" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_laser_menu.html'; 
 ?>
@@ -9,7 +9,7 @@
 </style>
 
 <hr/>
-<h2>Laser and Laser Services Applications and Forms</h2>
+<h2>Laser and Laser Device Services Applications and Forms</h2>
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 	<caption>Laser Registration Applications and Forms</caption>
 	<thead>
@@ -45,7 +45,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
-			<td headers="table_heading_1"><a title="Registration Application for Laser Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Registration Application for Laser Services</a> <span class="small">(PDF, 35KB)</span></td>
+			<td headers="table_heading_1"><a title="Registration Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Registration Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
 		</tr>		
 	</tbody>
 </table>

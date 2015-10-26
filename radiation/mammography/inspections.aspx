@@ -1,5 +1,5 @@
 <?php
-	$title= "Inspections - Mammography Accreditation Program" ;
+	$title= "Inspections - Mammography Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>
@@ -22,10 +22,10 @@
 <p>The Notice of Failure shall remain posted until the facility is authorized to remove it by Radiation Control.</p>
 
 <h3>Patient Notifications</h3>
-<p>Registrants who receive a Notice of Failure due to a severity level I violation, are required to notify the patients who had a mammography performed at the facility during the 30 days preceding the date of the inspection. The facility shall:</p>
+<p>Registrants who receive a Notice of Failure due to a severity level I violation, are required to notify the patients whos mammogram could have been affected by the violation. The registrant shall:</p>
 <ul>
 	<li>Inform the patient that the mammography system failed to meet the agency's certification standards;</li>
-	<li>Recommend that the patient have another mammogram performed at a facility with a certified mammography system;</li>
+	<li>Recommend that the patient consult with their physician regarding the need for another mammogram (a replacement mammogram);</li>
 	<li>List the 3 closest facilities to the original testing facility that have a certified mammography system;</li>
 	<li>Explain the failure of the mammography system and</li>
 	<li>Explain the potential consequences to the patient</li>

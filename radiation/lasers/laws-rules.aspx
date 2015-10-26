@@ -1,5 +1,5 @@
 <?php
-	$title= "Laws and Rules - Laser and Laser Services Registration" ;
+	$title= "Laws and Rules - Laser and Laser Device Services Registration" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_laser_menu.html'; 
 ?>
@@ -31,9 +31,9 @@
 
 
 <hr/>
-<h2>Laser and Laser Services Registration Rules - Title 25, Texas Administrative Code</h2>
+<h2>Laser and Laser Device Services Registration Rules - Title 25, Texas Administrative Code</h2>
 <table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
-	<caption>Lasers and Laser Services Registration Rules</caption>
+	<caption>Lasers and Laser Device Services Registration Rules</caption>
 	<thead>
 		<tr>
 			<th id="table_heading_0" style="width:20%;">Rule</th>
