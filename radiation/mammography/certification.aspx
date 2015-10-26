@@ -37,7 +37,7 @@
 	</ul>
 	<p>If the <strong><em>American College of Radiology (ACR)</em></strong> will be the mammography accreditation body:</p>
 	<ul>
-		<li>Contact the American College of Radiology (<a title="ACR Mammography Accreditation" href="http://www.acr.org/Quality-Safety/Accreditation/Mammography">ACR Mammography Accreditation</a>)</li>
+		<li>Contact the American College of Radiology (<a title="ACR Mammography Accreditation" href="http://www.acr.org/Quality-Safety/Accreditation/Mammography"><img title="American College of Radiology Logo" alt="American College of Radiology Logo" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/radiation/acr-logo.jpg" style="width:50px; height:auto;vertical-align:middle;"/> - ACR Mammography Accreditation</a>)</li>
 		<li>
 			Also complete and submit to the Department of State Health Services Mammography Certification Program the following forms along with the appropriate fee at least two weeks prior to the date the facility plans to start performing mammography. To determine your fee, see the <a title="Schedule of Biennial Fees for Registration for Radiation Machines " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">Schedule of Biennial Fees for Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span>.
 			<ul>
@@ -66,7 +66,7 @@
 	<ul>
 		<li>
 			Contact the FDA at the following link for Digital Breast Tomosynthesis approval. <strong><em>(The facility must receive approval from the FDA prior to using the digital breast tomosynthesis portion of the mammography unit.)</em></strong><br/><br/>
-			FDA Certification Extension Program - <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a>
+		<img title="Food and Drug Administration Logo" alt="Food and Drug Administration Logo" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/radiation/fda-logo.jpg" style="width:50px; height:auto;vertical-align:middle;"/> FDA Certification Extension Program - <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a>
 		</li>
 		<li>When the FDA Tomosynthesis Approval Letter is received the facility may begin to use the Digital Breast Tomosynthesis portion of the unit.</li>
 		<li>As soon as the FDA Tomosynthesis Approval Letter is received submit a copy to the Department of State Health Services Mammography Certification Program.</li>
@@ -140,7 +140,7 @@
 		</li>
 	</ul>
 	<p>If the mammography unit will be used to perform digital breast tomosynthesis also contact the FDA at the following link for Digital Breast Tomosynthesis Approval.</p>
-	<p>FDA Certification Extension Program - <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></p>
+	<p><img title="Food and Drug Administration Logo" alt="Food and Drug Administration Logo" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/radiation/fda-logo.jpg" style="width:50px; height:auto;vertical-align:middle;"/> FDA Certification Extension Program - <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></p>
 	<ul>
 		<li>When the FDA Tomosynthesis Approval Letter is received the facility may begin to use the Digital Breast Tomosynthesis portion of the unit.</li>
 		<li>As soon as the FDA Tomosynthesis Approval Letter is received submit a copy to the Department of State Health Services Mammography Certification Program.</li>
@@ -159,7 +159,7 @@
 	<ul>
 		<li>
 			Submit information to the FDA to receive approval to use Digital Breast Tomosynthesis (DBT).  The following link will take you to the FDA web page for Digital Breast Tomosynthesis:<br/><br/>
-			FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a>
+			<img title="Food and Drug Administration Logo" alt="Food and Drug Administration Logo" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/radiation/fda-logo.jpg" style="width:50px; height:auto;vertical-align:middle;"/> FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a>
 		</li>
 		<li>When the FDA Tomosynthesis Approval Letter is received the facility may begin to use the Digital Breast Tomosynthesis portion of the unit.</li>
 		<li>
@@ -278,10 +278,8 @@
 		
 		<li>General operating procedures: 289.230 (dd)</li>
 		
-		<li>Infection control &ndash; see following FDA MQSA link</li>
-	</ul>
-	<p> FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></p>
-	<ul>
+		<li>Infection control &ndash; see following FDA MQSA link<br/>
+			<img title="Food and Drug Administration Logo" alt="Food and Drug Administration Logo" src="http://www.dshs.state.tx.us/uploadedImages/Content/Regulatory/radiation/fda-logo.jpg" style="width:50px; height:auto;vertical-align:middle;"/> FDA Certification Extension Program- <a title="Digital Breast Tomosynthesis System" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/FacilityCertificationandInspection/ucm413117.htm">Digital Breast Tomosynthesis System</a></li>
 		<li>QC procedures with acceptable limits listed</li>
 	</ul>
 </div>

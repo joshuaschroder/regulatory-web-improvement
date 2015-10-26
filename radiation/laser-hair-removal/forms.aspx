@@ -9,9 +9,9 @@
 </style>
 
 <hr/>
-<h2>Laser Hair Removal Personnel</h2>
+<h2>Laser Hair Removal Individuals</h2>
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
-	<caption>Applications and Forms for Laser Hair Removal Personnel</caption>
+	<caption>Applications and Forms for Laser Hair Removal Individuals</caption>
 	<thead>
 		<tr>
 			<th id="table_heading_0" style="width:20%;">Document Number</th>
@@ -73,9 +73,9 @@
 </table>
 
 
-<h3>Laser Hair Removal Training Facilities</h3>
+<h3>Laser Hair Removal 40 Hour Agency-Approved Training Programs</h3>
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
-	<caption>Applications and Forms for Laser Hair Removal Training Providers</caption>
+	<caption>Applications and Forms for Laser Hair Removal 40 Hour Agency-Approved Training Programs</caption>
 	<thead>
 		<tr>
 			<th id="table_heading_0" style="width:20%;">Document Number</th>
