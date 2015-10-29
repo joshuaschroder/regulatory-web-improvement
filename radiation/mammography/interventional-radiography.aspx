@@ -27,8 +27,11 @@
 	<p>If a facility has an interventional breast unit(s) used <strong><em>only</em></strong> for interventional studies (breast biopsy and/or needle localizations) then the facility is required to have and Interventional Breast Radiography Certification. Units that are used for mammography and interventional breast radiography will only be listed on the mammography certification and are not required to have an interventional Breast Radiography Certification.</p>
 	<p>To obtain a new Interventional Breast Radiography Certification complete and submit to the Department of State Health Services, Mammography Certification Program the following forms along with the appropriate fee within 30 days of beginning use of interventional breast equipment.</p>
 	<ul>
-		<li><a title="RC 230-3, Application for Interventional Breast Radiography - New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981244">RC 230-3, Application for Interventional Breast Radiography - New Facility or Renewal</a> <span class="small">(PDF, 73KB)</span></li>
-		<li>Also submit the physicist's survey report requested in Section 3 of the application.</li>
+		<li><a title="RC 230-3, Application for Interventional Breast Radiography - New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981244">RC 230-3, Application for Interventional Breast Radiography - New Facility or Renewal</a> <span class="small">(PDF, 73KB)</span>
+		<ul>
+			<li>Also submit the physicist's survey report requested in Section 3 of the application.</li>
+		</ul>
+		</li>
 		<li><a title="RC Form 226-1,  Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=51597">RC Form 226-1,  Business Information Form</a> <span class="small">(PDF, 24KB)</span></li>
 		<li>
 			<a title="RC Form 42-3, Radiation Safety Officer (RSO) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=19926">RC Form 42-3, Radiation Safety Officer (RSO) Form</a> <span class="small">(PDF, 301KB)</span><br/>
