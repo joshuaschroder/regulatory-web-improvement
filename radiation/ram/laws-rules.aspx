@@ -93,10 +93,10 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
+					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)-(9) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)-(9) <span class="small">(PDF, 190KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
 				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
+				<td headers="table_heading_1">Appendices to §289.202 Regarding RAM Labeling, Waste &amp; Disposal, Record Keeping, and Surface Contamination Levels</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
@@ -113,7 +113,7 @@
 					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
+				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -126,8 +126,8 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
 			<tr>
@@ -263,10 +263,10 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
+					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)-(9) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)-(9) <span class="small">(PDF, 190KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
 				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
+				<td headers="table_heading_1">Appendices to §289.202 Regarding RAM Labeling, Waste &amp; Disposal, Record Keeping, and Surface Contamination Levels</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
@@ -283,7 +283,7 @@
 					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
+				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -296,8 +296,8 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958449">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
@@ -389,10 +389,10 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
+					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)-(9) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)-(9) <span class="small">(PDF, 190KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
 				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
+				<td headers="table_heading_1">Appendices to §289.202 Regarding RAM Labeling, Waste &amp; Disposal, Record Keeping, and Surface Contamination Levels</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
@@ -409,7 +409,7 @@
 					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
+				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -422,8 +422,8 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
 			<tr>
@@ -524,10 +524,10 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
+					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)-(9) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)-(9) <span class="small">(PDF, 190KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
 				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
+				<td headers="table_heading_1">Appendices to §289.202 Regarding RAM Labeling, Waste &amp; Disposal, Record Keeping, and Surface Contamination Levels</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
@@ -544,7 +544,7 @@
 					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
+				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -557,8 +557,8 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
 			<tr>
@@ -668,10 +668,10 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
+					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)-(9) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)-(9) <span class="small">(PDF, 190KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
 				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
+				<td headers="table_heading_1">Appendices to §289.202 Regarding RAM Labeling, Waste &amp; Disposal, Record Keeping, and Surface Contamination Levels</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
@@ -688,7 +688,7 @@
 					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
+				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -701,8 +701,8 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
 			<tr>
@@ -801,10 +801,10 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
+					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)-(9) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)-(9) <span class="small">(PDF, 190KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
 				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
+				<td headers="table_heading_1">Appendices to §289.202 Regarding RAM Labeling, Waste &amp; Disposal, Record Keeping, and Surface Contamination Levels</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
@@ -821,7 +821,7 @@
 					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
+				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -834,8 +834,8 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
 			<tr>
@@ -935,10 +935,10 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)(7) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)(7) <span class="small">(PDF, 190KB)</span></a>
+					<a title="Texas Administrative Code, Title 25, §289.202(ggg)(3)-(9) (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996540">§289.202(ggg)(3)-(9) <span class="small">(PDF, 190KB)</span></a>
 					<a class="bookmark" title="289202ggg2F" name="289202ggg37"></a>
 				</td>
-				<td headers="table_heading_1">Appendices to §289.202</td>
+				<td headers="table_heading_1">Appendices to §289.202 Regarding RAM Labeling, Waste &amp; Disposal, Record Keeping, and Surface Contamination Levels</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
@@ -955,7 +955,7 @@
 					<a title="RC Form 202-2 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958444">RC Form 202-2 <br><span class="small">(PDF, 81KB)</span></a>
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
-				<td headers="table_heading_1">Cumulative Occupational Exposure History</td>
+				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -968,8 +968,8 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-				<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
 			<tr>

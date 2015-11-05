@@ -39,7 +39,6 @@
 			<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
 			<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
 		</tr>
-		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2301" name="2301"></a>RC 230-1</td>
 			<td headers="table_heading_1"><a title="Application for Mammography Certification - New Facility or Renewal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981247">Application for Mammography Certification - New Facility or Renewal</a> <span class="small">(PDF, 137KB)</span></td>

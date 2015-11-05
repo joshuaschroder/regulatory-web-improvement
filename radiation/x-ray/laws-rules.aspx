@@ -80,8 +80,8 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-					<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
 				<tr>
@@ -122,7 +122,7 @@
 				<tr>
 					<td headers="table_heading_0">
 						<a title="Texas Administrative Code, Title 25, §289.227 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=227">§289.227 <span class="small">(HTML)</span></a><br>
-						<a title="Texas Administrative Code, Title 25, §289.227 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961604">§289.227 <span class="small">(PDF, 328KB)</span></a>
+						<a title="Texas Administrative Code, Title 25, §289.&amp;ItemID" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975090">§289.227 <span class="small">(PDF, 328KB)</span></a>
 						<a class="bookmark" title="289227" name="289227"></a>
 					</td>
 					<td headers="table_heading_1">Use of Radiation Machines in the Healing Arts 
@@ -163,8 +163,8 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-					<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
 				<tr>
@@ -205,7 +205,7 @@
 				<tr>
 					<td headers="table_heading_0">
 						<a title="Texas Administrative Code, Title 25, §289.227 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=227">§289.227 <span class="small">(HTML)</span></a><br>
-						<a title="Texas Administrative Code, Title 25, §289.227 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961604">§289.227 <span class="small">(PDF, 328KB)</span></a>
+						<a title="Texas Administrative Code, Title 25, §289.227 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975090">§289.227 <span class="small">(PDF, 328KB)</span></a>
 						<a class="bookmark" title="289227" name="289227"></a>
 					</td>
 					<td headers="table_heading_1">Use of Radiation Machines in the Healing Arts 
@@ -277,7 +277,7 @@
 						<a title="Texas Administrative Code, Title 25, §289.232(i)(5)(B)(iii) (PDF)" href="http://texreg.sos.state.tx.us/fids/200805103-2.pdf">§289.232(i)(5)(B)(iii) <span class="small">(PDF, 14KB)</span></a>
 						<a class="bookmark" title="289232i5biii" name="289232i5biii"></a>
 					</td>
-					<td headers="table_heading_1">"Notice to Employees" BRC Form 232-1 (for Dentists only)</td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 232-1 (for Dentists only)</td>
 					<td headers="table_heading_2">10/12/08</td>
 				</tr>		
 			</tbody>
@@ -327,7 +327,7 @@
 						<a title="Texas Administrative Code, Title 25, §289.233(i)(3)(F)(vii) (PDF)" href="http://texreg.sos.state.tx.us/fids/200805103-6.pdf">§289.233(i)(3)(F)(vii) <span class="small">(PDF, 32KB)</span></a>
 						<a class="bookmark" title="289233i3Fvii" name="289233i3Fvii"></a>
 					</td>
-					<td headers="table_heading_1">Occupational Exposure Record BRC Form 233-1 (for Veterinarians Only)</td>
+					<td headers="table_heading_1">"Occupational Exposure Record" RC Form 233-1 (for Veterinarians Only)</td>
 					<td headers="table_heading_2">10/12/08</td>
 				</tr>
 				<tr>
@@ -336,7 +336,7 @@
 						<a title="Texas Administrative Code, Title 25, §289.233(i)(4)(B)(iii) (PDF)" href="http://texreg.sos.state.tx.us/fids/200805103-7.pdf">§289.233(i)(4)(B)(iii) <span class="small">(PDF, 66KB)</span></a>
 						<a class="bookmark" title="289233i4Biii" name="289233i4Biii"></a>
 					</td>
-					<td headers="table_heading_1">"Notice to Employees" BRC Form 233-2 (for Veterinarians Only)</td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 233-2 (for Veterinarians Only)</td>
 					<td headers="table_heading_2">10/12/08</td>
 				</tr>		
 			</tbody>
@@ -394,7 +394,7 @@
 						<a title="Texas Administrative Code, Title 25, §289.233(i)(3)(F)(vii) (PDF)" href="http://texreg.sos.state.tx.us/fids/200805103-6.pdf">§289.233(i)(3)(F)(vii) <span class="small">(PDF, 32KB)</span></a>
 						<a class="bookmark" title="289233i3Fvii" name="289233i3Fvii"></a>
 					</td>
-					<td headers="table_heading_1">Occupational Exposure Record BRC Form 233-1 (for Veterinarians Only)</td>
+					<td headers="table_heading_1">"Occupational Exposure Record" RC Form 233-1 (for Veterinarians Only)</td>
 					<td headers="table_heading_2">10/12/08</td>
 				</tr>
 				<tr>
@@ -403,7 +403,7 @@
 						<a title="Texas Administrative Code, Title 25, §289.233(i)(4)(B)(iii) (PDF)" href="http://texreg.sos.state.tx.us/fids/200805103-7.pdf">§289.233(i)(4)(B)(iii) <span class="small">(PDF, 66KB)</span></a>
 						<a class="bookmark" title="289233i4Biii" name="289233i4Biii"></a>
 					</td>
-					<td headers="table_heading_1">"Notice to Employees" BRC Form 233-2 (for Veterinarians Only)</td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 233-2 (for Veterinarians Only)</td>
 					<td headers="table_heading_2">10/12/08</td>
 				</tr>		
 			</tbody>
@@ -433,8 +433,8 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-					<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
 				<tr>
@@ -516,8 +516,8 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-					<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
 				<tr>
@@ -608,8 +608,8 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-					<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
 				<tr>
@@ -710,8 +710,8 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-					<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
+					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
 				<tr>
@@ -752,7 +752,7 @@
 				<tr>
 					<td headers="table_heading_0">
 						<a title="Texas Administrative Code, Title 25, §289.227 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=227">§289.227 <span class="small">(HTML)</span></a><br>
-						<a title="Texas Administrative Code, Title 25, §289.227 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961604">§289.227 <span class="small">(PDF, 328KB)</span></a>
+						<a title="Texas Administrative Code, Title 25, §289.227 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975090">§289.227 <span class="small">(PDF, 328KB)</span></a>
 						<a class="bookmark" title="289227" name="289227"></a>
 					</td>
 					<td headers="table_heading_1">Use of Radiation Machines in the Healing Arts <br/><a title="See Note 289.227" href="#289.227">See Note 289.227</a></td>

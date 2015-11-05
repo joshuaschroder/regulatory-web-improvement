@@ -53,7 +53,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Form 203-1 <span class="small">(PDF, 65KB)</span></a></td>
-			<td headers="table_heading_1">Notice to Employees (standalone document)</td>
+			<td headers="table_heading_1">“Notice to Employees” RC Form 302-1 (standalone document)</td>
 			<td headers="table_heading_2">10/01/11</td>
 		</tr>
 			<tr>

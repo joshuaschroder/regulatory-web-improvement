@@ -10,6 +10,7 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
+	<li><a title="Certification Overview" href="#overview">Certification Overview</a></li>	
 	<li><a title="Obtaining a New Mammography Certification" href="#new-certification">Obtaining a New Mammography Certification</a></li>
 	<li><a title="Fee Schedule for Mammography Certification" href="#fee-schedule">Fee Schedule for Mammography Certification</a></li>
 	<li><a title="Name and/or Ownership Changes" href="#name-ownership-changes">Name and/or Ownership Changes</a></li>
@@ -25,6 +26,15 @@
 	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
 	<li><a title="" href="#">Further Help and Information</a></li>
 </ul>
+
+<div class="Section" id="Overview">
+	<a class="bookmark" title="overview" name="overview"></a>
+	<hr/>
+	<h2>Certification Overview</h2>	
+	<p>To legally perform mammography in Texas, a facility must be certified. To obtain a certification, the facility must apply for and achieve <a title="accreditation" href="/radiation/mammography/accreditation.aspx">accreditation</a> by an FDA approved accreditation body and meet applicable requirements established by the <a title="Mammography Quality Standards Act" href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/">Mammography Quality Standards Act (MQSA)</a> and the accreditation body of choice.</p> 
+	<p>Mammography facilities may choose to be accredited through the Department of State Health Services (DSHS) or the American College of Radiology (ACR).</p>
+</div>
+
 
 <div class="Section" id="New-Certification">
 	<a class="bookmark" title="new-certification" name="new-certification"></a>
