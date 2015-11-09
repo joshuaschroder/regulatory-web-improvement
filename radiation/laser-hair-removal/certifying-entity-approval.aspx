@@ -11,9 +11,9 @@
 	<a class="bookmark" title="initial" name="initial"></a>
 	<hr/>
 	<h2>New Registration</h2>
-	<p>In addition to submitting a completed application, submit documents showing how the certifying entity meets the requirements according to <a title="Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=302">Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)</a>.</p>
+	<p>In addition to a completed application, submit documents showing how the certifying entity meets the requirements according to <a title="Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=302">Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)</a>.</p>
 	
-	<p>For new registrations, complete and submit the forms below.</p>
+	<p>For certifying entity approval, complete and submit the following forms and other required information.</p>
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Applications and Forms for New Registration of Laser Hair Removal Certifying Entities</caption>
 		<thead>
@@ -33,24 +33,30 @@
 			</tr>
 		</tbody>
 	</table>
-	<p>There is no fee required for submitting a certifying entity application form.</p>
-	<p>For approval requirements for certifying entities, certification programs, and examinations, refer to Title 25 Texas Administrative Code §289.302.</p>
+	<p>There is no fee required for submitting a certifying entity application.</p>
 </div>
 
 <div class="Section" id="Amend-Terminate">
 	<a class="bookmark" title="amendment-termination" name="amendment-termination"></a>	
 	<hr/>
-	<h2>Amendments and Termination</h2>
-	<p>To terminate or amend an existing approval (including change of name, address, or ownership), submit the proposed changes in writing to:</p>
-	<p>
-		Texas Department of State Health Services<br/>
-		Radiation Safety Licensing Branch<br/>
-		Mail Code 2835<br/>
-		P.O. Box 149347<br/>
-		Austin, TX 78714-9347
-	</p>
-</div>
-
+	<h2>Amending and Terminating a Certifying Entity Approval</h2>
+	<p>To amend or terminate a certifying entity approval, complete and submit the following form.</p>
+	
+	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+		<caption>Applications and Forms for Amending and Terminating a Laser Hair Removal Certifying Entity Approval</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:20%;">Document Number</th>
+				<th id="table_heading_1" style="width:80%;">Title</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="3022" name="3022"></a>RC 302-2</td>
+				<td headers="table_heading_1"><a title="Application for Laser Hair Removal Certifying Entities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589935325">Application for Laser Hair Removal Certifying Entities</a> <span class="small">(PDF, 264KB)</span></td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

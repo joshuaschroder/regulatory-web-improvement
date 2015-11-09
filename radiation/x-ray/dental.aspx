@@ -56,7 +56,7 @@
 <h2>Amending a Certificate of Registration</h2>
 <p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC Form 226-2</a> <span class="small">(PDF, 27KB)</span>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
 
-<p><strong>Name and/or Ownership Change</strong> - See Regulatory Guide 8.2:  <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a></p>
+<p><strong>Name and/or Ownership Change</strong> - See Regulatory Guide 8.2:  <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
 
 <p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC Form 42-3</a> <span class="small">(PDF, 301KB)</span>.</p>
 

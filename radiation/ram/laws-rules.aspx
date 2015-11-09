@@ -54,7 +54,7 @@
 	
 	<a class="bookmark" title="ram-standard" name="ram-standard"></a>
 	<br/>
-	<h3>Standard Radioactive Materials Licenses</h3>
+	<h3>Standard Radioactive Materials Licenses (all RAM rules)</h3>
 	<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 		<caption>Rules Covering Medical Licenses for Radioactive Material</caption>
 		<thead>
@@ -114,6 +114,13 @@
 					<a class="bookmark" title="2022" name="2022"></a>
 				</td>
 				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
+				<td headers="table_heading_2">06/05/97</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
+				</td>
+				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
@@ -288,6 +295,13 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
+				</td>
+				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
+				<td headers="table_heading_2">06/05/97</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
 					<a class="bookmark" title="289203" name="289203"></a>
 					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.203 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958449">§289.203 <span class="small">(PDF, 109KB)</span></a>
@@ -412,6 +426,13 @@
 				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
+				</td>
+				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
+				<td headers="table_heading_2">06/05/97</td>
+			</tr>			
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>
@@ -547,6 +568,13 @@
 				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
+				</td>
+				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
+				<td headers="table_heading_2">06/05/97</td>
+			</tr>			
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>
@@ -693,6 +721,13 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
+				</td>
+				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
+				<td headers="table_heading_2">06/05/97</td>
+			</tr>			
+			<tr>
+				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>
 					<a title="Texas Administrative Code, Title 25, §289.203 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958449">§289.203 <span class="small">(PDF, 109KB)</span></a>
 					<a class="bookmark" title="289203" name="289203"></a>
@@ -824,6 +859,13 @@
 				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
+				</td>
+				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
+				<td headers="table_heading_2">06/05/97</td>
+			</tr>			
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>
@@ -958,6 +1000,13 @@
 				<td headers="table_heading_1">“Cumulative Occupational Exposure History” RC Form 202-2</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
+				</td>
+				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
+				<td headers="table_heading_2">06/05/97</td>
+			</tr>						
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br>

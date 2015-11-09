@@ -1,5 +1,5 @@
 <?php
-	$title= "Registration of 40 Hour Agency-Approved Training Programs - Laser Hair Removal" ;
+	$title= "Registration of 40 Hour Agency-Accepted Training Programs - Laser Hair Removal" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_lhr_menu.html'; 
 ?>
@@ -9,19 +9,20 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="New Registration" href="#training-initial">New Registration</a></li>
-	<li><a title="Renewal Registration" href="#training-renew">Renewal Registration</a></li>
-	<li><a title="Change of Name, Address, or Ownership" href="#training-amendment">Change of Name, Address, or Ownership</a></li>
-	<li><a title="Terminating a Certificate of Registration" href="#training-terminate">Terminating a Certificate of Registration</a></li>
+	<li><a title="New Registration" href="#initial">New Registration</a></li>
+	<li><a title="Renewal Registration" href="#renew">Renewal Registration</a></li>
+	<li><a title="Amending a Certificate of Registration" href="#amendment">Amending a Certificate of Registration</a></li>
+	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 </ul>
 
 
 <div class="Section" id="New-Registration">
-	<a class="bookmark" title="training-initial" name="training-initial"></a>
+	<a class="bookmark" title="initial" name="initial"></a>
 	<hr/>
 	<h2>New Registration</h2>
 	
-	<p>To obtain a certificate of registration for a 40 hour agency-accepted training program, complete and submit the following documents along with the application fee of $290:</p>
+	<p>To obtain a new certificate of registration, complete and submit the following documents with the application fee of $290:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for New Registration of Laser Hair Removal Training Providers</caption>
@@ -46,11 +47,10 @@
 			</tr>		
 			<tr>
 				<td headers="table_heading_0">None</td>
-				<td headers="table_heading_1">Certificate of Approval with <a title="Texas Workforce Commission (TWC)" href="http://www.twc.state.tx.us/">Texas Workforce Commission (TWC)</a><br/>Visit the TWC website or call (512) 936-3100 for requirements</td>
+				<td headers="table_heading_1">Certificate of Approval with <a title="Texas Workforce Commission (TWC)" href="http://www.twc.state.tx.us/">Texas Workforce Commission (TWC)</a><br/>Visit the TWC website or call (512) 936-3100 for requirements.</td>
 			</tr>		
 		</tbody>
 	</table>
-	
 	
 	<h3>Additional Documentation Requirements</h3>
 	<p>The following documents must be submitted along with the above applications and forms to receive a new certificate of registration:</p>
@@ -61,15 +61,15 @@
 		<li>Successful course completion criteria</li>
 		<li>Copy of certificate to be issued upon successful completion of training program</li>
 	</ul>
-	<p><strong>Note:</strong> See <a title="25 TAC &#0167;289.302" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=302">25 TAC &#0167;289.302</a> for specific registration requirements and information.</p>
+	<p><strong>Note:</strong> For specific registration requirements and information, see page 302-15 of <a title="25 TAC &#0167;289.302" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946028">25 TAC &#0167;289.302(j)(20)</a> <span class="small">(PDF, 751KB)</span>.</p>
 </div>
 
 <div class="Section" id="Renewal-Registration">
-	<a class="bookmark" title="training-renew" name="training-renew"></a>
+	<a class="bookmark" title="renew" name="renew"></a>
 	<hr/>
 	<h2>Renewal Registration</h2>
 	
-	<p>To renew a certification of registration for a 40 hour agency-accepted training program, complete and submit the following forms along with a renewal fee of $298.</p>
+	<p>To renew a certification of registration, complete and submit the following forms with the renewal fee of $298.</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for Laser Hair Removal Training Providers Renewal Registration</caption>
@@ -93,10 +93,10 @@
 </div>
 
 <div class="Section" id="Amendments">
-	<a class="bookmark" title="training-amendment" name="training-amendment"></a>
+	<a class="bookmark" title="amendment" name="amendment"></a>
 	<hr/>
-	<h2>Amendments - Change of Name, Address, or Ownership</h2>
-	<p>To amend a certificate of registration for laser hair removal, such as an address or name change, complete and submit the appropriate form:</p>	
+	<h2>Amending a Certificate of Registration</h2>
+	<p>To amend a certificate of registration, such as an address or name change, complete and submit the appropriate form(s):</p>	
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Applications and Forms for Amendments to Laser Hair Removal Training Provider Registration</caption>
 		<thead>
@@ -112,13 +112,23 @@
 			</tr>
 		</tbody>
 	</table>
+	
+	<h3>Name and/or Ownership Change</h3>
+	<p>Certain conditions involving name and ownership changes may require the issuance of a new certificate of registration.</p>
+	<p>To determine if a new certificate of registration is required for your specific circumstances, see <br/><a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
+	<br/>
+	
+	<h3>Laser Safety Officer (LSO) Change</h3>
+	<p>If the LSO will change, complete and submit <a title="RC Form 42-L, Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">RC Form 42-L, Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span>.</p>
+	<br/>
+
 </div>
 
 <div class="Section" id="Terminate">
-	<a class="bookmark" title="training-terminate" name="training-terminate"></a>
+	<a class="bookmark" title="terminate" name="terminate"></a>
 	<hr/>
 	<h2>Terminating a Certificate of Registration</h2>
-	<p>To terminate a certificate of registration for laser hair removal, complete and submit the appropriate form:</p>	
+	<p>To terminate a certificate of registration, complete and submit the following form:</p>	
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Applications and Forms for Amendments to Laser Hair Removal Training Provider Registration</caption>
 		<thead>
@@ -134,6 +144,32 @@
 			</tr>				
 		</tbody>
 	</table>
+</div>
+
+<div class="Section" id="Contact-Information">
+	<hr/>
+	<a class="bookmark" title="contact" name="contact"></a>
+	<h2>Contact Information</h2>
+	<p><strong>Address for New Applications</strong></p>
+	<p>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		MC 2003<br/>
+		P.O. Box 149347<br/>
+		Austin, TX 78714-9347
+	</p>
+	
+	<p><strong>Address for Other Correspondence</strong></p>
+	<p>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		MC 2835<br/>
+		P.O. Box 149347<br/>
+		Austin, TX 78714-9347
+	</p>
+	
+	<p><strong>Telephone:</strong> (512) 834-6668 ext. 2225</p>
+	<p><strong>Fax:</strong> (512) 834-6716 and (512) 834-6717</p>	
 </div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -22,6 +22,7 @@
 <p><a title="sign up for email updates" href="/radiation/Sign-up-for-Email-Updates/"><img alt="sign up for email updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a><br/><br/></p>
 
 <hr/>
+<a class="bookmark" title="contact" name="contact"></a>
 <h2>Contact Information</h2>
 
 <p>

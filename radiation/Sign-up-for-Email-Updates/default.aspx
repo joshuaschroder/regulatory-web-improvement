@@ -41,9 +41,20 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Mammography Rules</td>
-			<td headers="table_heading_1">203, 204, 205, 226, 230, 231, 234</td>
+			<td headers="table_heading_1">203, 204, 205, 226, 230, 231</td>
 			<td headers="table_heading_2"><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_254"><img title="Sign up for e-mail updates" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">Mammography Rules - for facilities accredited with the State of Texas</td>
+			<td headers="table_heading_1">203, 204, 205, 226, 230, 231, 234</td>
+			<td headers="table_heading_2"><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_xxx"><!--img title="Sign up for e-mail updates" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"--></a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Radioactive Material – all RAM rules</td>
+			<td headers="table_heading_1">201, 202, 203, 204, 205, 251, 252, 253, 255, 256, 257, 258, 259</td>
+			<td headers="table_heading_2"><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_xxx"><!--img title="Sign up for e-mail updates" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"--></a></td>
+		</tr>
+
 		<tr>
 			<td headers="table_heading_0">Radioactive Material - General License Acknowledgement/Gauge Rules</td>
 			<td headers="table_heading_1">201, 202, 203, 204, 205, 251, 252, 257</td>
@@ -76,9 +87,14 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0">Veterinarian Rules</td>
-			<td headers="table_heading_1">204, 229, 233</td>
+			<td headers="table_heading_1">204, 233</td>
 			<td headers="table_heading_2"><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_250"><img title="Sign up for e-mail updates" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">Veterinarian with Accelerator Rules</td>
+			<td headers="table_heading_1">204, 229, 233</td>
+			<td headers="table_heading_2"><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_xxx"><!--img title="Sign up for e-mail updates" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"--></a></td>
+		</tr>		
 		<tr>
 			<td headers="table_heading_0">X-Ray - TOC Accelerators, Therapeutic Radiation Machines, Simulators, and Electronic Brachytherapy Device Rules</td>
 			<td headers="table_heading_1">203, 204, 205, 226, 227, 229, 231</td>
@@ -88,6 +104,11 @@
 			<td headers="table_heading_0">X-Ray - Industrial Radiography/Analytical Rules</td>
 			<td headers="table_heading_1">203, 204, 205, 226, 228, 231, 255</td>
 			<td headers="table_heading_2"><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_255"><img title="Sign up for e-mail updates" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">X-Ray – Industrial X-Ray Accelerator Rules</td>
+			<td headers="table_heading_1">203, 204, 205, 226, 228, 231, 255</td>
+			<td headers="table_heading_2"><a title="Sign up for e-mail updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_xxx"><!--img title="Sign up for e-mail updates" alt="Sign up for e-mail updates" src="http://www.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"--></a></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0">X-Ray - Medical Rules</td>

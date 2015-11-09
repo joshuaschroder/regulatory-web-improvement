@@ -14,10 +14,10 @@
 <hr/>
 <a title="Contact Information" class="bookmark" name="contact"></a>
 <h2>Contact Information</h2>
+<p>For more information about the Laser Hair Removal Program, please contact us.</p>
 <p>
-	Email: <a title="Shannon Dove-Edson" href="mailto:Shannon.Dove-Edson@dshs.state.tx.us">Shannon Dove-Edson</a><br/>
-	Phone: (512)  834-6688<br/>
-	Fax: (512) 834-6716<br/>
+	Phone: (512)  834-6688, Ext. 2225<br/>
+	Fax: (512) 834-6716 and (512) 834-6717<br/>
 </p>
 <p>Please see the <a title="Contact Information page" href="/radiation/contact.aspx">Radiation Control contact information page</a> for more addresses and phone numbers.</p>
 
