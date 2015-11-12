@@ -145,7 +145,7 @@
 		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
 	</li>
 	<li>
-		<a title="RC 226-5, Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">RC 226-5, Radiation Machine Services Application</a> <span class="small">(PDF, 320KB)</span><br/>
+		<a title="RC 226-5, Registration Application for Radiation Machine Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">RC 226-5, Registration Application for Radiation Machine Services</a> <span class="small">(PDF, 320KB)</span><br/>
 		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
 	</li>
 </ul>
@@ -290,7 +290,7 @@
 <hr/>
 <a class="bookmark" title="24" name="24"></a>
 <h2>What is the process for terminating a registration?</h2>
-<p>The registrant will need to submit a completed <a title="Form RC 17-R Termination of a Certificate of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Form RC 17-R Termination of a Certificate of Registration</a> <span class="small">(PDF, 24KB)</span>. Disposition of equipment must be disclosed. The form must be signed by the appropriate person (applicant or person duly authorized).</p>
+<p>The registrant will need to submit a completed <a title="Form RC 17-R Request for Registration Termination" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Form RC 17-R, Request for Registration Termination</a> <span class="small">(PDF, 24KB)</span>. Disposition of equipment must be disclosed. The form must be signed by the appropriate person (applicant or person duly authorized).</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

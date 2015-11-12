@@ -117,7 +117,7 @@
 	<a class="bookmark" title="mammography-tx" name="mammography-tx"></a>	
 	<hr/>
 	<h2>Texas Mammography Accreditation Rules - Title 25, Texas Administrative Code</h2>
-	<p><strong>(Only for Facilities Accredited with the State of Texas)</strong></p>	
+	<p><strong>(Only for Facilities Accredited with the State of Texas in addition to Mammography Rules)</strong></p>	
 	<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 		<caption>Rules Covering Texas Mammography Accreditation</caption>
 		<thead>

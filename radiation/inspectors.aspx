@@ -100,7 +100,7 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Radioactive Materials</td>
-				<td headers="table_heading_1"><a title="Sabra.pope@dshs.state.tx.us" href="mailto:Sabra.pope@dshs.state.tx.us">Sabra Pope</a></td>
+				<td headers="table_heading_1"><a title="Sabra.Schray@dshs.state.tx.us" href="mailto:Sabra.Schray@dshs.state.tx.us">Sabra Schray</a></td>
 				<td headers="table_heading_2">(817) 264-4681</td>
 			</tr>
 			<tr>
@@ -175,6 +175,12 @@
 				<td headers="table_heading_2">(254) 290-3082</td>
 			</tr>
 			<tr>
+				<td headers="table_heading_0">Radioactive Materials</td>
+				<td headers="table_heading_1"><a title="steven.fernandez@dshs.state.tx.us" href="mailto:steven.fernandez@dshs.state.tx.us">Steven Fernandez</a></td>
+				<td headers="table_heading_2">(903) 533-5288</td>
+			</tr>
+			
+			<tr>
 				<td headers="table_heading_0">X-Ray</td>
 				<td headers="table_heading_1"><a title="debby.wilson@dshs.state.tx.us" href="mailto:debby.wilson@dshs.state.tx.us">Deborah D. Wilson</a></td>
 				<td headers="table_heading_2">(903) 533-5337</td>
@@ -246,13 +252,13 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Radioactive Materials</td>
+				<td headers="table_heading_1"><a title="farrar.stewart@dshs.state.tx.us" href="mailto:farrar.stewart@dshs.state.tx.us">Farrar Stewart</a></td>
+				<td headers="table_heading_2">(713) 767-3625</td>
+			</tr>			
+			<tr>
+				<td headers="table_heading_0">Radioactive Materials</td>
 				<td headers="table_heading_1"><a title="dd.stiles@dshs.state.tx.us" href="mailto:dd.stiles@dshs.state.tx.us">DD Stiles</a></td>
 				<td headers="table_heading_2">(713) 767-3184</td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0">X-Ray</td>
-				<td headers="table_heading_1"><a title="Amanda.Carter@dshs.state.tx.us" href="mailto:Amanda.Carter@dshs.state.tx.us">Amanda Carter</a></td>
-				<td headers="table_heading_2">(713) 767-3151</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">X-Ray</td>
@@ -321,7 +327,7 @@
 				<td headers="table_heading_2">(512) 834-6770 ext. 2011</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">Radioactive Materials and X-Ray</td>
+				<td headers="table_heading_0">Radioactive Materials</td>
 				<td headers="table_heading_1"><a title="tony.haynes@dshs.state.tx.us" href="mailto:tony.haynes@dshs.state.tx.us">Tony Haynes</a></td>
 				<td headers="table_heading_2">(512) 834-6770 ext. 2311</td>
 			</tr>
@@ -499,7 +505,7 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td headers="table_heading_0">X-Ray</td>
+				<td headers="table_heading_0">Mammography, X-Ray</td>
 				<td headers="table_heading_1"><a title="julio.torres@dshs.state.tx.us" href="mailto:julio.torres@dshs.state.tx.us">Julio Torres</a></td>
 				<td headers="table_heading_2">(956) 423-0130</td>
 			</tr>

@@ -13,7 +13,7 @@
 
 <p><strong><a title="DOE" href="http://www.energy.gov/">DOE</a>- United States Department of Energy</strong></p>
 
-<p><strong><a title="EPA" href="http://www.epa.gov/">EPA</a>- United States Environmental Agency - <a title="Office of Air and Radiation" href="http://www.epa.gov/oar/">Office of Air and Radiation</a></strong></p>
+<p><strong><a title="EPA" href="http://www.epa.gov/">EPA</a>- United States Environmental Agency - <a title="Office of Air and Radiation" href="http://www2.epa.gov/aboutepa/about-office-air-and-radiation-oar">Office of Air and Radiation</a></strong></p>
 
 <p><strong><a title="HPS" href="http://www.hps.org/">HPS</a></strong><strong> - Health Physics Society</strong> -- An international professional scientific organization dedicated to promoting the practice of radiation safety.</p>
 

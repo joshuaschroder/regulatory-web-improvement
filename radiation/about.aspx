@@ -31,7 +31,7 @@
 	<li>Inspecting all entities licensed and registered to use radiation </li>
 </ul>
 
-<p>In addition, Radiation Control acts as the responsible government entity maintaining objectivity and without conflict of interest in regulating the use of radiation in:</p>
+<p>Acts as the responsible government entity maintaining objectivity and without conflict of interest in regulating the use of radiation in:</p>
 <ul>
 	<li>Industry </li>
 	<li>Health care facilities </li>

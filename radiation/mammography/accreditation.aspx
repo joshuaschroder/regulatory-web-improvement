@@ -13,17 +13,17 @@
 <ul>
 	<li><a title="Obtaining a New Mammography Accreditation Certificate for Each Mammography Unit" href="#new">Obtaining a New Mammography Accreditation Certificate for Each Mammography Unit  </a></li>
 	<li><a title="Fee Schedule for Mammography Accreditation" href="#fees">Fee Schedule for Mammography Accreditation</a></li>
+	<li><a title="Mammography Accreditation Renewals" href="#renewals">Mammography Accreditation Renewals</a></li>
 	<li><a title="Name and/or Ownership Changes" href="#name-ownership-change">Name and/or Ownership Changes</a></li>
 	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#address-change">To Change a Mailing and/or Physical Use Location Address(s)</a></li>
 	<li><a title="Mammography Equipment Changes" href="#equipment-change">Mammography Equipment Changes</a></li>
 	<li><a title="Personnel Changes (Including Accreditation Contact, RSO, LIP and Other Personnel Changes)" href="#personnel">Personnel Changes (Including Accreditation Contact, RSO, LIP and Other Personnel Changes)</a></li>
 	<li><a title="Self-Referral Authorization" href="#self-referral">Self-Referral Authorization</a></li>
 	<li><a title="Mobile Services Authorization" href="#mobile-services">Mobile Services Authorization</a></li>
-	<li><a title="Mammography Accreditation Renewals" href="#renewals">Mammography Accreditation Renewals</a></li>
 	<li><a title="Terminating a Mammography Certification and Accreditation" href="#terminate">Terminating a Mammography Certification and Accreditation</a></li>
-	<li><a title="Agency Contact Information" href="#contact">Agency Contact Information</a></li>
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
-	<li><a title="Further Help and Information" href="#additional-information">Further Help and Information</a></li>
+	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
 </ul>
 
 <div class="Section" id="New-Accreditation">
@@ -113,6 +113,13 @@
 	</table>
 </div>
 
+<div class="Section" id="Renewals">
+	<a class="bookmark" title="renewals" name="renewals"></a>
+	<hr/>
+	<h2>Mammography Accreditation Renewals</h2>
+	<p>Facilities accredited with State of Texas will receive the renewal application, invoice, and instructions via email 8 months prior to the expiration date listed on the facility’s mammography certificates. If renewal email is not received by 6 months of the expiration date, contact the Texas Mammography Accreditation Program at 512-834-6688 extension 2246.</p>
+</div>
+
 <div class="Section" id="Name-Ownership-Change">
 	<a class="bookmark" title="name-ownership-change" name="name-ownership-change"></a>
 	<hr/>
@@ -181,13 +188,6 @@
 	<p>To remove Mobile Service Authorization - Notify the Agency in writing by submitting a signed letter requesting removal of Mobile Service Authorization. Include the facility’s mammography certification number.</p>
 </div>
 
-<div class="Section" id="Renewals">
-	<a class="bookmark" title="renewals" name="renewals"></a>
-	<hr/>
-	<h2>Mammography Accreditation Renewals</h2>
-	<p>Facilities accredited with State of Texas will receive the renewal application, invoice, and instructions via email 8 months prior to the expiration date listed on the facility’s mammography certificates. If renewal email is not received by 6 months of the expiration date, contact the Texas Mammography Accreditation Program at 512-834-6688 extension 2246.</p>
-</div>
-
 <div class="Section" id="Terminate">
 	<a class="bookmark" title="terminate" name="terminate"></a>
 	<hr/>
@@ -198,7 +198,7 @@
 <div class="Section" id="Contact-Information">
 	<a class="bookmark" title="contact" name="contact"></a>
 	<hr/>
-	<h2>Mammography Accreditation Contact Information</h2>
+	<h2>Contact Information</h2>
 
 <p><strong>Mailing Address</strong></p>
 	<p>

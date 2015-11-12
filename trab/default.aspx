@@ -20,7 +20,7 @@
 
 <p>
 	Phone: (512) 834-6679<br/>
-	Fax: (512) 834-6708<br/>
+	Fax: (512) 834-6716<br/>
 </p>
 
 <h3>Mailing Address</h3>

@@ -80,14 +80,6 @@
 			<td headers="table_heading_0"><a class="bookmark" title="2031" name="2031"></a>RC 203-1</td>
 			<td headers="table_heading_1"><a title="Notice to Employees" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">Notice to Employees</a> <span class="small">(PDF, 10KB)</span></td>
 		</tr>
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="2321" name="2321"></a>RC 232-1</td>
-			<td headers="table_heading_1"><a title="Notice to Employees (Dentists Only)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19911">Notice to Employees (Dentists Only)</a> <span class="small">(PDF, 9KB)</span></td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="2332" name="2332"></a>RC 233-2</td>
-			<td headers="table_heading_1"><a title="Notice to Employees (Vets Only)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19912">Notice to Employees (Vets Only)</a> <span class="small">(PDF, 64KB)</span></td>
-		</tr>
 	</tbody>
 </table>
 <hr/>

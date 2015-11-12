@@ -15,8 +15,8 @@
 <h2>Contact Information</h2>
 <p>
 	Email: <a title="PSQARAD@dshs.state.tx.us" href="mailto:PSQARAD@dshs.state.tx.us">PSQARAD@dshs.state.tx.us</a><br/>
-	Phone: (512) 834-6688 <br/>
-	Fax: (512) 834-6690
+	Phone: (512) 834-6770 ext. 2843 <br/>
+	Fax: (512) 834-6708
 </p>
 <p>Please see the <a title="contact information page" href="/radiation/contact.aspx">contact information page</a> for additional contacts and mailing addresses.</p>
 

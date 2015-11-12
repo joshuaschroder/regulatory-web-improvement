@@ -18,7 +18,6 @@
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
 	<li><a title="Mailing Address" href="#address">Mailing Address</a></li>	
 	<li><a title="Dental Regulations" href="#regulations">Dental Regulations</a></li>
-	<li><a title="Inspections" href="#inspections">Inspections</a></li>
 	<li><a title="Equipment Performance Evaluations" href="#evaluations">Equipment Performance Evaluations</a></li>
 </ul>
 
@@ -129,11 +128,6 @@
 <p>Employers are also required to post the <a title="Notice To Employees" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946014">Notice To Employees Poster</a> <span class="small">(PDF, 10KB)</span>  in every establishment where employees are employed in activities registered.</p>
 
 <p><a title="Regulatory Guide 4.4 - Operating and Safety Procedures for Dental Facilities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19880">Regulatory Guide 4.4 - Operating and Safety Procedures for Dental Facilities</a> <span class="small">(DOC, 83KB)</span> was created to assist X-ray registrants in developing procedures unique to individual facilities. Mobile dental services are also addressed in this guide under Item II(c)(5) - <em>Use of Portable Machines</em>.</p>
-
-<hr/>
-<a class="bookmark" title="inspections" name="inspections"></a>
-<h2>Inspections</h2>
-<p>For more information regarding inspections, please see <a title="Preparing for an Inspection of Medical X-Ray Machines " href="/radiation/x-ray/inspections.aspx">Preparing for an Inspection of Medical X-Ray Machines</a>.</p>
 
 <hr/>
 <a class="bookmark" title="evaluations" name="evaluations"></a>

@@ -87,7 +87,7 @@
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="17R" name="17R"></a>RC 17-R</td>
-			<td headers="table_heading_1"><a title="Termination of a Certificate of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Termination of a Certificate of Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			<td headers="table_heading_1"><a title="Request for Registration Termination" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">Request for Registration Termination</a> <span class="small">(PDF, 24KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="18R" name="18R"></a>RC 18-R</td>
@@ -95,7 +95,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="423" name="423"></a>RC 42-3</td>
-			<td headers="table_heading_1"><a title="Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">Radiation Safety Officer Information for Registration</a> <span class="small">(PDF, 301KB)</span></td>
+			<td headers="table_heading_1"><a title="Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">Radiation Safety Officer (RSO) Information for Registration</a> <span class="small">(PDF, 301KB)</span></td>
 		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="204" name="204"></a>RC 204</td>
@@ -115,7 +115,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2265" name="2265"></a>RC 226-5</td>
-			<td headers="table_heading_1"><a title="Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">Radiation Machine Services Application</a> <span class="small">(PDF, 320KB)</span><br/><br/><a title="Instructions for Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975467">Instructions for Radiation Machine Services Application</a> <span class="small">(PDF, 67KB)</span></td>
+			<td headers="table_heading_1"><a title="Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">Registration Application for Radiation Machine Services</a> <span class="small">(PDF, 320KB)</span><br/><br/><a title="Instructions for Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975467">Instructions for Radiation Machine Services Application</a> <span class="small">(PDF, 67KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2268" name="2268"></a>RC 226-8</td>
