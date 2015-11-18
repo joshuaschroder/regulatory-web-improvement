@@ -22,6 +22,10 @@
 
 <p>The Texas program has led the nation in radiation control accomplishments. Please see the <a title="Chronological History" href="/radiation/history-chronological.aspx">Chronological History</a> of highlights that establish the Texas Department of State Health Services, Radiation Control Program, as a leader for other radiation control programs.</p>
 
-<p>Also see the <a title="Texas Radiation Control Program, Comparative History 1990-2004" href="http://www.dshs.state.tx.us/radiation/pdffiles/RadPgm90-04fn.pdf">Texas Radiation Control Program, Comparative History 1990-2004</a> <span class="small">(PDF, 121KB)</span>. This report contains an Executive Summary and Comparative History of the TDH Bureau of Radiation Control from 1990 - 2004.</p>
+<p>Also see the <a title="Texas Radiation Control Program, Comparative History 1990-2004" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20016">Texas Radiation Control Program, Comparative History 1990-2004</a> <span class="small">(PDF, 121KB)</span>. This report contains an Executive Summary and Comparative History of the TDH Bureau of Radiation Control from 1990 - 2004.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
+
+
+
+

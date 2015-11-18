@@ -65,9 +65,9 @@
 		<li>The applicable policies/procedures requested in the application (see the <a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a> section below for more information) </li>
 		<li>Personnel credentials - As an option the following forms may be used for guidance for acceptable documents of personnel credentialing:
 			<ul>
-				<li>Acceptable Documents for I P s - for Interpreting Physicians</li>
-				<li>Acceptable Documents for M P s - for Medical Physicists</li>
-				<li>Acceptable Documents for RTs - for Radiologic Technologists</li>
+				<li>Interpreting Physicians - <a title="Acceptable Documents for I P s" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003110">Acceptable Documents for I P s</a> <span class="small">(PDF, 145KB)</span></li>
+				<li>Medical Physicists - <a title="Acceptable Documents for M P s" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003111">Acceptable Documents for M P s</a> <span class="small">(PDF, 199KB)</span></li>
+				<li>Radiologic Technologists - <a title="Acceptable Documents for RTs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003112">Acceptable Documents for RTs</a> <span class="small">(PDF, 126KB)</span></li>
 			</ul>
 		</li>
 		<li>The medical physicist’s survey report and mammography equipment evaluation requested for each mammography unit.</li>

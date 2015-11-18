@@ -140,7 +140,7 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
+					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 85KB) </span></a>
 					<a class="bookmark" title="289204" name="289204"></a>
 				</td>
 				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
@@ -182,50 +182,50 @@
 				<td headers="table_heading_1">Radiation Safety Requirements for Well Logging Service Operations and Tracer Studies</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>			
-		<tr>
-			<td headers="table_heading_0">
-				<a class="bookmark" title="289255" name="289255"></a>
-				<a title="Texas Administrative Code, Title 25, §289.255 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=255">§289.255 <span class="small">(HTML)</span></a><br />
-				<a title="Texas Administrative Code, Title 25, §289.255 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996546">§289.255 <span class="small">(PDF, 253KB)</span></a>
-			</td>
-			<td headers="table_heading_1">Radiation Safety Requirements and Licensing and Registration Procedures for Industrial Radiography</td>
-			<td headers="table_heading_2">03/22/15</td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">
-				<a class="bookmark" title="289256" name="289256"></a>
-				<a title="Texas Administrative Code, Title 25, §289.256 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=256">§289.256 <span class="small">(HTML)</span></a><br />
-				<a title="Texas Administrative Code, Title 25, §289.256 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996547">§289.256 <span class="small">(PDF, 542KB)</span></a>
-			</td>
-			<td headers="table_heading_1">Medical and Veterinary Use of Radioactive Material </td>
-			<td headers="table_heading_2">03/22/15</td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">
-				<a class="bookmark" title="289257" name="289257"></a>
-				<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br />
-				<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 1.3MB)</span></a>
-			</td>
-			<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
-			<td headers="table_heading_2">03/22/15</td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">
-				<a class="bookmark" title="289258" name="289258"></a>
-				<a title="Texas Administrative Code, Title 25, §289.258 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=258">§289.258 <span class="small">(HTML)</span></a><br />
-				<a title="Texas Administrative Code, Title 25, §289.258 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946024">§289.258 <span class="small">(PDF, 153KB)</span></a>
-			</td>
-			<td headers="table_heading_1">Licensing and Radiation Safety Requirements for Irradiators</td>
-			<td headers="table_heading_2">05/01/08</td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0">
-				<a class="bookmark" title="289259" name="289259"></a><a title="Texas Administrative Code, Title 25, §289.259 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=259">§289.259 <span class="small">(HTML)</span></a><br />
-				<a title="Texas Administrative Code, Title 25, §289.259 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946025">§289.259 <span class="small">(PDF, 186KB)</span></a>
-			</td>
-			<td headers="table_heading_1">Licensing of Naturally Occurring Radioactive Material (NORM)</td>
-			<td headers="table_heading_2">04/11/99</td>
-		</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a class="bookmark" title="289255" name="289255"></a>
+					<a title="Texas Administrative Code, Title 25, §289.255 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=255">§289.255 <span class="small">(HTML)</span></a><br />
+					<a title="Texas Administrative Code, Title 25, §289.255 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996546">§289.255 <span class="small">(PDF, 253KB)</span></a>
+				</td>
+				<td headers="table_heading_1">Radiation Safety Requirements and Licensing and Registration Procedures for Industrial Radiography</td>
+				<td headers="table_heading_2">03/22/15</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a class="bookmark" title="289256" name="289256"></a>
+					<a title="Texas Administrative Code, Title 25, §289.256 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=256">§289.256 <span class="small">(HTML)</span></a><br />
+					<a title="Texas Administrative Code, Title 25, §289.256 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996547">§289.256 <span class="small">(PDF, 542KB)</span></a>
+				</td>
+				<td headers="table_heading_1">Medical and Veterinary Use of Radioactive Material </td>
+				<td headers="table_heading_2">03/22/15</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a class="bookmark" title="289257" name="289257"></a>
+					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br />
+					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 1.3MB)</span></a>
+				</td>
+				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
+				<td headers="table_heading_2">03/22/15</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a class="bookmark" title="289258" name="289258"></a>
+					<a title="Texas Administrative Code, Title 25, §289.258 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=258">§289.258 <span class="small">(HTML)</span></a><br />
+					<a title="Texas Administrative Code, Title 25, §289.258 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946024">§289.258 <span class="small">(PDF, 153KB)</span></a>
+				</td>
+				<td headers="table_heading_1">Licensing and Radiation Safety Requirements for Irradiators</td>
+				<td headers="table_heading_2">05/01/08</td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">
+					<a class="bookmark" title="289259" name="289259"></a><a title="Texas Administrative Code, Title 25, §289.259 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=259">§289.259 <span class="small">(HTML)</span></a><br />
+					<a title="Texas Administrative Code, Title 25, §289.259 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946025">§289.259 <span class="small">(PDF, 186KB)</span></a>
+				</td>
+				<td headers="table_heading_1">Licensing of Naturally Occurring Radioactive Material (NORM)</td>
+				<td headers="table_heading_2">04/11/99</td>
+			</tr>
 		</tbody>
 	</table>
 	
@@ -317,7 +317,7 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
+					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 85KB) </span></a>
 					<a class="bookmark" title="289204" name="289204"></a>
 				</td>
 				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
@@ -450,7 +450,7 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
+					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 85KB) </span></a>
 					<a class="bookmark" title="289204" name="289204"></a>
 				</td>
 				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
@@ -592,7 +592,7 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
+					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 85KB) </span></a>
 					<a class="bookmark" title="289204" name="289204"></a>
 				</td>
 				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
@@ -654,7 +654,7 @@
 			</tr>			
 		</tbody>
 	</table>		
-
+	
 	<a class="bookmark" name="ram-medical"></a>
 	<br/>
 	<h3>Medical RAM</h3>
@@ -743,7 +743,7 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
+					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 85KB) </span></a>
 					<a class="bookmark" title="289204" name="289204"></a>
 				</td>
 				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
@@ -789,11 +789,11 @@
 	</table>
 	
 	<p><strong>Please Also See:</strong></p>
-		<ul>
-			<li><a title="NRC - Recognized Speciality Board(s) Certifications" href="http://www.nrc.gov/materials/miau/med-use-toolkit/spec-board-cert.html">NRC - Recognized Speciality Board(s) Certifications</a></li>
-			<li><a title="NRC - Recognized Specialty Board Certifications for Microsphere Brachytherapy Sources and Devices" href="http://pbadupws.nrc.gov/docs/ML1217/ML12179A353.pdf">NRC - Recognized Specialty Board Certifications for Microsphere Brachytherapy Sources and Devices</a> <span class="small">(PDF, 142KB)</span></li>
-		</ul>	
-		
+	<ul>
+		<li><a title="NRC - Recognized Speciality Board(s) Certifications" href="http://www.nrc.gov/materials/miau/med-use-toolkit/spec-board-cert.html">NRC - Recognized Speciality Board(s) Certifications</a></li>
+		<li><a title="NRC - Recognized Specialty Board Certifications for Microsphere Brachytherapy Sources and Devices" href="http://pbadupws.nrc.gov/docs/ML1217/ML12179A353.pdf">NRC - Recognized Specialty Board Certifications for Microsphere Brachytherapy Sources and Devices</a> <span class="small">(PDF, 142KB)</span></li>
+	</ul>	
+	
 	
 	<a class="bookmark" name="norm"></a>
 	<br/>
@@ -883,7 +883,7 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
+					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 85KB) </span></a>
 					<a class="bookmark" title="289204" name="289204"></a>
 				</td>
 				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>
@@ -920,7 +920,7 @@
 				<td headers="table_heading_0">
 					<a class="bookmark" title="289257" name="289257"></a>
 					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br />
-					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 1.3MB)</span></a></td>
+				<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 1.3MB)</span></a></td>
 				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
@@ -1024,7 +1024,7 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.204 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=204">§289.204 <span class="small">(HTML)</span></a><br>
-					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="https://www.dshs.state.tx.us/radiation/pdffiles/Rules/204-fn-9-2014.pdf">§289.204 <span class="small">(PDF, 85KB) </span></a>
+					<a title="Texas Administrative Code, Title 25, §289.204 (PDF)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991118">§289.204 <span class="small">(PDF, 85KB) </span></a>
 					<a class="bookmark" title="289204" name="289204"></a>
 				</td>
 				<td headers="table_heading_1">Fees for Certificates of Registration, Radioactive Material Licenses, Emergency Planning and Implementation, and Other Regulatory Services</td>

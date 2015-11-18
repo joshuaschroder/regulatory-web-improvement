@@ -7,7 +7,7 @@
 	#body td {vertical-align:middle; padding:10px 5px !important;}
 </style>
 
-<p>Please contact <a title="Jo.Turkette@dshs.state.tx.us" href="mailto:Jo.Turkette@dshs.state.tx.us">Jo Turkette</a> via email about other Mammography forms, or telephone  (512) 834-6688 .</p>
+<p>Please contact <a title="Jo.Turkette@dshs.state.tx.us" href="mailto:Jo.Turkette@dshs.state.tx.us">Jo Turkette</a> via email about other Mammography forms, or telephone  (512) 834-6688.</p>
 <br/>
 
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
@@ -59,9 +59,20 @@
 			<td headers="table_heading_0"><a class="bookmark" title="23043" name="23043"></a>RC 230-43</td>
 			<td headers="table_heading_1"><a title="Lead interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991090">Lead interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">None</td>
+			<td headers="table_heading_1"><a title="Acceptable Documents for Interpreting Physicians" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003110">Acceptable Documents for Interpreting Physicians</a> <span class="small">(PDF, 145KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">None</td>
+			<td headers="table_heading_1"><a title="Acceptable Documents for Medical Physicists" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003111">Acceptable Documents for Medical Physicists</a> <span class="small">(PDF, 199KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">None</td>
+			<td headers="table_heading_1"><a title="Acceptable Documents for Radiologic Technologists" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003112">Acceptable Documents for Radiologic Technologists</a> <span class="small">(PDF, 126KB)</span></td>
+		</tr>
 	</tbody>
 </table>
-<hr/>
 
 <hr/>
 <a class="bookmark" title="Notice to Employees" name="notice"></a>

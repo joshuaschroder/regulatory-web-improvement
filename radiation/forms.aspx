@@ -98,6 +98,14 @@
 			<td headers="table_heading_1"><a title="Radiation Safety Officer Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">Radiation Safety Officer (RSO) Information for Registration</a> <span class="small">(PDF, 301KB)</span></td>
 		</tr>		
 		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="424" name="424"></a>RC 42-4</td>
+			<td headers="table_heading_1"><a title="Industrial Radiation Safety Officer (RSO) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003114">Industrial Radiation Safety Officer (RSO) Form</a> <span class="small">(PDF, 558KB)</span></td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="425" name="425"></a>RC 42-5</td>
+			<td headers="table_heading_1"><a title="Industrial Radiography (IR/NDT) Radiation Safety Officer (RSO) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003115">Industrial Radiography (IR/NDT) Radiation Safety Officer (RSO) Form</a> <span class="small">(PDF, 401KB)</span></td>
+		</tr>		
+		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="204" name="204"></a>RC 204</td>
 			<td headers="table_heading_1"><a title="Schedule of Biennial Fees for Registration for Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">Schedule of Biennial Fees for Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span></td>
 		</tr>
@@ -111,11 +119,11 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2263" name="2263"></a>RC 226-3</td>
-			<td headers="table_heading_1"><a title="Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span><br/><br/><a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span></td>
+			<td headers="table_heading_1"><a title="Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span><br/><br/><a title="Instructions for RC 226-3, Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for RC 226-3 Registration Application</a> <span class="small">(PDF, 508KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2265" name="2265"></a>RC 226-5</td>
-			<td headers="table_heading_1"><a title="Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">Registration Application for Radiation Machine Services</a> <span class="small">(PDF, 320KB)</span><br/><br/><a title="Instructions for Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975467">Instructions for Radiation Machine Services Application</a> <span class="small">(PDF, 67KB)</span></td>
+			<td headers="table_heading_1"><a title="Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">Registration Application for Radiation Machine Services</a> <span class="small">(PDF, 320KB)</span><br/><br/><a title="Instructions for Radiation Machine Services Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975467">Instructions for RC 226-5 Registration Application</a> <span class="small">(PDF, 453KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2268" name="2268"></a>RC 226-8</td>
@@ -371,7 +379,7 @@
 
 <a class="bookmark" title="Mammography Applications and Forms" name="mammo"></a>
 <h2>Mammography</h2>
-<p>Please contact <a title="Jo.Turkette@dshs.state.tx.us" href="mailto:Jo.Turkette@dshs.state.tx.us">Jo Turkette</a> via email about other Mammography forms, or telephone  (512) 834-6688 .</p>
+<p>Please contact <a title="Jo.Turkette@dshs.state.tx.us" href="mailto:Jo.Turkette@dshs.state.tx.us">Jo Turkette</a> via email about other Mammography forms, or telephone  (512) 834-6688.</p>
 
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 	<caption>Mammography Applications and Forms</caption>
@@ -410,6 +418,19 @@
 			<td headers="table_heading_0"><a class="bookmark" title="23043" name="23043"></a>RC 230-43</td>
 			<td headers="table_heading_1"><a title="Lead interpreting Physician (LIP) Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589991090">Lead interpreting Physician (LIP) Form</a> <span class="small">(PDF, 230KB)</span></td>
 		</tr>
+		<tr>
+			<td headers="table_heading_0">None</td>
+			<td headers="table_heading_1"><a title="Acceptable Documents for Interpreting Physicians" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003110">Acceptable Documents for Interpreting Physicians</a> <span class="small">(PDF, 145KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">None</td>
+			<td headers="table_heading_1"><a title="Acceptable Documents for Medical Physicists" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003111">Acceptable Documents for Medical Physicists</a> <span class="small">(PDF, 199KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">None</td>
+			<td headers="table_heading_1"><a title="Acceptable Documents for Radiologic Technologists" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003112">Acceptable Documents for Radiologic Technologists</a> <span class="small">(PDF, 126KB)</span></td>
+		</tr>
+		
 	</tbody>
 </table>
 <hr/>

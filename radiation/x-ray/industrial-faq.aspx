@@ -53,7 +53,7 @@
 <ol>
 	<li>
 		<a title="RC Form 226-3, Application for Registration of Industrial Radiation Machines " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">RC Form 226-3, Application for Registration of Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span> <br/>
-		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
+		See also: <a title="Instructions for RC 226-3 Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for RC 226-3 Registration Application</a> <span class="small">(PDF, 508KB)</span>
 	</li>
 	<li><a title="RC Form 226-1, Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">RC Form 226-1, Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></li>
 	<li>Radiation Safety Officer (RSO) qualifications:
@@ -142,11 +142,11 @@
 <ul>
 	<li>
 		<a title="RC 226-3, Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">RC 226-3, Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span><br/>
-		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
+		See also: <a title="Instructions for RC 226-3 Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for RC 226-3 Registration Application</a> <span class="small">(PDF, 508KB)</span>
 	</li>
 	<li>
 		<a title="RC 226-5, Registration Application for Radiation Machine Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">RC 226-5, Registration Application for Radiation Machine Services</a> <span class="small">(PDF, 320KB)</span><br/>
-		See also: <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span>
+		See also: <a title="Instructions for RC 226-3 Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for RC 226-3 Registration Application</a> <span class="small">(PDF, 508KB)</span>
 	</li>
 </ul>
 
@@ -283,7 +283,7 @@
 <a class="bookmark" title="23" name="23"></a>
 <h2>What is the process for terminating a site?</h2>
 <p>The registrant will need to submit <a title="Form RC 226-3, Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589965283">Form RC 226-3, Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span> indicating which site(s) to terminate.</p> 
-<p>Also see the <a title="Instructions for Industrial Radiation Machines License Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for Industrial Radiation Machines License Application</a> <span class="small">(PDF, 71KB)</span></p>
+<p>Also see the <a title="Instructions for RC 226-3 Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992341">Instructions for RC 226-3 Registration Application</a> <span class="small">(PDF, 508KB)</span></p>
 	
 <p>For disposition of equipment complete the <a title="RC-18R, Radiation Machine Transfer &amp; Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer &amp; Disposal Form</a> <span class="small">(PDF, 16KB)</span>. The form must be signed by the appropriate person. </p>
 

@@ -44,6 +44,13 @@
 		<li><a title="INUW Committee Agenda" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590001388">INUW Committee Agenda</a> <span class="small">(PDF, 203KB)</span></li>
 		<li><a title="Advisory Board Meeting Agenda" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590001385">Advisory Board Meeting Agenda</a> <span class="small">(PDF, 202KB)</span></li>
 	</ul>
+	<h4>Minutes</h4>
+	<ul>
+		<li><a title="Topic Research Committee Minutes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002981">Topic Research Committee Minutes</a> <span class="small">(PDF, 97KB)</span></li>
+		<li><a title="Medical Committee Minutes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002982">Medical Committee Minutes</a> <span class="small">(PDF, 165KB)</span></li>
+		<li><a title="INUW Committee Minutes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002983">INUW Committee Minutes</a> <span class="small">(PDF, 97KB)</span></li>
+		<li><a title="Advisory Board Meeting Minutes" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002980">Advisory Board Meeting Minutes</a> <span class="small">(PDF, 176KB)</span></li>
+	</ul>
 	
 	<h3>June 12, 2015</h3>
 	<h4>Agendas</h4>
@@ -225,6 +232,25 @@
 	<a class="bookmark" title="reports-2015" name="reports-2015"></a>
 	<br/>
 	
+	<h3>TRAB Position Statement on Fluoro Training</h3>
+	<table class="border" style="width:100%;">
+		<tbody>
+			<tr>
+				<th style="width:15%;">Date:</th>
+				<td>October 29, 2015</td>
+			</tr>
+			<tr>
+				<th>Description:</th>
+				<td>Position statement on the safe use of fluoroscopic imaging technology in the provision of health care.</td>
+			</tr>
+			<tr>
+				<th>Documents:</th>
+				<td><a title="Fluoroscopic Imaging Safety Training Letter" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002979">Fluoroscopic Imaging Safety Training Letter</a> <span class="small">(PDF, 79KB)</span></td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<br/>
 	<h3>Railroad Commission of Texas Q3 2015 Program Report to TRAB</h3>
 	<table class="border" style="width:100%;">
 		<tbody>
@@ -243,6 +269,7 @@
 		</tbody>
 	</table>
 	
+	<br/>
 	<h3>Nuclear Regulatory Commission (NRC) Memorandum, September 2015</h3>
 	<table class="border" style="width:100%;">
 		<tbody>
@@ -261,6 +288,7 @@
 		</tbody>
 	</table>	
 	
+	<br/>
 	<h3>DSHS Q3 2015 Program Report to TRAB</h3>
 	<table class="border" style="width:100%;">
 		<tbody>
@@ -270,7 +298,7 @@
 			</tr>
 			<tr>
 				<th>Description:</th>
-				<td>Department of State Health Services (DSHS) Program Report for  the September 2015 TRAB Meeting</td>
+				<td>Department of State Health Services (DSHS) Program Report for the September 2015 TRAB Meeting</td>
 			</tr>
 			<tr>
 				<th>Documents:</th>
@@ -279,6 +307,7 @@
 		</tbody>
 	</table>
 	
+	<br/>
 	<h3>TCEQ Q3 2015 Quarterly Program Report to TRAB</h3>
 	<table class="border" style="width:100%;">
 		<tbody>
@@ -297,7 +326,7 @@
 		</tbody>
 	</table>
 	
-	
+	<br/>
 	<h3>DSHS Q2 2015 Program Report to TRAB</h3>
 	<table class="border" style="width:100%;">
 		<tbody>

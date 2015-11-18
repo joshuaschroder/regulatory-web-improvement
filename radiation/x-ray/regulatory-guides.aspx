@@ -13,7 +13,7 @@
 <br/>
 <h2>Operating and Safety Procedures</h2>
 <table class="zebraBorder layout" summary="sorted by guide number, ascending">
-	<caption>Operating and Safety Procedures</caption>
+	<caption>Regulatory Guides Regarding Operating and Safety Procedures</caption>
 	<thead>
 		<tr>
 			<th id="table_heading_0" style="width:10%;">Document Number</th>
@@ -44,7 +44,7 @@
 <a class="bookmark" title="license" name="license"></a>
 <h2>License Changes and Updates</h2>
 <table class="zebraBorder layout" summary="sorted by guide number, ascending">
-	<caption>License Changes and Updates</caption>
+	<caption>Regulatory Guides Regarding License Changes and Updates</caption>
 	<thead>
 		<tr>
 			<th id="table_heading_0" style="width:10%;">Guide Number</th>
@@ -54,10 +54,30 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="82" title="82"></a>8.2</td>
-			<td headers="table_heading_1"><a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></td>
+			<td headers="table_heading_1"><a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Change in Name and/or Ownership</a> <span class="small">(PDF, 42KB)</span></td>
 		</tr>
 	</tbody>
 </table>
+
+<hr/>
+<a class="bookmark" title="service-companies" name="service-companies"></a>
+<h2>X-Ray Service Companies</h2>
+<table class="zebraBorder layout" summary="sorted by guide number, ascending">
+	<caption>Regulatory Guides Regarding X-Ray Service Companies</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:10%;">Guide Number</th>
+			<th id="table_heading_1" style="width:90%;">Topic</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0">None</td>
+			<td headers="table_heading_1"><a title="Training Guide for X-Ray Service Company Personnel Performing Equipment Performance Evaluations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20088">Training Guide for X-Ray Service Company Personnel Performing Equipment Performance Evaluations</a> <span class="small">(PDF, 229KB)</span><br/><em>This document is for training purposes only and is not a formal regulatory guide.</em></td>
+		</tr>
+	</tbody>
+</table>
+
 
 
 

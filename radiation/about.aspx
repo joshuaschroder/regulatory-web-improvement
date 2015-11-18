@@ -79,7 +79,7 @@
 
 <ul>
 	<li><a title="US Department of Energy " href="http://www.energy.gov/">US Department of Energy </a></li>
-	<li><a title="US EPA Office of Air and Radiation " href="http://www.epa.gov/oar/oaqps/">US EPA Office of Air and Radiation </a></li>
+	<li><a title="US EPA Office of Air and Radiation " href="http://www2.epa.gov/radiation">US EPA - Radiation Protection</a></li>
 	<li><a title="US FDA Center for Devices and Radiological Health" href="http://www.fda.gov/Radiation-EmittingProducts/FDARadiologicalHealthProgram/default.htm">US FDA Center for Devices and Radiological Health</a></li>
 	<li><a title="U.S. Nuclear Regulatory Commission" href="http://www.nrc.gov/">U.S. Nuclear Regulatory Commission</a></li>
 	<li><a title="U.S Nuclear Regulatory Commission - Office on Federal and Materials and Environmental Management Programs" href="http://nrc-stp.ornl.gov/">U.S Nuclear Regulatory Commission</a> - Office on Federal and Materials and Environmental Management Programs</li>

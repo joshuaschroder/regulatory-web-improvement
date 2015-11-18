@@ -79,7 +79,7 @@
 		<li>
 			<a class="bookmark" title="initial-4" name="initial-4"></a>
 			<em>Do not schedule the professional exam until after you have received your <em>Certificate of Registration for Laser Hair Removal Technician</em>.</em><br/>
-			For a list of certifying entities, see the <a title="Certifying Entities" href="/radiation/laser-hair-removal/certifying-entity-roster.aspx">certifying entities</a> page.<br/>
+			For a list of certifying entities, see the <a title="Certifying Entities" href="/radiation/laser-hair-removal/certifying-entity-list.aspx">certifying entities</a> page.<br/>
 			For a list of registered laser hair removal professionals in Texas, refer to <a title="Registered Texas Professionals List" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589988281">Registered Texas Professionals List</a> <span class="small">(PDF, 91KB)</span>. 
 		</li>
 	</ol>

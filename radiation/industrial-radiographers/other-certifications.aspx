@@ -85,7 +85,7 @@
 			<td headers="table_heading_2">(217) 785-9913</td>
 		</tr>
 		<tr>
-			<td headers="table_heading_0"><a title="Iowa Dept. of Public Health" href="http://www.idph.state.ia.us/eh/radioactive_materials.asp">Iowa Dept. of Public Health</a></td>
+			<td headers="table_heading_0"><a title="Iowa Dept. of Public Health" href="https://idph.iowa.gov/radioactivematerials">Iowa Dept. of Public Health</a></td>
 			<td headers="table_heading_1"><a title="stuart.jordan@idph.iowa.gov" href="mailto:stuart.jordan@idph.iowa.gov">Stuart Jordan</a></td>
 			<td headers="table_heading_2">(515) 281-0403</td>
 		</tr>
