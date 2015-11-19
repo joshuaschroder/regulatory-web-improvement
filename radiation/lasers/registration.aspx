@@ -16,7 +16,7 @@
 	</li>
 	<li><a title="Renewing a Certificate of Registration" href="#renewal">Renewing a Certificate of Registration</a>
 		<ul>
-			<li><a title="Renewing a Certificate of Laser Registration" href="#renewal-laser">Renewing a Certificate of Laser Registration</a></li>
+			<li><a title="Renewing a Certificate of Registration for Laser Devices" href="#renewal-laser">Renewing a Certificate of Registration for Laser Devices</a></li>
 			<li><a title="Renewing a Certificate of Registration for Laser Device Services" href="#renewal-services">Renewing a Certificate of Registration for Laser Device Services</a></li>
 			<li><a title="Fee Schedule for Renewals" href="#renewal-fees">Fee Schedule for Renewals</a></li>
 		</ul>
@@ -153,11 +153,11 @@
 	<br/>
 	<div class="SubSection" id="Renewal-Laser">
 		<a class="bookmark" title="renewal-laser" name="renewal-laser"></a>
-		<h3>Renewing a Certificate of Laser Registration</h3>
+		<h3>Renewing a Certificate of Registration for Laser Devices</h3>
 		<p>To renew a certificate of registration, complete and submit the following forms with the appropriate renewal fee.</p>
 		
 		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:100%;">
-			<caption>Forms to Renew Certificate of Laser Registration</caption>
+			<caption>Forms to Renew Certificate of Registration for Laser Devices</caption>
 			<thead>
 				<tr>
 					<th id="table_heading_0" style="width:20%;">Form Number</th>
@@ -174,12 +174,12 @@
 				<tr>
 					<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
 					<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
-					<td headers="table_heading_2">none</td>			
+					<td headers="table_heading_2"><span class="small">none</span></td>			
 				</tr>
 				<tr>
 					<td headers="table_heading_0"><a class="bookmark" title="42L" name="42L"></a>RC 42-L</td>
 					<td headers="table_heading_1"><a title="Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
-					<td headers="table_heading_2"><a title="See Note 42-L" href="#note-42L">See Note 42-L</a></td>			
+					<td headers="table_heading_2"><span class="small"><a title="See Note 42-L" href="#note-42L">See Note 42-L</a></span></td>			
 				</tr>
 			</tbody>
 		</table>
@@ -209,19 +209,19 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td headers="table_heading_0"><a class="bookmark" title="3012" name="3012"></a>RC 301-2</td>
-					<td headers="table_heading_1"><a title="Application for Lasers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589943083">Application for Lasers</a> <span class="small">(PDF, 23KB)</span></td>
+					<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
+					<td headers="table_heading_1"><a title="Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
 					<td headers="table_heading_2"><span class="small">none</span></td>
 				</tr>
 				<tr>
 					<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
 					<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
-					<td headers="table_heading_2">none</td>			
+					<td headers="table_heading_2"><span class="small">none</span></td>			
 				</tr>
 				<tr>
 					<td headers="table_heading_0"><a class="bookmark" title="42L" name="42L"></a>RC 42-L</td>
 					<td headers="table_heading_1"><a title="Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
-					<td headers="table_heading_2"><a title="See Note 42-L" href="#note-42L">See Note 42-L</a></td>			
+					<td headers="table_heading_2"><span class="small"><a title="See Note 42-L" href="#note-42L">See Note 42-L</a></span></td>			
 				</tr>
 			</tbody>
 		</table>
@@ -291,14 +291,47 @@
 	</table>
 	<br/>
 	<h3>Name and/or Ownership Change</h3>
-	<p>See <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
+	<p>Certain conditions involving name and ownership changes may require the reissuance of a new certificate of registration.</p>
+	<p>To deternuba uf a bew certificate of registration is required for your specific circumstances, see <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
+		
 	<br/>
 	<h3>Laser Safety Officer Change</h3>
-	<p>Complete and submit <a title="RC Form 42-L, Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">RC Form 42-L, Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span>.</p>	
-	
+	<p>To change Laser Safety Officer, complete and submit the following form.</p>
+	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
+		<caption>Forms Required for Laser Safety Officer Changes</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:20%;">Form Number</th>
+				<th id="table_heading_1" style="width:80%;">Title / Link</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="42L" name="42L"></a>RC 42-L</td>
+				<td headers="table_heading_1"><a title="Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
+			</tr>
+		</tbody>
+	</table>
+		
 	<br/>
 	<h3>Deleting or Transferring a Machine</h3>
-	<p>To delete or transfer a laser device, complete and submit <a title="RC-18L, Laser Transfer / Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19921">RC-18L, Laser Transfer / Disposal Form</a> <span class="small">(PDF, 16KB)</span>.</p>
+	<p>To delete or transfer a laser device, complete and submit the following form.</p>
+	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
+		<caption>Forms Required to Delete or Transfer a Machine</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:20%;">Form Number</th>
+				<th id="table_heading_1" style="width:80%;">Title / Link</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="18L" name="18L"></a>RC 18-L</td>
+				<td headers="table_heading_1"><a title="Laser Transfer / Disposal Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19921">Laser Transfer / Disposal Form</a> <span class="small">(PDF, 16KB)</span></td>
+			</tr>
+		</tbody>
+	</table>	
+	
 
 </div>
 
@@ -307,7 +340,23 @@
 	<hr/>
 	<a class="bookmark" title="terminate" name="terminate"></a>
 	<h2>Terminating a Certificate of Registration</h2>
-	<p>To terminate a certificate of registration, complete and submit <a title="RC 17-L, Termination of Laser Registration Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19920">RC 17-L, Termination of Laser Registration Form</a> <span class="small">(PDF, 24KB)</span>.</p>
+	
+	<p>To terminate a certificate of registration, complete and submit the following form.</p>
+	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
+		<caption>Forms Required to Delete or Transfer a Machine</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:20%;">Form Number</th>
+				<th id="table_heading_1" style="width:80%;">Title / Link</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="17L" name="17L"></a>RC 17-L</td>
+				<td headers="table_heading_1"><a title="Termination of Laser Registration Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19920">Termination of Laser Registration Form</a> <span class="small">(PDF, 24KB)</span></td>
+			</tr>
+		</tbody>
+	</table>	
 </div>
 
 <div class="Section" id="Contact">

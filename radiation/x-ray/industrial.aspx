@@ -32,7 +32,7 @@
 	<h3>Required Forms</h3>
 	<p>Complete and submit RC 226-1 and 226-3 for all new certificates of registration.</p>
 	
-		<table class="zebraBorder layout" summary="sorted alphabetically by required forms, ascending" style="width:80%;">
+		<table class="zebraBorder layout" summary="sorted alphabetically by required forms, descending" style="width:80%;">
 		<caption>Forms required for a new registration of industrial radiation machines</caption>
 		<thead>
 			<tr>
@@ -42,18 +42,19 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td headers="table_heading_0">RC 226-1</td>
-				<td headers="table_heading_1">
-					<a title="Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form</a> <span class="small">(PDF, 24KB)</span>
-				</td>
-			</tr>
-			<tr>
 				<td headers="table_heading_0">RC 226-3</td>				
 				<td headers="table_heading_1">
 					<a title="Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589965283">Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span><br/>
 					<a title="Instructions for RC 226-3 Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589992341">Instructions for RC 226-3 Registration Application</a> <span class="small">(PDF, 508KB)</span>
 				</td>
+			</tr>			
+			<tr>
+				<td headers="table_heading_0">RC 226-1</td>
+				<td headers="table_heading_1">
+					<a title="Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form</a> <span class="small">(PDF, 24KB)</span>
+				</td>
 			</tr>
+
 		</tbody>
 	</table>
 	
@@ -94,34 +95,40 @@
 	
 	<h3>Radiation Safety Officer (RSO) Qualifications</h3>
 	
-	<table class="zebraBorder layout" summary="" style="width:80%">
+	<table class="zebraBorder layout" summary="" style="width:100%">
 		<caption>Required forms for submitting RSO qualifications</caption>
 		<thead>
 			<tr>
 				<th id="table_heading_0">Registration Type</th>
-				<th id="table_heading_1">Required Form</th>
+				<th id="table_heading_1">Form Number</th>
+				<th id="table_heading_2">Form Title</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td headers="table_heading_0">Minimal Threat Machines</td>
-				<td headers="table_heading_1"><a title="Industrial X-Ray RSO Qualifications" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003083">Industrial X-Ray-RSO Qualifications</a> <span class="small">(PDF, 198KB)</span></td>
+				<td headers="table_heading_1">RC 42-4</td>
+				<td headers="table_heading_2"><a title="Industrial X-Ray RSO Qualifications" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003083">Industrial X-Ray-RSO Qualifications</a> <span class="small">(PDF, 198KB)</span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Other Industrial Machines</td>
-				<td headers="table_heading_1"><a title="Industrial X-Ray RSO Qualifications" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003083">Industrial X-Ray RSO Qualifications</a> <span class="small">(PDF, 198KB)</span></td>
+				<td headers="table_heading_1">RC 42-4</td>
+				<td headers="table_heading_2"><a title="Industrial X-Ray RSO Qualifications" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003083">Industrial X-Ray-RSO Qualifications</a> <span class="small">(PDF, 198KB)</span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Fixed IR Machines</td>
-				<td headers="table_heading_1"><a title="Industrial X-Ray RSO Qualifications IR-NDT" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003084">Industrial X-Ray RSO Qualifications IR-NDT</a> <span class="small">(PDF, 190KB)</span></td>
+				<td headers="table_heading_1">RC 42-5</td>
+				<td headers="table_heading_2"><a title="Industrial X-Ray RSO Qualifications IR-NDT" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003084">Industrial X-Ray RSO Qualifications IR-NDT</a> <span class="small">(PDF, 190KB)</span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Portable IR Machines</td>
-				<td headers="table_heading_1"><a title="Industrial X-Ray RSO Qualifications IR-NDT" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003084">Industrial X-Ray RSO Qualifications IR-NDT</a> <span class="small">(PDF, 190KB)</span></td>
+				<td headers="table_heading_1">RC 42-5</td>
+				<td headers="table_heading_2"><a title="Industrial X-Ray RSO Qualifications IR-NDT" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003084">Industrial X-Ray RSO Qualifications IR-NDT</a> <span class="small">(PDF, 190KB)</span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Reciprocity</td>
-				<td headers="table_heading_1">See the <a title="reciprocity page" href="/radiation/reciprocity.aspx">reciprocity page</a> for detailed information.</td>
+				<td headers="table_heading_1">N/A</td>				
+				<td headers="table_heading_2">See the <a title="reciprocity page" href="/radiation/reciprocity.aspx">reciprocity page</a> for detailed information.</td>
 			</tr>
 		</tbody>
 	</table>
@@ -136,7 +143,7 @@
 	<p>To obtain a new registration for X-Ray Radiation Machine Services, submit the appropriate forms with $290 and Radiation Safety Officer qualifications.</p>
 	
 	<h3>Required Forms</h3>
-	<table class="zebraBorder layout" summary="sorted alphabetically by required forms, ascending" style="width:80%;">
+	<table class="zebraBorder layout" summary="sorted alphabetically by required forms, descending" style="width:80%;">
 		<caption>Forms required for a new registration of radiation services</caption>
 		<thead>
 			<tr>
@@ -146,17 +153,17 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td headers="table_heading_0">RC 226-1</td>
-				<td headers="table_heading_1">
-					<a title="Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form</a> <span class="small">(PDF, 24KB)</span><br/>
-					See the <a title="business registration page" href="/radiation/x-ray/business-registration.aspx">business registration page</a> for more detailed information.
-				</td>
-			</tr>
-			<tr>
 				<td headers="table_heading_0">RC 226-5</td>				
 				<td headers="table_heading_1">
 					<a title="Registration Application for Radiation Machine Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589986868">Registration Application for Radiation Machine Services</a> <span class="small">(PDF, 320KB)</span><br/>
 					<a title="Instructions for RC 226-5 Registration Application" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589975467">Instructions for RC 226-5 Registration Application</a> <span class="small">(PDF, 453KB)</span>
+				</td>
+			</tr>			
+			<tr>
+				<td headers="table_heading_0">RC 226-1</td>
+				<td headers="table_heading_1">
+					<a title="Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form</a> <span class="small">(PDF, 24KB)</span><br/>
+					See the <a title="business registration page" href="/radiation/x-ray/business-registration.aspx">business registration page</a> for more detailed information.
 				</td>
 			</tr>
 		</tbody>
@@ -242,7 +249,7 @@
 	
 	<p>For company name change or change of ownership, complete and submit the forms below.</p>
 	
-	<table class="zebraBorder layout" summary="sorted by form number, ascending" style="width:100%">
+	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:100%">
 		<caption>Application forms required for a change of company name or ownership</caption>
 		<thead>
 			<tr>
@@ -252,12 +259,12 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td headers="table_heading_0">RC 226-1</td>
-				<td headers="table_heading_1"><a title="Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=51597">Business Information Form</a> <span class="small">(PDF, 24KB)</span></td>
-			</tr>
-			<tr>
 				<td headers="table_heading_0">RC 226-3</td>
 				<td headers="table_heading_1"><a title="RC 226-3, Registration Application for Industrial Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589965283">RC 226-3, Registration Application for Industrial Radiation Machines</a> <span class="small">(PDF, 32KB)</span></td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0">RC 226-1</td>
+				<td headers="table_heading_1"><a title="Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=51597">Business Information Form</a> <span class="small">(PDF, 24KB)</span></td>
 			</tr>
 		</tbody>
 	</table>

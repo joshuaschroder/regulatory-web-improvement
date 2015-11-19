@@ -117,10 +117,6 @@
 				<td headers="table_heading_1"><a title="Termination of Laser Hair Removal Training Program Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002641">Termination of Laser Hair Removal Training Program Registration</a> <span class="small">(PDF, 503KB)</span></td>
 			</tr>				
 			<tr>
-				<td headers="table_heading_0"><a class="bookmark" title="3022" name="3022"></a>RC 302-2</td>
-				<td headers="table_heading_1"><a title="Application for Laser Hair Removal Certifying Entities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589935325">Application for Laser Hair Removal Certifying Entities</a> <span class="small">(PDF, 264KB)</span></td>
-			</tr>
-			<tr>
 				<td headers="table_heading_0"><a class="bookmark" title="3023" name="3023"></a>RC 302-3</td>
 				<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Training Programs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589935510">Registration Application for Laser Hair Removal Training Programs</a> <span class="small">(PDF, 470KB)</span></td>
 			</tr>

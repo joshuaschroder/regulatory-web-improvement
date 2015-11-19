@@ -46,15 +46,21 @@
 			Phone: (512) 834-6770 ext. 2037<br/>
 			Fax: (512) 834-6622
 		</p>
+
+	</blockquote>
+	
+	<h3>Licensing and Registration</h3>
+	<blockquote style="font-style:normal;">
 		
-		<h3>Radioactive Material (RAM) Licensing</h3>
+		
+		<p><strong>Radioactive Material (RAM) Licensing</strong></p>
 		<p>
 			Email: <a title="RAMLicensing@dshs.state.tx.us" href="mailto:RAMLicensing@dshs.state.tx.us">RAMLicensing@dshs.state.tx.us</a><br/>
 			Phone: (512) 834-6688 ext. 2861<br/>
 			Fax: (512) 834-6690<br/>
 		</p>
 		
-		<h3>X-Ray and Laser Machine Registration</h3>
+		<p><strong>X-Ray and Laser Machine Registration</strong></p>
 		<p>
 			Phone: (512) 834-6688 ext. 2225<br/>
 			Fax: (512) 834-6716<br/>

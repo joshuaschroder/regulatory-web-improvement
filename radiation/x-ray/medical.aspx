@@ -29,7 +29,7 @@
 	<h2>Obtaining a Certificate of Registration</h2>
 	<p>For a medical or academic certificate of registration, the following forms must be completed to register your medical or academic facility. Submit the completed forms along with the <a title="appropriate fee" href="#fees">appropriate fee</a>.</p>
 	
-	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Medical and Academic X-Ray Machine Applications and Forms</caption>
 		<thead>
 			<tr>
@@ -45,6 +45,10 @@
 			<tr>
 				<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
 				<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="204" name="204"></a>RC 204</td>
+				<td headers="table_heading_1"><a title="Schedule of Biennial Fees for Registration for Radiation Machines" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">Schedule of Biennial Fees for Registration for Radiation Machines</a> <span class="small">(PDF, 25KB)</span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0"><a class="bookmark" title="423" name="423"></a>RC 42-3</td>

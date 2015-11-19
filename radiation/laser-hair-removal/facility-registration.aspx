@@ -122,13 +122,35 @@
 	<br/>
 	
 	<h3>Laser Safety Officer (LSO) Change</h3>
-	<p>If the LSO will change, complete and submit <a title="RC Form 42-L, Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">RC Form 42-L, Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span>.</p>
+	<p>If the LSO will change, complete and submit the following forms.</p>
+
+	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+		<caption>Forms for Laser Safety Officer (LSO) Changes</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:20%;">Document Number</th>
+				<th id="table_heading_1" style="width:80%;">Title</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="3024" name="3024"></a>RC 302-4</td>
+				<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Facility" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589942758">Registration Application for Laser Hair Removal Facility</a> <span class="small">(PDF, 573KB)</span></td>
+			</tr>			
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="42L" name="42L"></a>RC 42-L</td>
+				<td headers="table_heading_1"><a title="RC Form 42-L, Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
+			</tr>
+		</tbody>
+	</table>	
+
+
 	<br/>
 	
 	<h3>Deleting or Transferring a Machine</h3>
 	<p>To delete or transfer a laser device, complete and submit the following form.</p>
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
-		<caption>Laser Registration Applications and Forms</caption>
+		<caption>Forms for Deleting or Transferring a Machine</caption>
 		<thead>
 			<tr>
 				<th id="table_heading_0" style="width:20%;">Document Number</th>

@@ -14,7 +14,7 @@
 	<p>In addition to a completed application, submit documents showing how the certifying entity meets the requirements according to <a title="Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=302">Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)</a>.</p>
 	
 	<p>For certifying entity approval, complete and submit the following forms and other required information.</p>
-	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
+	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for New Registration of Laser Hair Removal Certifying Entities</caption>
 		<thead>
 			<tr>
@@ -24,13 +24,13 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
-				<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
-			</tr>			
-			<tr>
 				<td headers="table_heading_0"><a class="bookmark" title="3022" name="3022"></a>RC 302-2</td>
 				<td headers="table_heading_1"><a title="Application for Laser Hair Removal Certifying Entities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589935325">Application for Laser Hair Removal Certifying Entities</a> <span class="small">(PDF, 264KB)</span></td>
 			</tr>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
+				<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
+			</tr>			
 		</tbody>
 	</table>
 	<p>There is no fee required for submitting a certifying entity application.</p>

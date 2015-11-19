@@ -61,7 +61,7 @@
 		<li>Successful course completion criteria</li>
 		<li>Copy of certificate to be issued upon successful completion of training program</li>
 	</ul>
-	<p><strong>Note:</strong> For specific registration requirements and information, see page 302-15 of <a title="25 TAC &#0167;289.302" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946028">25 TAC &#0167;289.302(j)(20)</a> <span class="small">(PDF, 751KB)</span>.</p>
+	<p><strong>Note:</strong> For specific registration requirements and information, refer to page 302-15 of <a title="25 TAC &#0167;289.302" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946028">25 TAC &#0167;289.302(j)(20)</a> <span class="small">(PDF, 751KB)</span>.</p>
 </div>
 
 <div class="Section" id="Renewal-Registration">

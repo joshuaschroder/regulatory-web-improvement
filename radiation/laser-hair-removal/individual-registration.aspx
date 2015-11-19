@@ -29,7 +29,7 @@
 		<thead>
 			<tr>
 				<th id="table_heading_0" style="width:20%;">Registration Type</th>
-				<th id="table_heading_1" style="width:60%;">Required Form</th>
+				<th id="table_heading_1" style="width:60%;">Form Title</th>
 				<th id="table_heading_2" style="width:10%;">Fee</th>
 				<th id="table_heading_3" style="width:10%;">Notes</th>
 			</tr>
@@ -37,7 +37,7 @@
 		<tbody>
 			<tr>
 				<td headers="table_heading_0">Apprentice-in-Training</td>
-				<td headers="table_heading_1"><a title="RC Form 302-5" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589942759">Registration Application for LHR Apprentice in Training </a> <span class="small">(PDF, 497KB)</span></td>
+				<td headers="table_heading_1"><a title="RC Form 302-5" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589942759">Registration Application for LHR Apprentice-in-Training </a> <span class="small">(PDF, 497KB)</span></td>
 				<td headers="table_heading_2">$50</td>
 				<td headers="table_heading_3"><span class="small"><a title="See Note 1" href="#initial-1">See Note 1</a></span></td>
 			</tr>
@@ -70,7 +70,7 @@
 		</li>
 		<li>
 			<a class="bookmark" title="initial-2" name="initial-2"></a>
-			To apply for technician status, you must first have completed an agency-accepted 40 hour hair removal <a title="Training Programs" href="/radiation/laser-hair-removal/training-courses.aspx">training program</a> and perform 100 hair removal procedures within 12 months supervised by a hair removal senior technician or professional.
+			To apply for technician status, you must first have completed an agency-accepted 40 hour hair removal <a title="Training Programs" href="/radiation/laser-hair-removal/training-courses.aspx">training program</a> and perform 100 hair removal procedures within 12 months supervised by a LHR senior technician or professional.
 		</li>
 		<li>
 			<a class="bookmark" title="initial-3" name="initial-3"></a>
@@ -78,9 +78,8 @@
 		</li>
 		<li>
 			<a class="bookmark" title="initial-4" name="initial-4"></a>
-			<em>Do not schedule the professional exam until after you have received your <em>Certificate of Registration for Laser Hair Removal Technician</em>.</em><br/>
-			For a list of certifying entities, see the <a title="Certifying Entities" href="/radiation/laser-hair-removal/certifying-entity-list.aspx">certifying entities</a> page.<br/>
-			For a list of registered laser hair removal professionals in Texas, refer to <a title="Registered Texas Professionals List" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589988281">Registered Texas Professionals List</a> <span class="small">(PDF, 91KB)</span>. 
+			<em>Do not schedule the professional exam until after you have received your <em>Certificate of Registration for Laser Hair Removal Senior Technician</em>.</em><br/>
+			For a list of certifying entities, see the <a title="Certifying Entities" href="/radiation/laser-hair-removal/certifying-entity-list.aspx">certifying entities</a> page.
 		</li>
 	</ol>
 </div>

@@ -73,7 +73,7 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0">None</td>
-			<td headers="table_heading_1"><a title="Training Guide for X-Ray Service Company Personnel Performing Equipment Performance Evaluations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20088">Training Guide for X-Ray Service Company Personnel Performing Equipment Performance Evaluations</a> <span class="small">(PDF, 229KB)</span><br/><em>This document is for training purposes only and is not a formal regulatory guide.</em></td>
+			<td headers="table_heading_1"><a title="Training Guide for X-Ray Service Company Personnel Performing Equipment Performance Evaluations" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003247">Training Guide for X-Ray Service Company Personnel Performing Equipment Performance Evaluations</a> <span class="small">(PDF, 797KB)</span><br/><em>This document is for training purposes only and is not a formal regulatory guide.</em></td>
 		</tr>
 	</tbody>
 </table>

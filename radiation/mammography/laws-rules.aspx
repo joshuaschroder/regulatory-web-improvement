@@ -69,14 +69,6 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.204(j) (HTML)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">§289.204(j) <span class="small">(HTML)</span></a><br>
-					<a class="bookmark" title="289204j" name="289204j"></a>
-				</td>
-				<td headers="table_heading_1">Table With Machine/Use Category and Fee Information</td>
-				<td headers="table_heading_2">09/07/14</td>
-			</tr>			
-			<tr>
-				<td headers="table_heading_0">
 					<a title="Texas Administrative Code, Title 25, §289.205 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=205">§289.205 <span class="small">(HTML)</span></a><br>
 					<a title="Texas Administrative Code, Title 25, §289.205 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946007">§289.205 <span class="small">(PDF, 91KB)</span></a>
 					<a class="bookmark" title="289205" name="289205"></a>
