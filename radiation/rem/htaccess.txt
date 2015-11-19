@@ -1,0 +1,4 @@
+AuthName "Secure Area"
+AuthType Basic
+AuthUserFile /home/codio/.htpasswd
+require valid-user
