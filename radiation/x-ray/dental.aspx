@@ -69,7 +69,7 @@
 	<a class="bookmark" title="fees" name="fees"></a>
 	<h2>Fee Schedule</h2>
 	<p>The table below outlines fees pertaining to the issuance of a single certificate of registration for use in dental radiography.</p>
-	<p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232(g)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=232">25 Texas Administrative Code &#167;289.232(g)</a>, and in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a>.</p>
+	<p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232(g)" href="/radiation/x-ray/laws-rules.aspx#289232">25 Texas Administrative Code &#167;289.232(g)</a>, and in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a>.</p>
 	
 	<table class="zebraBorder layout" summary="table not sorted" style="width:70%;">
 		<caption>Schedule of application fees for dental X-ray registration</caption>
@@ -150,7 +150,7 @@
 	<hr/>
 	<a class="bookmark" title="regulations" name="regulations"></a>
 	<h2>Dental Regulations</h2>
-	<p><a title="Title 25 Texas Administrative Code &#167;289.232" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=232">Title 25 Texas Administrative Code &#167;289.232</a> established radiation control regulations for dental radiation machines. This regulation requires established operating and safety procedures for dental facilities.</p>
+	<p><a title="Title 25 Texas Administrative Code &#167;289.232" href="/radiation/x-ray/laws-rules.aspx#289232">Title 25 Texas Administrative Code &#167;289.232</a> established radiation control regulations for dental radiation machines. This regulation requires established operating and safety procedures for dental facilities.</p>
 	
 	<p>Employers are also required to post the <a title="Notice To Employees" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946014">Notice To Employees Poster</a> <span class="small">(PDF, 10KB)</span>  in every establishment where employees are employed in activities registered.</p>
 	

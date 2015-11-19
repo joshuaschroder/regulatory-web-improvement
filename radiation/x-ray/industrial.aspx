@@ -91,7 +91,7 @@
 		</tbody>
 	</table>
 	
-	<p>For registration and radiation safety requirements for industrial radiation machines see <a title="25 TAC §289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 TAC §289.226</a> and <a title="25 TAC §289.228" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=228">25 TAC §289.228</a>.</p>
+	<p>For registration and radiation safety requirements for industrial radiation machines see <a title="25 TAC §289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 TAC §289.226</a> and <a title="25 TAC §289.228" href="/radiation/x-ray/laws-rules.aspx#289228">25 TAC §289.228</a>.</p>
 	
 	<h3>Radiation Safety Officer (RSO) Qualifications</h3>
 	
@@ -168,7 +168,7 @@
 			</tr>
 		</tbody>
 	</table>
-	<p>For registration and radiation safety requirements for radiation machine services see <a title="25 TAC §289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 TAC §289.226</a>.</p>
+	<p>For registration and radiation safety requirements for radiation machine services see <a title="25 TAC §289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 TAC §289.226</a>.</p>
 	<p>Out of state service companies are required to provide a 3 day notice of work in Texas. For an example notice see <a title="X-Ray Services Notice of Intent to Work in The State of Texas" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003002">X-Ray Services Notice of Intent to Work in The State of Texas</a> <span class="small">(PDF, 99KB)</span>.</p>
 </div>
 
@@ -328,7 +328,7 @@
 	<a class="bookmark" title="accelerator" name="accelerator"></a>
 	<hr/>
 	<h2>Industrial Accelerator Information</h2>
-	<p>For industrial accelerator information and/or questions see <a title="25 TAC §289.229" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=229">25 TAC §289.229</a> and contact Karen Verser at (512) 834-6688 ext. 2233 or Elisabeth Gerber at (512) 834-6688 ext. 2248.</p>
+	<p>For industrial accelerator information and/or questions see <a title="25 TAC §289.229" href="/radiation/x-ray/laws-rules.aspx#289229">25 TAC §289.229</a> and contact Karen Verser at (512) 834-6688 ext. 2233 or Elisabeth Gerber at (512) 834-6688 ext. 2248.</p>
 </div>
 
 <div class="Section" id="Fees">

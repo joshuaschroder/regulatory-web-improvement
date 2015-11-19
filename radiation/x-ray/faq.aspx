@@ -25,7 +25,7 @@
 <hr/>
 <a class="bookmark" title="1" name="1"></a>
 <h2>What is an administrative renewal?</h2>
-<p>An administrative renewal is a fee that must be paid in order to continue operating x-ray and laser devices. The fee is required every two years. Think of an administrative renewal as what happens when you pay your two-year registration fee. For information on fee payment see <a title="25 TAC §289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">25 TAC §289.204</a> of the rules.</p>
+<p>An administrative renewal is a fee that must be paid in order to continue operating x-ray and laser devices. The fee is required every two years. Think of an administrative renewal as what happens when you pay your two-year registration fee. For information on fee payment see <a title="25 TAC §289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC §289.204</a> of the rules.</p>
 
 <hr/>
 <a class="bookmark" title="2" name="2"></a>

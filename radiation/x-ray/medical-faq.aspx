@@ -48,7 +48,7 @@
 	<hr/>
 	<a title="1" class="bookmark" name="1"></a>
 	<p><strong>Who can be a Radiation Safety Officer (RSO)?</strong></p>
-	<p>Requirements for radiation safety officers can be found in <a title="&#0167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">&#0167;289.226, Registration of Radiation Machine Use and Services</a>. Form: <a title="RC 42-3 RSO form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3 RSO form</a> <span class="small">(PDF, 301KB)</span> <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 Texas Administrative Code &#0167;289.226</a></p>
+	<p>Requirements for radiation safety officers can be found in <a title="&#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">&#0167;289.226, Registration of Radiation Machine Use and Services</a>. Form: <a title="RC 42-3 RSO form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3 RSO form</a> <span class="small">(PDF, 301KB)</span> <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a></p>
 	<ul>
 		<li>Requirements for RSOs for registrants. <ul>
 			<li>All RSOs shall meet the following general requirements in addition to requirements in specific categories, except for industrial radiography RSOs: <ul>
@@ -104,7 +104,7 @@
 		<strong>What are the responsibilities of the RSO?</strong>
 	</p>
 	<p>
-	The responsibilities of the RSO can be found in <a title="&#0167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">&#0167;289.226 - Registration of Radiation Machine Use and Services</a>. <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">25 Texas Administrative Code &#0167;289.226</a> <br/>Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
+	The responsibilities of the RSO can be found in <a title="&#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">&#0167;289.226 - Registration of Radiation Machine Use and Services</a>. <br/><br/><a title="25 Texas Administrative Code &#0167;289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 Texas Administrative Code &#0167;289.226</a> <br/>Responsibilities of RSOs. Specific duties of the RSO include, but are not limited to, the following:</p>
 	<ul>
 		<li>establishing and overseeing operating and safety procedures that maintain radiation exposures as low as reasonably achievable (ALARA), and to review them regularly to ensure that the procedures are current and conform with this chapter;</li>
 		<li>ensuring that individual monitoring devices are properly used by occupationally-exposed personnel, that records are kept of the monitoring results, and that timely notifications are made as required by '289.203 of this title;</li>
@@ -260,7 +260,7 @@
 	<hr/>
 	<a title="23" class="bookmark" name="23"></a>
 	<p><strong>Can dental assistant students or any other students "practice" taking x-rays on each other?</strong></p>
-	<p>No, students can not practice on individuals for training purposes. The requirements can be found in <a title="25 Texas Administrative Code &#0167;289.227" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=227">25 Texas Administrative Code &#0167;289.227</a></p>
+	<p>No, students can not practice on individuals for training purposes. The requirements can be found in <a title="25 Texas Administrative Code &#0167;289.227" href="/radiation/x-ray/laws-rules.aspx#289227">25 Texas Administrative Code &#0167;289.227</a></p>
 	<p>Individuals shall not be exposed to the useful beam except for healing arts purposes and unless such exposure has been authorized by a licensed practitioner of the healing arts. This provision specifically prohibits intentional exposure of an individual for training, demonstration, or other non-healing arts purposes.</p>
 </div>
 

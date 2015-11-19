@@ -192,7 +192,7 @@
 	<hr/>
 	<a class="bookmark" title="procedures" name="procedures"></a>
 	<h2>Operating and Safety Procedures</h2>
-	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227(i)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=227">&#0167;289.227(i)</a> and <a title="&#0167;289.229" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help assist registrants in developing procedures unique to individual facilities. For <strong>mobile services</strong>, include specific procedures unique to your mobile operation. Choose the appropriate guide:</p>
+	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227(i)" href="/radiation/x-ray/laws-rules.aspx#289227">&#0167;289.227(i)</a> and <a title="&#0167;289.229" href="/radiation/x-ray/laws-rules.aspx#289229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help assist registrants in developing procedures unique to individual facilities. For <strong>mobile services</strong>, include specific procedures unique to your mobile operation. Choose the appropriate guide:</p>
 	
 	<br/>
 	<table class="zebraBorder layout" summary="sorted by guide number, ascending">

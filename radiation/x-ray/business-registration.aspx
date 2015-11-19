@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 <br/>
-<p>Title 25, Texas Administrative Code <a title="Title 25, Texas Administrative Code §289.226(e)(8)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=226">§289.226(e)(8)</a> states that each application shall be accompanied by a completed <a title="RC Form 226-1, Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=51597">RC Form 226-1, Business Information Form</a> <span class="small">(PDF, 24KB)</span> that shall contain the legal name of the entity or business.</p> 
+<p>Title 25, Texas Administrative Code <a title="Title 25, Texas Administrative Code §289.226(e)(8)" href="/radiation/x-ray/laws-rules.aspx#289226">§289.226(e)(8)</a> states that each application shall be accompanied by a completed <a title="RC Form 226-1, Business Information Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=51597">RC Form 226-1, Business Information Form</a> <span class="small">(PDF, 24KB)</span> that shall contain the legal name of the entity or business.</p> 
 
 <p>Unless exempt in accordance with the <a title="Business and Commerce Code, Chapter 71" href="http://www.statutes.legis.state.tx.us/Docs/BC/htm/BC.71.htm">Business and Commerce Code, Chapter 71</a>, the applicant shall:</p>
 
