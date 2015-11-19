@@ -45,7 +45,7 @@
 		<tbody>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.302 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=302">&#0167;289.302 <span class="small">(HTML)</span></a><br/>
+					<a title="Texas Administrative Code, Title 25, §289.302 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=203">&#0167;289.302 <span class="small">(HTML)</span></a><br/>
 					<a title="Texas Administrative Code, Title 25, §289.302 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946028">&#0167;289.302 <span class="small">(PDF, 751KB)</span></a><br/>
 				</td>
 				<td headers="table_heading_1">Registration and Radiation Safety Requirements for Use of Laser Hair Removal Devices </td>

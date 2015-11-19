@@ -68,7 +68,7 @@
 <p><a title="Regulatory Guide 2.1" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20023">Regulatory Guide 2.1, Industrial Radiographic Exposure Devices</a> <span class="small">(PDF, 71KB)</span> should be used for guidance in completing the application and additional information on what should be included in your O, S &amp; E procedures.</p>
 
 <h3>3. Submit the appropriate fee</h3>
-<p>A nonrefundable fee shall be submitted with each new application. Refer to <a title="§289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">§289.204</a> to determine the fee that should accompany the new application.</p>
+<p>A nonrefundable fee shall be submitted with each new application. Refer to <a title="§289.204" href="/radiation/ram/laws-rules.aspx#289204">§289.204</a> to determine the fee that should accompany the new application.</p>
 <p>Review of the new application will not begin until the proper fee is received by the agency. The check or money order should be made payable to the Texas Department of State Health Services.</p>
 
 <hr/>
@@ -117,7 +117,7 @@
 	<li>If radioactive material stored at the site listed on the license, was transferred to an authorized recipient, provide records documenting the transfer. Each transfer record must indicate the isotope, the activity of each source, model number of each device and/or sealed source, and serial number of each device and/or sealed source. The transfer record must also indicate the name, address and license number of the transferor and transferee, the signatures of a representative of the transferor and transferee and the date of transfer of the radioactive material.<br/><br/></li>
 	<li>Provide a copy of the most recent leak test record for each sealed source that was stored at the facility, if only sealed sources were used. Otherwise, a closeout survey for the facility where radioactive material was stored and/or used must be submitted.<br/><br/></li>
 </ul>
-<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
+<p>The agency reserves the right to conduct a confirming radiation survey and facility evaluation prior to the release of controlled areas for unrestricted use. It is the licensee's responsibility to decontaminate facilities to levels allowing release for unrestricted use. If residual radiation levels or contamination levels exceed the applicable release limits contained in <a title="25 TAC §289.202" href="/radiation/ram/laws-rules.aspx#289202">25 TAC §289.202</a>, your license will not be terminated until release limits have been met.</p>
 
 <hr/>
 <a class="bookmark" title="training" name="training"></a>

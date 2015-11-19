@@ -76,7 +76,7 @@
 	<h2>Fee Schedule</h2>
 	<p>The table below outlines fees pertaining to the issuance of a single certificate of registration for medical use.</p>
 	
-	<p>For a complete listing of all types of radiation machines and their associated fees, see <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a>.</p>
+	<p>For a complete listing of all types of radiation machines and their associated fees, see <a title="25 TAC, &#167;289.204(j)" href="/radiation/x-ray/laws-rules.aspx#289204"">25 TAC, &#167;289.204(j)</a>.</p>
 	
 	<table class="zebraBorder layout" summary="sorted alphabetically by category first, then by type of use" style="width:100%;">
 		<caption>Schedule of Application Fees for Medical X-Ray Registration</caption>
@@ -131,7 +131,7 @@
 	
 	<h3>Multiple Categories of Use</h3>
 	
-	<p>In the case of a single certificate of registration that authorizes more than one category of use, the category listed in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a> and assigned the higher fee will be used. If this certificate of registration also has additional authorized use locations, the registrant shall pay an additional 30% of the highest fee category for each additional use location.</p>
+	<p>In the case of a single certificate of registration that authorizes more than one category of use, the category listed in <a title="25 TAC, &#167;289.204(j)" href="/radiation/x-ray/laws-rules.aspx#289204"">25 TAC, &#167;289.204(j)</a> and assigned the higher fee will be used. If this certificate of registration also has additional authorized use locations, the registrant shall pay an additional 30% of the highest fee category for each additional use location.</p>
 </div>
 
 <div class="Section" id="Renewals">

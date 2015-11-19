@@ -263,7 +263,7 @@
 	<a class="bookmark" title="procedures" name="procedures"></a>
 	<hr/>
 	<h2>Operating and Safety Procedures</h2>
-	<p>Each registrant shall have and implement written operation and safety procedures in accordance with Title 25 of the Texas Administrative Code (TAC) <a title="§289.230(hh)(3)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=230">§289.230(hh)(3)</a>.</p>
+	<p>Each registrant shall have and implement written operation and safety procedures in accordance with Title 25 of the Texas Administrative Code (TAC) <a title="§289.230(hh)(3)" href="/radiation/mammography/laws-rules.aspx#289230">§289.230(hh)(3)</a>.</p>
 	<p>The following procedures shall be submitted with new facility and renewal applications:</p>
 	<ul>
 		<li>Corrective action procedure for Poor Image quality, corrective for poor quality, and process for feedback from interpreting physicians: 289.230 (u) &amp; (u)(1)(B)(i)</li>

@@ -29,7 +29,7 @@
 </table>
 
 <h3>2. Submit the appropriate fee</h3>
-<p>License application fees must be included with the completed application forms. Fees are established in accordance with <a title="Title 25 Texas Administrative Code §289.204(e)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">Title 25 Texas Administrative Code §289.204(e):</a></p>
+<p>License application fees must be included with the completed application forms. Fees are established in accordance with <a title="Title 25 Texas Administrative Code §289.204(e)" href="/radiation/ram/laws-rules.aspx#289204">Title 25 Texas Administrative Code §289.204(e):</a></p>
 	
 <table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 	<caption>Fee Schedule for New Industrial Radiography Licenses</caption>
@@ -57,7 +57,7 @@
 
 <hr/>
 <h2>RSO Qualifications for Industrial Radiography</h2>
-<p>Qualifications for an individual designated as RSO for Industrial Radiography operations are outlined in <a title="Title 25 Texas Administrative Code §289.255(m)(4)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=255">Title 25 Texas Administrative Code §289.255(m)(4)</a>:</p>
+<p>Qualifications for an individual designated as RSO for Industrial Radiography operations are outlined in <a title="Title 25 Texas Administrative Code §289.255(m)(4)" href="/radiation/ram/laws-rules.aspx#289255">Title 25 Texas Administrative Code §289.255(m)(4)</a>:</p>
 
 <ol>
 	<li>A high school diploma or a certificate of high school equivalency based on the GED test. Acceptable alternate documentation of the educational requirement would be a college transcript, resume or other written statement affirming high school graduation or formal education beyond high school.<br/><br/></li>

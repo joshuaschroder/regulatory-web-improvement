@@ -237,7 +237,7 @@
 	<a class="bookmark" title="procedures" name="procedures"></a>
 	<hr/>
 	<h2>Operating and Safety Procedures</h2>
-	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.230(gg)(14)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=230">&#0167;289.230(gg)(14)</a> requires each registrant to have and implement written operating and safety procedures.</p>
+	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.230(gg)(14)" href="/radiation/mammography/laws-rules.aspx#289230">&#0167;289.230(gg)(14)</a> requires each registrant to have and implement written operating and safety procedures.</p>
 </div>
 
 <div class="Section" id="Help">

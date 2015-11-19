@@ -13,8 +13,8 @@
 		<p><strong>Texas Department of State Health Services, Radiation Control Program, Radiation Safety Licensing Branch</strong></p>
 		<p>DSHS regulates shipping and transportation of LLRW to the Texas Disposal Facility under the following sections of Title 25, Texas Administrative Code:</p>
 		<ul>
-			<li><a title="25 Texas Administrative Code §289.252 - Licensing of Radioactive Material" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">§289.252 - Licensing of Radioactive Material</a></li>
-			<li><a title="25 Texas Administrative Code §289.257 - Packaging and Transportation of Radioactive Material" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=257">§289.257 - Packaging and Transportation of Radioactive Material</a><br/><br/></li>
+			<li><a title="25 Texas Administrative Code §289.252 - Licensing of Radioactive Material" href="/radiation/ram/laws-rules.aspx#289252">§289.252 - Licensing of Radioactive Material</a></li>
+			<li><a title="25 Texas Administrative Code §289.257 - Packaging and Transportation of Radioactive Material" href="/radiation/ram/laws-rules.aspx#289257">§289.257 - Packaging and Transportation of Radioactive Material</a><br/><br/></li>
 		</ul>
 	</li>
 	<li>
@@ -38,7 +38,7 @@
 </ul>
 <p>There is no application fee. Shippers are charged $10 per cubic foot, and will be billed by the Department after the shipment is completed.</p>
 <p>Guidance for preparing the Emergency Plan and Quality Assurance procedures (if necessary) can be found in <a title="Regulatory Guide 2.19 - Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981713">Regulatory Guide 2.19 “Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters”</a> <span class="small">(PDF, 79KB)</span>.</p>
-<p>Applicable statutes can be found in <a title="25 Texas Administrative Code, §289.252" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">25 Texas Administrative Code, §289.252</a> and <a title="25 Texas Administrative Code, §289.257" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=257">§289.257</a>.</p>
+<p>Applicable statutes can be found in <a title="25 Texas Administrative Code, §289.252" href="/radiation/ram/laws-rules.aspx#289252">25 Texas Administrative Code, §289.252</a> and <a title="25 Texas Administrative Code, §289.257" href="/radiation/ram/laws-rules.aspx#289257">§289.257</a>.</p>
 
 <hr/>
 <h2>Applications Process for LLRW Transporter Registration</h2>
@@ -49,7 +49,7 @@
 </ul>
 <p>There is no application fee, or fee based on the amount of material transported by a carrier.</p>
 <p>Guidance for preparing the Emergency Plan and submitting proof of financial responsibility can be found in <a title="Regulatory Guide 2.19 - Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981713">Regulatory Guide 2.19 “Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters”</a> <span class="small">(PDF, 79KB)</span>.</p>
-<p>Applicable statutes can be found in <a title="25 Texas Administrative Code, §289.252" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=252">25 Texas Administrative Code, §289.252</a> and <a title="25 Texas Administrative Code, §289.257" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=257">§289.257</a>.</p>
+<p>Applicable statutes can be found in <a title="25 Texas Administrative Code, §289.252" href="/radiation/ram/laws-rules.aspx#289252">25 Texas Administrative Code, §289.252</a> and <a title="25 Texas Administrative Code, §289.257" href="/radiation/ram/laws-rules.aspx#289257">§289.257</a>.</p>
 
 <hr/>
 <h2>Contact Information</h2>

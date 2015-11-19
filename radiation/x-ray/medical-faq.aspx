@@ -183,7 +183,7 @@
 	<hr/>
 	<a title="12" class="bookmark" name="12"></a>
 	<p><strong>What are the current fee amounts?</strong></p>
-	<p>The current fees may be found in <a title="25 Texas Administrative Code &#0167;289.204" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 Texas Administrative Code &#0167;289.204(j)</a> or <a title="RC 204 Fee Schedule" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">RC 204 Fee Schedule</a> <span class="small">(PDF, 25KB)</span>.</p>
+	<p>The current fees may be found in <a title="25 Texas Administrative Code &#0167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204"">25 Texas Administrative Code &#0167;289.204(j)</a> or <a title="RC 204 Fee Schedule" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938357">RC 204 Fee Schedule</a> <span class="small">(PDF, 25KB)</span>.</p>
 </div>	
 
 <div class="section">

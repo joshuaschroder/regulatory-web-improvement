@@ -9,7 +9,7 @@
 <p>There are three agencies responsible for regulating different aspects of NORM. The following is an attempt to clarify each agency's role, what regulations apply and whom to contact for more information or questions.</p>
 
 <h3>1. Texas Department of State Health Services, Radiation Control Program, Radiation Safety Licensing Branch</h3>
-<p>DSHS regulates receipt, possession, storage, use and treatment of NORM under <a title="25 Texas Administrative Code §289.259" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=259">25 Texas Administrative Code §289.259 - Licensing of Naturally Occurring Radioactive Material</a>.</p>
+<p>DSHS regulates receipt, possession, storage, use and treatment of NORM under <a title="25 Texas Administrative Code §289.259" href="/radiation/ram/laws-rules.aspx#289259">25 Texas Administrative Code §289.259 - Licensing of Naturally Occurring Radioactive Material</a>.</p>
 
 <h3>2. Railroad Commission of Texas</h3>
 <p><a title="Railroad Commission of Texas" href="http://www.rrc.state.tx.us/">Railroad Commission of Texas</a> regulates the disposal of oil and gas NORM waste under <a title="16 Texas Administrative Code, Part 1, Chapter 4, Subchapter F" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=16&pt=1&ch=4&sch=F&rl=Y">16 Texas Administrative Code, Part 1, Chapter 4, Subchapter F - Oil and Gas NORM</a>.</p> 

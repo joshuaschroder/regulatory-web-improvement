@@ -11,7 +11,7 @@
 	<a class="bookmark" title="initial" name="initial"></a>
 	<hr/>
 	<h2>New Registration</h2>
-	<p>In addition to a completed application, submit documents showing how the certifying entity meets the requirements according to <a title="Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=302">Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)</a>.</p>
+	<p>In addition to a completed application, submit documents showing how the certifying entity meets the requirements according to <a title="Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)" href="/radiation/laser-hair-removal/laws-rules.aspx#289302">Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)</a>.</p>
 	
 	<p>For certifying entity approval, complete and submit the following forms and other required information.</p>
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">

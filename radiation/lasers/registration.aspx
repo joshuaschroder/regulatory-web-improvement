@@ -121,7 +121,7 @@
 		<a class="bookmark" title="new-fees" name="new-fees"></a>
 		<br/>
 		<h3>Fee Schedule for New Certificates</h3>
-		<p>Fees for 2-year laser certificates of registration are established in <a title="Title 25, Texas Administrative Code &#0167;289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">Title 25, Texas Administrative Code &#0167;289.204</a>.</p>
+		<p>Fees for 2-year laser certificates of registration are established in <a title="Title 25, Texas Administrative Code &#0167;289.204" href="/radiation/lasers/laws-rules.aspx#289204">Title 25, Texas Administrative Code &#0167;289.204</a>.</p>
 		
 		<table class="zebraBorder layout" summary="sorted alphabetically by laser use category" style="width:80%;">
 			<caption>Fees for New Laser Certificates of Registration</caption>
