@@ -16,7 +16,7 @@
 	<li><a title="Fee Schedule" href="#fees">Fee Schedule</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
-	<li><a title="Mailing Address" href="#address">Mailing Address</a></li>	
+	<li><a title="Contact Information" href="#address">Mailing Address</a></li>	
 	<li><a title="Dental Regulations" href="#regulations">Dental Regulations</a></li>
 	<li><a title="Mobile Dental Services" href="#mobile-services">Mobile Dental Services</a></li>
 	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
@@ -26,7 +26,7 @@
 	<hr/>
 	<a class="bookmark" title="register" name="register"></a>
 	<h2>Obtaining a Certificate of Registration</h2>
-	<p>For a Certificate of Registration for dental radiation machines, submit the completed forms <strong>with the appropriate fee</strong>.</p>
+	<p>For a certificate of registration for dental radiation machines, submit the completed forms <strong>with the appropriate fee</strong>. The following forms must be completed:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for New Dental X-Ray Certificates of Registration</caption>
@@ -57,7 +57,7 @@
 	<hr/>
 	<a class="bookmark" title="amend" name="amend"></a>
 	<h2>Amending a Certificate of Registration</h2>
-	<p>When submitting a request to amend your medical registration, you may write a letter describing the necessary change or complete <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC Form 226-2</a> <span class="small">(PDF, 27KB)</span>, indicating the change in item 3. Either way, always reference your registration number and include any additional information needed to process your request.</p>
+	<p>When submitting a request to amend the dental registration, complete form <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC 226-2</a> <span class="small">(PDF, 27KB)</span>, indicating the change in item 3. Describe the change, reference the registration number, and include any additional information needed to process the request.</p>
 	
 	<p><strong>Name and/or Ownership Change</strong> - See Regulatory Guide 8.2:  <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
 	
@@ -99,9 +99,9 @@
 		</tbody>
 	</table>
 	
-	<p>Each application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biennial fee. We are not able to accept applications or payments by email.</p>
+	<p>Each application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biannual fee. Mail application with appropriate fee.</p>
 	
-	<h3>Multiple Categories of Use</h3>
+	<h3>Multiple Use Location</h3>
 	
 	<p>In the case of a single certificate of registration that authorizes more than one category of use, the category listed in <a title="25 TAC, &#167;289.204(j)" href="http://texreg.sos.state.tx.us/fids/201105382-2.html">25 TAC, &#167;289.204(j)</a> and assigned the higher fee will be used. If this certificate of registration also has additional authorized use sites, the registrant shall pay an additional 30% of the highest fee category.</p>
 </div>
@@ -110,7 +110,7 @@
 	<hr/>
 	<a class="bookmark" title="terminate" name="terminate"></a>
 	<h2>Terminating a Certificate of Registration</h2>
-	<p>To terminate an industrial registration, please complete and submit <a title="Request For Termination of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">RC-17R: Request For Termination of Registration</a> <span class="small">(PDF)</span>.</p>
+	<p>To terminate an industrial registration, complete and submit <a title="Request For Termination of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596">RC-17R, Request For Termination of Registration</a> <span class="small">(PDF)</span>.</p>
 </div>
 
 <div class="Section" id="Delete-Transfer">
@@ -123,7 +123,7 @@
 <div class="Section" id="Mailing-Address">
 	<hr/>
 	<a class="bookmark" title="address" name="address"></a>
-	<h2>Mailing Address</h2>
+	<h2>Contact Information</h2>
 	
 	<p><strong>For New Applications</strong></p>
 	<p>
@@ -140,6 +140,10 @@
 		P. O. Box 149347<br/>
 		Austin, Texas 78714-9347
 	</p>
+	
+	<p><strong>Telephone:</strong> (512) 834-6688 ext. 2225</p>
+	<p><strong>Fax:</strong> (512) 834-6716 and (512) 834-6717</p>	
+	
 </div>
 
 <div class="Section" id="Regulations">
