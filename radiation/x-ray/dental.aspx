@@ -15,7 +15,7 @@
 	<li><a title="Fee Schedule" href="#fees">Fee Schedule</a></li>
 	<li><a title="Amending a Certificate of Registration" href="#amend">Amending a Certificate of Registration</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
-	<li><a title="Disposing of an X-Ray Unit" href="#disposal">Disposing of an X-Ray Unit</a></li>
+	<li><a title="Disposing of an X-Ray Machine" href="#disposal">Disposing of an X-Ray Machine</a></li>
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>	
 	<li><a title="Mobile Dental Services" href="#mobile-services">Mobile Dental Services</a></li>
@@ -26,7 +26,7 @@
 	<hr/>
 	<a class="bookmark" title="register" name="register"></a>
 	<h2>Obtaining a Certificate of Registration</h2>
-	<p>For a certificate of registration for dental radiation machines, submit the completed forms with the appropriate fee.</p>
+	<p>For a certificate of registration for dental radiation machines, submit the following forms with the appropriate fee:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for New Dental X-Ray Certificates of Registration</caption>
@@ -89,20 +89,22 @@
 		</tbody>
 	</table>
 	
-	<p>Each application for a certificate of registration shall be accompanied by a non-refundable fee.</p>
+	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee.</p>
 	
 	<h3>Additional Use Location</h3>
 	
-	<p>If the certificate of registration has additional authorized use sites, the registrant shall pay an additional 30% for each additional fee location.</p>
+	<p>If the certificate of registration has additional authorized use sites, the registrant shall pay an additional 30% for each additional use location.</p>
 </div>
 
 <div class="Section" id="Amendments">
 	<hr/>
 	<a class="bookmark" title="amend" name="amend"></a>
-	<h2>Amending a Certificate of Registration</h2>	
-	<p>When submitting a request to amend the dental registration, complete form <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC 226-2, Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span>, indicating the change in item 3, or submit a letter describing the change. Reference the registration number, and include any additional information needed to process the request.</p>
-	<p><strong>Name and/or Ownership Change</strong> - See <a title="Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
-	<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC Form 42-3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3, Radiation Safety Officer (RSO) Information</a> <span class="small">(PDF, 301KB)</span>.</p>
+	<h2>Amending a Certificate of Registration</h2>
+	<p>When submitting a request to amend a dental registration, complete <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC 226-2, Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span>, indicating the change in item 3, or, submit a letter signed by the RSO. Describe the change, reference the registration number, and include any additional information necessary to process the request.</p>
+	
+	<p><strong>Name and/or Ownership Change</strong> - See <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span>.</p>
+	
+	<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC 42-3, Radiation Safety Officer (RSO) Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3, Radiation Safety Officer (RSO) Information for Registration</a> <span class="small">(PDF, 301KB)</span>.</p>
 </div>
 
 <div class="Section" id="Terminate">
@@ -123,7 +125,8 @@
 	<hr/>
 	<a class="bookmark" title="delete" name="delete"></a>
 	<h2>Deleting or Transferring a Machine</h2>
-	<p>To delete or transfer a dental X-ray machine, complete and submit <a title="RC 18-R Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC 18-R, Radiation Machine Transfer/Disposal</a> <span class="small">(PDF, 16KB)</span>.</p>
+	<p>To delete or transfer an X-ray machine, complete and submit <a title="Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span>.</p>
+	<p>Deletions with a replacement in the same category need not be reported. Keep all install and transfer/disposal records on-site for inspection purposes.</p>
 </div>
 
 <div class="Section" id="Contact-Information">

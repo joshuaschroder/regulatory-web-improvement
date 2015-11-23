@@ -306,7 +306,7 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="3025" name="3025"></a>RC 302-5</td>
-			<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Appretice in Training" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589942759">Registration Application for Laser Hair Removal Appretice in Training</a> <span class="small">(PDF, 497KB)</span></td>
+			<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Apprentice in Training" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589942759">Registration Application for Laser Hair Removal Apprentice in Training</a> <span class="small">(PDF, 497KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="3026" name="3026"></a>RC 302-6</td>

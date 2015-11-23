@@ -29,7 +29,7 @@
 	<hr/>
 	<a class="bookmark" title="register" name="register"></a>
 	<h2>Obtaining a Certificate of Registration</h2>
-	<p>For a medical or academic certificate of registration, the following forms must be completed to register your facility. Submit the completed forms with the <a title="appropriate fee" href="#fees">appropriate fee</a>.</p>
+	<p>For a medical or academic certificate of registration, submit the following forms with the appropriate fee.</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Medical and Academic X-Ray Machine Applications and Forms</caption>
@@ -85,7 +85,7 @@
 			</tr> 		
 			<tr>
 				<td headers="table_heading_0">Medical</td>
-				<td headers="table_heading_1">Computerized Tomography (CT)</td>
+				<td headers="table_heading_1">Computed Tomography (CT)</td>
 				<td headers="table_heading_2">$1,910</td>
 			</tr>
 			<tr>
@@ -100,23 +100,23 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Medical</td>
-				<td headers="table_heading_1">Radiographic Machine, Bone Densiometer, Cone Beam CT used in Medical Office</td>
+				<td headers="table_heading_1">Radiographic Machine, Bone Densitometer, Cone Beam CT used in Medical Office</td>
 				<td headers="table_heading_2">$600</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Morgues and<br/> Educational Facilities</td>
-				<td headers="table_heading_1">Machines for Non-human Use, Including CT, Fluoroscopy, and Accelerators</td>
+				<td headers="table_heading_1">Machines for Non-Human Use, Including CT, Fluoroscopy, and Accelerators</td>
 				<td headers="table_heading_2">$670</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Reciprocity</td>
-				<td headers="table_heading_1">Out of state reciprocal registration</td>
+				<td headers="table_heading_1">Out of State Reciprocal Recognition</td>
 				<td headers="table_heading_2">Fee of Applicable Category</td>
 			</tr>
 		</tbody>
 	</table>
 	
-	<p>Each application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biannual fee. Mail application with fee payment.</p>
+	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biannual fee. Mail application with fee payment.</p>
 	
 	
 	<h3>Multiple Categories of Use</h3>
@@ -237,7 +237,7 @@
 	<a class="bookmark" title="screening-programs" name="screening-programs"></a>
 	<hr/>
 	<h2>Self-Referred Healing Arts Screening</h2>
-	<p>Authorization required before beginning any self-referred screening program.</p>
+	<p>Authorization is required prior to initiating any self-referred screening program.</p>
 	<br/>
 	<ul>
 		<li>
@@ -323,8 +323,8 @@
 
 	
 	<p>
-		<strong>Phone:</strong> (512) 834-6688 ext. 2288<br/>
-		<strong>Fax:</strong> (512) 834-6717 and (512) 834-6717
+		<strong>Phone:</strong> (512) 834-6688 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
 	</p>
 	
 </div>

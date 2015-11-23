@@ -26,7 +26,7 @@
 <div class="Section" id="New-Registration">
 	<a class="bookmark" title="register" name="register"></a>
 	<h2>Obtaining a Certificate of Registration</h2>
-	<p>For a veterinary certificate of registration, submit the completed forms with the appropriate fee. Complete the following forms:</p>
+	<p>For a veterinary certificate of registration, submit the following forms with the appropriate fee:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Veterinary X-Ray Machine Applications and Forms</caption>
@@ -85,7 +85,7 @@
 		</tbody>
 	</table>
 	
-	<p>Each application for a certificate of registration shall be accompanied by a non-refundable fee.</p>
+	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee.</p>
 	
 	<h3>Additional Use Locations</h3>
 	
