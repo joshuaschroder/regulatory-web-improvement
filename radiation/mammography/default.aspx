@@ -1,5 +1,5 @@
 <?php
-	$title= "Mammography Program - Radiation Control" ;
+	$title= "Mammography - Radiation Control Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>

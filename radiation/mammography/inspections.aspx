@@ -1,5 +1,5 @@
 <?php
-	$title= "Inspections - Mammography Program" ;
+	$title= "Inspections - Mammography Programs" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>

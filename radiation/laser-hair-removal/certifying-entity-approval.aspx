@@ -7,13 +7,21 @@
 	#body td {vertical-align:middle; padding:10px 5px !important;}
 </style>
 
-<div class="Section" id="Initial">
-	<a class="bookmark" title="initial" name="initial"></a>
+<hr/>
+<h2>Table of Contents</h2>
+<ul>
+	<li><a title="New Registration" href="#new-registration">New Registration</a></li>
+	<li><a title="Amending and Terminating a Certifying Entity Approval" href="#amendment-termination">Amending and Terminating a Certifying Entity Approval</a></li>
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
+</ul>
+
+<div class="Section" id="New-Registration">
+	<a class="bookmark" title="new-registration" name="new-registration"></a>
 	<hr/>
 	<h2>New Registration</h2>
 	<p>In addition to a completed application, submit documents showing how the certifying entity meets the requirements according to <a title="Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)" href="/radiation/laser-hair-removal/laws-rules.aspx#289302">Title 25 Texas Administrative Code §289.302 (mm)(1)-(4)</a>.</p>
 	
-	<p>For certifying entity approval, complete and submit the following forms and other required information.</p>
+	<p>For certifying entity approval, complete and submit the following forms and other required information:</p>
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for New Registration of Laser Hair Removal Certifying Entities</caption>
 		<thead>
@@ -40,7 +48,7 @@
 	<a class="bookmark" title="amendment-termination" name="amendment-termination"></a>	
 	<hr/>
 	<h2>Amending and Terminating a Certifying Entity Approval</h2>
-	<p>To amend or terminate a certifying entity approval, complete and submit the following form.</p>
+	<p>To amend or terminate a certifying entity approval, complete and submit the following form:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Applications and Forms for Amending and Terminating a Laser Hair Removal Certifying Entity Approval</caption>
@@ -57,6 +65,34 @@
 			</tr>
 		</tbody>
 	</table>
+</div>
+
+<div class="Section" id="Contact-Information">
+	<hr/>
+	<a class="bookmark" title="contact" name="contact"></a>
+	<h2>Contact Information</h2>
+	<p><strong>Address for New Applications</strong></p>
+	<p>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2003<br/>
+		P.O. Box 149347<br/>
+		Austin, TX 78714-9347
+	</p>
+	
+	<p><strong>Address for Other Correspondence</strong></p>
+	<p>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2835<br/>
+		P.O. Box 149347<br/>
+		Austin, TX 78714-9347
+	</p>
+	
+	<p>
+		<strong>Telephone:</strong> (512) 834-6668 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
+	</p>	
 </div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

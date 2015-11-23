@@ -119,7 +119,6 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
-					<a class="bookmark" title="2023" name="2023"></a>
 				</td>
 				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
 				<td headers="table_heading_2">10/01/11</td>
@@ -134,10 +133,7 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">
-					<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-					<a class="bookmark" title="2031" name="2031"></a>
-				</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
@@ -179,54 +175,53 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289253" name="289253"></a>
 					<a title="Texas Administrative Code, Title 25, §289.253 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=253">§289.253 <span class="small">(HTML)</span></a><br>
 					<a title="Texas Administrative Code, Title 25, §289.253 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996545">§289.253 <span class="small">(PDF, 125KB)</span></a>
-					<a class="bookmark" title="289253" name="289253"></a>
 				</td>
 				<td headers="table_heading_1">Radiation Safety Requirements for Well Logging Service Operations and Tracer Studies</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>			
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289255" name="289255"></a>
 					<a title="Texas Administrative Code, Title 25, §289.255 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=255">§289.255 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.255 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996546">§289.255 <span class="small">(PDF, 253KB)</span></a>
-					<a class="bookmark" title="289255" name="289255"></a>
 				</td>
 				<td headers="table_heading_1">Radiation Safety Requirements and Licensing and Registration Procedures for Industrial Radiography</td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289256" name="289256"></a>
 					<a title="Texas Administrative Code, Title 25, §289.256 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=256">§289.256 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.256 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996547">§289.256 <span class="small">(PDF, 542KB)</span></a>
-					<a class="bookmark" title="289256" name="289256"></a>
 				</td>
 				<td headers="table_heading_1">Medical and Veterinary Use of Radioactive Material </td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289257" name="289257"></a>
 					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 1.3MB)</span></a>
-					<a class="bookmark" title="289257" name="289257"></a>
 				</td>
 				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289258" name="289258"></a>
 					<a title="Texas Administrative Code, Title 25, §289.258 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=258">§289.258 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.258 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946024">§289.258 <span class="small">(PDF, 153KB)</span></a>
-					<a class="bookmark" title="289258" name="289258"></a>
 				</td>
 				<td headers="table_heading_1">Licensing and Radiation Safety Requirements for Irradiators</td>
 				<td headers="table_heading_2">05/01/08</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.259 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=259">§289.259 <span class="small">(HTML)</span></a><br />
+					<a class="bookmark" title="289259" name="289259"></a><a title="Texas Administrative Code, Title 25, §289.259 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=259">§289.259 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.259 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946025">§289.259 <span class="small">(PDF, 186KB)</span></a>
-					<a class="bookmark" title="289259" name="289259"></a>
 				</td>
 				<td headers="table_heading_1">Licensing of Naturally Occurring Radioactive Material (NORM)</td>
 				<td headers="table_heading_2">04/11/99</td>
@@ -301,25 +296,21 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
-					<a class="bookmark" title="2023" name="2023"></a>
 				</td>
 				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
 				<td headers="table_heading_2">06/05/97</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289203" name="289203"></a>
 					<a title="Texas Administrative Code, Title 25, §289.203 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=203">§289.203 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.203 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958449">§289.203 <span class="small">(PDF, 109KB)</span></a>
-					<a class="bookmark" title="289203" name="289203"></a>
 				</td>
 				<td headers="table_heading_1">Notices, Instructions, and Reports To Workers; Inspections</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">
-					<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-					<a class="bookmark" title="2031" name="2031"></a>
-				</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
@@ -352,9 +343,9 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289252" name="289252"></a>
 					<a title="Texas Administrative Code, Title 25, §289.252 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=252">§289.252 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.252 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996544">§289.252 <span class="small">(PDF, 486KB)</span></a>
-					<a class="bookmark" title="289252" name="289252"></a>
 				</td>
 				<td headers="table_heading_1">Licensing of Radioactive Material</td>
 				<td headers="table_heading_2">03/22/2015</td>
@@ -438,7 +429,6 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
-					<a class="bookmark" title="2023" name="2023"></a>
 				</td>
 				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
 				<td headers="table_heading_2">06/05/97</td>
@@ -453,10 +443,7 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">
-					<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-					<a class="bookmark" title="2031" name="2031"></a>
-				</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
@@ -598,10 +585,7 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">
-					<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-					<a class="bookmark" title="2031" name="2031"></a>
-				</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
@@ -661,9 +645,9 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289258" name="289258"></a>
 					<a title="Texas Administrative Code, Title 25, §289.258 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=258">§289.258 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.258 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946024">§289.258 <span class="small">(PDF, 153KB)</span></a>
-					<a class="bookmark" title="289258" name="289258"></a>
 				</td>
 				<td headers="table_heading_1">Licensing and Radiation Safety Requirements for Irradiators</td>
 				<td headers="table_heading_2">05/01/08</td>
@@ -738,7 +722,6 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
-					<a class="bookmark" title="2023" name="2023"></a>
 				</td>
 				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
 				<td headers="table_heading_2">06/05/97</td>
@@ -753,10 +736,7 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">
-					<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-					<a class="bookmark" title="2031" name="2031"></a>
-				</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
@@ -789,9 +769,9 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289256" name="289256"></a>
 					<a title="Texas Administrative Code, Title 25, §289.256 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=256">§289.256 <span class="small">(HTML)</span></a><br>
 					<a title="Texas Administrative Code, Title 25, §289.256 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996547">§289.256 <span class="small">(PDF, 542KB)</span></a>
-					<a class="bookmark" title="289256" name="289256"></a>
 				</td>
 				<td headers="table_heading_1">Medical and Veterinary Use of Radioactive Material </td>
 				<td headers="table_heading_2">03/22/15</td>
@@ -882,7 +862,6 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
-					<a class="bookmark" title="2023" name="2023"></a>
 				</td>
 				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
 				<td headers="table_heading_2">06/05/97</td>
@@ -897,10 +876,7 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">
-					<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-					<a class="bookmark" title="2031" name="2031"></a>
-				</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			
@@ -924,9 +900,9 @@
 			</tr>	
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289251" name="289251"></a>
 					<a title="Texas Administrative Code, Title 25, §289.251 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=251">§289.251 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.251 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996543">§289.251 <span class="small">(PDF, 433KB)</span></a>
-					<a class="bookmark" title="289251" name="289251"></a>
 				</td>
 				<td headers="table_heading_1">Exemptions, General Licenses, and General Licenses Acknowledgements</td>
 				<td headers="table_heading_2">03/22/15</td>
@@ -942,18 +918,17 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
-					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br />
-					<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 1.3MB)</span></a>
 					<a class="bookmark" title="289257" name="289257"></a>
-				</td>
+					<a title="Texas Administrative Code, Title 25, §289.257 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=257">§289.257 <span class="small">(HTML)</span></a><br />
+				<a title="Texas Administrative Code, Title 25, §289.257 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589996548">§289.257 <span class="small">(PDF, 1.3MB)</span></a></td>
 				<td headers="table_heading_1">Packaging and Transportation of Radioactive Material </td>
 				<td headers="table_heading_2">03/22/15</td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">
+					<a class="bookmark" title="289259" name="289259"></a>
 					<a title="Texas Administrative Code, Title 25, §289.259 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=259">§289.259 <span class="small">(HTML)</span></a><br />
 					<a title="Texas Administrative Code, Title 25, §289.259 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946025">§289.259 <span class="small">(PDF, 186KB)</span></a>
-					<a class="bookmark" title="289259" name="289259"></a>
 				</td>
 				<td headers="table_heading_1">Licensing of Naturally Occurring Radioactive Material (NORM)</td>
 				<td headers="table_heading_2">04/11/99</td>
@@ -1028,7 +1003,6 @@
 			<tr>
 				<td headers="table_heading_0">
 					<a title="RC Form 202-3 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589958440">RC Form 202-3 <br /><span class="small">(PDF, 84KB)</span></a>
-					<a class="bookmark" title="2023" name="2023"></a>
 				</td>
 				<td headers="table_heading_1">“Occupational Exposure Record for a Monitoring Period” RC Form 202-3</td>
 				<td headers="table_heading_2">06/05/97</td>
@@ -1043,10 +1017,7 @@
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">
-					<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-					<a class="bookmark" title="2031" name="2031"></a>
-				</td>
+				<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 				<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 				<td headers="table_heading_2">10/01/11</td>
 			</tr>			

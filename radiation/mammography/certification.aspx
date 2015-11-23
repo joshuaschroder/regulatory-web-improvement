@@ -1,5 +1,5 @@
 <?php
-	$title= "Certification - Mammography Program" ;
+	$title= "Mammography Certification Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>
@@ -39,7 +39,7 @@
 	
 	<p>If the <strong><em>American College of Radiology (ACR)</em></strong> will be the mammography accreditation body:</p>
 	<ul>
-		<li>Complete and submit to the Mammography Certification Program the following forms with the <a title="fee-schedule" href="#fee-schedule">appropriate fee</a><br/><br/>
+		<li>Complete and submit to the Mammography Certification Program the following forms with the <a title="fee-schedule" href="#fee-schedule">appropriate fee</a>:<br/><br/>
 			<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 				<caption>Required forms to obtain mammography certification through the American College of Radiology</caption>
 				<thead>
@@ -97,7 +97,7 @@
 		</li>
 		<li><strong>New Facilities</strong> - submit a copy of the FDA Tomosynthesis Approval letter to the Mammography Certification Program<br/><br/>
 			<strong>Adding a New Mammography Unit with Tomosynthesis</strong> or <br/>
-			<strong>Adding Tomosynthesis to an Existing Mammography Unit</strong> – submit the following to the Mammography Certification Program
+			<strong>Adding Tomosynthesis to an Existing Mammography Unit</strong> – submit the following to the Mammography Certification Program:
 			<ul>
 				<li><a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
 				<li>Current medical physicist’s survey report (must include tomosynthesis testing)</li>
@@ -118,7 +118,7 @@
 		<caption>Fee Schedule for Certification of Mammography Systems (screening &amp; diagnostic mammography)</caption>
 		<thead>
 			<tr>
-				<th id="table_heading_0" style="width:85%">Certification of Mammography Systems (screening & diagnostic mammography)</th>
+				<th id="table_heading_0" style="width:85%">Certification of Mammography Systems (screening &amp; diagnostic mammography)</th>
 				<th id="table_heading_1" style="width:15%">Fee</th>
 			</tr>
 		</thead>
@@ -183,7 +183,7 @@
 	<h2>To Change a Mailing and/or Physical Use Location Address(s)</h2>
 	<ul>
 		<li>
-			Complete the appropriate sections of <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span> and submit to the Mammography Program.
+			Complete the appropriate sections of <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span> and submit to the Mammography Certification Program.
 		</li>
 		<li>Contact the facility's accreditation body.</li>
 	</ul>
@@ -278,16 +278,16 @@
 	<a class="bookmark" title="self-referral-authorization" name="self-referral-authorization"></a>
 	<hr/>
 	<h2>Self-Referral Authorization</h2>
-	<p>To add Self-Referral Authorization to the certification complete and submit:</p>
-	
+	<p><em>Self-referral authorization must be obtained prior to providing self-referral mammography services.</em></p>
+	<p>To add self-referral authorization to the certification, submit:</p>
 	<ul>
-		<li>Completed <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
+		<li><a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
 		<li>Required procedures listed in the self-referral authorization section of the application.</li>
 	</ul>
 	
-	<p>To remove Self-Referral Authorization:</p> 
+	<p>To remove self-referral authorization:</p> 
 	<ul>
-		<li>Notify the agency in writing by submitting a signed letter requesting removal of Self-Referral Authorization. </li>
+		<li>Notify the agency in writing by submitting a signed letter requesting removal of self-referral authorization. </li>
 		<li>Include the facility’s mammography certification number.</li>
 	</ul>
 	
@@ -297,19 +297,17 @@
 	<a class="bookmark" title="mobile-services-authorization" name="mobile-services-authorization"></a>
 	<hr/>
 	<h2>Mobile Services Authorization</h2>
-	<p>To add Mobile Service Authorization to the certification, submit:</p>
+	<p><em>Mobile service authorization must be obtained prior to providing mobile mammography services.</em></p>
+	<p>To add mobile service authorization to the certification, submit:</p>
 	<ul>
-		<li>Completed <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
+		<li><a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
 		<li>Required documents and procedures listed in the mobile service authorization section of the application.</li>
 	</ul>
-	
-	<p>To remove Mobile Service Authorization:</p>
-	
+	<p>To remove mobile service authorization:</p>
 	<ul>
-		<li>Notify the agency in writing by submitting a signed letter requesting removal of Mobile Service Authorization.</li>
+		<li>Notify the agency in writing by submitting a signed letter requesting removal of mobile service authorization.</li>
 		<li>Include the facility’s mammography certification number.</li>
 	</ul>
-	
 </div>
 
 <div class="Section" id="Terminating">
@@ -356,7 +354,7 @@
 	<hr/>
 	<h2>Operating and Safety Procedures</h2>
 	
-	<p>Each registrant shall have and implement written operation and safety procedures in accordance with Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.230(hh)(3)" href="/radiation/mammography/laws-rules.aspx#289230">&#0167;289.230(hh)(3)</a>.</p>
+	<p>Each registrant shall have and implement written operation and safety procedures in accordance with Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.230(hh)(3)" href="/radiation/mammography/laws-rules.aspx#289230">&#0167;289.230(hh)(3)</a></p>
 	
 	<p>The following procedures shall be submitted with new facility and renewal applications:</p>
 	<ul>

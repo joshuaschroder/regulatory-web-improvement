@@ -32,7 +32,7 @@
 	<p>Do not wait until the last minute to request reciprocity. If you know you have a job in Texas give yourself, and us, enough time to process your request. We are aware that there are situations in which the time between the notification of a job and start date of a job is short. We will try to process your request, in as timely a manner as possible. </p>
 	<p>To help us process your request quickly, be sure to include <em>all</em> of the following information and submit it together. <a title="Where to mail info" href="#address">Where to mail info.</a> </p>
 	<ul>
-		<li>Check or money order for the appropriate fee, in accordance with <a title="Title 25 Texas Administrative Code Chapter &#167;289.204" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">Title 25 Texas Administrative Code Chapter &#167;289.204</a>. The reciprocity fee is equal to what is charged Texas licensee's authorized for the same use;</li>
+		<li>Check or money order for the appropriate fee, in accordance with <a title="Title 25 Texas Administrative Code Chapter &#167;289.204" href="/radiation/laws-rules.aspx#289204">Title 25 Texas Administrative Code Chapter &#167;289.204</a>. The reciprocity fee is equal to what is charged Texas licensee's authorized for the same use;</li>
 		<li>A copy of a valid license or certificate of registration which authorizes the use of radioactive material/radiation machines at temporary job sites;</li>
 		<li>Current operating, safety and emergency procedures used to establish your license or registration; </li>
 		<li>Licensee/registrant is required to notify this Agency three days prior to entering Texas by completing and submitting the <a title="Notification of Intent to Work in Texas Form (RC 252-3)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589990149">RC 252-3, Notification of Intent to Work in Texas Form</a> <span class="small">(PDF, 27KB)</span>. This form can be faxed if details of the job are not know at the time of application; and </li>
@@ -67,7 +67,7 @@
 		</li>
 		<li>Copy of the applicant’s current certificate of registration or equivalent document;</li>
 		<li>Copy of the applicant’s current operating and safety procedures pertinent to the proposed use;</li>
-		<li>Fee as specified in <a title="Title 25 Texas Administrative Code, §289.204(d)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=25&pt=1&ch=289&rl=204">Title 25 Texas Administrative Code, §289.204(d)</a>; and</li>
+		<li>Fee as specified in <a title="Title 25 Texas Administrative Code, §289.204(d)" href="/radiation/laws-rules.aspx#289204">Title 25 Texas Administrative Code, §289.204(d)</a>; and</li>
 	</ol>
 	
 	<p><strong>Send the above packet to:</strong></p>

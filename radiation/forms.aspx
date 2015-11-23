@@ -147,7 +147,7 @@
 
 <a class="bookmark" title="Equipment Performance Evaluation Forms" name="equipment" id="Equipment"></a>
 <h2>Equipment Performance Evaluation</h2>
-<p>Please contact <a title="Jerry.Cogburn@dshs.state.tx.us" href="mailto:Jerry.Cogburn@dshs.state.tx.us">Jerry Cogburn</a> via email or telephone at 512-834-6770 extension 2037, about any other inspection forms.</p>
+<p>Please contact <a title="Jerry.Cogburn@dshs.state.tx.us" href="mailto:Jerry.Cogburn@dshs.state.tx.us">Jerry Cogburn</a> via email or telephone at (512) 834-6770 ext. 2037, about any other inspection forms.</p>
 
 <table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 	<caption>Equipment Performance Evaluation Forms</caption>

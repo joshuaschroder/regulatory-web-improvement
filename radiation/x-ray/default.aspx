@@ -16,7 +16,7 @@
 <h2>Contact Information</h2>
 <p>
 	Email: <a title="Jo Turkette" href="mailto:Jo.Turkette@dshs.state.tx.us">Jo Turkette</a><br/>
-	Phone: 512-834-6688, ext. 2247<br/>
+	Phone: (512) 834-6688, ext. 2247<br/>
 	Fax: (512) 834-6716<br/>
 </p>
 

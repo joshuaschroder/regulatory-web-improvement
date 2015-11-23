@@ -34,7 +34,7 @@
 	<div class="SubSection" id="New-Laser">
 		<a class="bookmark" title="new-laser" name="new-laser"></a>
 		<h3>New Certificates of Laser Registration</h3>
-		<p>To obtain a new certificate of registration, submit the following forms with the appropriate fee.</p>
+		<p>To obtain a new certificate of registration, submit the following forms with the appropriate fee:</p>
 		
 		<table class="zebraBorder layout" summary="sorted by most commonly used forms" style="width:100%;">
 			<caption>Forms to Obtain a New Certificate of Laser Registration</caption>
@@ -89,7 +89,7 @@
 			<li>Provisioning of lasers on a temporary basis</li>
 		</ul>
 		
-		<p>To obtain a new certificate of registration, submit the following forms with the appropriate fee.</p>
+		<p>To obtain a new certificate of registration, submit the following forms with the appropriate fee:</p>
 		
 		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
 			<caption>Forms for Registration of Laser Device Services</caption>
@@ -154,7 +154,7 @@
 	<div class="SubSection" id="Renewal-Laser">
 		<a class="bookmark" title="renewal-laser" name="renewal-laser"></a>
 		<h3>Renewing a Certificate of Registration for Laser Devices</h3>
-		<p>To renew a certificate of registration, complete and submit the following forms with the appropriate renewal fee.</p>
+		<p>To renew a certificate of registration, complete and submit the following forms with the appropriate renewal fee:</p>
 		
 		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:100%;">
 			<caption>Forms to Renew Certificate of Registration for Laser Devices</caption>
@@ -187,7 +187,7 @@
 		<blockquote style="font-style:normal;">
 			<p><strong>Section Notes:</strong></p>
 			<a class="bookmark" title="note-42L" name="note-42L"></a>
-			<p>42-L: Required only if there has been a LSO change.</p>
+			<p>42-L: Required only if there has been an LSO change.</p>
 		</blockquote>
 		
 	</div>
@@ -229,7 +229,7 @@
 		<blockquote style="font-style:normal;">
 			<p><strong>Section Notes:</strong></p>
 			<a class="bookmark" title="note-42L" name="note-42L"></a>
-			<p>42-L: Required only if there has been a LSO change.</p>
+			<p>42-L: Required only if there has been an LSO change.</p>
 		</blockquote>
 		
 	</div>
@@ -292,11 +292,11 @@
 	<br/>
 	<h3>Name and/or Ownership Change</h3>
 	<p>Certain conditions involving name and ownership changes may require the reissuance of a new certificate of registration.</p>
-	<p>To deternuba uf a bew certificate of registration is required for your specific circumstances, see <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
+	<p>To determine if a new certificate of registration is required for your specific circumstances, see <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
 		
 	<br/>
 	<h3>Laser Safety Officer Change</h3>
-	<p>To change Laser Safety Officer, complete and submit the following form.</p>
+	<p>To change Laser Safety Officer, complete and submit the following form:</p>
 	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
 		<caption>Forms Required for Laser Safety Officer Changes</caption>
 		<thead>
@@ -315,7 +315,7 @@
 		
 	<br/>
 	<h3>Deleting or Transferring a Machine</h3>
-	<p>To delete or transfer a laser device, complete and submit the following form.</p>
+	<p>To delete or transfer a laser device, complete and submit the following form:</p>
 	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
 		<caption>Forms Required to Delete or Transfer a Machine</caption>
 		<thead>
@@ -335,13 +335,12 @@
 
 </div>
 
-
 <div class="Section" id="Terminate">
 	<hr/>
 	<a class="bookmark" title="terminate" name="terminate"></a>
 	<h2>Terminating a Certificate of Registration</h2>
 	
-	<p>To terminate a certificate of registration, complete and submit the following form.</p>
+	<p>To terminate a certificate of registration, complete and submit the following form:</p>
 	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
 		<caption>Forms Required to Delete or Transfer a Machine</caption>
 		<thead>
@@ -366,22 +365,26 @@
 	
 	<p><strong>For New Applications</strong></p>
 	<p>
-		Radiation Safety Licensing MC 2003<br/>
 		Texas Department of State Health Services <br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2003<br/>
 		P. O. Box 149347<br/>
 		Austin, TX 78714-9347	
 	</p>
 	
 	<p><strong>For Other Correspondence</strong></p>
 	<p>
-		Radiation Safety Licensing Branch MC 2835<br/>
 		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2835<br/>
 		P. O. Box 149347<br/>
 		Austin, Texas 78714-9347
 	</p>
 	
-	<p><strong>Telephone:</strong> (512) 834-6688 ext. 2225</p>
-	<p><strong>Fax:</strong> (512) 834-6716 and (512) 834-6717</p>
+	<p>
+		<strong>Telephone:</strong> (512) 834-6688 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
+	</p>
 	
 </div>
 

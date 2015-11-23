@@ -61,7 +61,7 @@
 		<li>Successful course completion criteria</li>
 		<li>Copy of certificate to be issued upon successful completion of training program</li>
 	</ul>
-	<p><strong>Note:</strong> For specific registration requirements and information, refer to page 302-15 of <a title="25 TAC &#0167;289.302" href="/radiation/laser-hair-removal/laws-rules.aspx#289302">25 TAC &#0167;289.302(j)(20)</a>.</p>
+	<p><strong>Note:</strong> For specific registration requirements and information, refer to page 302-15 of <a title="25 TAC &#0167;289.302" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946028">25 TAC &#0167;289.302(j)(20)</a> <span class="small">(PDF, 751KB)</span>.</p>
 </div>
 
 <div class="Section" id="Renewal-Registration">
@@ -69,7 +69,7 @@
 	<hr/>
 	<h2>Renewal Registration</h2>
 	
-	<p>To renew a certification of registration, complete and submit the following forms with the renewal fee of $298.</p>
+	<p>To renew a certification of registration, complete and submit the following forms with the renewal fee of $298:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for Laser Hair Removal Training Providers Renewal Registration</caption>
@@ -96,7 +96,7 @@
 	<a class="bookmark" title="amendment" name="amendment"></a>
 	<hr/>
 	<h2>Amending a Certificate of Registration</h2>
-	<p>To amend a certificate of registration, such as an address or name change, complete and submit the appropriate form(s):</p>	
+	<p>To amend a certificate of registration, such as an address or name change, complete and submit the appropriate form:</p>	
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Applications and Forms for Amendments to Laser Hair Removal Training Provider Registration</caption>
 		<thead>
@@ -154,7 +154,7 @@
 	<p>
 		Texas Department of State Health Services<br/>
 		Radiation Safety Licensing Branch<br/>
-		MC 2003<br/>
+		Mail Code 2003<br/>
 		P.O. Box 149347<br/>
 		Austin, TX 78714-9347
 	</p>
@@ -163,13 +163,15 @@
 	<p>
 		Texas Department of State Health Services<br/>
 		Radiation Safety Licensing Branch<br/>
-		MC 2835<br/>
+		Mail Code 2835<br/>
 		P.O. Box 149347<br/>
 		Austin, TX 78714-9347
 	</p>
 	
-	<p><strong>Telephone:</strong> (512) 834-6668 ext. 2225</p>
-	<p><strong>Fax:</strong> (512) 834-6716 and (512) 834-6717</p>	
+	<p>
+		<strong>Telephone:</strong> (512) 834-6668 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
+	</p>	
 </div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -14,7 +14,6 @@
 	<li><a title="Change of Name or Address" href="#amendment">Amending a Certificate of Registration</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
-	<li><a title="Additional Information" href="#additional-info">Additional Information</a></li>
 </ul>
 
 <div class="Section" id="New-Registration">
@@ -99,7 +98,7 @@
 	<hr/>
 	<a class="bookmark" title="amendment" name="amendment"></a>
 	<h2>Amending a Certificate of Registration</h2>
-	<p>Complete and submit the form below to amend a certificate of registration.</p>
+	<p>Complete and submit the form below to amend a certificate of registration:</p>
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Applications and Forms for Laser Hair Removal Registration Amendments</caption>
 		<thead>
@@ -122,7 +121,7 @@
 	<br/>
 	
 	<h3>Laser Safety Officer (LSO) Change</h3>
-	<p>If the LSO will change, complete and submit the following forms.</p>
+	<p>If the LSO will change, complete and submit the following forms:</p>
 
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Forms for Laser Safety Officer (LSO) Changes</caption>
@@ -148,7 +147,7 @@
 	<br/>
 	
 	<h3>Deleting or Transferring a Machine</h3>
-	<p>To delete or transfer a laser device, complete and submit the following form.</p>
+	<p>To delete or transfer a laser device, complete and submit the following form:</p>
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Forms for Deleting or Transferring a Machine</caption>
 		<thead>
@@ -171,7 +170,7 @@
 	<hr/>
 	<a class="bookmark" title="terminate" name="terminate"></a>
 	<h2>Terminating a Certificate of Registration</h2>
-	<p>Complete and submit the form below to terminate a certificate of registration.</p>
+	<p>Complete and submit the form below to terminate a certificate of registration:</p>
 	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:100%;">
 		<caption>Applications and Forms for Laser Hair Removal Registration Termination</caption>
 		<thead>
@@ -199,7 +198,7 @@
 	<p>
 		Texas Department of State Health Services<br/>
 		Radiation Safety Licensing Branch<br/>
-		MC 2003<br/>
+		Mail Code 2003<br/>
 		P.O. Box 149347<br/>
 		Austin, TX 78714-9347
 	</p>
@@ -208,13 +207,15 @@
 	<p>
 		Texas Department of State Health Services<br/>
 		Radiation Safety Licensing Branch<br/>
-		MC 2835<br/>
+		Mail Code 2835<br/>
 		P.O. Box 149347<br/>
 		Austin, TX 78714-9347
 	</p>
 	
-	<p><strong>Telephone:</strong> (512) 834-6668 ext. 2225</p>
-	<p><strong>Fax:</strong> (512) 834-6716 and (512) 834-6717</p>	
+	<p>
+		<strong>Telephone:</strong> (512) 834-6668 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
+	</p>	
 </div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

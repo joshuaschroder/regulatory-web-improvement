@@ -1,5 +1,5 @@
 <?php
-	$title= "Accreditation Process - Mammography Program" ;
+	$title= "Mammography Accreditation Program" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/rad2_mam_menu.html'; 
 ?>
@@ -73,6 +73,7 @@
 		<li>Copy of the current medical physicist’s survey report and mammography equipment evaluation requested for each mammography unit.</li>
 	</ul>
 	
+	<hr/>
 	<h3>Digital Breast Tomosynthesis</h3>
 	<p>If the mammography unit will be used to perform digital breast tomosynthesis:</p>
 	<ul>
@@ -206,18 +207,34 @@
 	<a class="bookmark" title="self-referral" name="self-referral"></a>
 	<hr/>
 	<h2>Self-Referral Authorization</h2>
-	<p>To add Self-Referral Authorization to the certification complete and submit <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>.</p>  
-	<p>Submit the required procedures listed in the self-referral authorization section of the application.</p>
-	<p>To remove Self-Referral Authorization notify the agency in writing by submitting a signed letter requesting removal of Self-Referral Authorization. Include the facility’s mammography certification number.</p>
+	<p><em>Self-referral authorization must be obtained prior to providing self-referral mammography services.</em></p>
+	<p>To add self-referral authorization to the certification, submit:</p>
+	<ul>
+		<li><a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
+		<li>Required procedures listed in the self-referral authorization section of the application.</li>
+	</ul>
+	<p>To remove self-referral authorization:</p> 
+	<ul>
+		<li>Notify the agency in writing by submitting a signed letter requesting removal of self-referral authorization. </li>
+		<li>Include the facility’s mammography certification number.</li>
+	</ul>
 </div>
 
 <div class="Section" id="Mobile-Services">
 	<a class="bookmark" title="mobile-services" name="mobile-services"></a>
 	<hr/>
 	<h2>Mobile Services Authorization</h2>
-	<p>To add Mobile Service Authorization to the certification complete and submit <a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span>.</p>
-	<p>Submit the required documents and procedures listed in the mobile service authorization section of the application.</p>
-	<p>To remove Mobile Service Authorization - Notify the agency in writing by submitting a signed letter requesting removal of Mobile Service Authorization. Include the facility’s mammography certification number.</p>
+	<p><em>Mobile service authorization must be obtained prior to providing mobile mammography services.</em></p>
+	<p>To add mobile service authorization to the certification, submit:</p>
+	<ul>
+		<li><a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
+		<li>Required documents and procedures listed in the mobile service authorization section of the application.</li>
+	</ul>
+	<p>To remove mobile service authorization:</p>
+	<ul>
+		<li>Notify the agency in writing by submitting a signed letter requesting removal of mobile service authorization.</li>
+		<li>Include the facility’s mammography certification number.</li>
+	</ul>
 </div>
 
 <div class="Section" id="Terminate">
@@ -276,7 +293,7 @@
 	<a class="bookmark" title="additional-information" name="additional-information"></a>
 	<hr/>
 	<h2>Additional Information</h2>
-	<p>For additional information see the <a title="Mammography Frequently Asked Questions page" href="/radiation/mammography/faq.aspx">Mammography Frequently Asked Questions page</a>, or contact the mammography accreditation program at 512-834-6688 extension 2226. </p>
+	<p>For additional information see the <a title="Mammography Frequently Asked Questions page" href="/radiation/mammography/faq.aspx">Mammography Frequently Asked Questions page</a>, or contact the mammography accreditation program at (512) 834-6688 ext. 2246. </p>
 </div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

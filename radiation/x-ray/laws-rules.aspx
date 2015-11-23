@@ -59,7 +59,6 @@
 		<a class="bookmark" title="medical-x-ray" name="medical-x-ray"></a>
 		<br/>
 		<h3>Medical X-Ray</h3>
-		<br/>
 		<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 			<caption>Rules Covering Registration of Medical X-Ray Machines</caption>
 			<thead>
@@ -80,10 +79,7 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0">
-						<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-						<a class="bookmark" title="2031" name="2031"></a>
-					</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
@@ -167,10 +163,7 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0">
-						<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-						<a class="bookmark" title="2031" name="2031"></a>
-					</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
@@ -326,6 +319,7 @@
 		</table>
 		
 		<a class="bookmark" title="veterinary-x-ray-accelerator" name="veterinary-x-ray-accelerator"></a>
+		<br/>
 		<h3>Veterinary X-Ray with Accelerator</h3>
 		<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 			<caption>Rules Covering Registration of Veterinary X-Ray Machines</caption>
@@ -387,7 +381,6 @@
 		<a class="bookmark" title="industrial-x-ray" name="industrial-x-ray"></a>
 		<br/>
 		<h3>Industrial X-Ray Machines (Includes Minimal Threat)</h3>
-		<br/>
 		<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 			<caption>Rules Covering Registration of Industrial X-Ray Machines, Including Minimal Threat</caption>
 			<thead>
@@ -408,10 +401,7 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0">
-						<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-						<a class="bookmark" title="2031" name="2031"></a>
-					</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
@@ -465,7 +455,7 @@
 		
 		<a class="bookmark" title="industrial-radiography" name="industrial-radiography"></a>
 		<br/>
-		<h4>Industrial Radiography X-Ray Machines</h4>
+		<h4><strong>Industrial Radiography X-Ray Machines</strong></h4>
 		<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 			<caption>Rules Covering Registration of Industrial Radiography X-Ray Machines</caption>
 			<thead>
@@ -486,10 +476,7 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0">
-						<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-						<a class="bookmark" title="2031" name="2031"></a>
-					</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
@@ -552,7 +539,7 @@
 		
 		<a class="bookmark" title="industrial-accelerator" name="industrial-accelerator"></a>
 		<br/>
-		<h4>Industrial X-Ray Accelerator</h4>
+		<h4><strong>Industrial X-Ray Accelerator</strong></h4>
 		<table class="zebraBorder layout" summary="sorted by rule number, ascending" style="width:100%;">
 			<caption>Rules Covering Registration of Industrial X-Ray Accelerators</caption>
 			<thead>
@@ -573,10 +560,7 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0">
-						<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-						<a class="bookmark" title="2031" name="2031"></a>
-					</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
@@ -618,9 +602,9 @@
 				</tr>
 				<tr>
 					<td headers="table_heading_0">
+						<a class="bookmark" title="289229" name="289229"></a>
 						<a title="Texas Administrative Code, Title 25, §289.229 (HTML)" href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&amp;app=9&amp;p_dir=&amp;p_rloc=&amp;p_tloc=&amp;p_ploc=&amp;pg=1&amp;p_tac=&amp;ti=25&amp;pt=1&amp;ch=289&amp;rl=229">§289.229 <span class="small">(HTML)</span></a><br />
 						<a title="Texas Administrative Code, Title 25, §289.229 (PDF)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961604">§289.229 <span class="small">(PDF, 338KB)</span></a>
-						<a class="bookmark" title="289229" name="289229"></a>
 					</td>
 					<td headers="table_heading_1">Radiation Safety Requirements for Accelerators, Therapeutic Radiation Machines, Simulators, and Electronic Brachytherapy Devices</td>
 					<td headers="table_heading_2">12/29/11</td>
@@ -661,10 +645,7 @@
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0">
-						<a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a>
-						<a class="bookmark" title="2031" name="2031"></a>
-					</td>
+					<td headers="table_heading_0"><a title="Form 203-1" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589968407">RC Form 203-1<br/><span class="small">(PDF, 65KB)</span></a></td>
 					<td headers="table_heading_1">"Notice to Employees" RC Form 203-1 (standalone document)</td>
 					<td headers="table_heading_2">10/01/11</td>
 				</tr>		
@@ -767,7 +748,6 @@
 	<div class="section" id="Rules-Notes">
 		<hr/>
 		<h2>Notes Regarding Specific Rules</h2>	
-		<hr/>
 		<p>
 			<a class="bookmark" title="289.227" name="289.227"></a>
 		§289.227 - View the DSHS letter sent to registrants and other interested parties:</p>

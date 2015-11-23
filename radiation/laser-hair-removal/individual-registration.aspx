@@ -10,11 +10,10 @@
 <h2>Table of Contents</h2>
 <ul>
 	<li><a title="New Registration" href="#initial">New Registration</a></li>
-	<li><a title="Renewal Registration" href="#individuals-renew">Renewal Registration</a></li>
+	<li><a title="Renewal Registration" href="#renew">Renewal Registration</a></li>
 	<li><a title="Amending a Certificate of Registration" href="#amendment">Amending a Certificate of Registration</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
-	<!--li><a title="Additional Information" href="#additional-information">Additional Information</a></li-->
 </ul>
 
 
@@ -22,7 +21,7 @@
 	<a class="bookmark" title="initial" name="initial"></a>
 	<hr/>
 	<h2>Individuals - New Registration</h2>
-	<p>To obtain a new certificate of registration, submit the appropriate form and fee.</p>
+	<p>To obtain a new certificate of registration, submit the appropriate form and fee:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by progression of registration types" style="width:100%;">
 		<caption>Required Applications and Fees for New Individual Laser Hair Removal Registration</caption>
@@ -215,7 +214,7 @@
 	<p>
 		Texas Department of State Health Services<br/>
 		Radiation Safety Licensing Branch<br/>
-		MC 2003<br/>
+		Mail Code 2003<br/>
 		P.O. Box 149347<br/>
 		Austin, TX 78714-9347
 	</p>
@@ -224,21 +223,16 @@
 	<p>
 		Texas Department of State Health Services<br/>
 		Radiation Safety Licensing Branch<br/>
-		MC 2835<br/>
+		Mail Code 2835<br/>
 		P.O. Box 149347<br/>
 		Austin, TX 78714-9347
 	</p>
 	
-	<p><strong>Telephone:</strong> (512) 834-6668 ext. 2225</p>
-	<p><strong>Fax:</strong> (512) 834-6716 and (512) 834-6717</p>
+	<p>
+		<strong>Telephone:</strong> (512) 834-6668 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
+	</p>
 	
 </div>
-
-<!--div class="Section" id="Additional-Information">
-	<a class="bookmark" title="additional-information" name="additional-information"></a>	
-	<hr/>
-	<h2>Additional Information</h2>
-	
-</div-->
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

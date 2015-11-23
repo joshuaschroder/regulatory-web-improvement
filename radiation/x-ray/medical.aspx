@@ -10,10 +10,11 @@
 <h2>Table of Contents</h2>
 <ul>
 	<li><a title="Obtaining a Certificate of Registration" href="#register">Obtaining a Certificate of Registration</a></li>
-	<li><a title="Amending a Certificate of Registration" href="#amend">Amending a Certificate of Registration</a></li>
 	<li><a title="Fee Schedule" href="#fees">Fee Schedule</a></li>
-	<li><a title="Renewing a Certificate of Registration" href="#renewals">Renewing a Certificate of Registration</a></li>
+	<li><a title="Amending a Certificate of Registration" href="#amend">Amending a Certificate of Registration</a></li>
+	<li><a title="Technical Renewal of Registration" href="#renewals">Technical Renewal of Registration</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
+	<li><a title="Disposing of an X-Ray Unit" href="#disposal">Disposing of an X-Ray Machine</a></li>	
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
 	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
 	<li><a title="Mobile Services" href="#mobile-services">Mobile Services</a></li>
@@ -21,14 +22,14 @@
 	<li><a title="Registering a Linear Accelerator over 1 MeV" href="#accelerator">Registering a Linear Accelerator over 1 MeV</a></li>
 	<li><a title="Registering an Electronic Brachytherapy Machine (EBT)" href="#ebt">Registering an Electronic Brachytherapy Machine (EBT)</a></li>
 	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
-	<li><a title="Contact Information" href="#address">Contact Information</a></li>
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 </ul>
 
 <div class="Section" id="New-Registration">
 	<hr/>
 	<a class="bookmark" title="register" name="register"></a>
 	<h2>Obtaining a Certificate of Registration</h2>
-	<p>For a medical or academic certificate of registration, the following forms must be completed to register your medical or academic facility. Submit the completed forms with the <a title="appropriate fee" href="#fees">appropriate fee</a>.</p>
+	<p>For a medical or academic certificate of registration, the following forms must be completed to register your facility. Submit the completed forms with the <a title="appropriate fee" href="#fees">appropriate fee</a>.</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Medical and Academic X-Ray Machine Applications and Forms</caption>
@@ -59,24 +60,13 @@
 	</table>
 </div>
 
-<div class="Section" id="Amendments">
-	<hr/>
-	<a class="bookmark" title="amend" name="amend"></a>
-	<h2>Amending a Certificate of Registration</h2>
-	<p>When submitting a request to amend a medical registration, complete <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC 226-2, Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span>, indicating the change in item 3. Or, submit a letter signed by the RSO. Describe the change, reference the registration number, and include any additional information necessary to process the request.</p>
-	
-	<p><strong>Name and/or Ownership Change</strong> - See <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span>.</p>
-	
-	<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC 42-3, Radiation Safety Officer (RSO) Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3, Radiation Safety Officer (RSO) Information for Registration</a> <span class="small">(PDF, 301KB)</span>.</p>
-</div>
-
 <div class="Section" id="Fees">
 	<hr/>
 	<a class="bookmark" title="fees" name="fees"></a>
 	<h2>Fee Schedule</h2>
 	<p>The table below outlines fees pertaining to the issuance of a single certificate of registration for medical use.</p>
 	
-	<p>For a complete listing of all types of radiation machines and their associated fees, see <a title="25 TAC, &#167;289.204(j)" href="/radiation/x-ray/laws-rules.aspx#289204"">25 TAC, &#167;289.204(j)</a>.</p>
+	<p>For a complete listing of all types of radiation machines and their associated fees, see <a title="25 TAC, &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC, &#167;289.204</a>.</p>
 	
 	<table class="zebraBorder layout" summary="sorted alphabetically by category first, then by type of use" style="width:100%;">
 		<caption>Schedule of Application Fees for Medical X-Ray Registration</caption>
@@ -110,7 +100,7 @@
 			</tr>
 			<tr>
 				<td headers="table_heading_0">Medical</td>
-				<td headers="table_heading_1">Radiographic Machine, Bonde Densiometer Cone Beam CT used in Medical Office</td>
+				<td headers="table_heading_1">Radiographic Machine, Bone Densiometer, Cone Beam CT used in Medical Office</td>
 				<td headers="table_heading_2">$600</td>
 			</tr>
 			<tr>
@@ -131,14 +121,25 @@
 	
 	<h3>Multiple Categories of Use</h3>
 	
-	<p>In the case of a single certificate of registration that authorizes more than one category of use, the category listed in <a title="25 TAC, &#167;289.204(j)" href="/radiation/x-ray/laws-rules.aspx#289204"">25 TAC, &#167;289.204(j)</a> and assigned the higher fee will be used. If this certificate of registration also has additional authorized use locations, the registrant shall pay an additional 30% of the highest fee category for each additional use location.</p>
+	<p>In the case of a single certificate of registration that authorizes more than one category of use, the total fee is the category listed in <a title="25 TAC, &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC, &#167;289.204</a> with the highest corresponding fee. If this certificate of registration also has additional authorized use locations, the registrant shall pay an additional 30% of the highest fee category for each additional use location.</p>
+</div>
+
+<div class="Section" id="Amendments">
+	<hr/>
+	<a class="bookmark" title="amend" name="amend"></a>
+	<h2>Amending a Certificate of Registration</h2>
+	<p>When submitting a request to amend a medical registration, complete <a title="RC Form 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">RC 226-2, Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span>, indicating the change in item 3, or, submit a letter signed by the RSO. Describe the change, reference the registration number, and include any additional information necessary to process the request.</p>
+	
+	<p><strong>Name and/or Ownership Change</strong> - See <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span>.</p>
+	
+	<p><strong>Radiation Safety Officer Change</strong> - Complete appropriate section of <a title="RC 42-3, Radiation Safety Officer (RSO) Information for Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19926">RC 42-3, Radiation Safety Officer (RSO) Information for Registration</a> <span class="small">(PDF, 301KB)</span>.</p>
 </div>
 
 <div class="Section" id="Renewals">
 	<a class="bookmark" title="renewals" name="renewals"></a>
 	<hr/>
-	<h2>Renewing a Certificate of Registration</h2>
-	<p>Certificates of registration with an expiration date (located in upper right) have a technical renewal every eight years. Approximately 45 days prior to the expiration date, the agency will mail a renewal letter with forms to be completed. Forms to be completed are:</p>
+	<h2>Technical Renewal of Registration</h2>
+	<p>To obtain an 8 year technical renewal, complete and submit the appropriate forms. The agency will mail a renewal packet within 45 days of the expiration date. The forms are:</p>
 	
 	<table class="zebraBorder layout" summary="">
 		<caption></caption>
@@ -167,7 +168,7 @@
 	<ol class="notes">
 		<li>
 			<a class="bookmark" title="renewal-1" name="renewal-1"></a>
-			Submit one for each use location. Address any special conditions on the certificate of registration.
+			Submit one form 226-2 for each use location. Address any special conditions on the certificate of registration.
 		</li>
 	</ol>
 
@@ -178,6 +179,13 @@
 	<a class="bookmark" title="terminate" name="terminate"></a>
 	<h2>Terminating a Certificate of Registration</h2>
 	<p>To terminate the registration, complete and submit <a title="Request For Termination of Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51596"> RC-17R, Request For Termination of Registration</a> <span class="small">(PDF, 24KB)</span>.</p>
+</div>
+
+<div class="Section" id="Disposal">
+	<hr/>
+	<a class="bookmark" title="disposal" name="disposal"></a>
+	<h2>Disposing of an X-Ray Unit</h2>
+	<p>For information on <a title="disposing of X-ray equipment in Texas" href="https://www.tceq.texas.gov/permitting/radmat/licensing/xray_disposal.html">disposing of X-ray equipment in Texas</a>, visit the Texas Commission on Environmental Quality website.</p>
 </div>
 
 <div class="Section" id="Delete-Transfer">
@@ -192,7 +200,7 @@
 	<hr/>
 	<a class="bookmark" title="procedures" name="procedures"></a>
 	<h2>Operating and Safety Procedures</h2>
-	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227(i)" href="/radiation/x-ray/laws-rules.aspx#289227">&#0167;289.227(i)</a> and <a title="&#0167;289.229" href="/radiation/x-ray/laws-rules.aspx#289229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help assist registrants in developing procedures unique to individual facilities. For <strong>mobile services</strong>, include specific procedures unique to your mobile operation. Choose the appropriate guide:</p>
+	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.227" href="/radiation/x-ray/laws-rules.aspx#289227">&#0167;289.227</a> and <a title="&#0167;289.229" href="/radiation/x-ray/laws-rules.aspx#289229">&#0167;289.229</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guides can be used to help assist registrants in developing procedures unique to individual facilities. For <strong>mobile services</strong>, include specific procedures unique to your mobile operation. Choose the appropriate guide:</p>
 	
 	<br/>
 	<table class="zebraBorder layout" summary="sorted by guide number, ascending">
@@ -262,8 +270,13 @@
 			See form  ------------<br/><br/>
 		</li>
 		<li>
-			<h3>Registration of a Replacement Accelerator</h3>
-			Registration of a replacement accelerator in which the new accelerator is installed in the same orientation, has the same energy or less and no additional shielding is necessary - Submit a letter, signed by the RSO with the above information contained therein, include the manufacturer, model and serial number of the machine and a copy of the post-installation survey.<br/><br/>
+			<h3>Registration of a Replacement Accelerator Installed in the Same Orientation, Same Energy or Less, and No Additional Shielding</h3>
+			Submit a letter signed by the RSO that states the following information:
+			<ul>
+				<li>That the new/replacement accelerator has been installed in the same orientation, has the same energy or less than the previous accelerator, and no additional shielding is required,</li>
+				<li>The manufacturer, model and serial numbers of the machine(s), and</li>
+				<li>A copy of the post-installation survey</li>
+			</ul>
 		</li>
 	</ul>
 </div>
@@ -275,7 +288,7 @@
 	<p>See Form ------</p>
 </div>
 
-<div class="Section" id="Additional-Information">
+<div class="Section" id="Additional-Info">
 	<hr/>
 	<a class="bookmark" title="additional-information" name="additional-information"></a>
 	<h2>Additional Information</h2>
@@ -285,30 +298,33 @@
 	<p>If you have further questions regarding registration procedures, <a title="contact the Radiation Control program" href="/radiation/contact.aspx">contact us</a>.</p>
 </div>
 
-<div class="Section" id="Mailing-Address">
+<div class="Section" id="Contact-Info">
 	<hr/>
-	<a class="bookmark" title="address" name="address"></a>
+	<a class="bookmark" title="contact" name="contact"></a>
 	<h2>Contact Information</h2>
 	
 	<p><strong>For New Applications</strong></p>
 	<p>
-		Radiation Safety Licensing MC 2003<br/>
 		Texas Department of State Health Services <br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2003<br/>
 		P. O. Box 149347<br/>
 		Austin, TX 78714-9347	
 	</p>
 	
 	<p><strong>For Other Correspondence</strong></p>
 	<p>
-		Radiation Safety Licensing Branch MC 2835<br/>
 		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2835<br/>
 		P. O. Box 149347<br/>
 		Austin, Texas 78714-9347
 	</p>
+
 	
 	<p>
-		Phone: (512) 834-6688 ext. 2288<br/>
-		Fax: (512) 834-6717
+		<strong>Phone:</strong> (512) 834-6688 ext. 2288<br/>
+		<strong>Fax:</strong> (512) 834-6717 and (512) 834-6717
 	</p>
 	
 </div>

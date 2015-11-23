@@ -16,7 +16,7 @@
 	<li><a title="Personnel Changes" href="#personnel-changes">Personnel Changes</a></li>
 	<li><a title="Mobile Services Authorization" href="#mobile-services">Mobile Services Authorization</a></li>
 	<li><a title="Terminating an Interventional Breast Radiography Certification" href="#terminating">Terminating an Interventional Breast Radiography Certification</a></li>
-	<li><a title="Agency Contact Information" href="#contact">Agency Contact Information</a></li>
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
 	<li><a title="Additional Information" href="#help">Additional Information</a></li>
 </ul>
@@ -27,7 +27,7 @@
 	<h2>Obtaining a New Interventional Breast Radiography Certification</h2>
 	<p>If a facility has an interventional breast unit(s) used for breast biopsy and/or needle localizations, the facility is required to have an Interventional Breast Radiography Certification.  Units that are used for both mammography and interventional breast radiography will be included on the mammography certification.</p>
 	<ul>
-		<li>Complete and submit to the Mammography Certification Program the following forms with the appropriate fee within 30 days of beginning use of interventional breast equipment.
+		<li>Complete and submit to the Mammography Certification Program the following forms with the appropriate fee within 30 days of beginning use of interventional breast equipment:
 			<br/><br/>
 			<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 				<caption>Forms Required to Obtain a New Interventional Breast Radiography Certification</caption>
@@ -53,7 +53,7 @@
 				</tbody>
 			</table>
 		</li>
-		<li>Submit a copy of the current medical physicist’s survey report for each intervention breast radiography unit</li>
+		<li>Submit a copy of the current medical physicist’s survey report for each interventional breast radiography unit</li>
 	</ul>
 	<p><em>Note:</em> If the facility plans to perform <strong>Mobile</strong> Interventional Breast Radiography complete section 2 of the application and submit the requested documents and procedures.</p>
 </div>
@@ -114,7 +114,7 @@
 	</table>
 	
 	<ul>
-		<li>Submit a copy of the current medical physicist’s survey report for each intervention breast radiography unit.</li>
+		<li>Submit a copy of the current medical physicist’s survey report for each interventional breast radiography unit.</li>
 	</ul>
 	
 	
@@ -140,7 +140,7 @@
 	<h2>Interventional Breast Radiography Equipment Changes</h2>
 	<p><strong><em>To add an interventional breast radiography unit</em></strong> submit:</p> 
 	<ul>
-		<li>Completed <a title="RC 230-4, Amendment Application for Interventional Breast Radiography" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981248">RC 230-4, Amendment Application for Interventional Breast Radiography</a> <span class="small">(PDF, 77KB)</span></li>
+		<li><a title="RC 230-4, Amendment Application for Interventional Breast Radiography" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981248">RC 230-4, Amendment Application for Interventional Breast Radiography</a> <span class="small">(PDF, 77KB)</span></li>
 		<li>Copy of the current medical physicist’s survey report for the new unit</li>
 	</ul>
 	
@@ -181,9 +181,10 @@
 	<a class="bookmark" title="mobile-services" name="mobile-services"></a>
 	<hr/>
 	<h2>Mobile Services Authorization</h2>
+	<p><em>Mobile services authorization must be obtained prior to providing mobile interventional breast radiography services.</em></p>
 	<p><strong><em>To add mobile services authorization</em></strong> to the interventional breast radiography certification, submit:</p>
 	<ul>
-		<li>Completed <a title="Amendment Application for Interventional Breast Radiography" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981248">Amendment Application for Interventional Breast Radiography</a> <span class="small">(PDF, 77KB)</span></li>
+		<li><a title="Amendment Application for Interventional Breast Radiography" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981248">Amendment Application for Interventional Breast Radiography</a> <span class="small">(PDF, 77KB)</span></li>
 		<li>Required documents and procedures listed in the mobile service authorization section of the application</li>
 	</ul>
 	

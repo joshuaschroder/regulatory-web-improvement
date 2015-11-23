@@ -60,10 +60,10 @@
 			Fax: (512) 834-6690<br/>
 		</p>
 		
-		<p><strong>X-Ray and Laser Machine Registration</strong></p>
+		<p><strong>X-Ray, Mammography, and Laser Registration</strong></p>
 		<p>
 			Phone: (512) 834-6688 ext. 2225<br/>
-			Fax: (512) 834-6716<br/>
+			Fax: (512) 834-6716 and (512) 834-6717<br/>
 		</p>
 		
 	</blockquote>

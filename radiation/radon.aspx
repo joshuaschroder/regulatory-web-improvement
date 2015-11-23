@@ -30,8 +30,8 @@
 <p>Radon is a naturally occurring radioactive gas that can be released during the decay of radioactive elements in granite countertops or can seep into homes from underground uranium deposits, and build up to higher than normal levels.(See: <a title="What is Radon?" href="#what">What is Radon?</a>) Most areas of Texas are considered to be at a low risk level for high radon levels (See: <a title="The Texas Indoor Radon Survey" href="#survey">The Texas Indoor Radon Survey</a>), but it is still a good idea to test, and know for sure. </p>
 <p>Texas Department of State Health Services, along with the U.S. EPA and the U.S. Surgeon General, encourages everyone to test their home for radon. (See:  <a title="Where Do I Get a Radon Test Kit?" href="#kit">Where Do I Get a Radon Test Kit?</a>)</p>
 <p>For more information about the possibility of radon gas coming from granite countertops, please see the <a title="EPA's Frequently Asked Questions" href="https://radiation.zendesk.com/hc/en-us?faq=true">EPA's Frequently Asked Questions</a> about this issue. Some additional information about this issue may be found on the <a title="Health Physics Society's website" href="http://hps.org/publicinformation/ate/cat10.html">Health Physics Society's website</a>.</p>
-<p>For information on Radiation Surveys email <a title="Ruben.Cortez@dshs.state.tx.us" href="mailto:Ruben.Cortez@dshs.state.tx.us">Ruben Cortez</a>, or phone 512- 834-6770 ext. 2004.</p>
-<p>For general information on Radon <a title="radon@dshs.state.tx.us" href="mailto:radon@dshs.state.tx.us">contact us by email,</a> or call 1-800-293-0753 ext. 2428 or 512-834-6787 ext. 2428</p>
+<p>For information on Radiation Surveys email <a title="Ruben.Cortez@dshs.state.tx.us" href="mailto:Ruben.Cortez@dshs.state.tx.us">Ruben Cortez</a>, or phone (512) 834-6770 ext. 2004.</p>
+<p>For general information on Radon <a title="radon@dshs.state.tx.us" href="mailto:radon@dshs.state.tx.us">contact us by email,</a> or call (800) 293-0753 ext. 2428 or (512) 834-6787 ext. 2428</p>
 
 <hr/>
 <a class="bookmark" title="what" name="what"></a>

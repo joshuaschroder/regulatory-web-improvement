@@ -35,8 +35,8 @@
 	Austin, Texas 78714-9347<br/>
 </p>
 <p>
-	Phone: 512-834-6688 ext. 2202<br/>
-	Fax: 512-834-6690<br/>
+	Phone: (512) 834-6688 ext. 2202<br/>
+	Fax: (512) 834-6690<br/>
 	E-mail: <a title="Brinda.Staton@dshs.state.tx.us" href="mailto:Brinda.Staton@dshs.state.tx.us">Brinda Staton</a><br/>
 </p>
 
