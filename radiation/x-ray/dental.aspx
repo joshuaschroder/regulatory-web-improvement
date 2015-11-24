@@ -78,7 +78,7 @@
 				<td headers="table_heading_2">each application</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">Reciprocal Recognition</td>
+				<td headers="table_heading_0">Out of State Reciprocal Recognition</td>
 				<td headers="table_heading_1">$370</td>
 				<td headers="table_heading_2">2 Years</td>
 			</tr>

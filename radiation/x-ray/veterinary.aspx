@@ -79,7 +79,7 @@
 			</tr>		
 			<tr>
 				<td headers="table_heading_0">Reciprocity</td>
-				<td headers="table_heading_1">Out of state reciprocal recognition</td>
+				<td headers="table_heading_1">Out of State Reciprocal Recognition</td>
 				<td headers="table_heading_2">$290</td>
 			</tr>
 		</tbody>
