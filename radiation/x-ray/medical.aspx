@@ -29,7 +29,7 @@
 	<hr/>
 	<a class="bookmark" title="register" name="register"></a>
 	<h2>Obtaining a Certificate of Registration</h2>
-	<p>For a medical or academic certificate of registration, submit the following forms with the appropriate fee.</p>
+	<p>For a medical or academic certificate of registration, submit the following forms with the appropriate fee:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Medical and Academic X-Ray Machine Applications and Forms</caption>
@@ -116,7 +116,7 @@
 		</tbody>
 	</table>
 	
-	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biannual fee. Mail application with fee payment.</p>
+	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biennial fee. Mail application with fee payment.</p>
 	
 	
 	<h3>Multiple Categories of Use</h3>
@@ -168,7 +168,7 @@
 	<ol class="notes">
 		<li>
 			<a class="bookmark" title="renewal-1" name="renewal-1"></a>
-			Submit one form 226-2 for each use location. Address any special conditions on the certificate of registration.
+			Submit one form RC 226-2 for each use location. Address any special conditions on the certificate of registration.
 		</li>
 	</ol>
 

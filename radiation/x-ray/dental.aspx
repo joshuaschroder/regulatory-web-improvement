@@ -19,6 +19,7 @@
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>	
 	<li><a title="Mobile Dental Services" href="#mobile-services">Mobile Dental Services</a></li>
+	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>	
 	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
 </ul>
 
@@ -59,7 +60,7 @@
 	<h2>Fee Schedule</h2>
 	<p>The table below outlines fees pertaining to the issuance of a single certificate of registration for use in dental radiography.</p>
 	<p>Fees are established in <a title="25 Texas Administrative Code &#167;289.232" href="/radiation/x-ray/laws-rules.aspx#289232">25 Texas Administrative Code &#167;289.232</a>, and in <a title="25 TAC, &#167;289.204(j)" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC, &#167;289.204</a>.</p>
-	<p>An updated certificate of registration will not be issued based on payment of biannual fees.</p>
+	<p>An updated certificate of registration will not be issued based on payment of biennial fees.</p>
 	
 	<table class="zebraBorder layout" summary="table not sorted" style="width:70%;">
 		<caption>Schedule of application fees for dental X-ray registration</caption>
@@ -77,13 +78,8 @@
 				<td headers="table_heading_2">each application</td>
 			</tr>
 			<tr>
-				<td headers="table_heading_0">Additional Use Location (on a single certificate)</td>
-				<td headers="table_heading_1">$90</td>
-				<td headers="table_heading_2">2 Years</td>
-			</tr>
-			<tr>
 				<td headers="table_heading_0">Reciprocal Recognition</td>
-				<td headers="table_heading_1">$111</td>
+				<td headers="table_heading_1">$370</td>
 				<td headers="table_heading_2">2 Years</td>
 			</tr>
 		</tbody>
@@ -166,6 +162,34 @@
 	<p>Authorization must be obtained prior to providing mobile dental services.</p>
 	<p>See form <a title="RC 226-8, Excerpt from 25 Texas Administrative Code (TAC) &#0167;289.226(g). Mobile Service Operation" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938358">RC 226-8, Excerpt from 25 Texas Administrative Code (TAC) &#0167;289.226(g). Mobile Service Operation</a> <span class="small">(PDF, 41KB)</span> for requirements.</p>
 </div>
+
+<div class="Section" id="Operating-Safety">
+	<hr/>
+	<a class="bookmark" title="procedures" name="procedures"></a>
+	<h2>Operating and Safety Procedures</h2>
+	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.232" href="/radiation/x-ray/laws-rules.aspx#289232">&#0167;289.232</a> requires each registrant to have and implement written operating and safety procedures. The following Regulatory Guide can be used to help assist registrants in developing procedures unique to individual dental facilities. For <strong>mobile services</strong>, include specific procedures unique to your mobile operation.</p>
+	
+	<br/>
+	<table class="zebraBorder layout" summary="sorted by guide number, ascending">
+		<caption>Operating and Safety Procedures</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:10%;">Document Number</th>
+				<th id="table_heading_1" style="width:90%;">Regulatory Guide Title</th>
+			</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" name="44" title="44"></a>4.4</td>
+			<td headers="table_heading_1">
+				<a title="Operating and Safety Procedures for Dental Facilities - Word Document" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19880">Operating and Safety Procedures for Dental Facilities</a> <span class="small">(DOC, 83KB)</span><br/>
+				<a title="Operating and Safety Procedures for Dental Facilities - PDF Document" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002975">Operating and Safety Procedures for Dental Facilities</a> <span class="small">(PDF, 77KB)</span>
+			</td>
+		</tr>
+		</tbody>
+	</table>
+</div>
+
 
 <div class="Section" id="Additional-Information">
 	<hr/>

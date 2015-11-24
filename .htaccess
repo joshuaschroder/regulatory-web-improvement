@@ -1,2 +1,2 @@
-AddType application/x-httpd-php .aspx
+AddType application/x-httpd-php .aspx .html .shtm
 DirectoryIndex default.aspx default.shtm index.php index.html
