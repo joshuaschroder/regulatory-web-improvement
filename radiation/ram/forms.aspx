@@ -42,11 +42,11 @@
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2522a" name="2522a"></a>RC 252-2a</td>
-			<td headers="table_heading_1"><a title="Radioactive Material License -- Medical Uses" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992453">Radioactive Material License -- Medical Uses</a> <span class="small">(PDF, 95KB)</span></td>
+			<td headers="table_heading_1"><a title="Radioactive Material License -- Medical Uses" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992453">Radioactive Material License - Medical Uses</a> <span class="small">(PDF, 95KB)</span></td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2522b" name="2522b"></a>RC 252-2b</td>
-			<td headers="table_heading_1"><a title="Preceptor Statement for License Application -- Medical" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992451">Preceptor Statement for License Application -- Medical</a> <span class="small">(PDF, 93KB)</span></td>
+			<td headers="table_heading_1"><a title="Preceptor Statement for License Application - Medical" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992451">Preceptor Statement for License Application - Medical</a> <span class="small">(PDF, 93KB)</span></td>
 		</tr>		
 	</tbody>
 </table>
