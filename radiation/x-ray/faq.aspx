@@ -25,7 +25,7 @@
 <hr/>
 <a class="bookmark" title="1" name="1"></a>
 <h2>What is an administrative renewal?</h2>
-<p>An administrative renewal is a fee that must be paid in order to continue operating x-ray and laser devices. The fee is required every two years. Think of an administrative renewal as what happens when you pay your two-year registration fee. For information on fee payment see <a title="25 TAC §289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC §289.204</a> of the rules.</p>
+<p>An administrative renewal is a fee that must be paid in order to continue operating X-ray and laser devices. The fee is required every two years. Think of an administrative renewal as what happens when you pay your two-year registration fee. For information on fee payment see <a title="25 TAC §289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC §289.204</a> of the rules.</p>
 
 <hr/>
 <a class="bookmark" title="2" name="2"></a>
@@ -55,7 +55,7 @@
 <hr/>
 <a class="bookmark" title="7" name="7"></a>
 <h2>Can I change my address at the time of renewal?</h2>
-<p>ou can ONLY change your billing address at the time of renewal. If your company’s name, Radiation Safety Officer, or facilities/locations have changed, please contact Radiation Control Registration at (512) 834-6688 for instructions.</p>
+<p>You can ONLY change your billing address at the time of renewal. If your company’s name, Radiation Safety Officer, or facilities/locations have changed, please contact Radiation Control Registration at (512) 834-6688 for instructions.</p>
 
 <hr/>
 <a class="bookmark" title="8" name="8"></a>
@@ -65,7 +65,7 @@
 <hr/>
 <a class="bookmark" title="9" name="9"></a>
 <h2>What information do I need to make a payment online?</h2>
-<p>Paying a registration administrative renewal fee requires a valid credit card number, expiration date, billing name, and billing address. For electronic check payments, a valid bank routing number and Savings/Checking account number is required.</p>
+<p>Paying a registration administrative renewal fee requires a valid credit card number, expiration date, billing name, and billing address. For electronic check payments, a valid bank routing number and savings or checking account number is required.</p>
 
 <hr/>
 <a class="bookmark" title="10" name="10"></a>

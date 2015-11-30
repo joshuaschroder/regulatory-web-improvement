@@ -5,11 +5,11 @@
 ?>
 
 <hr/>
-<h2>Email, Phone and Fax</h2>
+<h2>Email, Phone and Fax Numbers</h2>
 
 <blockquote style="font-style:normal;">
 	
-	<h3>General Questions about Regulations <br/>(Policy, Standards and Quality Assurance)</h3>
+	<h3>Rules and Regulations</h3>
 	<blockquote style="font-style:normal;">
 		<p>
 			Email: <a title="PSQARad@dshs.state.tx.us" href="mailto:PSQARad@dshs.state.tx.us">PSQARad@dshs.state.tx.us</a><br/>
@@ -66,7 +66,14 @@
 			Fax: (512) 834-6716 and (512) 834-6717<br/>
 		</p>
 		
-	</blockquote>
+		<p><strong>Licensing Fees</strong></p>
+		<p>
+			Phone: (512) 834-6688 ext. 2059 &amp; 2060<br/>
+			Fax: (512) 834-6717<br/>
+		</p>
+		
+	</blockquote>	
+
 </blockquote>
 
 <hr/>

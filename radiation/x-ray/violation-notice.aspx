@@ -17,7 +17,7 @@
 <h2>Checklist</h2>
 <ul>
 	<li>Is the registration number referenced in your letter?</li>
-	<li>Is the compliance number referenced in your letter?</li>
+	<li>Is the inspection number referenced in your letter?</li>
 	<li>Is your letter addressed to the Technical Reviewer listed on the Notice?</li>
 	<li>Does your letter address <em>each</em> violation individually?</li>
 	<li>Does your letter include a description of the steps taken to correct each violation?</li>
