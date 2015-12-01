@@ -61,6 +61,10 @@
 			<td headers="table_heading_1"><a title="Radiographer Qualification - OJT (Hours)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982188">Radiographer Qualification - OJT (Hours)</a> <span class="small">(PDF, 36KB)</span></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="255RC" name="255RC"></a>RC 255-RC</td>
+			<td headers="table_heading_1"><a title="Radiographer Qualification - OJT (Hours)" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003515">Radiographer Reciprocity Qualification</a> <span class="small">(PDF, 73KB)</span></td>
+		</tr>		
+		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="255T" name="255T"></a>RC 255-T</td>
 			<td headers="table_heading_1"><a title="Trainer Qualification" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982190">Trainer Qualification</a> <span class="small">(PDF, 65KB)</span></td>
 		</tr>

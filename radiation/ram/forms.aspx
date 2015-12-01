@@ -23,11 +23,6 @@
 			<td headers="table_heading_0"><a class="bookmark" title="40" name="40"></a>CI-40</td>
 			<td headers="table_heading_1"><a title="General License Acknowledgement Self-Evaluation Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589978776">General License Acknowledgement Self-Evaluation Form</a> <span class="small">(PDF, 103KB)</span></td>
 		</tr>		
-		
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" title="2511" name="2511"></a>RC 251-1</td>
-			<td headers="table_heading_1"><a title="Acknowledgement to Use the General License for In Vitro Clinical or Laboratory Testing" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992449">Acknowledgement to Use the General License for In Vitro Clinical or Laboratory Testing</a> <span class="small">(PDF, 64KB)</span></td>
-		</tr>		
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="2512" name="2512"></a>RC 251-2</td>
 			<td headers="table_heading_1"><a title="General License Acknowledgement of Devices Containing Radioactive Material" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589995642">General License Acknowledgement of Devices Containing Radioactive Material</a> <span class="small">(PDF, 92KB)</span></td>

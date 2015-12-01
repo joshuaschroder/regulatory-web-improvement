@@ -4,8 +4,39 @@
     include '/home/codio/workspace/includes/menus/rad2_ir_menu.html'; 
 ?>
 
-<p>Texas will accept an individual's radiographer certification if the individual or company submits a clear, legible copy (front and back) of the valid certification from an entity recognized by Texas in accordance with <a title="25 TAC §289.255(l)(2)-(4)" href="/radiation/industrial-radiographers/laws-rules.aspx#289255">25 TAC §289.255(l)(2)-(4)</a>. No forms need to be completed.</p>
-<p>Texas accepts the certifications issued by the following States:</p>
+<p>Texas will accept an individual's radiographer certification if the individual or company submits a clear, legible copy (front and back) of the valid certification from an entity recognized by Texas in accordance with <a title="25 TAC §289.255(l)(2)-(4)" href="/radiation/industrial-radiographers/laws-rules.aspx#289255">25 TAC §289.255(l)(2)-(4)</a>.</p>
+
+<hr/>
+<h2>Required Forms</h2>
+
+<p>Complete and submit the appropriate form below:</p>
+
+<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:70%;">
+	<caption>Industrial Radiographer Reciprocity Forms</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0" style="width:25%;">Form</th>
+			<th id="table_heading_1" style="width:75%;">Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="255RC" name="255RC"></a>RC 255-RC</td>
+			<td headers="table_heading_1"><a title="Radiographer Reciprocity Qualification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003515"> Radiographer Reciprocity Qualification</a> <span class="small">(PDF, 73KB)</span></td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0"><a class="bookmark" title="255T" name="255T"></a>RC 255-T</td>
+			<td headers="table_heading_1"><a title="Trainer Qualification" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589982190">Trainer Qualification</a> <span class="small">(PDF, 65KB)</span></td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+<hr/>
+<h2>Certifications from Other States</h2>
+<p>Texas accepts the certifications issued by the following states:</p>
 
 <table class="zebraBorder layout" summary="sorted alphabetically by state" style="width:70%;">
 	<caption>Out of State Industrial Radiographer Certifications Accepted by Texas</caption>

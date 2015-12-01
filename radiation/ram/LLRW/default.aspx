@@ -37,7 +37,7 @@
 	<li>Shippers that manufactures their own containers must submit their quality assurance procedures</li>
 </ul>
 <p>There is no application fee. Shippers are charged $10 per cubic foot, and will be billed by the Department after the shipment is completed.</p>
-<p>Guidance for preparing the Emergency Plan and Quality Assurance procedures (if necessary) can be found in <a title="Regulatory Guide 2.19 - Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981713">Regulatory Guide 2.19 “Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters”</a> <span class="small">(PDF, 79KB)</span>.</p>
+<p>Guidance for preparing the Emergency Plan and Quality Assurance procedures (if necessary) can be found in <a title="Regulatory Guide 2.19 - Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589960455">Regulatory Guide 2.19 “Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters”</a> <span class="small">(PDF, 79KB)</span>.</p>
 <p>Applicable statutes can be found in <a title="25 Texas Administrative Code, §289.252" href="/radiation/ram/laws-rules.aspx#289252">25 Texas Administrative Code, §289.252</a> and <a title="25 Texas Administrative Code, §289.257" href="/radiation/ram/laws-rules.aspx#289257">§289.257</a>.</p>
 
 <hr/>
@@ -48,15 +48,15 @@
 	<li>Proof of financial responsibility such as insurance that the carrier has in order to comply with U.S. Department of Transportation requirements</li>
 </ul>
 <p>There is no application fee, or fee based on the amount of material transported by a carrier.</p>
-<p>Guidance for preparing the Emergency Plan and submitting proof of financial responsibility can be found in <a title="Regulatory Guide 2.19 - Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981713">Regulatory Guide 2.19 “Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters”</a> <span class="small">(PDF, 79KB)</span>.</p>
+<p>Guidance for preparing the Emergency Plan and submitting proof of financial responsibility can be found in <a title="Regulatory Guide 2.19 - Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589960455">Regulatory Guide 2.19 “Guide for Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters”</a> <span class="small">(PDF, 79KB)</span>.</p>
 <p>Applicable statutes can be found in <a title="25 Texas Administrative Code, §289.252" href="/radiation/ram/laws-rules.aspx#289252">25 Texas Administrative Code, §289.252</a> and <a title="25 Texas Administrative Code, §289.257" href="/radiation/ram/laws-rules.aspx#289257">§289.257</a>.</p>
 
 <hr/>
 <h2>Contact Information</h2>
 <p>
 	<strong>LLRW Shipper/Transporter Registrations</strong><br/>
-	Email: <a title="ray.fleming@dshs.state.tx.us" href="mailto:ray.fleming@dshs.state.tx.us">Ray Fleming</a> <br/>
-	Phone: (512) 834-6688 ext. 2206
+	Email: <a title="shawn.garza@dshs.state.tx.us" href="mailto:shawn.garza@dshs.state.tx.us">Shawn Garza</a> <br/>
+	Phone: (512) 834-6688 ext. 2628
 </p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

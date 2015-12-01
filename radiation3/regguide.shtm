@@ -1,0 +1,19 @@
+<?php
+	$title= "This Page Has Moved" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
+?>
+
+<br/>
+<p>This page has been separated by subject matter. Please see the following pages:</p>
+<ul>
+	<li><a title="X-Ray Regulatory Guides" href="/radiation/x-ray/regulatory-guides.aspx">Regulatory Guides - X-Ray Registration</a></li>
+	<li><a title="Radioactive Materials Regulatory Guides" href="/radiation/ram/regulatory-guides.aspx">Regulatory Guides - Radioactive Materials (RAM) Licensing</a></li>
+</ul>
+
+<p>For laser hair removal and laser registrations, see the <a title="X-Ray Regulatory Guides" href="/radiation/x-ray/regulatory-guides.aspx">X-Ray Regulatory Guides</a> page.</p>
+
+<p>Please <a title="contact us" href="/radiation/contact.aspx">contact us</a> for further information and help.</p>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

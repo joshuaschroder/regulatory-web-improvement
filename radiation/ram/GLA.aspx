@@ -21,10 +21,7 @@
 
 <hr/>
 <h2>2. In Vitro Clinical or Laboratory Testing</h2>
-<p>The second category involves radioactive material that is used for <em>in vitro</em> clinical or laboratory testing specified in <a title="25 TAC &#0167;289.251(f)(4)(G)" href="/radiation/ram/laws-rules.aspx#289251">25 TAC &#0167;289.251(f)(4)(G)</a>.</p>
-
-<h3>Application Process</h3>
-<p>To apply for a GLA for <em>in vitro</em> use, an <a title="Application for Acknowledgement to use the General License for in vitro Clinical or Laboratory Testing (RC Form 251-1)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992449">RC 251-1, Application for Acknowledgement to use the General License for <em>in vitro</em> Clinical or Laboratory Testing</a> <span class="small">(PDF, 64KB)</span> and <a title="Business Information Form (RC Form 252-1)" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589992452">RC 252-1, Business Information Form</a> <span class="small">(PDF, 54KB)</span> must be completed and submitted along with the appropriate fee. The GLA must be issued to your facility before the radioactive material can be possessed. </p>
+<p>In vitro clinical or laboratory testing specified in <a title="25 TAC &#0167;289.251(f)(4)(G)" href="/radiation/ram/laws-rules.aspx#289251">25 TAC &#0167;289.251(f)(4)(G)</a> is exempt from the general license registration requirement.</p>
 
 <hr/>
 <h2>Contact Information</h2>

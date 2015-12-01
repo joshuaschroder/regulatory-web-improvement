@@ -164,7 +164,7 @@
 	<tbody>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" title="219" name="219"></a>2.19</td>
-			<td headers="table_heading_1"><a title="Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589981713">Low Level Radioactive Waste Shippers and Transporters, Submission of Documents and Fees</a> <span class="small">(PDF, 79KB)</span></td>
+			<td headers="table_heading_1"><a title="Submission of Documents and Fees by Low Level Radioactive Waste Shippers and Transporters" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589960455">Low Level Radioactive Waste Shippers and Transporters, Submission of Documents and Fees</a> <span class="small">(PDF, 79KB)</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -184,10 +184,6 @@
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="81" title="81"></a>8.1</td>
 			<td headers="table_heading_1"><a title="Submitting Applications or Amendment Requests Due to Changes in Licensed Legal Entity" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589955821">Changes in Licensed Legal Entity</a> <span class="small">(PDF, 47KB)</span></td>
-		</tr>
-		<tr>
-			<td headers="table_heading_0"><a class="bookmark" name="82" title="82"></a>8.2</td>
-			<td headers="table_heading_1"><a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></td>
 		</tr>
 	</tbody>
 </table>

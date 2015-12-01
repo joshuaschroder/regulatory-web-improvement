@@ -22,7 +22,6 @@
 	<li><a title="Mobile Services Authorization" href="#mobile-services">Mobile Services Authorization</a></li>
 	<li><a title="Terminating a Mammography Certification and Accreditation" href="#terminate">Terminating a Mammography Certification and Accreditation</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
-	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
 	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
 </ul>
 
@@ -60,9 +59,17 @@
 		</tbody>
 	</table>
 	<p>Application, documentation, and appropriate fees must be submitted at least two weeks prior to providing mammography services. <em>Note: Hold the Equipment Section of the application until the mammography unit(s) is installed. Submit the completed Equipment Section page with the medical physicist survey report and mammography equipment evaluation. Forty-eight hours after receipt of the application page,  medical physicist survey report, and mammography equipment evaluation, the mammography certificates will be issued</em>.</p>
+	<p>Each registrant shall have and implement written operation and safety procedures in accordance with Title 25 of the <a title="Texas Administrative Code (TAC) §289.230(hh)(3)" href="/radiation/mammography/laws-rules.aspx#289230">Texas Administrative Code (TAC) §289.230(hh)(3)</a>.</p>
 	<p>Documentation to be submitted with the completed application:</p>
 	<ul>
-		<li>The applicable policies/procedures requested in the application (see the <a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a> section below for more information) </li>
+		<li>Policies/procedures requested in section 2 of the application:  
+			<ul>
+				<li>Corrective action procedure for Poor Image quality, and process for feedback from interpreting physicians: 289.230 (u) &amp; (u)(1)(B)(i)</li>
+				<li>Policy for the Retention of Clinical Images for current, closed, or terminated facilities. 289.230 (t)(4)</li>
+				<li>Policies for Self-referral if providing self-referral mammography services</li>
+				<li>Requested documents if providing mobile mammography services </li>
+			</ul>
+		</li>
 		<li>Personnel credentials - As an option the following forms may be used for guidance for acceptable documents of personnel credentialing:
 			<ul>
 				<li>Interpreting Physicians - <a title="Acceptable Documents for I P s" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003110">Acceptable Documents for I P s</a> <span class="small">(PDF, 145KB)</span></li>
@@ -207,7 +214,7 @@
 	<a class="bookmark" title="self-referral" name="self-referral"></a>
 	<hr/>
 	<h2>Self-Referral Authorization</h2>
-	<p><em>Self-referral authorization must be obtained prior to providing self-referral mammography services.</em></p>
+	<p><em>Self-referral authorization must be obtained prior to initiating self-referral mammography services.</em></p>
 	<p>To add self-referral authorization to the certification, submit:</p>
 	<ul>
 		<li><a title="RC 230-2, Amendment Application for Mammography Certification" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589981246">RC 230-2, Amendment Application for Mammography Certification</a> <span class="small">(PDF, 131KB)</span></li>
@@ -251,42 +258,24 @@
 	
 	<p><strong>Mailing Address (U.S. Postal Service)</strong></p>
 	<p>
-		Department of State Health Services<br/>
-		Radiation Safety Licensing Branch<br/>
-		Mail Code 2003 <br/>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch, MC 2003<br/>
 		P. O. Box 149347 <br/>
 		Austin, Texas 78714-9347
 	</p>	
 	
-	<p><strong>Mailing address (Overnight Address)</strong></p>
+	<p><strong>Mailing Address (Overnight Address)</strong></p>
 	<p>
-		Department of State Health Services<br/>
-		Radiation Safety Licensing Branch<br/>
-		Mail Code 2003 <br/>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch, MC 2003<br/>
 		1100 West 49th Street<br/>
 		Austin, Texas 78756
 	</p>
 	
-	<p><strong>Phone and Fax</strong></p>
 	<p>
-		Phone Number: (512) 834-6688 ext. 2246<br/>
-		Fax Number: (512) 834-6716 or (512) 834-6617
+		<strong>Phone:</strong> (512) 834-6688 ext. 2246<br/>
+		<strong>Fax:</strong> (512) 834-6716 or (512) 834-6617
 	</p>
-	
-	
-</div>
-
-<div class="Section" id="Operating-Safety-Procedures">
-	<a class="bookmark" title="procedures" name="procedures"></a>
-	<hr/>
-	<h2>Operating and Safety Procedures</h2>
-	<p>Each registrant shall have and implement written operation and safety procedures in accordance with Title 25 of the Texas Administrative Code (TAC) <a title="§289.230(hh)(3)" href="/radiation/mammography/laws-rules.aspx#289230">§289.230(hh)(3)</a>.</p>
-	<p>The following procedures shall be submitted with new facility and renewal applications:</p>
-	<ul>
-		<li>Corrective action procedure for Poor Image quality, corrective for poor quality, and process for feedback from interpreting physicians: 289.230 (u) &amp; (u)(1)(B)(i)</li>
-		<li>Policy for the Retention of Clinical Images for current, closed, or terminated facilities.  289.230 (t)(4)</li>
-	</ul>
-
 </div>
 
 <div class="Section" id="Additional-Information">

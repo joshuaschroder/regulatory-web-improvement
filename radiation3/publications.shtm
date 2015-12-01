@@ -1,0 +1,20 @@
+<?php
+	$title= "This Page Has Moved" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/rad2_menu.html'; 
+?>
+
+<br/>
+<p>This page has been separated by subject matter. Please see the following pages:</p>
+<ul>
+	<li><a title="Indoor Radon - Publications" href="/radiation/radon.aspx#publications">Indoor Radon - Publications</a></li>
+	<li><a title="Laser Hair Removal - Publications" href="/radiation/laser-hair-removal/publications.aspx">Laser Hair Removal - Publications</a></li>
+	<li><a title="Radioactive Materials Licensing - Compliance with Increased Controls Requirements" href="/radiation/ram/increased-controls.aspx">Radioactive Materials Licensing - Compliance with Increased Controls Requirements</a></li>
+	<li><a title="Radioactive Materials Licensing - Environmental Monitoring Summaries" href="/ram/environmental-monitoring.aspx">Radioactive Materials Licensing - Environmental Monitoring Summaries</a></li>
+	<li><a title="Texas Radiation Regulatory Conference - Slide Presentations" href="/radiation/conference/presentations.aspx">Texas Radiation Regulatory Conference - Slide Presentations</a></li>
+</ul>
+
+<p>Please <a title="contact us" href="/radiation/contact.aspx">contact us</a> for further information and help.</p>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -17,7 +17,6 @@
 	<li><a title="Mobile Services Authorization" href="#mobile-services">Mobile Services Authorization</a></li>
 	<li><a title="Terminating an Interventional Breast Radiography Certification" href="#terminating">Terminating an Interventional Breast Radiography Certification</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
-	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
 	<li><a title="Additional Information" href="#help">Additional Information</a></li>
 </ul>
 
@@ -55,6 +54,7 @@
 		</li>
 		<li>Submit a copy of the current medical physicist’s survey report for each interventional breast radiography unit</li>
 	</ul>
+	<p>Title 25 of the <a title="Texas Administrative Code (TAC) §289.230(gg)(14)" href="/radiation/mammography/laws-rules.aspx#289230">Texas Administrative Code (TAC) §289.230(gg)(14)</a> requires each registrant to have and implement written operating and safety procedures. </p>
 	<p><em>Note:</em> If the facility plans to perform <strong>Mobile</strong> Interventional Breast Radiography complete section 2 of the application and submit the requested documents and procedures.</p>
 </div>
 
@@ -153,7 +153,7 @@
 	<h2>Personnel Changes</h2>
 	<p><strong>Notification of additions or deletions in personnel is no longer required for interventional breast radiography certifications, with the exception of the radiation safety officer.</strong></p>
 	<ul>
-		<li><strong><em>Radiation Safety Officer (RSO)</em></strong> - Notify the agency in writing within 30 days by completing and submitting either RC 230-4 or RC 42-3:<br/><br/>
+		<li><strong><em>Radiation Safety Officer (RSO)</em></strong> - Notify the agency in writing within 30 days by completing and submitting either of the following forms: <br/><br/>
 			<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 				<caption>Required Forms for Radiation Safety Officer Changes</caption>
 				<thead>
@@ -213,32 +213,25 @@
 	
 	<p><strong>New Applications:</strong></p>
 	<p>
-		Radiation Safety Licensing MC 2003<br/>
 		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing MC 2003<br/>
 		P.O. Box 149347<br /> 
 		Austin, Texas 78714-9347
 	</p>
 	
 	<p><strong>Other Correspondence</strong></p>
 	<p>
-		Radiation Safety Licensing Branch MC 2835<br/>
 		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch MC 2835<br/>
 		P. O. Box 149347<br/>
 		Austin, Texas 78714-9347
 	</p>	
 	
 	<p>
-		Phone Number: (512) 834-6688 ext. 2225<br/>
-		Fax Number: (512) 834-6716
+		<strong>Phone:</strong> (512) 834-6688 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716
 	</p>
 	
-</div>
-
-<div class="Section" id="Procedures">
-	<a class="bookmark" title="procedures" name="procedures"></a>
-	<hr/>
-	<h2>Operating and Safety Procedures</h2>
-	<p>Title 25 of the Texas Administrative Code (TAC) <a title="&#0167;289.230(gg)(14)" href="/radiation/mammography/laws-rules.aspx#289230">&#0167;289.230(gg)(14)</a> requires each registrant to have and implement written operating and safety procedures.</p>
 </div>
 
 <div class="Section" id="Help">

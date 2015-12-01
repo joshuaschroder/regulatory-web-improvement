@@ -1,10 +1,107 @@
 <?php 
 	
-    $title= "Contact Us - Health Facilities Group" ; 
-    include '/home/codio/workspace/includes/header.html'; 
-    include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
+	$title= "Contact Us - Health Facilities Group" ; 
+	include '/home/codio/workspace/includes/header.html'; 
+	include '/home/codio/workspace/includes/menus/hfp_menu.html'; 
 	
 ?>
+<h2>Phone and Fax Numbers</h2>
+<table class="zebraBorder layout" summary="sorted alphabetically by program name" style="width:100%;">
+	<caption>Fax numbers for health facilities programs</caption>
+	<thead>
+		<tr>
+			<th id="table_heading_0">Program Name</th>
+			<th id="table_heading_1">Phone Number</th>
+			<th id="table_heading_2">Fax Number</th>			
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td headers="table_heading_0">Abortion Facility Licensing</td>
+			<td headers="table_heading_1">(512) 834-6646</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Ambulatory Surgical Center Licensing</td>
+			<td headers="table_heading_1">(512) 834-6646</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Architectural Review Group</td>
+			<td headers="table_heading_1">(512) 834-6649</td>
+			<td headers="table_heading_2">(512) 834-6620</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Birthing Center Licensing</td>
+			<td headers="table_heading_1">(512) 834-6646</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Crisis Stabilization Unit Licensing</td>
+			<td headers="table_heading_1">(512) 834-6648</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">End Stage Renal Disease Facility Licensing</td>
+			<td headers="table_heading_1">(512) 834-6646</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Freestanding Emergency Medical Care Facility Licensing</td>
+			<td headers="table_heading_1">(512) 834-6648</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Hospital Licensing - General, Special, or Psychiatric</td>
+			<td headers="table_heading_1">(512) 834-6648</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Narcotic Treatment Program Licensing</td>
+			<td headers="table_heading_1">(512) 834-6600, ext. 2118 or 2016</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Narcotic Treatment Program Compliance</td>
+			<td headers="table_heading_1">(512) 834-6700 ext. 2146</td>
+			<td headers="table_heading_2">(512) 834-6638</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Special Care Facility</td>
+			<td headers="table_heading_1">(512) 834-6648</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>		
+		<tr>
+			<td headers="table_heading_0">Substance Abuse Facility Compliance</td>
+			<td headers="table_heading_1">(512) 834-6700 ext. 2126</td>
+			<td headers="table_heading_2">(512) 834-6638</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Substance Abuse Facility Licensing</td>
+			<td headers="table_heading_1">(512) 834-6600, ext. 2118 or 2016</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+		<tr>
+			<td headers="table_heading_0">Texas Medical Disclosure Panel</td>
+			<td headers="table_heading_1">(512) 834-6648</td>
+			<td headers="table_heading_2">(512) 834-4514</td>
+		</tr>
+	</tbody>
+</table>
+<hr />
+
+<h2>Email Addresses</h2>
+<ul>
+	<li>Submit <a title="Health Facility Program Inquiry" href="mailto:infohflc@dshs.state.tx.us?subject=Health Facility Program Inquiry">email inquiries</a> </li>
+	<li>To e-mail any staff member, the general mailing convention is<strong>
+	<br/><b>firstname.lastname@dshs.state.tx.us</b></strong> </li>
+</ul>
+<hr />
+
+<h2>Zone Offices</h2>
+<p>Contact information for the zone offices is available by finding your <a title="County and Zone Map" href="/facilities/compliance-zones.aspx">County and Zone</a> Map.</p>
+<hr />
+
 
 <h2>Mailing Addresses</h2>
 <h3>Architectural Review Group</h3>
@@ -23,7 +120,7 @@
 <p>Texas Department of State Health Services
 	<br/>Substance Abuse Compliance and Narcotic Treatment Program (MC 1979)
 	<br/>P.O. Box 149347
-    <br/>Austin, TX 78714-9347
+	<br/>Austin, TX 78714-9347
 </p>
 <hr/>
 
@@ -51,41 +148,7 @@
 	<br/>Austin, TX 78754
 </p>
 <p><strong><a title="Map and directions" href="/visitor/default.shtm#exchange">Map and directions</a> to the Exchange Bldg.</strong></p>
-<hr />
 
-<h2>Phone Numbers</h2>
-<ul>
-	<li>Abortion Facility, Ambulatory Surgical Center, End Stage Renal Disease Facility, or Birthing Center Licensing - <strong>(512) 834-6646</strong> </li>
-	<li>Architectural Review Group - <strong>(512) 834-6649</strong> </li>
-	<li>General or Special Hospital, Psychiatric Hospital, Crisis Stabilization Unit, Special Care Facility, or Freestanding Emergency Medical Care Facility Licensing - <strong>(512) 834-6648</strong> </li>
-	<li>Narcotic Treatment Program Licensing - <strong>(512) 834-6600</strong>, ext. 2118 or 2016</li>
-	<li>Narcotic Treatment Program Compliance - <strong>(512) 834-6700</strong> ext. 2146 </li>
-	<li>Substance Abuse Facility Compliance - <strong>(512) 834-6700</strong> ext. 2126 </li>
-	<li>Substance Abuse Facility Licensing - <strong>(512) 834-6600</strong> , ext. 2118 or 2016</li>
-	<li>Texas Medical Disclosure Panel – <strong>(512) 834-6648</strong></li>
-</ul>
-<hr />
 
-<h2>Fax Numbers</h2>
-<ul>
-	<li>Abortion Facility, Ambulatory Surgical Center, End Stage Renal Disease Facility, or Birthing Center Licensing - <strong>(512) 834-4514</strong> </li>
-	<li>Architectural Review Group - <strong>(512) 834-6620</strong> </li>
-	<li>General or Special Hospital, Psychiatric Hospital, Crisis Stabilization Unit, Special Care Facility, or Freestanding Emergency Medical Care Facility Licensing – <strong>(512) 834-4514</strong></li>
-	<li>Substance Abuse Compliance and Narcotic Treatment Program Compliance - <strong>(512) 834-6638</strong> </li>
-	<li>Substance Abuse Facility Licensing or Narcotic Treatment Facility Licensing - <strong>(512) 834-4514</strong> </li>
-	<li>Texas Medical Disclosure Panel – <strong>(512) 834-4514</strong></li>
-</ul>
-<hr />
-
-<h2>Email Addresses</h2>
-<ul>
-	<li>Submit <a title="Health Facility Program Inquiry" href="mailto:infohflc@dshs.state.tx.us?subject=Health Facility Program Inquiry">email inquiries</a> </li>
-	<li>To e-mail any staff member, the general mailing convention is<strong>
-	<br/><b>firstname.lastname@dshs.state.tx.us</b></strong> </li>
-</ul>
-<hr />
-
-<h2>Zone Offices</h2>
-<p>Contact information for the zone offices is available by finding your <a title="County and Zone Map" href="/facilities/compliance-zones.aspx">County and Zone</a> Map.</p>
 
 <?php include '../includes/footer.html' ?>
