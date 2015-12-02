@@ -9,7 +9,6 @@
 <ul>
 	<li><a title="Inspections of X-Ray Machines" href="/radiation/x-ray/inspections.aspx">Inspections of X-Ray Machines</a></li>
 	<li><a title="Tips for Answering an X-Ray Notice of Violation" href="/radiation/x-ray/violation-notice.aspx">Tips for Answering an X-Ray Notice of Violation</a></li>
-	<li><a title="X-Ray Compliance Trends" href="/radiation/x-ray/compliance-trends.aspx">X-Ray Compliance Trends</a></li>
 	<li><a title="Inspections Contact Info" href="/radiation/inspectors.aspx">Inspections Contact Info</a></li>
 </ul>
 
@@ -18,7 +17,6 @@
 <ul>
 	<li><a title="Answering a Notice of Violation for Radioactive Materials Licenses" href="/radiation/ram/violation-notice.aspx">Answering a Notice of Violation for Radioactive Materials Licenses</a></li>
 	<li><a title="Compliance Tips for RAM Inspections" href="/radiation/ram/compliance-tips.aspx">Compliance Tips for RAM Inspections</a></li>
-	<li><a title="RAM Compliance Trends" href="/radiation/ram/compliance-trends.aspx">RAM Compliance Trends</a></li>
 	<li><a title="Environmental Monitoring Summaries - Radioactive Material Licensing" href="/radiation/ram/environmental-monitoring.aspx">Environmental Monitoring Summaries - Radioactive Material Licensing</a></li>
 	<li><a title="Inspections Contact Info" href="/radiation/inspectors.aspx">Inspections Contact Info</a></li>
 </ul>
