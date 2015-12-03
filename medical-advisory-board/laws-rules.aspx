@@ -1,7 +1,7 @@
 <?php
 	$title= "Laws and Rules - Medical Advisory Board" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/mab_menu.html'; 
+    include '/home/codio/workspace/includes/menus/mab2_menu.html'; 
 ?>
 
 <hr/>

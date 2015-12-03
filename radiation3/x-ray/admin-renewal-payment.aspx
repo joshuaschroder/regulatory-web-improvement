@@ -11,11 +11,11 @@
 
 <div class="Page-Content">
 	<hr/>
-	<p>This page outlines the procedures for payment of biennial fees (administrative renewal) for X-ray certificates of registration. For help and support using the online licensing system, see the Online Licensing Help Center, or contact us at (512) 834-6688 ext: 2060.</p>
+	<p>This page outlines the procedures for payment of biennial fees (administrative renewal) for X-ray certificates of registration. For help and support using the online licensing system, see the <a title="Online Licensing Help Center" href="https://www.dshs.state.tx.us/regulatory/online-licensing/">Online Licensing Help Center</a>, or contact us at (512) 834-6688 ext 2060.</p>
 	<p><strong>Payment options accepted include credit cards (VISA, MasterCard, Discover, American Express) or ACH (automated clearing house) electronic check payment methods.</strong></p>
 	
 	<hr/>
-	<h2>Login to the Online Licensing Website</h2>
+	<h2>Login to the Online Licensing System</h2>
 	<p>Begin by opening the <a title="Regulatory Services online licensing system" href="vo.ras.dshs.state.tx.us">Regulatory Services online licensing system</a>.</p>
 	<p>Choose to either register as a new user, or login using your existing credentials. If registering as a new user, an email will be sent confirming the new account. This email will contain a temporary password.</p>
 	<p><strong>Please have your bill in hand when accessing this system.</strong></p>
@@ -45,7 +45,7 @@
 	<p>Once the license is added, it is attached to your email address, and it cannot be added to more than one email address at a time. To detach a license from your email address, contact Radiation Safety Licensing- Operations &amp; Records Group at (512) 834-6688.</p>
 	
 	<h3>Step 3 - Confirm Information</h3>
-	<p>Once the system finds the license entered, a confirmation message will be displayed. If this looks correct, click “I Confirm this is my information,”  then click on the “Next” button.</p>
+	<p>Once the system finds the license entered, a confirmation message will be displayed. If this looks correct, select “I Confirm this is my information,”  then click on the “Next” button.</p>
 	<img class="full" src="/radiation/images/good-news-xray.png" alt="confirmation of license credentials" title="confirmation of license credentials" />
 	<a class="bookmark" title="step-3" name="step-3"></a>
 	<p>On the Quick Start Menu page, verify that the license has been added under the "Manage your license information" section, and click the "Select" button next to the license.</p>

@@ -7,33 +7,22 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="New Certificates of Registration" href="#new">New Certificates of Registration</a>
-		<ul>
-			<li><a title="Certificates of Laser Registration" href="#new-laser">New Certificates of Laser Registration</a></li>
-			<li><a title="Laser Device Services Registration" href="#new-services">New Laser Device Services Registration</a></li>
-			<li><a title="Fee Schedule for New Registrations" href="#new-fees">Fee Schedule for New Registrations</a></li>
-		</ul>
-	</li>
-	<li><a title="Renewing a Certificate of Registration" href="#renewal">Renewing a Certificate of Registration</a>
-		<ul>
-			<li><a title="Renewing a Certificate of Registration for Laser Devices" href="#renewal-laser">Renewing a Certificate of Registration for Laser Devices</a></li>
-			<li><a title="Renewing a Certificate of Registration for Laser Device Services" href="#renewal-services">Renewing a Certificate of Registration for Laser Device Services</a></li>
-			<li><a title="Fee Schedule for Renewals" href="#renewal-fees">Fee Schedule for Renewals</a></li>
-		</ul>
-	</li>
-	<li><a title="Amending a Certificate of Registration" href="#amendments">Amending a Certificate of Registration</a></li>
-	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>		
+	<li><a title="Certificates of Laser Registration" href="#new-laser">New Laser Registration</a></li>
+	<li><a title="Laser Device Services Registration" href="#new-services">New Laser Device Services Registration</a></li>
+	<li><a title="Fee Schedule for New Registrations" href="#new-fees">Fee Schedule for New Registrations</a></li>
+	<li><a title="Renewing a Certificate of Registration for Laser Devices" href="#renewal-laser">Renewing Registration for Laser Devices</a></li>
+	<li><a title="Renewing a Certificate of Registration for Laser Device Services" href="#renewal-services">Renewing Registration for Laser Device Services</a></li>	
+	<li><a title="Amending a Certificate of Registration" href="#amendments">Amending a Registration</a></li>
+	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Registration</a></li>		
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 </ul>
 
 <div class="Section" id="New-Certificates">
-	<hr/>
 	<a class="bookmark" title="new" name="new"></a>
-	<h2>New Certificates of Registration</h2>
-	<br/>
 	<div class="SubSection" id="New-Laser">
 		<a class="bookmark" title="new-laser" name="new-laser"></a>
-		<h3>New Certificates of Laser Registration</h3>
+		<hr/>
+		<h2>New Certificates of Laser Registration</h2>
 		<p>To obtain a new certificate of registration, submit the following forms with the appropriate fee:</p>
 		
 		<table class="zebraBorder layout" summary="sorted by most commonly used forms" style="width:100%;">
@@ -81,8 +70,9 @@
 	<div class="SubSection" id="New-Services">
 		<br/>
 		<a class="bookmark" title="new-services" name="new-services"></a>
-		<h3>New Certificate of Laser Device Services Registration</h3>
-		<p>Laser services include, but are not limited to:</p>
+		<hr/>
+		<h2>New Certificate of Laser Device Services Registration</h2>
+		<p>Laser device services include, but are not limited to:</p>
 		<ul>
 			<li>Alignment, calibration, or repair of lasers</li>
 			<li>Sales and demonstration of lasers</li>
@@ -119,9 +109,10 @@
 	
 	<div class="SubSection" id="New-Fees">
 		<a class="bookmark" title="new-fees" name="new-fees"></a>
-		<br/>
-		<h3>Fee Schedule for New Certificates</h3>
-		<p>Fees for 2-year laser certificates of registration are established in <a title="Title 25, Texas Administrative Code &#0167;289.204" href="/radiation/lasers/laws-rules.aspx#289204">Title 25, Texas Administrative Code &#0167;289.204</a>.</p>
+		<hr/>
+		<h2>Fee Schedule for New Certificates</h2>
+		<p>Fees for laser certificates of registration are established in <a title="Title 25, Texas Administrative Code &#0167;289.204" href="/radiation/lasers/laws-rules.aspx#289204">Title 25, Texas Administrative Code &#0167;289.204</a>.</p>
+		<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biennial fee. Fee payments by check or money order shall be made payable to Texas Department of State Health Services.</p>
 		
 		<table class="zebraBorder layout" summary="sorted alphabetically by laser use category" style="width:80%;">
 			<caption>Fees for New Laser Certificates of Registration</caption>
@@ -149,12 +140,11 @@
 <div class="Section" id="Renewal">
 	<a class="bookmark" title="renewal" name="renewal"></a>
 	<hr/>
-	<h2>Renewing a Certificate of Registration</h2>
 	<br/>
 	<div class="SubSection" id="Renewal-Laser">
 		<a class="bookmark" title="renewal-laser" name="renewal-laser"></a>
-		<h3>Renewing a Certificate of Registration for Laser Devices</h3>
-		<p>To renew a certificate of registration, complete and submit the following forms with the appropriate renewal fee:</p>
+		<h2>Renewing a Certificate of Registration for Laser Devices</h2>
+		<p>To renew a certificate of registration, complete and submit the following forms:</p>
 		
 		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:100%;">
 			<caption>Forms to Renew Certificate of Registration for Laser Devices</caption>
@@ -193,9 +183,9 @@
 	</div>
 	
 	<div class="SubSection" id="Renewal-Services">
-		<br/>
+		<hr/>
 		<a class="bookmark" title="renewal-services" name="renewal-services"></a>
-		<h3>Renewing a Certificate of Registration for Laser Device Services</h3>
+		<h2>Renewing a Certificate of Registration for Laser Device Services</h2>
 		<p>To renew a certificate of registration, complete and submit the following forms with the appropriate renewal fee.</p>
 		
 		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:100%;">
@@ -234,74 +224,45 @@
 		
 	</div>
 	
-	<div class="SubSection" id="Renewal-Fees">
-		<br/>
-		<a class="bookmark" title="renewal-fees" name="renewal-fees"></a>
-		<h3>Fee Schedule for Renewals</h3>
+	<div class="Section" id="Amendments">
+		<hr/>
+		<a class="bookmark" title="amendments" name="amendments"></a>
+		<h2>Amending a Certificate of Registration</h2>
 		
-		<table class="zebraBorder layout" summary="sorted alphabetically by laser use category" style="width:80%;">
-			<caption>Fee Schedule for Renewals of Laser and Laser Device Services Certificates of Registration</caption>
+		<p>Complete and submit the appropriate form to make an amendment to a certificate of registration.</p>
+		
+		<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:80%;">
+			<caption>Laser Registration Amendment Applications and Forms</caption>
 			<thead>
 				<tr>
-					<th id="table_heading_0" style="width:80%;">Laser Use Category</th>
-					<th id="table_heading_1" style="width:20%;">Fee</th>
+					<th id="table_heading_0" style="width:20%;">Form Number</th>
+					<th id="table_heading_1" style="width:80%;">Title</th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr>
-					<td headers="table_heading_0">Human Use, Research, Academic, Veterinary</td>
-					<td headers="table_heading_1">$236</td>
+					<td headers="table_heading_0"><a class="bookmark" title="3012" name="3012"></a>RC 301-2</td>
+					<td headers="table_heading_1"><a title="Application for Lasers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589943083">Application for Lasers</a> <span class="small">(PDF, 23KB)</span></td>
 				</tr>
 				<tr>
-					<td headers="table_heading_0">Industrial Use, Laser Device Services, Laser Light Show</td>
-					<td headers="table_heading_1">$410</td>
+					<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
+					<td headers="table_heading_1"><a title="Registration Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Registration Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
 				</tr>
 			</tbody>
 		</table>
+		<br/>
+		<h3>Name and/or Ownership Change</h3>
+		<p>Certain conditions involving name and ownership changes may require the reissuance of a new certificate of registration.</p>
+		<p>To determine if a new certificate of registration is required for your specific circumstances, see <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
 		
-	</div>
-	
-</div>
-
-<div class="Section" id="Amendments">
-	<hr/>
-	<a class="bookmark" title="amendments" name="amendments"></a>
-	<h2>Amending a Certificate of Registration</h2>
-	
-	<p>Complete and submit the appropriate form to make an amendment to a certificate of registration.</p>
-	
-	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:80%;">
-		<caption>Laser Registration Amendment Applications and Forms</caption>
-		<thead>
-			<tr>
-				<th id="table_heading_0" style="width:20%;">Form Number</th>
-				<th id="table_heading_1" style="width:80%;">Title</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td headers="table_heading_0"><a class="bookmark" title="3012" name="3012"></a>RC 301-2</td>
-				<td headers="table_heading_1"><a title="Application for Lasers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589943083">Application for Lasers</a> <span class="small">(PDF, 23KB)</span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
-				<td headers="table_heading_1"><a title="Registration Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Registration Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
-			</tr>
-		</tbody>
-	</table>
-	<br/>
-	<h3>Name and/or Ownership Change</h3>
-	<p>Certain conditions involving name and ownership changes may require the reissuance of a new certificate of registration.</p>
-	<p>To determine if a new certificate of registration is required for your specific circumstances, see <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
-		
-	<br/>
-	<h3>Laser Safety Officer Change</h3>
-	<p>To change Laser Safety Officer, complete and submit the following form:</p>
-	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
-		<caption>Forms Required for Laser Safety Officer Changes</caption>
-		<thead>
-			<tr>
-				<th id="table_heading_0" style="width:20%;">Form Number</th>
+		<br/>
+		<h3>Laser Safety Officer Change</h3>
+		<p>To change Laser Safety Officer, complete and submit the following form:</p>
+		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
+			<caption>Forms Required for Laser Safety Officer Changes</caption>
+			<thead>
+				<tr>
+					<th id="table_heading_0" style="width:20%;">Form Number</th>
 				<th id="table_heading_1" style="width:80%;">Title / Link</th>
 			</tr>
 		</thead>
@@ -312,9 +273,9 @@
 			</tr>
 		</tbody>
 	</table>
-		
-	<br/>
-	<h3>Deleting or Transferring a Machine</h3>
+	
+	<hr/>
+	<h2>Deleting or Transferring a Machine</h2>
 	<p>To delete or transfer a laser device, complete and submit the following form:</p>
 	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
 		<caption>Forms Required to Delete or Transfer a Machine</caption>
@@ -332,7 +293,7 @@
 		</tbody>
 	</table>	
 	
-
+	
 </div>
 
 <div class="Section" id="Terminate">

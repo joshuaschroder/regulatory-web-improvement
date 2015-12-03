@@ -82,7 +82,7 @@
 	<p>Once reciprocity is granted, the out of state registrant shall submit the appropriate form below at least 3 days prior to each entry into the state:</p>
 	<ul>
 		<li>For industrial radiography - <a title="Notice of Intent to Work in Texas Under Reciprocity, RC 252-3" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589990149">RC 252-3, Notice of Intent to Work in Texas Under Reciprocity</a> <span class="small">(PDF, 27KB)</span></li>
-		<li>For all others - <a title="Notice of Intent to Work in Texas Under Reciprocity - Non Industrial Radiography" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002915">Notice of Intent to Work in Texas Under Reciprocity - Non Industrial-Radiography</a> <span class="small">(PDF, 106KB)</span></li>
+		<li>For all others - <a title="Notice of Intent to Work in Texas Under Reciprocity - Non Industrial Radiography" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002915">Notice of Intent to Work in Texas Under Reciprocity - Non Industrial-Radiography</a> <span class="small">(PDF, 95KB)</span></li>
 	</ul>
 	<p>If the 3 day period will impose an undue hardship, the out-of-state registrant may obtain permission to proceed sooner.</p>
 	<p>If operating <strong><em>industrial radiography</em></strong>, submit your notice to Patricia Mackey by fax at (512) 834-6654. For assistance, call (512) 834-6770 ext. 2000.</p>

@@ -26,7 +26,7 @@
 	<a class="bookmark" title="machine-registration" name="machine-registration"></a>
 	<hr/>
 	<h2>New Registration for Industrial Radiation Machines</h2>
-	<p>To obtain a new registration for Industrial Radiation Machines, submit required forms with appropriate fee and Radiation Safety Officer qualifications.</p>
+	<p>To obtain a new registration for industrial radiation machines, submit required forms with appropriate fee and Radiation Safety Officer qualifications.</p>
 	
 	<h3>Required Forms</h3>
 	<p>Complete and submit RC 226-3 and 226-1 for all new certificates of registration.</p>
@@ -137,7 +137,7 @@
 	<hr/>
 	<h2>New Registration for Radiation Services</h2>
 	<p>Radiation services include but are not limited to: Assemble/Install/Repair, Demonstrate and/or Sell, Consultant (LMP), Provide Equipment (rentals), and 40 hour Agency Accepted Training Course.</p>	
-	<p>To obtain a new registration for X-Ray Radiation Machine Services, submit the appropriate forms with $290 and Radiation Safety Officer qualifications.</p>
+	<p>To obtain a new registration for X-ray radiation machine services, submit the appropriate forms with $290 and Radiation Safety Officer qualifications.</p>
 	
 	<br/>
 	<h3>Required Forms</h3>
@@ -169,7 +169,7 @@
 	</table>
 	<p>Include RSO resume, transcript, bio, or documentation of experience.</p>
 	<p>For registration and radiation safety requirements for radiation machine services see <a title="25 TAC §289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 TAC §289.226</a>.</p>
-	<p>Out of state service companies are required to provide a 3 day notice of work in Texas. For an example notice see <a title="X-Ray Services Notice of Intent to Work in The State of Texas" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003002">X-Ray Services Notice of Intent to Work in The State of Texas</a> <span class="small">(PDF, 99KB)</span>.</p>
+	<p>Out of state service companies are required to provide a 3 day notice of work in Texas. For an example notice see <a title="X-Ray Services Notice of Intent to Work in The State of Texas" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003002">X-Ray Services Notice of Intent to Work in The State of Texas</a> <span class="small">(PDF, 101KB)</span>.</p>
 </div>
 
 <div class="Section" id="Technical-Renewal">

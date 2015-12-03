@@ -12,7 +12,7 @@
 	<li><a title="Obtaining a Certificate of Registration" href="#register">Obtaining a Certificate of Registration</a></li>
 	<li><a title="Fee Schedule" href="#fees">Fee Schedule</a></li>
 	<li><a title="Amending a Certificate of Registration" href="#amend">Amending a Certificate of Registration</a></li>
-	<li><a title="Technical Renewal of Registration" href="#renewals">Technical Renewal of Registration</a></li>
+	<li><a title="Technical Renewal of Registration" href="#renewals">Technical Renewal of Certificate of Registration</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Disposing of an X-Ray Unit" href="#disposal">Disposing of an X-Ray Machine</a></li>	
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
@@ -116,12 +116,12 @@
 		</tbody>
 	</table>
 	
-	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biennial fee. Mail application with fee payment.</p>
+	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee equal to the appropriate biennial fee. Fee payments by check or money order shall be made payable to <em>Texas Department of State Health Services</em>.</p>
 	
 	
 	<h3>Multiple Categories of Use</h3>
 	
-	<p>In the case of a single certificate of registration that authorizes more than one category of use, the total fee is the category listed in <a title="25 TAC, &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC, &#167;289.204</a> with the highest corresponding fee. If this certificate of registration also has additional authorized use locations, the registrant shall pay an additional 30% of the highest fee category for each additional use location.</p>
+	<p>In the case of a single certificate of registration that authorizes more than one category of use, the total fee is the category listed in <a title="25 TAC, &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC, &#167;289.204</a> with the highest corresponding fee. If the certificate of registration  has additional authorized use locations, the registrant shall pay an additional 30% of the highest fee category for each additional use location.</p>
 </div>
 
 <div class="Section" id="Amendments">
@@ -138,8 +138,9 @@
 <div class="Section" id="Renewals">
 	<a class="bookmark" title="renewals" name="renewals"></a>
 	<hr/>
-	<h2>Technical Renewal of Registration</h2>
-	<p>To obtain an 8 year technical renewal, complete and submit the appropriate forms. The agency will mail a renewal packet within 45 days of the expiration date. The forms are:</p>
+	<h2>Technical Renewal of Certificate of Registration</h2>
+	<p>Renewal applications shall be submitted every eight years. The agency will send a renewal reminder letter and application by mail 45 days prior to the expiration date.</p>
+	<p>To renew a Certificate of Registration, complete and submit the following forms:</p>
 	
 	<table class="zebraBorder layout" summary="">
 		<caption></caption>
@@ -154,7 +155,7 @@
 			<tr>
 				<td headers="table_heading_0">RC 226-2</td>
 				<td headers="table_heading_1"><a title="Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">Registration Application for Users of Radiation Machines in Healing Arts, Veterinary Medicine and Academic Facilities</a> <span class="small">(PDF, 27KB)</span></td>
-				<td headers="table_heading_2"><span class="small"><a title="See Note 1" href="#renewal-1">See Note 1</a></span></td>
+				<td headers="table_heading_2"><span class="small"><a title="See Note 1" href="#renewal-1">See Note</a></span></td>
 			</tr>
 			<tr>
 				<td headers="table_heading_0">RC 226-1</td>
@@ -164,14 +165,11 @@
 		</tbody>
 	</table>
 	
-	<p><strong>Section Notes:</strong></p>
-	<ol class="notes">
-		<li>
-			<a class="bookmark" title="renewal-1" name="renewal-1"></a>
-			Submit one form RC 226-2 for each use location. Address any special conditions on the certificate of registration.
-		</li>
-	</ol>
-
+	<a class="bookmark" title="renewal-1" name="renewal-1"></a>
+	<p><strong>Section Notes:</strong></p>	
+	<p>Submit one application form, RC 226-2 for each use location. Report any special authorizations such as mobile or self-referred screening on the application.</p>
+	
+	
 </div>
 
 <div class="Section" id="Terminate">
@@ -186,14 +184,14 @@
 	<a class="bookmark" title="disposal" name="disposal"></a>
 	<h2>Disposing of an X-Ray Unit</h2>
 	<p>For information on <a title="disposing of X-ray equipment in Texas" href="https://www.tceq.texas.gov/permitting/radmat/licensing/xray_disposal.html">disposing of X-ray equipment in Texas</a>, visit the Texas Commission on Environmental Quality website.</p>
-</div>
-
+	</div>
+	
 <div class="Section" id="Delete-Transfer">
 	<hr/>
 	<a class="bookmark" title="delete" name="delete"></a>
 	<h2>Deleting or Transferring a Machine</h2>
 	<p>To delete or transfer an X-ray machine, complete and submit <a title="Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span>.</p>
-	<p>Deletions with a replacement in the same category need not be reported. Keep all install and transfer/disposal records on-site for inspection purposes.</p>
+	<p>Deletions with a replacement in the same category do not need to be reported. Keep all installation and transfer/disposal records on-site for inspection purposes.</p>
 </div>
 
 <div class="Section" id="Operating-Safety">
@@ -228,7 +226,7 @@
 	<hr/>
 	<a class="bookmark" title="mobile-services" name="mobile-services"></a>
 	<h2>Mobile Services</h2>
-	<p>Authorization is required before beginning mobile services.</p>
+	<p>Authorization is required prior to providing mobile services.</p>
 	<p>See form <a title="RC 226-8, Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(g). Mobile Service Operation" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938358">RC 226-8, Excerpt from 25 Texas Administrative Code (TAC) Section 289.226(g). Mobile Service Operation</a> <span class="small">(PDF, 41KB)</span> for requirements.</p>
 	
 </div>
@@ -241,16 +239,16 @@
 	<br/>
 	<ul>
 		<li>
-			<h3>Coronary Heart Disease or Atheriosclerosis Screening Utilizing a CT Machine</h3>
+			<h3>Coronary Heart Disease or Atherosclerosis Screening Utilizing a CT Machine</h3>
 			See form <a title="RC 226-9, Authorization for Self-Referred CT Coronary Calcium Screening " href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=59245">RC 226-9, Authorization for Self-Referred CT Coronary Calcium Screening</a> <span class="small">(PDF, 48KB)</span><br/><br/>
 		</li>
 		<li>
-			<h3>Osteporosis Screening Utilizing a Bone Density Machine</h3>
+			<h3>Osteoporosis Screening Utilizing a Bone Density Machine</h3>
 			See form <a title="RC 226-10, Healing Arts Screening Requirements for Osteoporosis" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=59244">RC 226-10, Healing Arts Screening Requirements for Osteoporosis</a> <span class="small">(PDF, 18KB)</span><br/><br/>
 		</li>
 		<li>
 			<h3>Low Dose Lung Screening Utilizing a CT Machine</h3>
-			See form <a title="RC 226-11, Authorization for Self-Referred Low Dosage CT Lung Cancer Screening" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002526">RC 226-11, Authorization for Self-Referred Low Dosage CT Lung Cancer Screening</a> <span class="small">(PDF, 35KB)</span><br/><br/>
+			See form <a title="RC 226-11, Authorization for Self-Referred Low Dose CT Lung Cancer Screening" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002526">RC 226-11, Authorization for Self-Referred Low Dose CT Lung Cancer Screening</a> <span class="small">(PDF, 35KB)</span><br/><br/>
 		</li>
 	</ul>
 </div>
@@ -266,8 +264,16 @@
 			See form <a title="Form LRS-35, Additional Information for Accelerator Registration, Includes Shielding Form" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19918"> LRS-35, Additional Information for Accelerator Registration, Includes Shielding Form</a> <span class="small">(PDF, 21KB)</span>.<br/><br/>
 		</li>
 		<li>
-			<h3>Registration of an Existing Accelerator</h3>
-			See form  ------------<br/><br/>
+			<h3>Registration of an Existing Accelerator Due to Ownership Change</h3>
+			<p>See <a title="Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership</a> <span class="small">(PDF, 42KB)</span></p>
+			<p>Submit an <a title="amendment application RC 226-2" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19923">amendment application RC 226-2</a> <span class="small">(PDF, 27KB)</span> and include the following information:</p>
+			<ul>
+				<li>Supervising Radiation Oncologist credentials to include curriculum vitae (CV),  American Board of Radiology Certification and Texas Medical license</li>
+				<li>Written operation and safety procedures – See <a title="regulatory guide 4.6" href="/radiation/x-ray/regulatory-guides.aspx#46">regulatory guide 4.6</a> </li>
+				<li>Copy of most current accelerator survey to include diagram of vault and survey summary</li>
+				<li>Diagram of vault with shielding</li>
+				<li>Diagram of vault with surrounding  areas shown (i.e. vault, hallways, offices, parking lot)<br/><br/></li>
+			</ul>
 		</li>
 		<li>
 			<h3>Registration of a Replacement Accelerator Installed in the Same Orientation, Same Energy or Less, and No Additional Shielding</h3>
@@ -285,7 +291,7 @@
 	<a class="bookmark" title="" name=""></a>
 	<hr/>
 	<h2>Registering an Electronic Brachytherapy Machine (EBT)</h2>
-	<p>See Form ------</p>
+	<p>For information on medical Accelerators or Electronic Brachytherapy Devices, contact Pat Parma at (512) 834-6688 ext. 2241.</p>
 </div>
 
 <div class="Section" id="Additional-Info">
@@ -321,7 +327,6 @@
 		Austin, Texas 78714-9347
 	</p>
 
-	
 	<p>
 		<strong>Phone:</strong> (512) 834-6688 ext. 2225<br/>
 		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717

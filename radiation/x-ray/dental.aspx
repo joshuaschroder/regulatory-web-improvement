@@ -17,9 +17,9 @@
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Disposing of an X-Ray Machine" href="#disposal">Disposing of an X-Ray Machine</a></li>
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
-	<li><a title="Contact Information" href="#contact">Contact Information</a></li>	
 	<li><a title="Mobile Dental Services" href="#mobile-services">Mobile Dental Services</a></li>
 	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>	
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>	
 	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
 </ul>
 
@@ -86,6 +86,7 @@
 	</table>
 	
 	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee.</p>
+	<p>Fee payments by check or money order shall be made payable to <em>Texas Department of State Health Services</em>.</p>
 	
 	<h3>Additional Use Location</h3>
 	
@@ -122,37 +123,8 @@
 	<a class="bookmark" title="delete" name="delete"></a>
 	<h2>Deleting or Transferring a Machine</h2>
 	<p>To delete or transfer an X-ray machine, complete and submit <a title="Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span>.</p>
-	<p>Deletions with a replacement in the same category need not be reported. Keep all install and transfer/disposal records on-site for inspection purposes.</p>
-</div>
-
-<div class="Section" id="Contact-Information">
-	<hr/>
-	<a class="bookmark" title="contact" name="contact"></a>
-	<h2>Contact Information</h2>
 	
-	<p><strong>For New Applications</strong></p>
-	<p>
-		Texas Department of State Health Services <br/>
-		Radiation Safety Licensing Branch<br/>
-		Mail Code 2003<br/>
-		P. O. Box 149347<br/>
-		Austin, TX 78714-9347	
-	</p>
-	
-	<p><strong>For Other Correspondence</strong></p>
-	<p>
-		Texas Department of State Health Services<br/>
-		Radiation Safety Licensing Branch<br/>
-		Mail Code 2835<br/>
-		P. O. Box 149347<br/>
-		Austin, Texas 78714-9347
-	</p>
-	
-	<p>
-		<strong>Telephone:</strong> (512) 834-6688 ext. 2225<br/>
-		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
-	</p>
-	
+	<p>Deletions with a replacement in the same category do not need to be reported. Keep all installation and transfer/disposal records on-site for inspection purposes.</p>
 </div>
 
 <div class="Section" id="Mobile-Services">
@@ -190,6 +162,35 @@
 	</table>
 </div>
 
+<div class="Section" id="Contact-Information">
+	<hr/>
+	<a class="bookmark" title="contact" name="contact"></a>
+	<h2>Contact Information</h2>
+	
+	<p><strong>For New Applications</strong></p>
+	<p>
+		Texas Department of State Health Services <br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2003<br/>
+		P. O. Box 149347<br/>
+		Austin, TX 78714-9347	
+	</p>
+	
+	<p><strong>For Other Correspondence</strong></p>
+	<p>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2835<br/>
+		P. O. Box 149347<br/>
+		Austin, Texas 78714-9347
+	</p>
+	
+	<p>
+		<strong>Telephone:</strong> (512) 834-6688 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
+	</p>
+	
+</div>
 
 <div class="Section" id="Additional-Information">
 	<hr/>
@@ -199,7 +200,6 @@
 	<p>For a list of frequent questions, please see the <a title="Medical X-Ray Registration FAQs" href="/radiation/x-ray/medical-faq.aspx">medical X-ray registration FAQs</a> page.</p>
 	<p>If you have further questions regarding registration procedures or fees, please contact us at (512) 834-6688 ext. 2225.</p>
 </div>
-
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -15,10 +15,10 @@
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Disposing of an X-Ray Unit" href="#disposal">Disposing of an X-Ray Machine</a></li>	
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
-	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 	<li><a title="Operating and Safety Procedures" href="#procedures">Operating and Safety Procedures</a></li>
 	<li><a title="Veterinary Accelerator" href="#accelerator">Veterinary Accelerator</a></li>
 	<li><a title="Mobile Veterinary Services" href="#mobile-services">Mobile Veterinary Services</a></li>
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
 </ul>
 <hr/>
@@ -74,7 +74,7 @@
 		<tbody>
 			<tr>
 				<td headers="table_heading_0">Veterinary</td>
-				<td headers="table_heading_1">Radiographic, CT, Fluoroscopy &amp; Accelerators</td>
+				<td headers="table_heading_1">Radiographic, Computerized Tomography (CT), Fluoroscopy &amp; Accelerators</td>
 				<td headers="table_heading_2">$290</td>
 			</tr>		
 			<tr>
@@ -86,10 +86,11 @@
 	</table>
 	
 	<p>Each initial application for a certificate of registration shall be accompanied by a non-refundable fee.</p>
+	<p>Fee payments by check or money order shall be made payable to <em>Texas Department of State Health Services</em>.</p>
 	
 	<h3>Additional Use Locations</h3>
 	
-	<p>If this certificate of registration also has additional authorized use sites, the registrant shall pay an additional 30% fee for each additional use location.</p>
+	<p>If the certificate of registration has additional authorized use sites, the registrant shall pay an additional 30% for each additional use location.</p>
 </div>
 
 <div class="Section" id="Amendments">
@@ -120,36 +121,7 @@
 	<hr/>
 	<a class="bookmark" title="delete" name="delete"></a>
 	<h2>Deleting or Transferring a Machine</h2>
-	<p>To delete or transfer a veterinary X-ray machine, complete and submit <a title="Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span>. Deletions with a replacement in the same category need not be reported. Keep all install and transfer/disposal records on-site for inspection purposes.</p>
-</div>
-
-<div class="Section" id="Contact">
-	<hr/>
-	<a class="bookmark" title="contact" name="contact"></a>
-	<h2>Contact Information</h2>
-	
-	<p><strong>For New Applications</strong></p>
-	<p>
-		Texas Department of State Health Services <br/>
-		Radiation Safety Licensing Branch<br/>
-		Mail Code 2003<br/>
-		P. O. Box 149347<br/>
-		Austin, TX 78714-9347	
-	</p>
-	
-	<p><strong>For Other Correspondence</strong></p>
-	<p>
-		Texas Department of State Health Services<br/>
-		Radiation Safety Licensing Branch<br/>
-		Mail Code 2835<br/>
-		P. O. Box 149347<br/>
-		Austin, Texas 78714-9347
-	</p>
-	
-	<p>
-		<strong>Telephone:</strong> (512) 834-6668 ext. 2225<br/>
-		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
-	</p>
+	<p>To delete or transfer a veterinary X-ray machine, complete and submit <a title="Radiation Machine Transfer/Disposal" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19922">RC-18R, Radiation Machine Transfer/Disposal Form</a> <span class="small">(PDF, 16KB)</span>. Deletions with a replacement in the same category do not need to be reported. Keep all installation and transfer/disposal records on-site for inspection purposes.</p>
 </div>
 
 <div class="Section" id="Operating-Safety">
@@ -193,6 +165,35 @@
 	<h2>Mobile Veterinary Services</h2>
 	<p>Authorization must be obtained prior to providing mobile veterinary services.</p>
 	<p>See form <a title="RC 226-8, Excerpt from 25 Texas Administrative Code (TAC) &#0167;289.226(g). Mobile Service Operation" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589938358">RC 226-8, Excerpt from 25 Texas Administrative Code (TAC) &#0167;289.226(g). Mobile Service Operation</a> <span class="small">(PDF, 41KB)</span> for requirements.</p>
+</div>
+
+<div class="Section" id="Contact">
+	<hr/>
+	<a class="bookmark" title="contact" name="contact"></a>
+	<h2>Contact Information</h2>
+	
+	<p><strong>For New Applications</strong></p>
+	<p>
+		Texas Department of State Health Services <br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2003<br/>
+		P. O. Box 149347<br/>
+		Austin, TX 78714-9347	
+	</p>
+	
+	<p><strong>For Other Correspondence</strong></p>
+	<p>
+		Texas Department of State Health Services<br/>
+		Radiation Safety Licensing Branch<br/>
+		Mail Code 2835<br/>
+		P. O. Box 149347<br/>
+		Austin, Texas 78714-9347
+	</p>
+	
+	<p>
+		<strong>Telephone:</strong> (512) 834-6668 ext. 2225<br/>
+		<strong>Fax:</strong> (512) 834-6716 and (512) 834-6717
+	</p>
 </div>
 
 <div class="Section" id="Additional-Information">

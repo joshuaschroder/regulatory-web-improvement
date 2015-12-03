@@ -1,4 +1,0 @@
-urlname;parentname;baseref;result;warningstring;infostring;valid;url;line;column;name;dltime;size;checktime;cached;level;modified
-/radiation/x-ray/compliance-trends.aspx;http://ecology-sandra.codio.io:3000/radiation/inspections.aspx;;404 Not Found;;;False;http://ecology-sandra.codio.io:3000/radiation/x-ray/compliance-trends.aspx;551;6;X-Ray Compliance Trends;-1;236;3.15227794647;0;2;
-/radiation/ram/compliance-trends.aspx;http://ecology-sandra.codio.io:3000/radiation/inspections.aspx;;404 Not Found;;;False;http://ecology-sandra.codio.io:3000/radiation/ram/compliance-trends.aspx;560;6;RAM Compliance Trends;-1;234;3.29137802124;0;2;
-# Stopped checking at 2015-12-02 16:59:59+000 (45 seconds)
