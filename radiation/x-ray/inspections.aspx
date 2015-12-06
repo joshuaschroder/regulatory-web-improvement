@@ -9,7 +9,7 @@
 
 <hr/>
 <h2>How Long Does an Inspection Take?</h2>
-<p>A routine inspection involves a review of certain paperwork, testing some of the X-ray units, observation of use activities, and discussions of compliance and/or noncompliance issues. The time will vary based on the number of X-ray units and the type of facility.  A small dental or chiropractic office with one or two X-ray units may take about an hour or so to inspect.  A large hospital may take about 3-5 hours to inspect. Inspection times may vary based on the orderliness of recordkeeping and the overall maintenance of X-ray units.</p>
+<p>A routine inspection involves a review of certain paperwork, testing some of the X-ray units, observation of use activities, and discussions of compliance and/or noncompliance issues. The time will vary based on the number of X-ray units and the type of facility. A small dental or chiropractic office with one or two X-ray units may take about two hours to inspect. A large hospital may take about 7 hours to inspect. Inspection times may vary based on the orderliness of recordkeeping and the overall maintenance of X-ray units.</p>
 
 <hr/>
 <h2>How Often Do We Inspect?</h2>
@@ -123,7 +123,7 @@
 
 <hr/>
 <h2>What Records Are Reviewed and How Long Does That Take?</h2>
-<p>Review of inspection documents will take additional time and will depend on the size and type of the facility.  A small dental office or chiropractor will take approximately 30 minutes.  A large hospital will take 3-4 hours.</p>
+<p>Review of inspection documents will take additional time and will depend on the size and type of the facility.  A small dental office or chiropractor will take approximately 45 minutes.  A large hospital will take 3-4 hours.</p>
 <p>15-30 minutes should be allowed for the inspector to discuss the inspection findings with the radiation safety officer at the conclusion of the inspection.</p>
 <p>The inspector may ask to review the following records during the inspection:</p>
 
