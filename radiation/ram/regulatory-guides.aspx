@@ -131,6 +131,10 @@
 			<td headers="table_heading_1"><a title="License Applications for the Use of Accelerators to Produce Radioactive Material" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002967">Use of Accelerators to Produce Radioactive Material</a> <span class="small">(PDF, 229KB)</span></td>
 		</tr>
 		<tr>
+			<td headers="table_heading_0"><a class="bookmark" name="315" title="314"></a>3.14</td>
+			<td headers="table_heading_1"><a title="License Applications for the Use of Self-Contained (Self-Shielded or Dry Source-Storage) Gamma Irradiators" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003645">Self-Contained Gamma Irradiators (Self-Shielded or Dry Source-Storage)</a> <span class="small">(PDF, 817KB)</span></td>
+		</tr>
+		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="315" title="315"></a>3.15</td>
 			<td headers="table_heading_1"><a title="License Applications for the Veterinary Use of Radioactive Material" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002968">Veterinary Use of Radioactive Material</a> <span class="small">(PDF, 81KB)</span></td>
 		</tr>
