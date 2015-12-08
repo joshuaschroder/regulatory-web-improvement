@@ -29,9 +29,9 @@
 
 <p><strong><a title="The Radiation Information Network" href="http://www.physics.isu.edu/radinf/index.html">The Radiation Information Network</a></strong>- This site contains information about Radiation and the professions of Radiation Protection. It is hosted by the Idaho State University Health Physics Program and Student Chapter of the Health Physics Society.</p>
 
-<p><strong><a title="Radiation Registration Administrative Renewal" href="https://vo.ras.dshs.state.tx.us/">Radiation Registration Administrative Renewal</a></strong></p>
+<p><strong><a title="Radiation Registration Biennial Fees" href="https://vo.ras.dshs.state.tx.us/">Radiation Registration Biennial Fees</a></strong></p>
 
-<p><strong><a title="Radioactive Material License Administrative Renewal" href="https://vo.ras.dshs.state.tx.us/">Radioactive Material License Administrative Renewal</a></strong></p>
+<p><strong><a title="Radioactive Material License Biennial Fees" href="https://vo.ras.dshs.state.tx.us/">Radioactive Material License Biennial Fees</a></strong></p>
 
 <p><strong><a title="Southern States Energy Board" href="http://www.sseb.org/">Southern States Energy Board</a> </strong>-- The Board's mission is to enhance economic development and the quality of life in the South through innovations in energy and environmental programs and technologies. </p>
 

@@ -68,7 +68,7 @@
 		
 		<p><strong>Licensing Fees</strong></p>
 		<p>
-			Phone: (512) 834-6688 ext. 2059 &amp; 2060<br/>
+			Phone: (512) 834-6688 ext. 2052<br/>
 			Fax: (512) 834-6717<br/>
 		</p>
 		

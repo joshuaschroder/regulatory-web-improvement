@@ -20,7 +20,7 @@
 	<li><a title="How is the Envision OV LTNDT 70 classified?" href="#12">How is the Envision OV LTNDT 70 classified?</a></li>
 	<li><a title="How is a PMI/XRF gun classified?" href="#13">How is a PMI/XRF gun classified?</a></li>
 	<li><a title="What are the current fee amounts?" href="#14">What are the current fee amounts?</a></li>
-	<li><a title="Will we get a new certificate after we pay our administrative renewal bill?" href="#15">Will we get a new certificate after we pay our administrative renewal bill?</a></li>
+	<li><a title="Will we get a new certificate after we pay our biennial fees?" href="#15">Will we get a new certificate after we pay our biennial fees?</a></li>
 	<li><a title="Why doesn't our certificate have an expiration date?" href="#16">Why doesn't our certificate have an expiration date?</a></li>
 	<li><a title="Do we need to send fees when adding a new site or x-ray machine?" href="#17">Do we need to send fees when adding a new site or x-ray machine?</a></li>
 	<li><a title="How do we get a duplicate/copy of the Certificate of Registration?" href="#18">How do we get a duplicate/copy of the Certificate of Registration?</a></li>
@@ -235,7 +235,7 @@
 
 <hr/>
 <a class="bookmark" title="15" name="15"></a>
-<h2>Will we get a new certificate after we pay our administrative renewal bill?</h2>
+<h2>Will we get a new certificate after we pay our biennial fees?</h2>
 <p>No, you will not receive a new certificate.</p>
 
 <hr/>

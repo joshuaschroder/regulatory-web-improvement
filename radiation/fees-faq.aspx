@@ -10,8 +10,8 @@
 <p>No, we cannot process any payments by phone.</p>
 
 <hr/>
-<p><strong>2. I received a BILL FOR MY RADIATION CONTROL LICENSE by mail.  Can I pay this fee with a credit card?  (This is also known as an administrative renewal or two-year fee.) </strong></p>
-<p>Certain types of registration and certification administrative renewal fees can be paid by credit card through the <a title="Regulatory Services Online Licensing website" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing website</a>. Examples of administrative renewal fees that can be paid by credit card are:  R#, Z#, ZF#, ZP#, and M# certificates.</p>
+<p><strong>2. I received a BILL FOR MY RADIATION CONTROL LICENSE by mail.  Can I pay this fee with a credit card?  (This is also known as a biennial fee.) </strong></p>
+<p>Certain types of registration and certification biennial fees can be paid by credit card through the <a title="Regulatory Services Online Licensing website" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing website</a>. Examples of biennial fees that can be paid by credit card are:  R#, Z#, ZF#, ZP#, and M# certificates.</p>
 
 <hr/>
 <p><strong>3. What if I have a license number that is not in the above list?  Are there alternate methods of payment?  </strong></p>
@@ -20,7 +20,7 @@
 
 <hr/>
 <p><strong>4. Can a new applicant pay for fees by credit card?</strong></p>
-<p>No.  We cannot accept payment for new application in this online system for new applications. This online system will only allow for administrative renewal payments.</p>
+<p>No.  We cannot accept payment for new application in this online system for new applications. This online system will only allow for biennial fee payments.</p>
 
 <hr/>
 <p><strong>5. When paying through the Online Services site, what is my Board Type?</strong></p>
@@ -41,7 +41,7 @@
 
 <hr/>
 <p><strong>8. I received a bill in the mail, but I closed/sold my practice/business.  What do I do now?</strong></p>
-<p>Please <a title="contact the agency" href="/radiation/contact.aspx">contact the agency</a> for termination instructions. (512) 834-6688</p>
+<p>Please <a title="contact the agency" href="/radiation/contact.aspx">contact the agency</a> for termination instructions. (512) 834-6688 ext. 2052.</p>
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
