@@ -63,7 +63,20 @@
 	<hr/>
 	<a class="bookmark" title="renew" name="renew"></a>
 	<h2>Renewal Registration</h2>
-	<p>To renew a certificate of registration, complete and submit the following forms with the renewal fee of $1298:</p>
+	<p>Laser hair removal certificates of registration are valid for a period of 2 years. Facilities may either renew online or by mail.</p>
+	
+	<h3>Renew Online</h3>
+	<p>Facility registrations may be renewed online using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing System</a>.</p>
+	<p>For detailed instructions on how to use the online licensing system, see the following resources:</p>
+	<ul>
+		<li><a title="Laser Hair Removal Online Renewal Instructions" href="/radiation/laser-hair-removal/online-payments.aspx">Laser Hair Removal Online Renewal Instructions</a></li>
+		<li><a title="Online Licensing Help Center" href="/regulatory/online-licensing/">Online Licensing Help Center</a></li>
+		<li><a title="Radiation Fees FAQs" href="/radiation/fees-faq.aspx">Radiation Fees FAQs</a></li>
+	</ul>
+	
+	
+	<h3>Renew by Mail</h3>
+	<p>To renew a certificate of registration by mail, complete and submit the following forms with the renewal fee of $1298:</p>
 	
 	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 		<caption>Applications and Forms for Laser Hair Removal Facility Renewal Registration</caption>

@@ -65,7 +65,7 @@
 	<ol class="notes">
 		<li>
 			<a class="bookmark" title="initial-1" name="initial-1"></a>
-			You must successfully complete 40 hours of laser hair removal training at an agency-accepted training program. For a list of agency-accepted training programs, please see the <a title="Training Programs" href="/radiation/laser-hair-removal/training-courses.aspx">training programs</a> page.
+			You must successfully complete 40 hours of laser hair removal training at an agency-accepted training program. For a list of agency-accepted training programs, see the <a title="Training Programs" href="/radiation/laser-hair-removal/training-courses.aspx">training programs</a> page.
 		</li>
 		<li>
 			<a class="bookmark" title="initial-2" name="initial-2"></a>
@@ -87,9 +87,20 @@
 	<a class="bookmark" title="renew" name="renew"></a>
 	<hr/>
 	<h2>Individuals - Renewal Registration</h2>
-	<p>To renew a certificate of registration, submit the appropriate form and fee.</p>
 	<p>For continuing education topics and requirements for individuals, refer to <a title="25 Texas Administrative Code, &#0167;289.302(r)" href="/radiation/laser-hair-removal/laws-rules.aspx#289302">25 Texas Administrative Code, &#0167;289.302(r)</a>. To determine your specific continuing education responsibility, refer to your certificate of registration.</p>
 	<p>Do not submit continuing education documentation at this time. Keep for audit purposes. For auditing purposes, document topics covered, source of instruction (ex: website address, book title, institution of attendance, etc.), time covering material, and date.</p>
+	
+	<h3>Renew Online</h3>
+	<p>Individual registrations may be renewed online using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing System</a>.</p>
+	<p>For detailed instructions on how to use the online licensing system, see the following resources:</p>
+	<ul>
+		<li><a title="Laser Hair Removal Online Payment Instructions" href="/radiation/laser-hair-removal/online-payments.aspx">Laser Hair Removal Online Payment Instructions</a></li>
+		<li><a title="Online Licensing Help Center" href="/regulatory/online-licensing/">Online Licensing Help Center</a></li>
+		<li><a title="Radiation Fees FAQs" href="/radiation/fees-faq.aspx">Radiation Fees FAQs</a></li>
+	</ul>
+	
+	<h3>Renew by Mail</h3>
+	<p>To renew a certificate of registration by mail, submit the appropriate form and fee to the address specified on the application form.</p>
 	
 	<table class="zebraBorder layout" summary="sorted by progression of registration types" style="width:100%;">
 		<caption>Required Applications and Fees for Renewal Individual Laser Hair Removal Registration</caption>

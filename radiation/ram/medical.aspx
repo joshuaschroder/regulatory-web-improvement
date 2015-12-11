@@ -34,6 +34,8 @@
 	</tbody>
 </table>
 
+<!--p>For fee schedules, see <a title="25 Texas Administrative Code &#0167;289.204(e)" href="/radiation/ram/laws-rules.aspx#289204">25 Texas Administrative Code &#0167;289.204(e)</a>.</p-->
+
 <hr/>
 <h2>Other Guidance Information</h2>
 <p>Supplemental guidance information is available for the following uses of radioactive material:</p>

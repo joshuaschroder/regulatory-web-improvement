@@ -13,7 +13,8 @@
 <ul>
 	<li><a title="New Registration for Industrial Radiation Machines" href="#machine-registration">New Registration for Industrial Radiation Machines</a></li>
 	<li><a title="New Registration for Radiation Services" href="#services-registration">New Registration for Radiation Services</a></li>
-	<li><a title="Registration Technical Renewal" href="#technical-renewal">Registration Technical Renewal</a></li>
+	<li><a title="Biennial Fees" href="#biennial-fees">Biennial Fees</a></li>	
+	<li><a title="Registration Technical Renewal" href="#technical-renewal">Technical Renewal</a></li>
 	<li><a title="Reciprocity" href="#reciprocity">Reciprocal Recognition</a></li>
 	<li><a title="Registration Amendments" href="#amendments">Registration Amendments</a></li>
 	<li><a title="Industrial Accelerator Information" href="#accelerator">Industrial Accelerator Information</a></li>
@@ -170,6 +171,14 @@
 	<p>Include RSO resume, transcript, bio, or documentation of experience.</p>
 	<p>For registration and radiation safety requirements for radiation machine services see <a title="25 TAC §289.226" href="/radiation/x-ray/laws-rules.aspx#289226">25 TAC §289.226</a>.</p>
 	<p>Out of state service companies are required to provide a 3 day notice of work in Texas. For an example notice see <a title="X-Ray Services Notice of Intent to Work in The State of Texas" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590003002">X-Ray Services Notice of Intent to Work in The State of Texas</a> <span class="small">(PDF, 101KB)</span>.</p>
+</div>
+
+<div class="Section" id="Biennial-Fees">
+	<a class="bookmark" title="biennial-fees" name="biennial-fees"></a>
+	<hr/>
+	<h2>Biennial Fees for X-Ray Registration</h2>
+	<p>Biennial fees must be paid every two years in order to continue operating X-ray devices. The fee covers all direct and indirect costs associated with licensing a company or individual.</p>
+	<p>For detailed information on biennial fees and payment methods accepted, see <a title="Payment of Biennial Fees for X-Ray Registration" href="/radiation/x-ray/biennial-fees.aspx">Biennial Fees for X-Ray Registration</a>.</p>
 </div>
 
 <div class="Section" id="Technical-Renewal">

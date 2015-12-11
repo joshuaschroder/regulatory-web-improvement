@@ -10,6 +10,7 @@
 	<li><a title="Certificates of Laser Registration" href="#new-laser">New Laser Registration</a></li>
 	<li><a title="Laser Device Services Registration" href="#new-services">New Laser Device Services Registration</a></li>
 	<li><a title="Fee Schedule for New Registrations" href="#new-fees">Fee Schedule for New Registrations</a></li>
+	<li><a title="Biennial Fees" href="#biennial-fees">Biennial Fees</a></li>
 	<li><a title="Renewing a Certificate of Registration for Laser Devices" href="#renewal-laser">Renewing Registration for Laser Devices</a></li>
 	<li><a title="Renewing a Certificate of Registration for Laser Device Services" href="#renewal-services">Renewing Registration for Laser Device Services</a></li>	
 	<li><a title="Amending a Certificate of Registration" href="#amendments">Amending a Registration</a></li>
@@ -19,6 +20,7 @@
 
 <div class="Section" id="New-Certificates">
 	<a class="bookmark" title="new" name="new"></a>
+	
 	<div class="SubSection" id="New-Laser">
 		<a class="bookmark" title="new-laser" name="new-laser"></a>
 		<hr/>
@@ -137,6 +139,13 @@
 	
 </div>
 
+<div class="Section" id="Biennial-Fees">
+		<a class="bookmark" title="biennial-fees" name="biennial-fees"></a>
+		<h2>Biennial Fees</h2>
+	<p>Biennial fees must be paid every two years in order to continue operating laser devices. The fee covers all direct and indirect costs associated with licensing a company or individual.</p>
+		<p>For detailed information, including payment methods accepted, see <a title="Payment of Biennial Fees for Laser and Laser Device Services Registration" href="/radiation/lasers/biennial-fees.aspx">Payment of Biennial Fees for Laser and Laser Device Services Registration</a>.</p>
+</div>
+
 <div class="Section" id="Renewal">
 	<a class="bookmark" title="renewal" name="renewal"></a>
 	<hr/>
@@ -179,90 +188,89 @@
 			<a class="bookmark" title="note-42L" name="note-42L"></a>
 			<p>42-L: Required only if there has been an LSO change.</p>
 		</blockquote>
-		
+		<div class="SubSection" id="Renewal-Services">
+			<hr/>
+			<a class="bookmark" title="renewal-services" name="renewal-services"></a>
+			<h2>Renewing a Certificate of Registration for Laser Device Services</h2>
+			<p>To renew a certificate of registration, complete and submit the following forms with the appropriate renewal fee.</p>
+			
+			<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:100%;">
+				<caption>Forms to Renew Certificate of Laser Registration</caption>
+				<thead>
+					<tr>
+						<th id="table_heading_0" style="width:20%;">Form Number</th>
+						<th id="table_heading_1" style="width:60%;">Title / Link</th>
+						<th id="table_heading_2" style="width:20%;">Notes</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
+						<td headers="table_heading_1"><a title="Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
+						<td headers="table_heading_2"><span class="small">none</span></td>
+					</tr>
+					<tr>
+						<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
+						<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
+						<td headers="table_heading_2"><span class="small">none</span></td>			
+					</tr>
+					<tr>
+						<td headers="table_heading_0"><a class="bookmark" title="42L" name="42L"></a>RC 42-L</td>
+						<td headers="table_heading_1"><a title="Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
+						<td headers="table_heading_2"><span class="small"><a title="See Note 42-L" href="#note-42L">See Note 42-L</a></span></td>			
+					</tr>
+				</tbody>
+			</table>
+			
+			<blockquote style="font-style:normal;">
+				<p><strong>Section Notes:</strong></p>
+				<a class="bookmark" title="note-42L" name="note-42L"></a>
+				<p>42-L: Required only if there has been an LSO change.</p>
+			</blockquote>
+		</div>
 	</div>
 	
-	<div class="SubSection" id="Renewal-Services">
-		<hr/>
-		<a class="bookmark" title="renewal-services" name="renewal-services"></a>
-		<h2>Renewing a Certificate of Registration for Laser Device Services</h2>
-		<p>To renew a certificate of registration, complete and submit the following forms with the appropriate renewal fee.</p>
-		
-		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:100%;">
-			<caption>Forms to Renew Certificate of Laser Registration</caption>
-			<thead>
-				<tr>
-					<th id="table_heading_0" style="width:20%;">Form Number</th>
-					<th id="table_heading_1" style="width:60%;">Title / Link</th>
-					<th id="table_heading_2" style="width:20%;">Notes</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
-					<td headers="table_heading_1"><a title="Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
-					<td headers="table_heading_2"><span class="small">none</span></td>
-				</tr>
-				<tr>
-					<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
-					<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
-					<td headers="table_heading_2"><span class="small">none</span></td>			
-				</tr>
-				<tr>
-					<td headers="table_heading_0"><a class="bookmark" title="42L" name="42L"></a>RC 42-L</td>
-					<td headers="table_heading_1"><a title="Laser Safety Officer (LSO) Information" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589953621">Laser Safety Officer (LSO) Information</a> <span class="small">(PDF, 495KB)</span></td>
-					<td headers="table_heading_2"><span class="small"><a title="See Note 42-L" href="#note-42L">See Note 42-L</a></span></td>			
-				</tr>
-			</tbody>
-		</table>
-		
-		<blockquote style="font-style:normal;">
-			<p><strong>Section Notes:</strong></p>
-			<a class="bookmark" title="note-42L" name="note-42L"></a>
-			<p>42-L: Required only if there has been an LSO change.</p>
-		</blockquote>
-		
-	</div>
+</div>
+
+<div class="Section" id="Amendments">
+	<hr/>
+	<a class="bookmark" title="amendments" name="amendments"></a>
+	<h2>Amending a Certificate of Registration</h2>
 	
-	<div class="Section" id="Amendments">
-		<hr/>
-		<a class="bookmark" title="amendments" name="amendments"></a>
-		<h2>Amending a Certificate of Registration</h2>
-		
-		<p>Complete and submit the appropriate form to make an amendment to a certificate of registration.</p>
-		
-		<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:80%;">
-			<caption>Laser Registration Amendment Applications and Forms</caption>
-			<thead>
-				<tr>
-					<th id="table_heading_0" style="width:20%;">Form Number</th>
-					<th id="table_heading_1" style="width:80%;">Title</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td headers="table_heading_0"><a class="bookmark" title="3012" name="3012"></a>RC 301-2</td>
-					<td headers="table_heading_1"><a title="Application for Lasers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589943083">Application for Lasers</a> <span class="small">(PDF, 23KB)</span></td>
-				</tr>
-				<tr>
-					<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
-					<td headers="table_heading_1"><a title="Registration Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Registration Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
-				</tr>
-			</tbody>
-		</table>
-		<br/>
-		<h3>Name and/or Ownership Change</h3>
-		<p>Certain conditions involving name and ownership changes may require the reissuance of a new certificate of registration.</p>
-		<p>To determine if a new certificate of registration is required for your specific circumstances, see <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
-		
-		<br/>
-		<h3>Laser Safety Officer Change</h3>
-		<p>To change Laser Safety Officer, complete and submit the following form:</p>
-		<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
-			<caption>Forms Required for Laser Safety Officer Changes</caption>
-			<thead>
-				<tr>
-					<th id="table_heading_0" style="width:20%;">Form Number</th>
+	<p>Complete and submit the appropriate form to make an amendment to a certificate of registration.</p>
+	
+	<table class="zebraBorder layout" summary="sorted by document number, ascending" style="width:80%;">
+		<caption>Laser Registration Amendment Applications and Forms</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:20%;">Form Number</th>
+				<th id="table_heading_1" style="width:80%;">Title</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="3012" name="3012"></a>RC 301-2</td>
+				<td headers="table_heading_1"><a title="Application for Lasers" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589943083">Application for Lasers</a> <span class="small">(PDF, 23KB)</span></td>
+			</tr>
+			<tr>
+				<td headers="table_heading_0"><a class="bookmark" title="3014" name="3014"></a>RC 301-4</td>
+				<td headers="table_heading_1"><a title="Registration Application for Laser Device Services" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589964530">Registration Application for Laser Device Services</a> <span class="small">(PDF, 35KB)</span></td>
+			</tr>
+		</tbody>
+	</table>
+	<br/>
+	<h3>Name and/or Ownership Change</h3>
+	<p>Certain conditions involving name and ownership changes may require the reissuance of a new certificate of registration.</p>
+	<p>To determine if a new certificate of registration is required for your specific circumstances, see <a title="Guidelines for Issuing Certificates of Registration Due to a Change in Name and/or Ownership" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=20044">Regulatory Guide 8.2: Guidelines for Change in Name and/or Ownership</a> <span class="small">(PDF, 27KB)</span></p>
+	
+	<br/>
+	<h3>Laser Safety Officer Change</h3>
+	<p>To change Laser Safety Officer, complete and submit the following form:</p>
+	<table class="zebraBorder layout" summary="sorted by form number, descending" style="width:80%;">
+		<caption>Forms Required for Laser Safety Officer Changes</caption>
+		<thead>
+			<tr>
+				<th id="table_heading_0" style="width:20%;">Form Number</th>
 				<th id="table_heading_1" style="width:80%;">Title / Link</th>
 			</tr>
 		</thead>
@@ -273,7 +281,9 @@
 			</tr>
 		</tbody>
 	</table>
-	
+</div>
+
+<div class="Section" id="Delete-Transfer">
 	<hr/>
 	<h2>Deleting or Transferring a Machine</h2>
 	<p>To delete or transfer a laser device, complete and submit the following form:</p>
@@ -292,8 +302,6 @@
 			</tr>
 		</tbody>
 	</table>	
-	
-	
 </div>
 
 <div class="Section" id="Terminate">

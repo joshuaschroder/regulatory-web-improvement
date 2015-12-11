@@ -11,16 +11,16 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="Obtaining a New Mammography Accreditation Certificate for Each Mammography Unit" href="#new">Obtaining a New Mammography Accreditation Certificate for Each Mammography Unit  </a></li>
-	<li><a title="Fee Schedule for Mammography Accreditation" href="#fees">Fee Schedule for Mammography Accreditation</a></li>
-	<li><a title="Mammography Accreditation Renewals" href="#renewals">Mammography Accreditation Renewals</a></li>
+	<li><a title="Obtaining a New Mammography Accreditation Certificate for Each Mammography Unit" href="#new">New Accreditations</a></li>
+	<li><a title="Fee Schedule for Mammography Accreditation" href="#fees">Fee Schedule</a></li>
+	<li><a title="Mammography Accreditation Renewals" href="#renewals">Renewals</a></li>
 	<li><a title="Name and/or Ownership Changes" href="#name-ownership-change">Name and/or Ownership Changes</a></li>
-	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#address-change">To Change a Mailing and/or Physical Use Location Address(s)</a></li>
-	<li><a title="Mammography Equipment Changes" href="#equipment-change">Mammography Equipment Changes</a></li>
-	<li><a title="Personnel Changes (Including Accreditation Contact, RSO, LIP and Other Personnel Changes)" href="#personnel">Personnel Changes (Including Accreditation Contact, RSO, LIP and Other Personnel Changes)</a></li>
+	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#address-change">Mailing and/or Physical Use Location Address(s) Changes</a></li>
+	<li><a title="Mammography Equipment Changes" href="#equipment-change">Equipment Changes</a></li>
+	<li><a title="Personnel Changes (Including Accreditation Contact, RSO, LIP and Other Personnel Changes)" href="#personnel">Personnel Changes</a></li>
 	<li><a title="Self-Referral Authorization" href="#self-referral">Self-Referral Authorization</a></li>
 	<li><a title="Mobile Services Authorization" href="#mobile-services">Mobile Services Authorization</a></li>
-	<li><a title="Terminating a Mammography Certification and Accreditation" href="#terminate">Terminating a Mammography Certification and Accreditation</a></li>
+	<li><a title="Terminating a Mammography Certification and Accreditation" href="#terminate">Terminating a Certification / Accreditation</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 	<li><a title="Additional Information" href="#additional-information">Additional Information</a></li>
 </ul>

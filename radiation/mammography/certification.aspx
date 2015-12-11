@@ -10,14 +10,15 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="Obtaining a New Mammography Certification" href="#new-certification">Obtaining a New Mammography Certification</a></li>
+	<li><a title="Obtaining a New Mammography Certification" href="#new-certification">New Certifications</a></li>
 	<li><a title="Digital Breast Tomosynthesis (DBT)" href="#tomosynthesis">Digital Breast Tomosynthesis (DBT)</a></li>
-	<li><a title="Fee Schedule for Mammography Certification" href="#fee-schedule">Fee Schedule for Mammography Certification</a></li>
-	<li><a title="Mammography Certification Renewals" href="#renewal">Mammography Certification Renewals</a></li>
+	<li><a title="Fee Schedule for Mammography Certification" href="#fee-schedule">Fee Schedule</a></li>
+	<li><a title="Annual Fees" href="#annual-fees">Annual Fees</a></li>
+	<li><a title="Mammography Certification Renewals" href="#renewal">Renewals</a></li>
 	<li><a title="Name and/or Ownership Changes" href="#name-ownership-changes">Name and/or Ownership Changes</a></li>
-	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#location-change">To Change a Mailing and/or Physical Use Location Address(s)</a></li>
-	<li><a title="Making Mammography Equipment Changes" href="#equipment-changes">Mammography Equipment Changes</a></li>
-	<li><a title="Personnel Changes (Including RSO, LIP and Other Personnel Changes)" href="#personnel-changes">Personnel Changes (Including RSO, LIP and Other Personnel Changes)</a></li>
+	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#location-change">Mailing and/or Physical Use Location Address(s) Changes</a></li>
+	<li><a title="Making Mammography Equipment Changes" href="#equipment-changes">Equipment Changes</a></li>
+	<li><a title="Personnel Changes (Including RSO, LIP and Other Personnel Changes)" href="#personnel-changes">Personnel Changes</a></li>
 	<li><a title="Self-Referral Authorization" href="#self-referral-authorization">Self-Referral Authorization</a></li>
 	<li><a title="Mobile Services Authorization" href="#mobile-services-authorization">Mobile Services Authorization</a></li>
 	<li><a title="Terminating a Mammography Certification" href="#terminating">Terminating a Mammography Certification</a></li>
@@ -30,6 +31,7 @@
 	<hr/>
 	<h2>Obtaining a New Mammography Certification</h2>
 	<p>To obtain a new mammography certification, choose either the State of Texas Mammography Accreditation Program or the American College of Radiology as the facility's mammography accreditation body. </p>
+	<p>Certifications are valid for a period of 3 years.</p>
 	
 	<p>If the <strong><em>State of Texas</em></strong> will be the mammography accreditation body:</p>
 	<ul>
@@ -121,7 +123,7 @@
 	<a class="bookmark" title="fee-schedule" name="fee-schedule"></a>
 	<hr/>
 	<h2>Fee Schedule for Mammography Certification</h2>
-	<p>Each application for a New Mammography Certification shall be accompanied by a one-year non-refundable fee. An invoice will be mailed annually for the mammography certification fee. Fee payments by check or money order shall be made payable to <em>Texas Department of State Health Services</em>.</p>
+	<p>Each application for a new mammography certification shall be accompanied by a one-year non-refundable fee. An invoice will be mailed annually for the mammography certification fee. Fee payments by check or money order shall be made payable to <em>Texas Department of State Health Services</em>.</p>
 	
 	<table class="zebraBorder layout" summary="sorted by order of machine addition to certification" style="width:90%;">
 		<caption>Fee Schedule for Certification of Mammography Systems (screening &amp; diagnostic mammography)</caption>
@@ -144,8 +146,16 @@
 	</table>
 </div>
 
+<div class="Section" id="Annual-Fees">
+	<a class="bookmark" title="annual-fees" name="annual-fees"></a>
+	<hr/>
+	<h2>Annual Fees for Mammography Certification</h2>
+	<p>Mammography certifications require payment of annual fees to cover all direct and indirect costs associated with licensing a company or individual. (i.e. any future amendments within the noted billing period, costs associated with required inspections of your license/registration, standard operating costs, etc.).</p>
+	<p>For detailed information on annual fees and payment methods accepted, see <a title="Payment of Annual Fees for Mammography Certification or Interventional Radiography" href="/radiation/mammography/annual-fees.aspx">Payment of Annual Fees for Mammography Certification or Interventional Radiography</a>.</p>
+</div>
+	
 <div class="Section" id="Renewals">
-	<a class="bookmark" title="renewals" name="renewals"></a>
+	<a class="bookmark" title="renewal" name="renewal"></a>
 	<hr/>
 	<h2>Mammography Certification Renewals</h2>
 	<p>Mammography certification renewal documentation shall be submitted every three years.</p>

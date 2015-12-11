@@ -10,9 +10,10 @@
 <h2>Table of Contents</h2>
 <ul>
 	<li><a title="Obtaining a Certificate of Registration" href="#register">Obtaining a Certificate of Registration</a></li>
-	<li><a title="Fee Schedule" href="#fees">Fee Schedule</a></li>
+	<li><a title="Fee Schedule for New Registrations" href="#fees">Fee Schedule</a></li>
+	<li><a title="Biennial Fees" href="#biennial-fees">Biennial Fees</a></li>
 	<li><a title="Amending a Certificate of Registration" href="#amend">Amending a Certificate of Registration</a></li>
-	<li><a title="Technical Renewal of Registration" href="#renewals">Technical Renewal of Certificate of Registration</a></li>
+	<li><a title="Technical Renewal of Registration" href="#renewals">Technical Renewal</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Disposing of an X-Ray Unit" href="#disposal">Disposing of an X-Ray Machine</a></li>	
 	<li><a title="Deleting or Transferring a Machine" href="#delete">Deleting or Transferring a Machine</a></li>
@@ -63,7 +64,7 @@
 <div class="Section" id="Fees">
 	<hr/>
 	<a class="bookmark" title="fees" name="fees"></a>
-	<h2>Fee Schedule</h2>
+	<h2>Fee Schedule for New Certificates of Registrations</h2>
 	<p>The table below outlines fees pertaining to the issuance of a single certificate of registration for medical use.</p>
 	
 	<p>For a complete listing of all types of radiation machines and their associated fees, see <a title="25 TAC, &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC, &#167;289.204</a>.</p>
@@ -122,6 +123,14 @@
 	<h3>Multiple Categories of Use</h3>
 	
 	<p>In the case of a single certificate of registration that authorizes more than one category of use, the total fee is the category listed in <a title="25 TAC, &#167;289.204" href="/radiation/x-ray/laws-rules.aspx#289204">25 TAC, &#167;289.204</a> with the highest corresponding fee. If the certificate of registration  has additional authorized use locations, the registrant shall pay an additional 30% of the highest fee category for each additional use location.</p>
+</div>
+
+<div class="Section" id="Biennial-Fees">
+	<a class="bookmark" title="biennial-fees" name="biennial-fees"></a>
+	<hr/>
+	<h2>Biennial Fees for X-Ray Registration</h2>
+	<p>Biennial fees must be paid every two years in order to continue operating X-ray devices. The fee covers all direct and indirect costs associated with licensing a company or individual.</p>
+	<p>For detailed information on biennial fees and payment methods accepted, see <a title="Payment of Biennial Fees for X-Ray Registration" href="/radiation/x-ray/biennial-fees.aspx">Biennial Fees for X-Ray Registration</a>.</p>
 </div>
 
 <div class="Section" id="Amendments">

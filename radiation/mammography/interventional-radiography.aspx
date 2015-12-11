@@ -7,15 +7,16 @@
 <hr/>
 <h2>Table of Contents</h2>
 <ul>
-	<li><a title="Obtaining a New Interventional Breast Radiography Certification" href="#new-certification">Obtaining a New Interventional Breast Radiography Certification</a></li>
-	<li><a title="Fee Schedule for Interventional Breast Radiography Certification" href="#fee-schedule">Fee Schedule for Interventional Breast Radiography Certification</a></li>
-	<li><a title="Interventional Breast Radiography Certification Renewals" href="#renewals">Interventional Breast Radiography Certification Renewals</a></li>
+	<li><a title="Obtaining a New Interventional Breast Radiography Certification" href="#new-certification">Obtaining a New Certification</a></li>
+	<li><a title="Fee Schedule for Interventional Breast Radiography Certification" href="#fee-schedule">Fee Schedule</a></li>
+	<li><a title="Annual Fees" href="#annual-fees">Annual Fees</a></li>
+	<li><a title="Interventional Breast Radiography Certification Renewals" href="#renewals">Renewals</a></li>
 	<li><a title="Name and/or Ownership Changes" href="#name-ownership-change">Name and/or Ownership Changes</a></li>
-	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#location-change">To Change a Mailing and/or Physical Use Location Address(s)</a></li>
-	<li><a title="Interventional Breast Radiography Equipment Changes" href="#equipment-changes">Interventional Breast Radiography Equipment Changes</a></li>
+	<li><a title="To Change a Mailing and/or Physical Use Location Address(s)" href="#location-change">Mailing and/or Physical Use Location Address(s) Changes</a></li>
+	<li><a title="Interventional Breast Radiography Equipment Changes" href="#equipment-changes">Equipment Changes</a></li>
 	<li><a title="Personnel Changes" href="#personnel-changes">Personnel Changes</a></li>
 	<li><a title="Mobile Services Authorization" href="#mobile-services">Mobile Services Authorization</a></li>
-	<li><a title="Terminating an Interventional Breast Radiography Certification" href="#terminating">Terminating an Interventional Breast Radiography Certification</a></li>
+	<li><a title="Terminating an Interventional Breast Radiography Certification" href="#terminating">Terminating a Certification</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
 	<li><a title="Additional Information" href="#help">Additional Information</a></li>
 </ul>
@@ -84,6 +85,14 @@
 			</tr>
 		</tbody>
 	</table>	
+</div>
+
+<div class="Section" id="Annual-Fees">
+	<a class="bookmark" title="annual-fees" name="annual-fees"></a>
+	<hr/>
+	<h2>Annual Fees for Mammography Certification</h2>
+	<p>Interventional radiography certifications require payment of annual fees to cover all direct and indirect costs associated with licensing a company or individual. (i.e. any future amendments within the noted billing period, costs associated with required inspections of your license/registration, standard operating costs, etc.).</p>
+	<p>For detailed information on annual fees and payment methods accepted, see <a title="Payment of Annual Fees for Mammography Certification or Interventional Radiography" href="/radiation/mammography/annual-fees.aspx">Payment of Annual Fees for Mammography Certification or Interventional Radiography</a>.</p>
 </div>
 
 <div class="Section" id="Renewals">
