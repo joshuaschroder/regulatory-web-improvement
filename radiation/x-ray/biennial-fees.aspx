@@ -30,7 +30,7 @@
 
 
 <h3>Pay by Mail</h3>
-<p>Fees may be paid by detaching the bottom portion of your invoice and mailing a check or money order to the lockbox or mailing address shown on the bottom left corner. Checks should be maid payable to <em>Texas Department of State Health Services</em>.</p>
+<p>Fees may be paid by detaching the bottom portion of your invoice and mailing a check or money order to the lockbox or mailing address shown on the bottom left corner. Checks should be made payable to <em>Texas Department of State Health Services</em>.</p>
 <br/>
 <figure>
 	<figcaption><strong>Figure 1: Radiation Invoice - Detach Bottom Portion</strong></figcaption>

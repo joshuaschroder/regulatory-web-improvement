@@ -10,7 +10,6 @@
 <h2>Table of Contents</h2>
 <ul>
 	<li><a title="New Registration" href="#initial">New Registration</a></li>
-	<li><a title="Renewal Registration" href="#renew">Renewal Registration</a></li>
 	<li><a title="Amending a Certificate of Registration" href="#amendment">Amending a Certificate of Registration</a></li>
 	<li><a title="Terminating a Certificate of Registration" href="#terminate">Terminating a Certificate of Registration</a></li>
 	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
@@ -62,45 +61,6 @@
 		<li>Copy of certificate to be issued upon successful completion of training program</li>
 	</ul>
 	<p><strong>Note:</strong> For specific registration requirements and information, refer to page 302-15 of <a title="25 TAC &#0167;289.302" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589946028">25 TAC &#0167;289.302(j)(20)</a> <span class="small">(PDF, 751KB)</span>.</p>
-</div>
-
-<div class="Section" id="Renewal-Registration">
-	<a class="bookmark" title="renew" name="renew"></a>
-	<hr/>
-	<h2>Renewal Registration</h2>
-	<p>Laser hair removal certificates of registration are valid for a period of 2 years. Training programs may either renew online or by mail.</p>
-	
-	<h3>Renew Online</h3>
-	<p>Training program registrations may be renewed online using the <a title="Regulatory Services Online Licensing System" href="https://vo.ras.dshs.state.tx.us/">Regulatory Services Online Licensing System</a>.</p>
-	<p>For detailed instructions on how to use the online licensing system, see the following resources:</p>
-	<ul>
-		<li><a title="Laser Hair Removal Online Renewal Instructions" href="/radiation/laser-hair-removal/online-payments.aspx">Laser Hair Removal Online Renewal Instructions</a></li>
-		<li><a title="Online Licensing Help Center" href="/regulatory/online-licensing/">Online Licensing Help Center</a></li>
-		<li><a title="Radiation Fees FAQs" href="/radiation/fees-faq.aspx">Radiation Fees FAQs</a></li>
-	</ul>
-	
-	<h3>Renew by Mail</h3>
-	<p>To renew a certification of registration by mail, complete and submit the following forms with the renewal fee of $298 to the address on the application form:</p>
-	
-	<table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
-		<caption>Applications and Forms for Laser Hair Removal Training Providers Renewal Registration</caption>
-		<thead>
-			<tr>
-				<th id="table_heading_0" style="width:20%;">Document Number</th>
-				<th id="table_heading_1" style="width:80%;">Title</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td headers="table_heading_0"><a class="bookmark" title="3023" name="3023"></a>RC 302-3</td>
-				<td headers="table_heading_1"><a title="Registration Application for Laser Hair Removal Training Programs" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589935510">Registration Application for Laser Hair Removal Training Programs</a> <span class="small">(PDF, 470KB)</span></td>
-			</tr>
-			<tr>
-				<td headers="table_heading_0"><a class="bookmark" title="2261" name="2261"></a>RC 226-1</td>
-				<td headers="table_heading_1"><a title="Business Information Form - Registration" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51597">Business Information Form - Registration</a> <span class="small">(PDF, 24KB)</span></td>
-			</tr>						
-		</tbody>
-	</table>
 </div>
 
 <div class="Section" id="Amendments">

@@ -91,7 +91,7 @@
 	<a class="bookmark" title="annual-fees" name="annual-fees"></a>
 	<hr/>
 	<h2>Annual Fees for Mammography Certification</h2>
-	<p>Interventional radiography certifications require payment of annual fees to cover all direct and indirect costs associated with licensing a company or individual. (i.e. any future amendments within the noted billing period, costs associated with required inspections of your license/registration, standard operating costs, etc.).</p>
+	<p>Annual fees must be paid each year in order to continue operating mammography devices. The fee covers all direct and indirect costs associated with licensing a company or individual.</p>
 	<p>For detailed information on annual fees and payment methods accepted, see <a title="Payment of Annual Fees for Mammography Certification or Interventional Radiography" href="/radiation/mammography/annual-fees.aspx">Payment of Annual Fees for Mammography Certification or Interventional Radiography</a>.</p>
 </div>
 

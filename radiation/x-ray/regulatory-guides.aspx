@@ -25,28 +25,28 @@
 			<td headers="table_heading_0"><a class="bookmark" name="43" title="43"></a>4.3</td>
 			<td headers="table_heading_1">
 				<a title="Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic - Word Document" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19879">Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic</a> <span class="small">(DOC, 121KB)</span><br/>
-				<a title="Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic - PDF Document" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002976">Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic</a> <span class="small">(PDF, 85KB)</span>
+			<!--a title="Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic - PDF Document" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002976">Operating and Safety Procedures for the Healing Arts or Medicine, Podiatry, and Chiropractic</a> <span class="small">(PDF, 85KB)</span-->
 			</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="44" title="44"></a>4.4</td>
 			<td headers="table_heading_1">
 				<a title="Operating and Safety Procedures for Dental Facilities - Word Document" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19880">Operating and Safety Procedures for Dental Facilities</a> <span class="small">(DOC, 83KB)</span><br/>
-				<a title="Operating and Safety Procedures for Dental Facilities - PDF Document" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002975">Operating and Safety Procedures for Dental Facilities</a> <span class="small">(PDF, 77KB)</span>
+			<!--a title="Operating and Safety Procedures for Dental Facilities - PDF Document" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002975">Operating and Safety Procedures for Dental Facilities</a> <span class="small">(PDF, 77KB)</span-->
 			</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="45" title="45"></a>4.5</td>
 			<td headers="table_heading_1">
 				<a title="Operating and Safety Procedures for Veterinary Medicine Facilities - Word Document" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19881">Operating and Safety Procedures for Veterinary Medicine Facilities</a> <span class="small">(DOC, 91KB)</span><br/>
-				<a title="Operating and Safety Procedures for Veterinary Medicine Facilities - PDF Document" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002974">Operating and Safety Procedures for Veterinary Medicine Facilities</a> <span class="small">(PDF, 81KB)</span>
+				<!--a title="Operating and Safety Procedures for Veterinary Medicine Facilities - PDF Document" href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002974">Operating and Safety Procedures for Veterinary Medicine Facilities</a> <span class="small">(PDF, 81KB)</span-->
 			</td>
 		</tr>
 		<tr>
 			<td headers="table_heading_0"><a class="bookmark" name="46" title="46"></a>4.6</td>
 			<td headers="table_heading_1">
 				<a title="Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators - Word Document" href="http://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=19882">Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators </a> <span class="small">(DOC, 82KB)</span><br/>
-				<a title="Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators - PDF Document " href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002973">Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators </a> <span class="small">(PDF, 71KB)</span>
+			<!--a title="Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators - PDF Document " href="https://www.dshs.state.tx.us/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590002973">Operating and Safety Procedures for Accelerators, Therapeutic Radiation Machines, and Simulators </a> <span class="small">(PDF, 71KB)</span-->
 			</td>
 		</tr>
 	</tbody>
