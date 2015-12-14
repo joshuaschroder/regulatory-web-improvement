@@ -140,10 +140,11 @@
 </div>
 
 <div class="Section" id="Biennial-Fees">
-		<a class="bookmark" title="biennial-fees" name="biennial-fees"></a>
-		<h2>Biennial Fees</h2>
+	<a class="bookmark" title="biennial-fees" name="biennial-fees"></a>
+	<hr />
+	<h2>Biennial Fees</h2>
 	<p>Biennial fees must be paid every two years in order to continue operating laser devices. The fee covers all direct and indirect costs associated with licensing a company or individual.</p>
-		<p>For detailed information, including payment methods accepted, see <a title="Payment of Biennial Fees for Laser and Laser Device Services Registration" href="/radiation/lasers/biennial-fees.aspx">Payment of Biennial Fees for Laser and Laser Device Services Registration</a>.</p>
+	<p>For detailed information, including payment methods accepted, see <a title="Payment of Biennial Fees for Laser and Laser Device Services Registration" href="/radiation/lasers/biennial-fees.aspx">Payment of Biennial Fees for Laser and Laser Device Services Registration</a>.</p>
 </div>
 
 <div class="Section" id="Renewal">

@@ -40,7 +40,7 @@
 <figure>
 	<figcaption><strong>Figure 2: Radiation Invoice - Lockbox or Mailing Address</strong></figcaption>
 	<br/>
-	<img src="/radiation/images/radiation-invoice-address.png" alt="Radiation Invoice - Lockbox or Mailing Address" title="Radiation Invoice - Lockbox or Mailing Address" style="border:1px solid #000;" />
+	<img src="/radiation/images/laser-invoice-address.png" alt="Radiation Invoice - Lockbox or Mailing Address" title="Radiation Invoice - Lockbox or Mailing Address" style="border:1px solid #000;" />
 </figure>
 <br/>
 
