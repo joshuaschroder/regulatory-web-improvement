@@ -68,11 +68,12 @@
 		
 		<p><strong>Licensing Fees</strong></p>
 		<p>
+			Email: <a title="RadiationFeesandRecords@dshs.state.tx.us " href="mailto:RadiationFeesandRecords@dshs.state.tx.us ">RadiationFeesandRecords@dshs.state.tx.us</a><br/>
 			Phone: (512) 834-6688 ext. 2052<br/>
 			Fax: (512) 834-6717<br/>
 		</p>
 		
-	</blockquote>	
+	</blockquote>
 
 </blockquote>
 

@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad2_laser_menu.html'; 
 ?>
 
-<p>The DSHS Radiation Control Program issues certificates of registration for businesses that utilize lasers or offer laser device services within the state of Texas.</p>
+<p>The DSHS Radiation Control Program issues certificates of registration for businesses that utilize lasers for medical or industrial use or to laser service companies who perform alignment, calibration and/or repair of laser devices within the state of Texas.</p>
 <p>Individuals and businesses engaged in laser hair removal should refer to the <a title="Radiation Control Laser Hair Removal Website" href="/radiation/laser-hair-removal/">Radiation Control Laser Hair Removal Website</a>.</p>
 
 <hr/>

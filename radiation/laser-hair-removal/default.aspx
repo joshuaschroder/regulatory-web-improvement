@@ -4,7 +4,7 @@
     include '/home/codio/workspace/includes/menus/rad2_lhr_menu.html'; 
 ?>
 
-<p>The DSHS Radiation Control Program issues certificates of registration to qualified individuals and facilities to perform laser hair removal services within the State of Texas.</p>
+<p>The DSHS Radiation Control Program issues certificates of registration to laser hair removal facilities, qualified individuals who perform laser hair removal procedures, and agency-accepted training programs within the state of Texas.</p>
 
 <hr/>
 <h2>Email Updates</h2>
