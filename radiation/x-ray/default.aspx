@@ -4,7 +4,9 @@
     include '/home/codio/workspace/includes/menus/rad2_xray_menu.html'; 
 ?>
 
-<p>The DSHS Radiation Control Program issues certificates of registration for businesses that utilize X-ray machines for medical and academic use, industrial uses or to x-ray service companies who perform installation, repair, and  demonstration of x-ray machines within the state of Texas.</p>
+<p>The DSHS Radiation Control Program issues certificates of registration for businesses that utilize X-ray machines for medical and academic, dental, veterinary, and industrial uses and to X-ray service companies.</p>
+
+<p>X-ray services include but not limited to assemble, install, repair, demonstrate and sales and provide X-ray machine rentals.</p>
 
 <hr/>
 <h2>Email Updates</h2>

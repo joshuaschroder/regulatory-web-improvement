@@ -106,37 +106,39 @@
 	<a class="bookmark" title="contacts" name="contacts"></a>
 	<h2>Contact Information</h2>
 	
-	<h3>Reciprocity for Radioactive Material</h3>
+	<h3>Radioactive Material Reciprocity</h3>
 	<p>
 		Email: <a title="Keith.Smith@dshs.state.tx.us" href="mailto:Keith.Smith@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Keith Smith</a> <br/>
 		Phone: (512) 834-6688 ext. 2215<br/>
 		Fax: (512) 834-6690 
 	</p>
 	
-	<h3>Reciprocity for X-Ray</h3>
+	<h3>X-Ray Machine Reciprocity</h3>
 	<p>
 		Email: <a title="karen.verser@dshs.state.tx.us" href="mailto:karen.verser@dshs.state.tx.us">Karen Verser</a><br/>
-		Phone: (512) 834-6688<br/>
+		Phone: (512) 834-6688 ext. 2233<br/>
 		Fax: (512) 834-6716
 	</p>	
 	
 	<h3>Fees</h3>
 	<p>
-		Email: <a title="Jackie.Pursley@dshs.state.tx.us" href="mailto:Jackie.Pursley@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Jackie Pursley</a><br/>
+		Email: <a title="RadiationXRayInspections@dshs.state.tx.us" href="mailto:RadiationXRayInspections@dshs.state.tx.us">RadiationXRayInspections@dshs.state.tx.us</a><br/>
 		Phone: (512) 834-6688 ext. 2060<br/>
 		Fax: (512) 834-6716 
 	</p>
 	
-	<h3>For Industrial Radiography X-Ray Notifications</h3>
+	<h3>Notification of Intent to Work in Texas</h3>
+	
+	<p><strong>Radioactive Material and Industrial Radiography Notifications</strong></p>
 	<p>
 		Email: <a title="Patricia.Mackey@dshs.state.tx.us" href="mailto:Patricia.Mackey@dshs.state.tx.us?subject=Questions%20About%20Reciprocity">Patricia Mackey</a> <br/>
 		Phone: (512) 834-6770 ext. 2000<br/>
 		Fax: (512) 834-6654<br/>		
 	</p>
 	
-	<h3>For Non Industrial-Radiography X-Ray Notifications</h3>
+	<p><strong>Other X-Ray Machine Notifications</strong></p>
 	<p>
-		Email: <a title="tinesha.durr@dshs.state.tx.us" href="mailto:tinesha.durr@dshs.state.tx.us">Tinesha Durr</a><br/>
+		Email: <a title="RadiationXRayInspections@dshs.state.tx.us" href="mailto:RadiationXRayInspections@dshs.state.tx.us">RadiationXRayInspections@dshs.state.tx.us</a><br/>
 		Phone: (512) 834-6770 ext. 2812<br/>
 		Fax: (512) 834-6622
 	</p>
