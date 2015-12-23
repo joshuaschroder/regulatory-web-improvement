@@ -21,7 +21,7 @@
 
 <hr/>
 <h2>Renew by Mail</h2>
-<p>To renew a certificate of registration by mail, complete and submit the following forms with the renewal fee of $1298:</p>
+<p>To renew a certificate of registration by mail, complete and submit the following forms with the renewal fee:</p>
 
 <table class="zebraBorder layout" summary="sorted by document number, descending" style="width:100%;">
 	<caption>Applications and Forms for Laser Hair Removal Facility Renewal Registration</caption>
@@ -50,5 +50,17 @@
 		</tr>			
 	</tbody>
 </table>
+
+<h3>Renewal Fees</h3>
+<p>The renewal fee for laser hair removal facilities is $1298.00. Make all checks payable to <em>Texas Department of State Health Services</em>.</p>
+
+<h3>Mailing Address</h3>
+<p>Use the following address only for submitting renewal registrations.</p>
+<p>
+	Cash Receipts Branch<br/>
+	Texas Department of State Health Services<br/>
+	PO Box 149347<br/>
+	Austin, TX 78714-9347
+</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -6,6 +6,10 @@
 
 <p>The DSHS Radiation Control Program issues certificates of registration to laser hair removal facilities, qualified individuals who perform laser hair removal procedures, and agency-accepted training programs within the state of Texas.</p>
 
+<p>Certified individuals must meet the necessary requirements of classroom training as well as completion of the required procedures and examinations.</p>
+
+<p>If Laser Hair Removal is performed in a licensed hospital, a clinic owned or operated by a licensed hospital, or a facility owned or operated by a physician for the practice of medicine, refer to the <a title="Radiation Control Laser and Laser Device Services Website" href="/radiation/lasers/">Radiation Control Laser and Laser Device Services Website</a>.</p>
+
 <hr/>
 <h2>Email Updates</h2>
 <p>Sign up to receive email updates about important changes to the Radiation Control Program. This feature will serve as a tool to increase communication with license holders regarding new information added to the website.</p>

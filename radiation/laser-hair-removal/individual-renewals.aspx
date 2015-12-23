@@ -75,6 +75,15 @@
 	</li>
 </ol>
 
+<h3>Mailing Address</h3>
+<p>Use the following address only for submitting renewal registrations.</p>
+<p>
+	Cash Receipts Branch<br/>
+	Texas Department of State Health Services<br/>
+	PO Box 149347<br/>
+	Austin, TX 78714-9347
+</p>
+
 
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
