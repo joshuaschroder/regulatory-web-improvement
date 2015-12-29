@@ -3,10 +3,11 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/ems_menu.html'; 
 ?>
-
 <style type="text/css">
-	.Section table, .Section h3 {width:95%; margin-left: 5%;}
+	#Page-Content table, #Page-Content h3 {width:95%; margin-left: 5%;}
 </style>
+
+<div id="Page-Content">
 
 <hr/>
 <h2>Table of Contents</h2>
@@ -491,6 +492,6 @@
 	</table>
 
 </div>
-
+</div>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -5,7 +5,7 @@
 ?>
 
 <style type="text/css">
-	.zebraBorder td {vertical-align:middle; padding: 10px 5px;}
+	.zebraBorder td {vertical-align:middle; padding: 10px 5px !important;}
 </style>
 
 <br/>
