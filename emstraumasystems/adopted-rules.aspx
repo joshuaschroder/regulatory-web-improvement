@@ -22,11 +22,11 @@ include '/home/codio/workspace/includes/menus/ems_menu.html';
 <caption>Adopted EMS Rules</caption>
 <thead>
 <tr>
-<th id="table_heading_0">Rule Number</th>
-<th id="table_heading_1">Title</th>
-<th id="table_heading_2">Effective Date</th>
-<th id="table_heading_3">Recent Changes</th>
-<th id="table_heading_4">Authorizing Texas Statute</th>
+<th id="table_heading_0" style="width:10%;">Rule Number</th>
+<th id="table_heading_1" style="width:40%;">Title</th>
+<th id="table_heading_2" style="width:15%;">Effective Date</th>
+<th id="table_heading_3" style="width:20%;">Recent Changes</th>
+<th id="table_heading_4" style="width:15%;">Authorizing Texas Statute</th>
 </tr>
 </thead>
 <tbody>
